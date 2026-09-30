@@ -1,0 +1,14 @@
+services:
+  englishapp:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: englishapp
+    container_name: englishApp
+    ports:
+      - "8080:8080"          # 仅使用 8080
+    environment:
+      - PORT=8080
+    volumes:
+      - ./data:/app/data      # 持久化数据（与现有本地数据目录复用）
+    restart: unless-stopped   # 容器/守护进程重启后自动拉起

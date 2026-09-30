@@ -41,6 +41,23 @@ APK 通过 WebView 加载 `http://8.160.182.255:8080`（服务器地址可用环
 > 免打包方案：手机 Chrome 打开 http://8.160.182.255:8080/ → 菜单 →「添加到主屏幕」，
 > 即可以独立 App 形式全屏运行（PWA，图标与启动画面已配置）。
 
+## Docker 部署
+
+将服务端 + 前端打包为镜像（仅暴露 8080），用 docker compose 启动，数据通过 volume 持久化。
+
+```bash
+cd /root/project/20260928/app
+docker compose up -d --build     # 构建镜像 englishapp 并启动容器
+```
+
+- 镜像名：`englishapp`；容器名：`englishApp`；端口：`8080:8080`（只使用 8080）。
+- 数据持久化：宿主 `./data` 挂载到容器 `/app/data`（聊天记录 / 英语进度 / 已生成资料 / 配置都保留，与原本地运行的数据目录复用）。
+- 开机自启动：已配置 systemd 单元 `englishapp.service`（依赖 `docker.service`，`WantedBy=multi-user.target`），重启机器后自动 `docker compose up -d` 拉起；容器本身也设了 `restart: unless-stopped` 双保险。
+- 运维：`docker logs -f englishApp` 看日志；`docker compose down` 停止。
+- 镜像基础：本环境 Docker 镜像源异常时，Dockerfile 复用本地已有的 `node:22-alpine`；换机器若拉不到基础镜像，需先准备好可用的 node 镜像或修正 `/etc/docker/daemon.json` 的 `registry-mirrors`。
+
+> 注意：容器内不含 Claude CLI / 本地 LLM 代理，因此依赖它们的「AI 对话」「自动生成英语资料」需在宿主机可达的环境下配置 `ANTHROPIC_BASE_URL` 等（在 `docker-compose.yml` 的 `environment` 中追加即可）。文件浏览、英语查看、设置等功能开箱即用。
+
 ## 目录结构
 
 ```

@@ -1,0 +1,15 @@
+[Unit]
+Description=L_Agent English App (docker compose)
+Requires=docker.service
+After=docker.service
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+WorkingDirectory=/root/project/20260928/app
+ExecStart=/usr/bin/docker compose -f /root/project/20260928/app/docker-compose.yml up -d
+ExecStop=/usr/bin/docker compose -f /root/project/20260928/app/docker-compose.yml down
+TimeoutStartSec=300
+
+[Install]
+WantedBy=multi-user.target
