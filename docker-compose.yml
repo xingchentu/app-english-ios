@@ -5,10 +5,15 @@ services:
       dockerfile: Dockerfile
     image: englishapp
     container_name: englishApp
-    ports:
-      - "8080:8080"          # 仅使用 8080
+    # host 网络：容器直接用宿主机网络栈 —— 8080 直接对外，
+    # 且 127.0.0.1:4000 的 LLM 代理（settings.json 里配置的）可正常访问
+    network_mode: host
     environment:
       - PORT=8080
+      - CLAUDE_BIN=/usr/local/bin/claude
+      # 聊天/CLI 工作目录（位于下方挂载的 /root 内）
+      - CLAUDE_CWD=/root/project/test
     volumes:
-      - ./data:/app/data      # 持久化数据（与现有本地数据目录复用）
-    restart: unless-stopped   # 容器/守护进程重启后自动拉起
+      - ./data:/app/data       # 应用数据（聊天记录 / 英语进度 / 已生成资料 / 配置）
+      - /root:/root            # 宿主机 /root：文件浏览结构、聊天 cwd、~/.claude 认证与配置
+    restart: unless-stopped    # 容器/守护进程重启后自动拉起

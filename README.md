@@ -50,13 +50,13 @@ cd /root/project/20260928/app
 docker compose up -d --build     # 构建镜像 englishapp 并启动容器
 ```
 
-- 镜像名：`englishapp`；容器名：`englishApp`；端口：`8080:8080`（只使用 8080）。
-- 数据持久化：宿主 `./data` 挂载到容器 `/app/data`（聊天记录 / 英语进度 / 已生成资料 / 配置都保留，与原本地运行的数据目录复用）。
+- 镜像名：`englishapp`；容器名：`englishApp`；端口：仅 8080（`network_mode: host`，直接使用宿主机网络栈）。
+- 数据持久化：宿主 `./data` 挂载到容器 `/app/data`（聊天记录 / 英语进度 / 已生成资料 / 配置都保留）。
+- 宿主机 `/root` 挂载进容器（`/root:/root`）：文件浏览目录结构与宿主机完全一致；聊天工作目录 `/root/project/test`；`~/.claude` 的认证与 settings.json 直接复用。
+- Claude CLI：镜像内已安装 `@anthropic-ai/claude-code@2.1.277`（`CLAUDE_BIN=/usr/local/bin/claude`），AI 对话 / 英语资料生成可用；host 网络下 settings.json 里的 `ANTHROPIC_BASE_URL=127.0.0.1:4000` 代理可正常访问。
 - 开机自启动：已配置 systemd 单元 `englishapp.service`（依赖 `docker.service`，`WantedBy=multi-user.target`），重启机器后自动 `docker compose up -d` 拉起；容器本身也设了 `restart: unless-stopped` 双保险。
 - 运维：`docker logs -f englishApp` 看日志；`docker compose down` 停止。
-- 镜像基础：本环境 Docker 镜像源异常时，Dockerfile 复用本地已有的 `node:22-alpine`；换机器若拉不到基础镜像，需先准备好可用的 node 镜像或修正 `/etc/docker/daemon.json` 的 `registry-mirrors`。
-
-> 注意：容器内不含 Claude CLI / 本地 LLM 代理，因此依赖它们的「AI 对话」「自动生成英语资料」需在宿主机可达的环境下配置 `ANTHROPIC_BASE_URL` 等（在 `docker-compose.yml` 的 `environment` 中追加即可）。文件浏览、英语查看、设置等功能开箱即用。
+- 镜像基础：`node:20-slim`（本环境 Docker 镜像源异常，从华为云 ddn-k8s 镜像源拉取后本地打 tag）；Dockerfile 内 apt 源已切阿里云。换机器构建前需确保能获得基础镜像。
 
 ## 目录结构
 
