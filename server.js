@@ -376,7 +376,9 @@ app.post('/api/english/cycle', (req, res) => {
   if (!startDate || !/^\d{4}-\d{2}-\d{2}$/.test(startDate)) {
     return res.status(400).json({ error: '日期格式应为 YYYY-MM-DD' });
   }
-  res.json(english.setCycle({ startDate }));
+  const cycle = english.setCycle({ startDate });
+  english.ensureRegenerated(startDate); // 手动改起始日也触发后台重新生成新内容
+  res.json(cycle);
 });
 
 /* ------------------------------------------------------------------ */
