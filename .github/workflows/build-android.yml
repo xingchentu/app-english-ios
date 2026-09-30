@@ -1,0 +1,38 @@
+name: Build Android APK
+
+on:
+  workflow_dispatch:        # 手动在 Actions 页面点一下即可运行
+  push:
+    branches: [main, master]
+
+jobs:
+  build-android:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      # 复用 JDK / Android SDK / Gradle 缓存，避免每次重新下载（数 GB）
+      - name: Cache build toolchain
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.local/jdk17
+            ~/.local/android-sdk
+            ~/.gradle
+          key: android-build-${{ runner.os }}-v1
+
+      - name: Build APK (debug, self-signed)
+        run: bash scripts/build-apk.sh
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: L_Agent-apk
+          path: dist/L_Agent-debug.apk
+          if-no-files-found: error
