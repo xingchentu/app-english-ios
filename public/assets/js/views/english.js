@@ -34,6 +34,52 @@ function cur() {
   return state.cache.get(state.day);
 }
 
+/* ---------------- YouTube 客户端解析（iPad 有网，绕开服务器出网限制） ---------------- */
+let _ytKey = null;
+async function getYtKey() {
+  if (_ytKey !== null) return _ytKey;
+  try {
+    const c = await api.get('/api/config');
+    _ytKey = (c && c.youtubeApiKey) || '';
+  } catch {
+    _ytKey = '';
+  }
+  return _ytKey;
+}
+
+function ytQueryFromSearch(url) {
+  try {
+    const u = new URL(url);
+    const q = u.searchParams.get('search_query');
+    if (q) return decodeURIComponent(q).replace(/\+/g, ' ').trim();
+  } catch {
+    /* ignore */
+  }
+  return '';
+}
+
+// 把搜索链接解析为排第一的真实视频直链；失败则回退到原搜索页
+async function resolveYtSearch(url) {
+  const key = await getYtKey();
+  const q = ytQueryFromSearch(url);
+  if (!key || !q) return url;
+  if (/youtube\.com\/@/i.test(url)) return url; // 频道链接保持
+  try {
+    const apiUrl =
+      'https://www.googleapis.com/youtube/v3/search?part=snippet&type=video&maxResults=1&q=' +
+      encodeURIComponent(q) +
+      '&key=' + key;
+    const r = await fetch(apiUrl);
+    if (!r.ok) return url;
+    const j = await r.json();
+    const id = j.items && j.items[0] && j.items[0].id && j.items[0].id.videoId;
+    if (!id) return url;
+    return 'https://www.youtube.com/watch?v=' + id;
+  } catch {
+    return url; // CORS / 网络 / 配额失败则回退
+  }
+}
+
 /* ---------------- 骨架 ---------------- */
 function build() {
   const el = document.createElement('section');
@@ -184,7 +230,15 @@ async function onClick(e) {
       break;
     }
     case 'vid': {
-      window.open(el.dataset.url, '_blank', 'noopener');
+      const url = el.dataset.url;
+      if (/results\?search_query=/.test(url) && !/youtube\.com\/@/i.test(url)) {
+        toast('正在解析视频…');
+        resolveYtSearch(url)
+          .then((real) => window.open(real, '_blank', 'noopener'))
+          .catch(() => window.open(url, '_blank', 'noopener'));
+      } else {
+        window.open(url, '_blank', 'noopener');
+      }
       break;
     }
     case 'copy': {

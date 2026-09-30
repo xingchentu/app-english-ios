@@ -19,3 +19,6 @@ server-output.log
 
 # YouTube 解析缓存（运行时生成）
 data/english/_yt_cache.json
+
+# 客户端配置（含密钥，不入库）
+data/config.json

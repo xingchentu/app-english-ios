@@ -342,6 +342,19 @@ app.post('/api/english/day/:day/generate', async (req, res) => {
   } catch (e) {}
 });
 
+/* 客户端配置：把 YouTube API Key 下发到前端（前端用自己的网络把搜索链接解析为真实视频直链，
+   因为部分部署环境的服务器本身连不到 Google）。Key 仅存于运行环境/本地配置文件，不进代码仓库。 */
+const CONFIG_FILE = path.join(__dirname, 'data', 'config.json');
+function getServerConfig() {
+  let f = {};
+  try {
+    f = JSON.parse(require('fs').readFileSync(CONFIG_FILE, 'utf8'));
+  } catch {
+    /* ignore */
+  }
+  return { youtubeApiKey: process.env.YOUTUBE_API_KEY || f.youtubeApiKey || '' };
+}
+app.get('/api/config', (req, res) => res.json(getServerConfig()));
 app.post('/api/english/progress/task', (req, res) => {
   const { day, index, done } = req.body || {};
   english.setTask(day, index, !!done);
