@@ -73,3 +73,40 @@ app/
 | `CLAUDE_BIN` | /opt/nodejs/bin/claude | Claude CLI 路径 |
 | `CLAUDE_CWD` | ~/project/test | 聊天工作目录（不存在会自动创建） |
 | `FS_ROOT` | /root | 文件浏览允许的根目录 |
+| `LLM_GEN_MODEL` | `ms-397b` | 英语资料生成用的模型名（直连本地 LLM 代理，覆盖下方默认模型） |
+| `ANTHROPIC_BASE_URL` | `http://127.0.0.1:4000` | 本地 LLM 代理地址（Anthropic Messages 协议 `/v1/messages`） |
+| `ANTHROPIC_AUTH_TOKEN` | `sk-claude-local` | 本地 LLM 代理鉴权 token |
+| `ANTHROPIC_MODEL` | `claude-main` | llm.js 默认模型（未设 `LLM_GEN_MODEL` 时回退） |
+| `YOUTUBE_API_KEY` | 空 | YouTube Data API v3 key；用于把视频「搜索链接」解析为真实视频直链（可选，不填则保持搜索页） |
+
+> 以上 `ANTHROPIC_*` 也可写在 `/root/.claude/settings.json` 的 `env` 字段里，效果相同。
+
+## 英语资料生成配置
+
+30 天资料由 `scripts/generate-english.js` / 服务端自动流程调用 `lib/english.js` 产出，**生成链路有回退**：
+
+1. **优先直连本地 LLM 代理**（`lib/llm.js`，走 Anthropic Messages 协议，比 Claude CLI 快很多）。
+   需要你能访问一个兼容 `/v1/messages` 的本地代理，并通过下列变量配置：
+   ```bash
+   export ANTHROPIC_BASE_URL=http://127.0.0.1:4000   # 你的本地 LLM 代理
+   export ANTHROPIC_AUTH_TOKEN=sk-claude-local        # 代理要求的 token
+   export LLM_GEN_MODEL=ms-397b                       # 生成英语资料用的具体模型名
+   ```
+2. **若 LLM 代理连续 3 次失败**，自动回退到 **Claude CLI**（`CLAUDE_BIN`，需机器上已安装并登录 Claude Code）。
+
+### 怎么确认能生成
+在服务器上先单独跑一天，看是否成功：
+```bash
+node scripts/generate-english.js --day 1
+```
+- 成功会打印 `✅ ... Day 1 完成` 并生成 `data/english/day-01.json`。
+- 若报错（如连不上 LLM 代理 / Claude CLI 未登录），说明生成链路不可用——此时自动重生成会静默失败、保留旧内容，界面仍可用（只是不会换新资料）。
+
+### 自动 / 手动重新生成
+- **自动**：每个 30 天周期结束（如 10.19 之后）自动顺延到下一周期，并在后台**自动重新生成 30 天新内容**（`cycle.lastGeneratedStart` 标记保证每周期只跑一次）。
+- **手动**：改起始日即可触发重生成：
+  ```bash
+  curl -X POST http://127.0.0.1:8080/api/english/cycle \
+       -H 'Content-Type: application/json' -d '{"startDate":"2026-10-20"}'
+  ```
+  或直接 `node scripts/generate-english.js --all --c 4` 重新生成全部。
