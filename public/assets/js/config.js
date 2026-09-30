@@ -40,3 +40,18 @@ export function resolveUrl(path) {
   if (/^https?:\/\//.test(path)) return path;
   return base + (path.startsWith('/') ? path : '/' + path);
 }
+
+/* YouTube API Key（可选）：用于把视频搜索链接解析为真实视频直链。
+   存 localStorage，App 内可直接使用；同时可经 /api/config 由服务器下发/覆盖。 */
+const YT_KEY = 'lagent.ytKey';
+
+export function getYtKeyLocal() {
+  return (localStorage.getItem(YT_KEY) || '').trim();
+}
+
+export function setYtKeyLocal(raw) {
+  const k = (raw || '').trim();
+  if (!k) localStorage.removeItem(YT_KEY);
+  else localStorage.setItem(YT_KEY, k);
+  return k;
+}

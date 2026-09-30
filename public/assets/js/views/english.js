@@ -1,6 +1,7 @@
 /* 英语学习助手 L_Agent：/english/plan（计划） 与 /english/study（资料） */
 import { api } from '../api.js';
 import { esc, toast, setTopbar, ICONS, fmtDateCn, copyText } from '../shell.js';
+import { getYtKeyLocal } from '../config.js';
 
 const state = {
   el: null,
@@ -37,6 +38,8 @@ function cur() {
 /* ---------------- YouTube 客户端解析（iPad 有网，绕开服务器出网限制） ---------------- */
 let _ytKey = null;
 async function getYtKey() {
+  const local = getYtKeyLocal();
+  if (local) return local; // 设置里手动填的优先
   if (_ytKey !== null) return _ytKey;
   try {
     const c = await api.get('/api/config');

@@ -1,6 +1,6 @@
 /* 服务器地址设置弹窗：首次启动（App 内）或点击齿轮时打开。
    支持“测试连接”与保存，地址存 localStorage（见 config.js）。 */
-import { getServerUrl, setServerUrl, resolveUrl } from './config.js';
+import { getServerUrl, setServerUrl, resolveUrl, getYtKeyLocal, setYtKeyLocal } from './config.js';
 import { toast, ICONS } from './shell.js';
 
 function gearIcon() {
@@ -22,7 +22,7 @@ export function openSettings(opts = {}) {
                   border-radius:16px;padding:18px 18px 16px;box-shadow:0 18px 50px rgba(0,0,0,.45)">
         <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px">
           ${gearIcon()}
-          <h2 style="font-size:17px;margin:0">服务器设置</h2>
+          <h2 style="font-size:17px;margin:0">设置</h2>
         </div>
         <p style="color:var(--muted,#9aa3b2);font-size:13px;margin:0 0 12px;line-height:1.5">
           请输入运行 L_Agent 服务端的地址（手机与服务器需可互通）。<br/>
@@ -31,6 +31,13 @@ export function openSettings(opts = {}) {
         <input id="sv-url" class="input" placeholder="http://IP:8080" style="width:100%;box-sizing:border-box"
                value="${getServerUrl().replace(/"/g, '&quot;')}" />
         <div id="sv-msg" style="font-size:12.5px;min-height:18px;margin:8px 0;color:var(--muted,#9aa3b2)"></div>
+        <hr style="border:none;border-top:1px solid var(--border,#262b38);margin:14px 0" />
+        <div style="font-size:13px;color:var(--fg,#e8ecf4);margin-bottom:6px;font-weight:600">YouTube API Key（可选）</div>
+        <input id="sv-yt" class="input" placeholder="AIza..." style="width:100%;box-sizing:border-box"
+               value="${(getYtKeyLocal() || '').replace(/"/g, '&quot;')}" />
+        <div style="font-size:12px;color:var(--muted,#9aa3b2);margin-top:6px;line-height:1.5">
+          用于把视频搜索链接解析为真实视频直链（点开直接看对应视频）。留空则使用服务器默认配置。
+        </div>
         <div style="display:flex;gap:10px;margin-top:4px">
           <button id="sv-test" class="btn" style="flex:1">测试连接</button>
           <button id="sv-save" class="btn primary" style="flex:1">${required ? '保存并进入' : '保存'}</button>
@@ -40,6 +47,7 @@ export function openSettings(opts = {}) {
     document.body.appendChild(ov);
 
     const urlEl = ov.querySelector('#sv-url');
+    const ytEl = ov.querySelector('#sv-yt');
     const msgEl = ov.querySelector('#sv-msg');
     urlEl.focus();
 
@@ -68,10 +76,21 @@ export function openSettings(opts = {}) {
       }
     });
 
-    ov.querySelector('#sv-save').addEventListener('click', () => {
+    ov.querySelector('#sv-save').addEventListener('click', async () => {
       const u = setServerUrl(urlEl.value);
       if (!u) { msgEl.textContent = '请先填写地址'; msgEl.style.color = 'var(--danger,#ff6b6b)'; return; }
-      toast('已保存服务器地址', 'ok');
+      const yt = setYtKeyLocal(ytEl.value);
+      // 同步到服务器（服务端解析 / 其他端复用）；失败不影响本地使用
+      try {
+        await fetch(resolveUrl('/api/config'), {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ youtubeApiKey: yt }),
+        });
+      } catch {
+        /* 服务器不可达时忽略，本地已保存 */
+      }
+      toast('已保存设置', 'ok');
       close(true);
     });
 
