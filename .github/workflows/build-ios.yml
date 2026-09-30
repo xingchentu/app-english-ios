@@ -1,4 +1,4 @@
-name: Build iOS IPA (unsigned)
+name: Build iOS IPA
 
 on:
   workflow_dispatch:        # 手动在 Actions 页面点一下即可运行
@@ -28,21 +28,62 @@ jobs:
           npx cap add ios || true     # 已存在则跳过
           npx cap sync ios            # 拷贝最新前端资源 + pod install
 
-      - name: Build unsigned IPA
-        working-directory: ios/App
+      - name: Decode signing assets (if provided)
+        id: sign
+        env:
+          CERT: ${{ secrets.BUILD_CERTIFICATES }}
+          CERT_PWD: ${{ secrets.BUILD_CERTIFICATES_PASSWORD }}
+          PROFILE: ${{ secrets.BUILD_PROVISIONING_PROFILE }}
         run: |
-          xcodebuild -workspace App.xcworkspace -scheme App -configuration Release \
-            -destination 'generic/platform=iOS' \
-            CODE_SIGNING_ALLOWED=NO CODE_SIGN_IDENTITY="" \
-            -archivePath build/App.xcarchive archive
+          if [ -n "$CERT" ] && [ -n "$PROFILE" ]; then
+            echo "$CERT"   | base64 --decode > /tmp/cert.p12
+            echo "$PROFILE" | base64 --decode > /tmp/profile.mobileprovision
+            security import /tmp/cert.p12 -P "$CERT_PWD" -T /usr/bin/codesign -T /usr/bin/security 2>/dev/null
+            security list-keychains -d user -s login.keychain-db
+            mkdir -p "$HOME/Library/MobileDevice/Provisioning Profiles"
+            PLIST=$(security cms -D -i /tmp/profile.mobileprovision)
+            UUID=$(/usr/libexec/PlistBuddy -c 'Print :UUID'           /dev/stdin <<< "$PLIST")
+            NAME=$(/usr/libexec/PlistBuddy -c 'Print :Name'           /dev/stdin <<< "$PLIST")
+            TEAM=$(/usr/libexec/PlistBuddy -c 'Print :TeamIdentifier:0' /dev/stdin <<< "$PLIST")
+            cp /tmp/profile.mobileprovision "$HOME/Library/MobileDevice/Provisioning Profiles/${UUID}.mobileprovision"
+            echo "enabled=true"   >> "$GITHUB_OUTPUT"
+            echo "name=$NAME"     >> "$GITHUB_OUTPUT"
+            echo "team=$TEAM"     >> "$GITHUB_OUTPUT"
+            echo "Signing assets imported (team=$TEAM, profile=$NAME)."
+          else
+            echo "enabled=false" >> "$GITHUB_OUTPUT"
+            echo "No signing secrets -> building UNSIGNED (compile check only, NOT installable)."
+          fi
 
-          mkdir -p build/Payload
-          cp -r "build/App.xcarchive/Products/Applications/App.app" build/Payload/
-          cd build && zip -r "../L_Agent-unsigned.ipa" Payload
+      - name: Build IPA
+        working-directory: ios/App
+        env:
+          SIGN_ENABLED: ${{ steps.sign.outputs.enabled }}
+          TEAM: ${{ steps.sign.outputs.team }}
+          PNAME: ${{ steps.sign.outputs.name }}
+        run: |
+          if [ "$SIGN_ENABLED" = "true" ]; then
+            xcodebuild -workspace App.xcworkspace -scheme App -configuration Release \
+              -destination 'generic/platform=iOS' \
+              CODE_SIGN_STYLE=Manual DEVELOPMENT_TEAM="$TEAM" \
+              PROVISIONING_PROFILE_SPECIFIER="$PNAME" \
+              -archivePath build/App.xcarchive archive
+            mkdir -p build/Payload
+            cp -r "build/App.xcarchive/Products/Applications/App.app" build/Payload/
+            cd build && zip -r ../L_Agent-signed.ipa Payload
+          else
+            xcodebuild -workspace App.xcworkspace -scheme App -configuration Release \
+              -destination 'generic/platform=iOS' \
+              CODE_SIGNING_ALLOWED=NO CODE_SIGN_IDENTITY="" \
+              -archivePath build/App.xcarchive archive
+            mkdir -p build/Payload
+            cp -r "build/App.xcarchive/Products/Applications/App.app" build/Payload/
+            cd build && zip -r ../L_Agent-unsigned.ipa Payload
+          fi
 
-      - name: Upload IPA artifact
+      - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
-          name: L_Agent-unsigned-ipa
-          path: ios/App/L_Agent-unsigned.ipa
+          name: ${{ steps.sign.outputs.enabled == 'true' && 'L_Agent-signed-ipa' || 'L_Agent-unsigned-ipa' }}
+          path: ios/App/L_Agent-${{ steps.sign.outputs.enabled == 'true' && 'signed' || 'unsigned' }}.ipa
           if-no-files-found: error
