@@ -276,7 +276,7 @@ app.get('/api/english/index', (req, res) => {
   res.json(english.getIndex());
 });
 
-app.get('/api/english/day/:day', (req, res) => {
+app.get('/api/english/day/:day', async (req, res) => {
   const day = parseInt(req.params.day, 10);
   if (!day || day < 1 || day > english.TOTAL_DAYS) {
     return res.status(400).json({ error: '天数不合法' });
@@ -285,6 +285,13 @@ app.get('/api/english/day/:day', (req, res) => {
   if (!data) {
     data = english.seedDay(day);
     english.saveDay(day, data);
+  }
+  // 若配置了 YOUTUBE_API_KEY，把搜索链接解析为真实视频直链（并写回文件，避免重复消耗配额）
+  try {
+    const changed = await english.resolveDayVideos(data);
+    if (changed) english.saveDay(day, data);
+  } catch (e) {
+    /* 解析失败不影响正常返回，链接保持原样 */
   }
   const progress = english.getProgress();
   res.json({

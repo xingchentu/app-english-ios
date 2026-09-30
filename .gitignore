@@ -16,3 +16,6 @@ server-output.log
 
 # 系统
 .DS_Store
+
+# YouTube 解析缓存（运行时生成）
+data/english/_yt_cache.json
