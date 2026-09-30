@@ -1,0 +1,527 @@
+{
+  "day": 25,
+  "date": "2026-10-14",
+  "theme": "电视剧 · 情景喜剧高频俚语",
+  "domain": "电视剧",
+  "level": "A2 → B1",
+  "goals": [
+    "掌握 10 个情景喜剧高频俚语表达",
+    "理解美式幽默中的 sarcasm 反话逻辑",
+    "能听懂简单 sitcom 对话的 80% 内容",
+    "积累 32 个相关核心词汇并会用"
+  ],
+  "tasks": [
+    {
+      "text": "阅读 5 篇精选英文短文（Article 1-5）",
+      "minutes": 20
+    },
+    {
+      "text": "观看 3 个 YouTube 教学视频",
+      "minutes": 15
+    },
+    {
+      "text": "精读 MustLearn 必学内容并跟读",
+      "minutes": 10
+    },
+    {
+      "text": "复习 Vocabulary 词汇表并造句",
+      "minutes": 15
+    }
+  ],
+  "mustLearn": [
+    {
+      "title": "高频俚语：What's up?",
+      "type": "expression",
+      "content": "English: 'What's up?' is a casual greeting. It means 'How are you?' or 'What is happening?'. You can answer 'Not much' or 'Just working'.\n中文讲解：这是美剧中最常见的打招呼方式，比 How are you 更随意。\n要点解析：注意语调上扬，回答不需要具体细节，泛指现状即可。"
+    },
+    {
+      "title": "情感表达：I'm broke",
+      "type": "expression",
+      "content": "English: 'I'm broke' means 'I have no money right now'. It does not mean you are poor forever. It is temporary.\n中文讲解：表示“暂时没钱”，常用于朋友间哭穷或拒绝买单。\n要点解析：区别于 I am poor（长期贫困），broke 是状态形容词，口语极高频。"
+    },
+    {
+      "title": "职场借口：Call in sick",
+      "type": "expression",
+      "content": "English: 'Call in sick' means to phone your boss and say you are ill. You will not come to work today.\n中文讲解：打电话请病假。情景喜剧中常出现角色装病请假的情节。\n要点解析：动词短语，过去式 called in sick，注意介词 in 不可省略。"
+    },
+    {
+      "title": "拒绝容忍：Give me a break",
+      "type": "expression",
+      "content": "English: 'Give me a break' means 'Stop annoying me' or 'That is unreasonable'. It shows you are frustrated.\n中文讲解：字面是“给我个休息”，实际是“别烦我”或“得了吧”。\n要点解析：用于表达不耐烦，语气较重，熟悉朋友间可用，对长辈慎用。"
+    }
+  ],
+  "expand": [
+    {
+      "title": "文化注释：笑声轨道",
+      "type": "note",
+      "content": "传统情景喜剧（如 Friends）背景里有笑声（laugh track）。这是告诉观众哪里该笑。现代喜剧（如 Modern Family）通常没有笑声，更真实。"
+    },
+    {
+      "title": "同义替换：Hang out",
+      "type": "note",
+      "content": "Hang out 可以替换为 spend time together 或 chill。例句：Let's chill at home tonight. 意思都是放松聚会。"
+    },
+    {
+      "title": "进阶例句：Sarcasm",
+      "type": "note",
+      "content": "反话示例：'Great job!' 当对方搞砸时说，意思是‘干得真糟’。需结合表情判断，眉头皱起通常是反话。"
+    },
+    {
+      "title": "背景知识：老友记咖啡馆",
+      "type": "note",
+      "content": "Friends 中的 Central Perk 是虚构咖啡馆。它是角色主要聚会点。现实中很多粉丝去纽约寻找拍摄取景地。"
+    },
+    {
+      "title": "学习建议：影子跟读",
+      "type": "note",
+      "content": "看视频时，尝试延迟 1 秒跟读演员台词。模仿他们的语调和停顿。这能改善发音和流利度。"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Sitcom Slang Explained",
+      "url": "https://www.youtube.com/results?search_query=sitcom+slang+explained",
+      "channel": "English Learning Channel",
+      "minutes": 8,
+      "desc": "解释情景喜剧中常见的俚语含义。"
+    },
+    {
+      "title": "Learn English with Friends",
+      "url": "https://www.youtube.com/results?search_query=learn+english+with+friends",
+      "channel": "TV English Pro",
+      "minutes": 10,
+      "desc": "通过老友记片段学习地道口语。"
+    },
+    {
+      "title": "Common American Slang TV",
+      "url": "https://www.youtube.com/results?search_query=common+american+slang+tv",
+      "channel": "Speak English Now",
+      "minutes": 7,
+      "desc": "总结美剧中出现频率最高的俚语。"
+    },
+    {
+      "title": "English Listening Sitcom Clips",
+      "url": "https://www.youtube.com/results?search_query=english+listening+sitcom+clips",
+      "channel": "Listening Practice",
+      "minutes": 12,
+      "desc": "带有字幕的喜剧片段听力练习。"
+    },
+    {
+      "title": "Sarcasm in English Shows",
+      "url": "https://www.youtube.com/results?search_query=sarcasm+in+english+shows",
+      "channel": "Culture & Language",
+      "minutes": 9,
+      "desc": "专门讲解如何听懂英语中的反话。"
+    },
+    {
+      "title": "Daily Conversation Practice",
+      "url": "https://www.youtube.com/results?search_query=daily+conversation+practice+sitcom",
+      "channel": "Daily English",
+      "minutes": 11,
+      "desc": "模拟情景喜剧风格的日常对话练习。"
+    }
+  ],
+  "articles": [
+    {
+      "title": "What is a Sitcom",
+      "level": "A2-B1",
+      "words": 120,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Sitcoms are short for situation comedies. They are TV shows with funny stories. Usually, the same characters appear in every episode. People love sitcoms because they are relaxing. Friends is a very famous sitcom from America. It has six main friends living in New York. They drink coffee and talk about life. The language is easy to understand. You can hear real conversation there. Many students learn English with sitcoms. The jokes are often about daily problems. You do not need special knowledge to watch. Just enjoy the story and the laughs. Today we will learn some slang from these shows. It will help you speak more naturally. Are you ready to start learning?",
+      "zh": "介绍情景喜剧的定义及为何适合学英语。",
+      "points": [
+        "sitcom 是 situation comedy 的缩写",
+        "episode 指电视剧的“集”",
+        "relaxing 形容让人放松的事物"
+      ]
+    },
+    {
+      "title": "Friends Legacy",
+      "level": "A2-B1",
+      "words": 115,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Friends ended many years ago. But people still watch it today. Why is it so popular? The characters feel like real friends. They help each other when things are hard. They laugh and cry together. The city of New York is also a star. You can see many places in the show. The apartment is small but cozy. The coffee shop is warm and welcome. Many fans travel to New York to see these places. The show teaches us about love and loyalty. It is not just about jokes. It is about growing up together. This is why we still love it. The language is still useful now.",
+      "zh": "讲述老友记为何经久不衰及其文化影响。",
+      "points": [
+        "legacy 指遗留下来的影响或遗产",
+        "cozy 形容舒适温暖的",
+        "loyalty 指忠诚友谊"
+      ]
+    },
+    {
+      "title": "Greeting Slang",
+      "level": "A2-B1",
+      "words": 125,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "How do people say hello in sitcoms? They rarely say 'How are you'. They say 'What's up?' instead. This is very casual. You can say it to friends or family. The answer is usually 'Not much'. Sometimes people say 'Hey dude'. Dude means friend or man. It is very common in America. Women say it too sometimes. Another greeting is 'How's it going?'. You answer 'Good' or 'Pretty good'. Do not give a long answer. These greetings are short and fast. They show you are friendly. If you use them, you sound natural. Practice them with your classmates. Try to use them every day.",
+      "zh": "讲解美剧中常见的非正式打招呼方式。",
+      "points": [
+        "What's up 等同于 How are you",
+        "dude 是对男性的称呼也可泛指朋友",
+        "casual 指非正式的随意的"
+      ]
+    },
+    {
+      "title": "Money Talk",
+      "level": "A2-B1",
+      "words": 130,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Characters in sitcoms often talk about money. Sometimes they say 'I'm broke'. This means they have no money now. It is temporary. They are not poor forever. Maybe they spent too much on clothes. Or they lost their job for a week. Another phrase is 'It costs an arm and a leg'. This means something is very expensive. You do not really lose your arm. It is just a joke. Rich characters might say 'I'll treat you'. This means they will pay for the meal. Poor characters say 'Let's split the bill'. This means everyone pays for themselves. Understanding money slang is very important. It helps you in real life shops.",
+      "zh": "分析剧中关于金钱状况的俚语表达。",
+      "points": [
+        "broke 指暂时没钱",
+        "cost an arm and a leg 指非常贵",
+        "split the bill 指 AA 制分摊账单"
+      ]
+    },
+    {
+      "title": "Dating Expressions",
+      "level": "A2-B1",
+      "words": 128,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Romance is a big part of sitcoms. Characters often go on dates. If a man likes a woman, he might 'hit on her'. This means he talks to her to show interest. Sometimes it is funny if he fails. Women can hit on men too. If two people like each other, they 'click'. This means they understand each other well. If a date is bad, they say 'It was a disaster'. They will not meet again. If it is good, they 'exchange numbers'. They phone each other later. Dating slang is useful for social life. But be careful with 'hit on'. It can be too direct sometimes. Use it only with close friends.",
+      "zh": "介绍情景喜剧中关于约会和恋爱的用语。",
+      "points": [
+        "hit on someone 指搭讪或示好",
+        "click 指两人合得来",
+        "exchange numbers 指交换电话号码"
+      ]
+    },
+    {
+      "title": "Workplace Humor",
+      "level": "A2-B1",
+      "words": 122,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Many sitcoms happen in offices. The Office is a famous show. Workers often want to leave early. They 'call in sick'. This means they phone the boss. They say they are ill. Sometimes they are not really ill. They just want to stay home. Another phrase is 'quit my job'. This means leaving work forever. Bosses might say 'You are fired'. This is very serious. It means you cannot come back. Colleagues often complain about meetings. They say 'This meeting could be an email'. It means it is a waste of time. Work humor is relatable. Everyone has a boss or work stress.",
+      "zh": "解析职场情景喜剧中的常见抱怨和借口。",
+      "points": [
+        "call in sick 指打电话请病假",
+        "fired 指被解雇",
+        "relatable 指能引起共鸣的"
+      ]
+    },
+    {
+      "title": "Understanding Sarcasm",
+      "level": "A2-B1",
+      "words": 135,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Sarcasm is hard for learners. It means saying the opposite. If someone drops a plate, you say 'Great job'. You do not mean it is good. You mean it is bad. Sitcom characters use sarcasm a lot. Chandler from Friends is famous for this. He makes jokes when he is nervous. To understand sarcasm, watch their faces. If they smile strangely, it is sarcasm. If their voice is flat, it is sarcasm. Do not take every word literally. Listen to the tone. Practice makes perfect. Watch clips and guess the meaning. Ask friends if you are not sure. It is a key part of humor.",
+      "zh": "讲解如何识别和理解美式幽默中的反话。",
+      "points": [
+        "sarcasm 指反话讽刺",
+        "literally 指字面意思",
+        "tone 指说话的语气语调"
+      ]
+    },
+    {
+      "title": "Give Me a Break",
+      "level": "A2-B1",
+      "words": 118,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "This phrase is very common. 'Give me a break' has two meanings. First, it means 'Stop annoying me'. You are tired of something. Second, it means 'That is unreasonable'. Someone asks too much. For example, 'Work on Sunday? Give me a break'. It shows frustration. You can also say 'Cut me some slack'. This means 'Be easier on me'. Do not be too strict. These phrases show emotion. They are not polite for bosses. Use them with friends only. In sitcoms, characters say this often. It adds drama to the scene. Learn to use it correctly.",
+      "zh": "详解高频短语 Give me a break 的两种用法。",
+      "points": [
+        "表示停止烦我",
+        "表示某事不合理",
+        "Cut me some slack 指放宽要求"
+      ]
+    },
+    {
+      "title": "Hang Out Culture",
+      "level": "A2-B1",
+      "words": 126,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Americans love to 'hang out'. This means spending time together. It is not formal. You do not need a plan. You can sit on a sofa. You can walk in the park. You just want to be together. 'Let's hang out later' is a common invite. It means let's meet casually. Sometimes people say 'chill'. 'Let's chill at my place'. It means relax at home. Young people use this most. Older people might say 'get together'. The meaning is similar. Hanging out is key to friendship. It builds strong bonds. Try to invite an English friend to hang out. It is good practice for speaking.",
+      "zh": "介绍美式社交中 Hang out 的文化含义。",
+      "points": [
+        "hang out 指随意聚会",
+        "chill 指放松休息",
+        "bonds 指人际纽带"
+      ]
+    },
+    {
+      "title": "Summary and Practice",
+      "level": "A2-B1",
+      "words": 124,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Today we learned many things. We know what a sitcom is. We know slang like 'What's up' and 'I'm broke'. We understand sarcasm now. We know how to talk about work and dates. The next step is practice. Do not just read this text. Watch a video today. Listen to the words you learned. Try to say them out loud. Record your voice. Compare it to the actors. Make mistakes. It is okay. Learning language takes time. Keep watching shows you like. If you like basketball, watch sports shows. If you like money, watch business news. Enjoy the process. You will improve soon.",
+      "zh": "总结今日学习内容并给出后续练习建议。",
+      "points": [
+        "review 指复习回顾",
+        "improve 指进步提升",
+        "process 指学习过程"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "sitcom",
+      "pos": "n.",
+      "meaning_en": "a funny TV show with the same characters",
+      "meaning_zh": "情景喜剧",
+      "example": "Friends is my favorite sitcom.",
+      "source": "What is a Sitcom"
+    },
+    {
+      "word": "episode",
+      "pos": "n.",
+      "meaning_en": "one part of a TV show",
+      "meaning_zh": "集",
+      "example": "I watched one episode yesterday.",
+      "source": "What is a Sitcom"
+    },
+    {
+      "word": "character",
+      "pos": "n.",
+      "meaning_en": "a person in a story or show",
+      "meaning_zh": "角色",
+      "example": "He is a funny character.",
+      "source": "What is a Sitcom"
+    },
+    {
+      "word": "relaxing",
+      "pos": "adj.",
+      "meaning_en": "making you feel calm and rest",
+      "meaning_zh": "放松的",
+      "example": "Watching TV is relaxing.",
+      "source": "What is a Sitcom"
+    },
+    {
+      "word": "conversation",
+      "pos": "n.",
+      "meaning_en": "talk between two or more people",
+      "meaning_zh": "对话",
+      "example": "They had a long conversation.",
+      "source": "What is a Sitcom"
+    },
+    {
+      "word": "legacy",
+      "pos": "n.",
+      "meaning_en": "something left from the past",
+      "meaning_zh": "遗产/影响",
+      "example": "The show has a big legacy.",
+      "source": "Friends Legacy"
+    },
+    {
+      "word": "cozy",
+      "pos": "adj.",
+      "meaning_en": "warm and comfortable",
+      "meaning_zh": "舒适的",
+      "example": "The apartment is small but cozy.",
+      "source": "Friends Legacy"
+    },
+    {
+      "word": "loyalty",
+      "pos": "n.",
+      "meaning_en": "being faithful to friends",
+      "meaning_zh": "忠诚",
+      "example": "Friendship needs loyalty.",
+      "source": "Friends Legacy"
+    },
+    {
+      "word": "casual",
+      "pos": "adj.",
+      "meaning_en": "not formal or serious",
+      "meaning_zh": "随意的",
+      "example": "Wear casual clothes to the party.",
+      "source": "Greeting Slang"
+    },
+    {
+      "word": "dude",
+      "pos": "n.",
+      "meaning_en": "a man or friend (slang)",
+      "meaning_zh": "哥们/家伙",
+      "example": "Hey dude, how are you?",
+      "source": "Greeting Slang"
+    },
+    {
+      "word": "greeting",
+      "pos": "n.",
+      "meaning_en": "words to say hello",
+      "meaning_zh": "问候",
+      "example": "What's up is a common greeting.",
+      "source": "Greeting Slang"
+    },
+    {
+      "word": "broke",
+      "pos": "adj.",
+      "meaning_en": "having no money temporarily",
+      "meaning_zh": "没钱了",
+      "example": "I cannot buy lunch, I am broke.",
+      "source": "Money Talk"
+    },
+    {
+      "word": "temporary",
+      "pos": "adj.",
+      "meaning_en": "lasting for a short time",
+      "meaning_zh": "暂时的",
+      "example": "This job is temporary.",
+      "source": "Money Talk"
+    },
+    {
+      "word": "expensive",
+      "pos": "adj.",
+      "meaning_en": "costing a lot of money",
+      "meaning_zh": "昂贵的",
+      "example": "That car is too expensive.",
+      "source": "Money Talk"
+    },
+    {
+      "word": "split",
+      "pos": "v.",
+      "meaning_en": "divide into parts",
+      "meaning_zh": "分摊",
+      "example": "Let's split the bill.",
+      "source": "Money Talk"
+    },
+    {
+      "word": "date",
+      "pos": "n.",
+      "meaning_en": "a meeting between lovers",
+      "meaning_zh": "约会",
+      "example": "They went on a date.",
+      "source": "Dating Expressions"
+    },
+    {
+      "word": "hit on",
+      "pos": "v.",
+      "meaning_en": "talk to show romantic interest",
+      "meaning_zh": "搭讪",
+      "example": "He tried to hit on her.",
+      "source": "Dating Expressions"
+    },
+    {
+      "word": "click",
+      "pos": "v.",
+      "meaning_en": "understand each other well",
+      "meaning_zh": "合得来",
+      "example": "We clicked immediately.",
+      "source": "Dating Expressions"
+    },
+    {
+      "word": "disaster",
+      "pos": "n.",
+      "meaning_en": "a very bad situation",
+      "meaning_zh": "灾难/糟透了",
+      "example": "The party was a disaster.",
+      "source": "Dating Expressions"
+    },
+    {
+      "word": "boss",
+      "pos": "n.",
+      "meaning_en": "the person who manages you",
+      "meaning_zh": "老板",
+      "example": "My boss is strict.",
+      "source": "Workplace Humor"
+    },
+    {
+      "word": "fired",
+      "pos": "adj.",
+      "meaning_en": "told to leave your job",
+      "meaning_zh": "被解雇",
+      "example": "He was fired yesterday.",
+      "source": "Workplace Humor"
+    },
+    {
+      "word": "relatable",
+      "pos": "adj.",
+      "meaning_en": "easy to understand or feel",
+      "meaning_zh": "有共鸣的",
+      "example": "The story is very relatable.",
+      "source": "Workplace Humor"
+    },
+    {
+      "word": "sarcasm",
+      "pos": "n.",
+      "meaning_en": "saying opposite of what you mean",
+      "meaning_zh": "讽刺/反话",
+      "example": "His voice was full of sarcasm.",
+      "source": "Understanding Sarcasm"
+    },
+    {
+      "word": "literally",
+      "pos": "adv.",
+      "meaning_en": "exactly as the words say",
+      "meaning_zh": "字面上",
+      "example": "Do not take it literally.",
+      "source": "Understanding Sarcasm"
+    },
+    {
+      "word": "tone",
+      "pos": "n.",
+      "meaning_en": "the sound of voice",
+      "meaning_zh": "语气",
+      "example": "Watch his tone of voice.",
+      "source": "Understanding Sarcasm"
+    },
+    {
+      "word": "frustration",
+      "pos": "n.",
+      "meaning_en": "feeling annoyed or upset",
+      "meaning_zh": "沮丧/烦恼",
+      "example": "He showed frustration.",
+      "source": "Give Me a Break"
+    },
+    {
+      "word": "slack",
+      "pos": "n.",
+      "meaning_en": "loose space or freedom",
+      "meaning_zh": "宽松/余地",
+      "example": "Cut me some slack.",
+      "source": "Give Me a Break"
+    },
+    {
+      "word": "hang out",
+      "pos": "v.",
+      "meaning_en": "spend time together casually",
+      "meaning_zh": "闲逛/聚会",
+      "example": "Do you want to hang out?",
+      "source": "Hang Out Culture"
+    },
+    {
+      "word": "chill",
+      "pos": "v.",
+      "meaning_en": "relax and do nothing",
+      "meaning_zh": "放松",
+      "example": "Let's chill at home.",
+      "source": "Hang Out Culture"
+    },
+    {
+      "word": "bond",
+      "pos": "n.",
+      "meaning_en": "a strong connection",
+      "meaning_zh": "纽带/关系",
+      "example": "They have a strong bond.",
+      "source": "Hang Out Culture"
+    },
+    {
+      "word": "improve",
+      "pos": "v.",
+      "meaning_en": "make something better",
+      "meaning_zh": "改进/提升",
+      "example": "You will improve soon.",
+      "source": "Summary and Practice"
+    },
+    {
+      "word": "process",
+      "pos": "n.",
+      "meaning_en": "a series of actions",
+      "meaning_zh": "过程",
+      "example": "Learning is a slow process.",
+      "source": "Summary and Practice"
+    }
+  ],
+  "status": "ready",
+  "generatedBy": "claude",
+  "savedAt": "2026-09-30T11:57:08.060Z"
+}

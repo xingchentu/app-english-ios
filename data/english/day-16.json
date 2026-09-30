@@ -1,0 +1,506 @@
+{
+  "day": 16,
+  "date": "2026-10-05",
+  "theme": "NBA · 选秀大会与新秀观察",
+  "domain": "NBA",
+  "level": "A2 → B1",
+  "goals": [
+    "理解 NBA 选秀基本流程与核心术语",
+    "学会用英语描述球员潜力与赛场表现",
+    "掌握体育新闻采访与报道的常见表达",
+    "积累 30 个篮球与商业结合的核心词汇"
+  ],
+  "tasks": [
+    {
+      "text": "阅读 10 篇短文，标注生词并朗读",
+      "minutes": 25
+    },
+    {
+      "text": "观看 2 个视频，练习听力理解",
+      "minutes": 15
+    },
+    {
+      "text": "学习 MustLearn 内容并造句",
+      "minutes": 10
+    },
+    {
+      "text": "复习 Vocabulary 并完成自我测试",
+      "minutes": 10
+    }
+  ],
+  "mustLearn": [
+    {
+      "title": "高频表达：Live up to expectations",
+      "type": "expression",
+      "content": "英文：The rookie needs to live up to the high expectations.\n中文：新秀需要辜负高期望（反义）/ 不辜负高期望（正义）。\n解析：'Live up to' 意为达到、符合（标准或期望）。常用于评价表现是否达标。否定形式 'fail to live up to' 表示表现不如预期。"
+    },
+    {
+      "title": "语法点：被动语态在新闻报道中的使用",
+      "type": "grammar",
+      "content": "英文：He was selected by the Lakers in the first round.\n中文：他在第一轮被湖人队选中。\n解析：体育新闻常强调事件本身而非动作发出者，故常用被动语态 (be + past participle)。注意介词 'by' 引出执行者，'in' 引出轮次。"
+    },
+    {
+      "title": "场景对话：讨论球员潜力",
+      "type": "article",
+      "content": "英文：A: 'Do you think he has potential?' B: 'Yes, but he needs more practice.'\n中文：A: 你觉得他有潜力吗？B: 有，但他需要更多练习。\n解析：'Have potential' 是固定搭配。'Needs more...' 是建议的委婉表达。注意 'practice' 在此为不可数名词。"
+    }
+  ],
+  "expand": [
+    {
+      "title": "文化注释：Draft Pick 的价值",
+      "type": "note",
+      "content": "在 NBA，选秀权（Draft Pick）被视为资产，可以被交易。首轮签（First Round Pick）通常比次轮签更有价值，因为球队可以保障合同。"
+    },
+    {
+      "title": "同义替换：Good Player",
+      "type": "note",
+      "content": "避免总是用 'good'。可以尝试：talented (有天赋的), skilled (有技术的), promising (有前途的), standout (突出的), elite (精英级的)。"
+    },
+    {
+      "title": "背景知识：Rookie Wall",
+      "type": "note",
+      "content": "新秀墙（Rookie Wall）指新秀在赛季后半段因体力消耗和对手研究透彻而导致表现下滑的现象。克服它需要体能储备和调整。"
+    },
+    {
+      "title": "进阶例句：Contract Negotiation",
+      "type": "note",
+      "content": "The team offered him a max contract. (球队给他提供了顶薪合同。) 'Max' 是 maximum 的口语缩写，常用于薪资讨论。"
+    },
+    {
+      "title": "常见误区：Game vs Match",
+      "type": "note",
+      "content": "在美国体育中，篮球比赛通常称为 'Game' (e.g., basketball game)。'Match' 更多用于网球、足球或英式英语语境。"
+    }
+  ],
+  "videos": [
+    {
+      "title": "NBA Draft Basics Explained",
+      "url": "https://www.youtube.com/results?search_query=NBA+draft+basics+explained",
+      "channel": "NBA Official",
+      "minutes": 8,
+      "desc": "官方频道解释选秀基本规则与流程。"
+    },
+    {
+      "title": "Top Rookie Highlights 2026",
+      "url": "https://www.youtube.com/results?search_query=NBA+rookie+highlights+2026",
+      "channel": "House of Highlights",
+      "minutes": 10,
+      "desc": "观看新秀精彩集锦，学习动作描述词汇。"
+    },
+    {
+      "title": "Scouting Report Breakdown",
+      "url": "https://www.youtube.com/results?search_query=NBA+scouting+report+breakdown",
+      "channel": "Thinking Basketball",
+      "minutes": 12,
+      "desc": "专业分析师如何解读球员球探报告。"
+    },
+    {
+      "title": "Draft Night Interviews",
+      "url": "https://www.youtube.com/results?search_query=NBA+draft+night+interviews",
+      "channel": "ESPN",
+      "minutes": 6,
+      "desc": "选秀夜现场采访，学习口语表达。"
+    },
+    {
+      "title": "Rookie Season Challenges",
+      "url": "https://www.youtube.com/results?search_query=NBA+rookie+season+challenges",
+      "channel": "The Athletic",
+      "minutes": 9,
+      "desc": "探讨新秀第一年面临的困难与适应。"
+    },
+    {
+      "title": "Best Draft Picks History",
+      "url": "https://www.youtube.com/results?search_query=best+NBA+draft+picks+history",
+      "channel": "Bleacher Report",
+      "minutes": 11,
+      "desc": "回顾历史上最好的选秀选择，了解背景。"
+    }
+  ],
+  "articles": [
+    {
+      "title": "The Draft Night Experience",
+      "level": "A2-B1",
+      "words": 120,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Draft night is exciting for everyone. Fans wait to hear their team's pick. Players sit with their families. They wear nice suits. When the commissioner calls their name, they stand up. They hug their parents. Then they put on a team hat. It is a big dream come true. Some players cry. Others smile. The room is loud. Cameras flash everywhere. For these young men, life changes forever. They become professionals. They will play basketball for money. But the work starts tomorrow. Tonight is just the beginning of a long journey.",
+      "zh": "描述选秀夜现场氛围，球员与家人的情感瞬间。",
+      "points": [
+        "'Come true' 表示梦想成真，常与 dream 搭配。",
+        "'Professional' 指职业运动员，区别于业余。",
+        "'Flash' 在此作动词，指相机闪光灯闪烁。"
+      ]
+    },
+    {
+      "title": "Choosing the Best Player",
+      "level": "A2-B1",
+      "words": 115,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Teams do not choose randomly. They scout players for years. Scouts watch games. They write reports. They check height and speed. They look at skills. Can he shoot? Can he pass? Is he strong? Teams also check character. Is he hardworking? Does he listen? The first pick is very valuable. Usually, the worst team gets the first pick. This helps them improve. They want a star player. A star can change the team. He can sell tickets. He can win games. Making the right choice is hard. Sometimes, a good player goes to the wrong team.",
+      "zh": "解释球队如何考察球员，选秀权价值的逻辑。",
+      "points": [
+        "'Scout' 作动词意为考察，作名词指球探。",
+        "'Valuable' 形容某物很有价值或重要。",
+        "'Sell tickets' 是商业术语，指吸引观众购票。"
+      ]
+    },
+    {
+      "title": "Life of a Rookie",
+      "level": "A2-B1",
+      "words": 130,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Being a rookie is not easy. You are young. Older players are faster. Coaches expect a lot. You must practice every day. You travel to many cities. You sleep in hotels. You eat team food. Sometimes you sit on the bench. You do not play much. This is normal. You need to learn. You watch the veterans. You ask questions. You lift weights. You run. Your body needs to grow. Many rookies fail. They go back home. But some succeed. They become leaders. They win championships. It takes time and patience. Nothing comes quickly in the NBA.",
+      "zh": "讲述新秀第一年的挑战、训练与心理适应。",
+      "points": [
+        "'Veteran' 指经验丰富的老队员，与 rookie 相对。",
+        "'Sit on the bench' 意为坐冷板凳，指未上场。",
+        "'Championship' 指总冠军，是最高荣誉。"
+      ]
+    },
+    {
+      "title": "Coach Views on Talent",
+      "level": "A2-B1",
+      "words": 125,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Coaches talk differently about players. They say, 'He has high IQ.' This means he is smart. He understands the game. They say, 'He has good hands.' This means he catches the ball well. They say, 'He is raw.' This means he has talent but needs work. Coaches love workers. They do not like lazy players. Even if you are talented, you must work. A coach will bench you if you are late. He wants discipline. The system is important. One player cannot win alone. You need five people. Trust is key. The coach decides who plays. Listen to the coach.",
+      "zh": "教练如何评价球员天赋与态度，强调纪律与团队。",
+      "points": [
+        "'IQ' 在此指篮球智商，非单纯智力。",
+        "'Raw' 形容球员未经雕琢，有潜力但需训练。",
+        "'Discipline' 指纪律性，是职业体育核心。"
+      ]
+    },
+    {
+      "title": "Understanding Statistics",
+      "level": "A2-B1",
+      "words": 110,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Numbers tell a story. Points per game (PPG) is common. It shows scoring ability. Rebounds per game (RPG) shows strength. Assists per game (APG) shows passing. But numbers are not everything. Some players defend well. They do not get stats. They stop the other team. This is important too. Advanced stats exist now. They measure efficiency. Did he waste shots? Did he help the team win? Fans love stats. They argue about them. Managers use stats to pay players. If your numbers are high, you get more money. Learn to read the box score.",
+      "zh": "介绍基础数据含义及其在评估球员中的作用。",
+      "points": [
+        "'Per game' 意为场均，是体育数据标准单位。",
+        "'Efficiency' 指效率，衡量产出与投入比。",
+        "'Box score' 指比赛技术统计表。"
+      ]
+    },
+    {
+      "title": "Fans Talk About Draft",
+      "level": "A2-B1",
+      "words": 118,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Fans have strong opinions. They use social media. They tweet about picks. 'Why did we choose him?' they ask. 'He is too small.' 'He cannot shoot.' Sometimes fans are right. Sometimes they are wrong. They watch highlights. They do not see defense. They want wins now. They do not want to wait. Building a team takes years. One rookie cannot fix everything. Fans get angry. They criticize the manager. But the manager knows more. He has inside information. Fans enjoy the hope. Draft night gives hope. Next season might be better. Hope is powerful for fans.",
+      "zh": "描述球迷对选秀的反应、期望与情绪波动。",
+      "points": [
+        "'Social media' 指社交媒体，是现代舆论主要平台。",
+        "'Criticize' 意为批评，指提出负面意见。",
+        "'Inside information' 指内部消息，外人通常不知。"
+      ]
+    },
+    {
+      "title": "Money and Contracts",
+      "level": "A2-B1",
+      "words": 122,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Basketball is a business. Players sign contracts. A contract is a deal. It says how much money. It says how many years. First round picks get guaranteed money. This means they get paid even if they play badly. Second round picks do not always get guarantees. They must prove themselves. Agents help players. They negotiate deals. They want the most money. Teams want to save money. They have a salary cap. This is a limit. They cannot spend too much. Managing money is hard. Big stars get big checks. Rookies start small. They hope for a max deal later.",
+      "zh": "讲解球员合同、薪资帽与经纪人角色。",
+      "points": [
+        "'Guaranteed' 指保障的，确保能拿到的钱。",
+        "'Negotiate' 意为谈判，商量合同条款。",
+        "'Salary cap' 是工资帽，限制球队总支出。"
+      ]
+    },
+    {
+      "title": "Hard Work Pays Off",
+      "level": "A2-B1",
+      "words": 115,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Talent is not enough. You see many talented players. Only a few make it. Why? They work harder. They arrive early. They leave late. They shoot hundreds of balls. They run until they are tired. They eat healthy food. They sleep well. They take care of their bodies. Injuries are common. If you are not fit, you get hurt. Hard work builds trust. Teammates respect you. Coaches trust you. Fans like you. Success is a habit. You do it every day. Do not stop when it is hard. Keep going. The reward is great. You become a legend.",
+      "zh": "强调努力比天赋更重要，职业习惯的养成。",
+      "points": [
+        "'Pay off' 意为得到回报，取得成功。",
+        "'Fit' 指身体状态良好，适合运动。",
+        "'Legend' 指传奇人物，最高级别的赞誉。"
+      ]
+    },
+    {
+      "title": "Common Mistakes to Avoid",
+      "level": "A2-B1",
+      "words": 128,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "New players make mistakes. They talk too much. They say they will win. Then they lose. This looks bad. They spend money quickly. They buy cars and houses. Then they have no money. They hang out with wrong people. These people want their cash. They get in trouble. They break rules. The league punishes them. They cannot play. Their career ends. Be careful. Listen to older players. Save your money. Focus on basketball. Do not drink too much. Do not fight. Stay out of trouble. Your career is short. Make it last. Protect your reputation. It is your brand.",
+      "zh": "列举新秀常见场外错误及职业生涯风险。",
+      "points": [
+        "'Reputation' 指名声，对职业运动员至关重要。",
+        "'Punish' 意为惩罚，联盟对违规行为的处理。",
+        "'Brand' 指个人品牌，具有商业价值。"
+      ]
+    },
+    {
+      "title": "Weekly Review and Summary",
+      "level": "A2-B1",
+      "words": 135,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "We learned many things this week. We know about the draft. We know about rookies. We know about money and work. Basketball is complex. It is not just running and shooting. It is planning. It is managing. It is hoping. You watched videos. You read articles. You learned new words. Now you can talk about NBA. You can understand news. You can share opinions. Keep practicing English. Use these words in sentences. Watch games with English audio. Read reports online. Improvement takes time. Do not give up. You are building your skills. Just like a player builds his game. See you next week.",
+      "zh": "本周内容复盘，鼓励持续学习与练习。",
+      "points": [
+        "'Complex' 意为复杂的，指事物多层面。",
+        "'Audio' 指音频，此处指英文解说声音。",
+        "'Give up' 意为放弃，常用鼓励语否定形式。"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "draft",
+      "pos": "n.",
+      "meaning_en": "a system for choosing players for a team",
+      "meaning_zh": "选秀",
+      "example": "The team has the first pick in the draft.",
+      "source": "The Draft Night Experience"
+    },
+    {
+      "word": "rookie",
+      "pos": "n.",
+      "meaning_en": "a person who is new to a job or sport",
+      "meaning_zh": "新秀",
+      "example": "He scored twenty points as a rookie.",
+      "source": "Life of a Rookie"
+    },
+    {
+      "word": "scout",
+      "pos": "v.",
+      "meaning_en": "to watch and study players carefully",
+      "meaning_zh": "考察",
+      "example": "Teams scout players for many years.",
+      "source": "Choosing the Best Player"
+    },
+    {
+      "word": "potential",
+      "pos": "n.",
+      "meaning_en": "the ability to develop into something good",
+      "meaning_zh": "潜力",
+      "example": "The coach sees great potential in him.",
+      "source": "Coach Views on Talent"
+    },
+    {
+      "word": "veteran",
+      "pos": "n.",
+      "meaning_en": "a person with long experience in a sport",
+      "meaning_zh": "老将",
+      "example": "The rookie learns from the veteran.",
+      "source": "Life of a Rookie"
+    },
+    {
+      "word": "contract",
+      "pos": "n.",
+      "meaning_en": "a written agreement for work and pay",
+      "meaning_zh": "合同",
+      "example": "He signed a five-year contract.",
+      "source": "Money and Contracts"
+    },
+    {
+      "word": "salary",
+      "pos": "n.",
+      "meaning_en": "money paid for work every year",
+      "meaning_zh": "薪水",
+      "example": "His salary is very high.",
+      "source": "Money and Contracts"
+    },
+    {
+      "word": "statistics",
+      "pos": "n.",
+      "meaning_en": "numbers that show performance",
+      "meaning_zh": "数据",
+      "example": "His statistics are better this year.",
+      "source": "Understanding Statistics"
+    },
+    {
+      "word": "average",
+      "pos": "n.",
+      "meaning_en": "a typical amount calculated from numbers",
+      "meaning_zh": "平均数",
+      "example": "His points per game average is twenty.",
+      "source": "Understanding Statistics"
+    },
+    {
+      "word": "teammate",
+      "pos": "n.",
+      "meaning_en": "a person on the same team",
+      "meaning_zh": "队友",
+      "example": "He passes the ball to his teammate.",
+      "source": "Coach Views on Talent"
+    },
+    {
+      "word": "opponent",
+      "pos": "n.",
+      "meaning_en": "a person or team you play against",
+      "meaning_zh": "对手",
+      "example": "The opponent is very strong.",
+      "source": "Life of a Rookie"
+    },
+    {
+      "word": "defense",
+      "pos": "n.",
+      "meaning_en": "the act of stopping the other team",
+      "meaning_zh": "防守",
+      "example": "Their defense stopped us from scoring.",
+      "source": "Understanding Statistics"
+    },
+    {
+      "word": "practice",
+      "pos": "n.",
+      "meaning_en": "training to improve skills",
+      "meaning_zh": "练习",
+      "example": "You must attend every practice.",
+      "source": "Life of a Rookie"
+    },
+    {
+      "word": "improve",
+      "pos": "v.",
+      "meaning_en": "to become better than before",
+      "meaning_zh": "进步",
+      "example": "He wants to improve his shooting.",
+      "source": "Choosing the Best Player"
+    },
+    {
+      "word": "expect",
+      "pos": "v.",
+      "meaning_en": "to think something will happen",
+      "meaning_zh": "期望",
+      "example": "Fans expect him to win games.",
+      "source": "Life of a Rookie"
+    },
+    {
+      "word": "highlight",
+      "pos": "n.",
+      "meaning_en": "the best part of a game or event",
+      "meaning_zh": "精彩集锦",
+      "example": "Watch the highlight of his dunk.",
+      "source": "Fans Talk About Draft"
+    },
+    {
+      "word": "interview",
+      "pos": "n.",
+      "meaning_en": "a meeting where questions are asked",
+      "meaning_zh": "采访",
+      "example": "He gave an interview after the game.",
+      "source": "Draft Night Interviews"
+    },
+    {
+      "word": "comment",
+      "pos": "v.",
+      "meaning_en": "to say what you think about something",
+      "meaning_zh": "评论",
+      "example": "He did not comment on the trade.",
+      "source": "Fans Talk About Draft"
+    },
+    {
+      "word": "guarantee",
+      "pos": "v.",
+      "meaning_en": "to promise something will happen",
+      "meaning_zh": "保障",
+      "example": "The contract guarantees his money.",
+      "source": "Money and Contracts"
+    },
+    {
+      "word": "negotiate",
+      "pos": "v.",
+      "meaning_en": "to discuss to reach an agreement",
+      "meaning_zh": "谈判",
+      "example": "Agents negotiate deals for players.",
+      "source": "Money and Contracts"
+    },
+    {
+      "word": "reputation",
+      "pos": "n.",
+      "meaning_en": "what people think about you",
+      "meaning_zh": "名声",
+      "example": "Protect your reputation carefully.",
+      "source": "Common Mistakes to Avoid"
+    },
+    {
+      "word": "discipline",
+      "pos": "n.",
+      "meaning_en": "control over behavior and work",
+      "meaning_zh": "纪律",
+      "example": "The coach demands discipline.",
+      "source": "Coach Views on Talent"
+    },
+    {
+      "word": "efficient",
+      "pos": "adj.",
+      "meaning_en": "working well without waste",
+      "meaning_zh": "高效的",
+      "example": "He is an efficient scorer.",
+      "source": "Understanding Statistics"
+    },
+    {
+      "word": "professional",
+      "pos": "adj.",
+      "meaning_en": "doing something for money",
+      "meaning_zh": "职业的",
+      "example": "He became a professional player.",
+      "source": "The Draft Night Experience"
+    },
+    {
+      "word": "valuable",
+      "pos": "adj.",
+      "meaning_en": "very useful or important",
+      "meaning_zh": "有价值的",
+      "example": "The first pick is very valuable.",
+      "source": "Choosing the Best Player"
+    },
+    {
+      "word": "challenge",
+      "pos": "n.",
+      "meaning_en": "something difficult to do",
+      "meaning_zh": "挑战",
+      "example": "The rookie season is a big challenge.",
+      "source": "Rookie Season Challenges"
+    },
+    {
+      "word": "strategy",
+      "pos": "n.",
+      "meaning_en": "a plan to win a game",
+      "meaning_zh": "策略",
+      "example": "The coach changed the strategy.",
+      "source": "Coach Views on Talent"
+    },
+    {
+      "word": "injury",
+      "pos": "n.",
+      "meaning_en": "damage to the body",
+      "meaning_zh": "伤病",
+      "example": "He missed games due to injury.",
+      "source": "Hard Work Pays Off"
+    },
+    {
+      "word": "recover",
+      "pos": "v.",
+      "meaning_en": "to get well after illness or injury",
+      "meaning_zh": "恢复",
+      "example": "He needs time to recover.",
+      "source": "Hard Work Pays Off"
+    },
+    {
+      "word": "legend",
+      "pos": "n.",
+      "meaning_en": "a very famous person",
+      "meaning_zh": "传奇",
+      "example": "He wants to become a legend.",
+      "source": "Hard Work Pays Off"
+    }
+  ],
+  "status": "ready",
+  "generatedBy": "claude",
+  "savedAt": "2026-09-29T17:32:42.091Z"
+}

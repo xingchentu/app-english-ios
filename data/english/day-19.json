@@ -1,0 +1,527 @@
+{
+  "day": 19,
+  "date": "2026-10-08",
+  "theme": "旅游 · 餐厅点餐与小费文化",
+  "domain": "旅游",
+  "level": "A2 → B1",
+  "goals": [
+    "掌握餐厅预约、点餐及结账的核心句型",
+    "理解美国小费文化的计算方式与社交规则",
+    "熟悉菜单常见分类与食物烹饪程度表达",
+    "积累 30 个餐饮场景高频词汇与地道搭配"
+  ],
+  "tasks": [
+    {
+      "text": "精读前 5 篇短文，标注生词并朗读",
+      "minutes": 15
+    },
+    {
+      "text": "观看前 3 个视频，模仿点餐对话语音语调",
+      "minutes": 15
+    },
+    {
+      "text": "精读后 5 篇短文，总结小费计算规则",
+      "minutes": 15
+    },
+    {
+      "text": "观看后 3 个视频，完成情景模拟练习",
+      "minutes": 15
+    }
+  ],
+  "mustLearn": [
+    {
+      "title": "点餐核心句型",
+      "type": "expression",
+      "content": "I'd like to order... / Could I have...? / How would you like your steak? 中文讲解：点餐时常用 I'd like 比 I want 更礼貌。询问牛排熟度用 How would you like... 要点解析：注意 would like 后接名词或 to do， steak 熟度分为 rare, medium, well-done。"
+    },
+    {
+      "title": "小费表达法",
+      "type": "expression",
+      "content": "Is tip included? / I'll leave a 20% tip. 中文讲解：询问账单是否含服务费，或主动说明小费比例。要点解析：include 表示包含，leave a tip 是固定搭配，表示留下小费。"
+    },
+    {
+      "title": "结账请求",
+      "type": "expression",
+      "content": "Could we get the check, please? / Can I pay by card? 中文讲解：美式英语用 check 表示账单，英式用 bill。要点解析：pay by card 或 pay with cash，介词搭配需记忆。"
+    },
+    {
+      "title": "饮食禁忌表达",
+      "type": "grammar",
+      "content": "I am allergic to... / Does this contain...? 中文讲解：表达过敏用 be allergic to，询问成分用 contain。要点解析：allergy 是名词，allergic 是形容词，注意词性变化。"
+    }
+  ],
+  "expand": [
+    {
+      "title": "小费比例参考",
+      "type": "note",
+      "content": "美国餐厅午餐通常 15%-18%，晚餐 18%-20%。服务极佳可给 25%，服务差可给 10% 但需说明原因。"
+    },
+    {
+      "title": "菜单术语辨析",
+      "type": "note",
+      "content": "Appetizer 是开胃菜，Entree 在主菜前（美式）或即主菜（英式），Side dish 是配菜。"
+    },
+    {
+      "title": "支付常用语",
+      "type": "note",
+      "content": "Split the bill 表示 AA 制分开付账，Cover 表示请客买单，如 I'll cover this one."
+    },
+    {
+      "title": "牛排熟度英文",
+      "type": "note",
+      "content": "Rare 一分熟，Medium Rare 三分熟，Medium 五分熟，Well-done 全熟。中国游客常选 Medium 或 Well-done。"
+    },
+    {
+      "title": "礼貌用语升级",
+      "type": "note",
+      "content": "将 I want 替换为 I'd like 或 Could I have，将 Give me 替换为 Can I get，语气更柔和。"
+    }
+  ],
+  "videos": [
+    {
+      "title": "How to Order Food in a US Restaurant",
+      "url": "https://www.youtube.com/results?search_query=how+to+order+food+in+us+restaurant",
+      "channel": "English with Lucy",
+      "minutes": 8,
+      "desc": "模拟真实餐厅点餐流程，包含对话示范。"
+    },
+    {
+      "title": "Tipping Culture in America Explained",
+      "url": "https://www.youtube.com/results?search_query=tipping+culture+in+america+explained",
+      "channel": "Rick Steves' Europe",
+      "minutes": 10,
+      "desc": "详细讲解美国小费历史与计算规则。"
+    },
+    {
+      "title": "Restaurant Vocabulary You Need to Know",
+      "url": "https://www.youtube.com/results?search_query=restaurant+vocabulary+english+lesson",
+      "channel": "BBC Learning English",
+      "minutes": 6,
+      "desc": "学习菜单与餐具相关核心词汇。"
+    },
+    {
+      "title": "Paying the Bill and Leaving a Tip",
+      "url": "https://www.youtube.com/results?search_query=paying+bill+leaving+tip+english",
+      "channel": "Learn English with TV Series",
+      "minutes": 7,
+      "desc": "结账环节的真实场景对话分析。"
+    },
+    {
+      "title": "Common Food Allergies and Requests",
+      "url": "https://www.youtube.com/results?search_query=food+allergies+restaurant+english",
+      "channel": "EngVid",
+      "minutes": 9,
+      "desc": "如何向服务员表达过敏与特殊需求。"
+    },
+    {
+      "title": "American Dining Etiquette for Travelers",
+      "url": "https://www.youtube.com/results?search_query=american+dining+etiquette+for+travelers",
+      "channel": "Travel Tips USA",
+      "minutes": 8,
+      "desc": "旅游者在美用餐的礼仪注意事项。"
+    }
+  ],
+  "articles": [
+    {
+      "title": "Booking a Table",
+      "level": "A2-B1",
+      "words": 120,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "When you travel to a new city, popular restaurants are often busy. It is smart to make a reservation before you go. You can call the restaurant or use an app like OpenTable. When you call, tell them how many people are in your group and what time you want to eat. For example, say, 'I'd like to book a table for four at 7 PM.' They might ask for your name and phone number. If you arrive late, they might give your table to someone else. So, always try to be on time. Some places also have a waiting list if you walk in without a booking.",
+      "zh": "介绍旅行时如何预约餐厅座位及注意事项。",
+      "points": [
+        "make a reservation 表示预约座位",
+        "book a table for... 后接人数",
+        "waiting list 指候补名单"
+      ]
+    },
+    {
+      "title": "Understanding the Menu",
+      "level": "A2-B1",
+      "words": 130,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "When you sit down, the waiter will give you a menu. Menus usually have different sections. First, you see Appetizers or Starters. These are small dishes to eat before the main meal. Then there are Salads and Soups. The main part is called Entrees or Main Courses. Here you find meat, fish, or pasta. Finally, there is Dessert for something sweet after eating. Drinks are often on a separate list. If you do not understand a word, just ask the waiter. They can explain what is in the dish. It is okay to ask questions before you order.",
+      "zh": "讲解菜单的基本结构与各部分名称。",
+      "points": [
+        "Appetizers 指开胃菜",
+        "Main Courses 是主菜",
+        "separate list 表示单独的清单"
+      ]
+    },
+    {
+      "title": "Starting with Drinks",
+      "level": "A2-B1",
+      "words": 115,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Usually, the first thing you order is drinks. The waiter might ask, 'Would you like something to drink?' You can order water, soda, juice, or wine. Tap water is often free in American restaurants. If you want ice, say 'with ice.' If you prefer no ice, say 'no ice, please.' For alcohol, you need to show your ID if you look young. Beer and wine are common choices. Coffee or tea usually comes after the meal, but you can order them anytime. Don't forget to check if refills are free. Some places charge for extra cups of coffee.",
+      "zh": "描述点饮料的流程与常见选项。",
+      "points": [
+        "Tap water 指自来水（免费）",
+        "refills 表示续杯",
+        "show your ID 出示身份证件"
+      ]
+    },
+    {
+      "title": "Choosing Appetizers",
+      "level": "A2-B1",
+      "words": 125,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Appetizers are great for sharing with friends. Common options include nachos, wings, or calamari. If you are hungry, you can order more than one. If you are on a diet, you might choose a small salad. You can ask the waiter for recommendations. They know what is popular today. Sometimes there are daily specials that are not on the regular menu. These specials might be cheaper or tastier. Just ask, 'What do you recommend?' or 'What is the special today?' It helps you try something new and delicious without taking too much risk.",
+      "zh": "介绍开胃菜的选择与询问推荐的方式。",
+      "points": [
+        "sharing with friends 与朋友分享",
+        "daily specials 每日特色菜",
+        "recommendations 指推荐建议"
+      ]
+    },
+    {
+      "title": "Main Course Choices",
+      "level": "A2-B1",
+      "words": 135,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Choosing the main course is the most important part. You might see steak, chicken, fish, or vegetarian options. If you eat meat, think about how you want it cooked. For chicken, it is usually fully cooked. For fish, it depends on the type. Vegetarian dishes use vegetables instead of meat. Vegans do not eat any animal products. If you are unsure, ask about the ingredients. Some sauces have cream or butter. If you are healthy-conscious, ask for sauce on the side. This way, you can control how much you eat. Enjoy your favorite flavor.",
+      "zh": "讲解主菜选择及烹饪方式与饮食偏好。",
+      "points": [
+        "vegetarian options 素食选项",
+        "sauce on the side 酱汁分开放",
+        "ingredients 指食材成分"
+      ]
+    },
+    {
+      "title": "Cooking Preferences",
+      "level": "A2-B1",
+      "words": 128,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "When you order steak, the waiter will ask about doneness. Rare means red inside. Medium means pink inside. Well-done means fully cooked with no pink. Most people prefer Medium or Medium Rare. If you like it very soft, choose Rare. If you like it hard, choose Well-done. For eggs, you can say scrambled, fried, or boiled. Scramled eggs are mixed and cooked in a pan. Fried eggs have a yellow yolk in the center. Boiled eggs are cooked in water. Tell the waiter clearly so you get what you like. Nobody wants to eat cold or wrong food.",
+      "zh": "说明肉类熟度与鸡蛋做法的英文表达。",
+      "points": [
+        "doneness 指生熟程度",
+        "scrambled 指炒蛋",
+        "yolk 指蛋黄"
+      ]
+    },
+    {
+      "title": "During the Meal",
+      "level": "A2-B1",
+      "words": 118,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "While you are eating, the waiter might check on you. They will ask, 'Is everything okay?' If you need more water or napkins, just raise your hand. Do not shout. A simple smile and eye contact work well. If something is wrong, tell them politely. For example, if the food is cold, say, 'Excuse me, this is a bit cold.' They will usually fix it or bring a new one. Remember, they are there to help you. Being rude does not help anyone. A kind word makes the service better for everyone at the table.",
+      "zh": "描述用餐过程中与服务员的互动礼仪。",
+      "points": [
+        "check on you 查看你的情况",
+        "raise your hand 举手示意",
+        "fix it 解决问题"
+      ]
+    },
+    {
+      "title": "Asking for the Bill",
+      "level": "A2-B1",
+      "words": 122,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "When you finish eating, you need to pay. In America, you ask for the 'check.' In other countries, people say 'bill.' You can say, 'Could we get the check, please?' The waiter will bring a small folder with the paper inside. Check the numbers to make sure they are correct. Sometimes there are mistakes. If you split the bill, tell them early. Some restaurants allow splitting by item. Others just split the total equally. If you pay together, one person pays and others give cash later. Decide this before the waiter comes back.",
+      "zh": "讲解结账时的用语与分单方式。",
+      "points": [
+        "ask for the check 索要账单",
+        "split the bill 分开付账",
+        "mistakes 指错误"
+      ]
+    },
+    {
+      "title": "How to Tip",
+      "level": "A2-B1",
+      "words": 132,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Tipping is very important in the US. Waiters earn low wages and depend on tips. The standard is 15% to 20% of the total bill. If the service is good, give 20%. If it is okay, give 15%. You calculate this based on the amount before tax. Some receipts have lines for tip and total. Write the tip amount and add it to the bill. Then sign your name. If you pay by card, you can add the tip on the machine. Cash tips are also welcome. Never leave zero tip unless the service was terrible.",
+      "zh": "说明美国小费的标准与计算方法。",
+      "points": [
+        "depend on tips 依赖小费",
+        "before tax 税前金额",
+        "receipts 指收据"
+      ]
+    },
+    {
+      "title": "Tipping Etiquette",
+      "level": "A2-B1",
+      "words": 125,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Different services have different tipping rules. For sit-down restaurants, 15-20% is normal. For fast food, you do not need to tip. For coffee shops, one dollar or some coins are nice. If someone carries your bags at a hotel, give one or two dollars per bag. Taxi drivers also expect 10-15%. Tour guides should get a tip too. It shows you appreciate their work. If you are unsure, look at what others do. Or just ask a local friend. Being generous makes your trip smoother and people happier.",
+      "zh": "介绍不同服务场景下的小费礼仪。",
+      "points": [
+        "sit-down restaurants 坐式餐厅",
+        "appreciate their work 感谢他们的工作",
+        "generous 指慷慨的"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "reservation",
+      "pos": "n.",
+      "meaning_en": "an arrangement to keep a place for someone",
+      "meaning_zh": "预约",
+      "example": "I made a reservation for dinner at 7 PM.",
+      "source": "Booking a Table"
+    },
+    {
+      "word": "booking",
+      "pos": "n.",
+      "meaning_en": "the act of reserving something",
+      "meaning_zh": "预订",
+      "example": "Do you have a booking under your name?",
+      "source": "Booking a Table"
+    },
+    {
+      "word": "appetizers",
+      "pos": "n.",
+      "meaning_en": "small dishes served before the main meal",
+      "meaning_zh": "开胃菜",
+      "example": "We ordered some appetizers to share.",
+      "source": "Understanding the Menu"
+    },
+    {
+      "word": "sections",
+      "pos": "n.",
+      "meaning_en": "parts into which something is divided",
+      "meaning_zh": "部分，区域",
+      "example": "The menu has different sections for drinks and food.",
+      "source": "Understanding the Menu"
+    },
+    {
+      "word": "separate",
+      "pos": "adj.",
+      "meaning_en": "not joined or connected with another",
+      "meaning_zh": "单独的",
+      "example": "Drinks are on a separate list.",
+      "source": "Understanding the Menu"
+    },
+    {
+      "word": "tap water",
+      "pos": "n.",
+      "meaning_en": "water supplied through a pipe",
+      "meaning_zh": "自来水",
+      "example": "Can I have a glass of tap water?",
+      "source": "Starting with Drinks"
+    },
+    {
+      "word": "refills",
+      "pos": "n.",
+      "meaning_en": "additional servings of a drink",
+      "meaning_zh": "续杯",
+      "example": "Coffee refills are free here.",
+      "source": "Starting with Drinks"
+    },
+    {
+      "word": "recommendations",
+      "pos": "n.",
+      "meaning_en": "suggestions about what is good",
+      "meaning_zh": "推荐",
+      "example": "Do you have any recommendations for dessert?",
+      "source": "Choosing Appetizers"
+    },
+    {
+      "word": "specials",
+      "pos": "n.",
+      "meaning_en": "items available for a short time at a good price",
+      "meaning_zh": "特色菜",
+      "example": "What are the daily specials today?",
+      "source": "Choosing Appetizers"
+    },
+    {
+      "word": "vegetarian",
+      "pos": "adj.",
+      "meaning_en": "not containing meat",
+      "meaning_zh": "素食的",
+      "example": "I prefer vegetarian options.",
+      "source": "Main Course Choices"
+    },
+    {
+      "word": "ingredients",
+      "pos": "n.",
+      "meaning_en": "foods used to make a dish",
+      "meaning_zh": "食材",
+      "example": "Does this soup contain dairy ingredients?",
+      "source": "Main Course Choices"
+    },
+    {
+      "word": "doneness",
+      "pos": "n.",
+      "meaning_en": "the degree to which food is cooked",
+      "meaning_zh": "生熟程度",
+      "example": "How would you like the doneness of your steak?",
+      "source": "Cooking Preferences"
+    },
+    {
+      "word": "scrambled",
+      "pos": "adj.",
+      "meaning_en": "eggs mixed and cooked together",
+      "meaning_zh": "炒蛋",
+      "example": "I would like scrambled eggs for breakfast.",
+      "source": "Cooking Preferences"
+    },
+    {
+      "word": "yolk",
+      "pos": "n.",
+      "meaning_en": "the yellow center of an egg",
+      "meaning_zh": "蛋黄",
+      "example": "The yolk is still runny.",
+      "source": "Cooking Preferences"
+    },
+    {
+      "word": "napkins",
+      "pos": "n.",
+      "meaning_en": "paper used for wiping mouth and hands",
+      "meaning_zh": "餐巾纸",
+      "example": "Could you bring more napkins?",
+      "source": "During the Meal"
+    },
+    {
+      "word": "polite",
+      "pos": "adj.",
+      "meaning_en": "showing good manners",
+      "meaning_zh": "礼貌的",
+      "example": "Always be polite to the staff.",
+      "source": "During the Meal"
+    },
+    {
+      "word": "check",
+      "pos": "n.",
+      "meaning_en": "the bill in a restaurant",
+      "meaning_zh": "账单",
+      "example": "Could we get the check, please?",
+      "source": "Asking for the Bill"
+    },
+    {
+      "word": "split",
+      "pos": "v.",
+      "meaning_en": "divide into parts",
+      "meaning_zh": "分开",
+      "example": "We want to split the bill.",
+      "source": "Asking for the Bill"
+    },
+    {
+      "word": "equally",
+      "pos": "adv.",
+      "meaning_en": "in equal amounts",
+      "meaning_zh": "平均地",
+      "example": "We split the cost equally.",
+      "source": "Asking for the Bill"
+    },
+    {
+      "word": "wages",
+      "pos": "n.",
+      "meaning_en": "money paid for work",
+      "meaning_zh": "工资",
+      "example": "Waiters earn low wages.",
+      "source": "How to Tip"
+    },
+    {
+      "word": "standard",
+      "pos": "n.",
+      "meaning_en": "a level of quality or amount",
+      "meaning_zh": "标准",
+      "example": "The standard tip is 20 percent.",
+      "source": "How to Tip"
+    },
+    {
+      "word": "calculate",
+      "pos": "v.",
+      "meaning_en": "to find a number using math",
+      "meaning_zh": "计算",
+      "example": "Calculate the tip before tax.",
+      "source": "How to Tip"
+    },
+    {
+      "word": "receipts",
+      "pos": "n.",
+      "meaning_en": "papers showing payment",
+      "meaning_zh": "收据",
+      "example": "Keep your receipts for records.",
+      "source": "How to Tip"
+    },
+    {
+      "word": "etiquette",
+      "pos": "n.",
+      "meaning_en": "rules for polite behavior",
+      "meaning_zh": "礼仪",
+      "example": "Tipping etiquette varies by country.",
+      "source": "Tipping Etiquette"
+    },
+    {
+      "word": "generous",
+      "pos": "adj.",
+      "meaning_en": "willing to give more",
+      "meaning_zh": "慷慨的",
+      "example": "Be generous with your tips.",
+      "source": "Tipping Etiquette"
+    },
+    {
+      "word": "appreciate",
+      "pos": "v.",
+      "meaning_en": "to be grateful for something",
+      "meaning_zh": "感激",
+      "example": "They appreciate your hard work.",
+      "source": "Tipping Etiquette"
+    },
+    {
+      "word": "menu",
+      "pos": "n.",
+      "meaning_en": "a list of food available",
+      "meaning_zh": "菜单",
+      "example": "The menu looks very big.",
+      "source": "Understanding the Menu"
+    },
+    {
+      "word": "order",
+      "pos": "v.",
+      "meaning_en": "to ask for food",
+      "meaning_zh": "点餐",
+      "example": "I want to order a steak.",
+      "source": "Starting with Drinks"
+    },
+    {
+      "word": "service",
+      "pos": "n.",
+      "meaning_en": "help provided to customers",
+      "meaning_zh": "服务",
+      "example": "The service was very fast.",
+      "source": "How to Tip"
+    },
+    {
+      "word": "total",
+      "pos": "n.",
+      "meaning_en": "the whole amount",
+      "meaning_zh": "总额",
+      "example": "Pay the total amount.",
+      "source": "How to Tip"
+    },
+    {
+      "word": "cash",
+      "pos": "n.",
+      "meaning_en": "money in coins or notes",
+      "meaning_zh": "现金",
+      "example": "Do you accept cash?",
+      "source": "How to Tip"
+    },
+    {
+      "word": "card",
+      "pos": "n.",
+      "meaning_en": "a plastic payment method",
+      "meaning_zh": "卡片",
+      "example": "I will pay by card.",
+      "source": "Asking for the Bill"
+    }
+  ],
+  "status": "ready",
+  "generatedBy": "claude",
+  "savedAt": "2026-09-30T11:36:31.357Z"
+}

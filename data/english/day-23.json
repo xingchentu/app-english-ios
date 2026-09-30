@@ -1,0 +1,547 @@
+{
+  "day": 23,
+  "date": "2026-10-12",
+  "theme": "电影 · 超级英雄电影宇宙",
+  "domain": "电影",
+  "level": "A2 → B1",
+  "goals": [
+    "学习超级英雄电影相关的核心词汇和表达",
+    "了解漫威电影宇宙的发展历程和特点",
+    "掌握描述电影情节和人物性格的实用表达",
+    "能够用英语讨论超级英雄电影的文化影响"
+  ],
+  "tasks": [
+    {
+      "text": "观看第一个视频，学习超级英雄电影发展史（5分钟）",
+      "minutes": 5
+    },
+    {
+      "text": "阅读文章1-3，了解漫威宇宙起源（10分钟）",
+      "minutes": 10
+    },
+    {
+      "text": "学习词汇表中的核心词汇（15分钟）",
+      "minutes": 15
+    },
+    {
+      "text": "阅读文章4-7，学习电影角色描述（10分钟）",
+      "minutes": 10
+    },
+    {
+      "text": "观看视频2-3，学习电影幕后故事（8分钟）",
+      "minutes": 8
+    },
+    {
+      "text": "学习必学内容中的高频表达（7分钟）",
+      "minutes": 7
+    },
+    {
+      "text": "阅读文章8-10，完成拓展内容学习（5分钟）",
+      "minutes": 5
+    }
+  ],
+  "mustLearn": [
+    {
+      "title": "高频表达：描述电影影响力",
+      "type": "expression",
+      "content": "English: \"The Marvel Cinematic Universe has completely transformed the film industry, creating a new model for interconnected storytelling that audiences love.\"\n\n中文讲解：这句话展示了如何用英语描述超级英雄电影对行业的影响。\n\n要点解析：1. transform 改变、转型 2. interconnected storytelling 相互关联的叙事方式 3. model 模式、典范"
+    },
+    {
+      "title": "语法点：现在完成进行时",
+      "type": "grammar",
+      "content": "English: \"Superhero movies have been dominating the box office for over a decade, with Marvel leading the charge.\"\n\n中文讲解：现在完成进行时表示从过去开始持续到现在的动作，强调动作的持续性。\n\n要点解析：1. have been + doing 表示持续动作 2. for + 时间段 表示持续时间 3. dominate 占主导地位"
+    },
+    {
+      "title": "精读片段：超级英雄的魅力",
+      "type": "article",
+      "content": "English: \"What makes superheroes so appealing is not just their extraordinary powers, but their relatable struggles and growth. We see ourselves in their journey from ordinary to extraordinary, facing challenges that mirror our own daily battles.\"\n\n中文讲解：这段文字揭示了超级英雄电影受欢迎的深层原因。\n\n要点解析：1. appealing 有吸引力的 2. relatable struggles 能引起共鸣的挣扎 3. mirror our own 反映我们自身的"
+    }
+  ],
+  "expand": [
+    {
+      "title": "文化注释：超级英雄与美国文化",
+      "type": "culture",
+      "content": "超级英雄电影反映了美国文化中的个人主义价值观。这些故事强调个人责任、正义感和为他人牺牲的精神，这与美国建国理念中的'美国梦'和'自由'精神相呼应。"
+    },
+    {
+      "title": "同义替换：描述精彩的电影",
+      "type": "synonym",
+      "content": "精彩的电影可以用不同表达：1. mind-blowing (令人震惊的) 2. edge-of-your-seat (紧张的) 3. visually stunning (视觉震撼的) 4. emotionally gripping (情感扣人心弦的)"
+    },
+    {
+      "title": "进阶例句：电影产业术语",
+      "type": "advanced",
+      "content": "1. The franchise has grossed over $22 billion worldwide. (这个系列全球票房超过220亿美元) 2. Sequels and prequels keep fans engaged in the universe. (续集和前传让粉丝对这个世界保持关注) 3. Cross-overs create epic cinematic moments. (跨界合作创造了史诗级的电影时刻)"
+    },
+    {
+      "title": "背景知识：漫威 vs DC",
+      "type": "background",
+      "content": "漫威(Marvel)和DC是两大超级英雄电影宇宙。漫威以 interconnected universe(互联宇宙)概念著称，角色之间有关联；DC则更注重独立英雄故事，风格更黑暗严肃。"
+    }
+  ],
+  "videos": [
+    {
+      "title": "The Evolution of Superhero Movies",
+      "url": "https://www.youtube.com/results?search_query=evolution of superhero movies",
+      "channel": "Screen Rant",
+      "minutes": 8,
+      "desc": "了解超级英雄电影从早期到现在的发展历程"
+    },
+    {
+      "title": "How Marvel Changed Cinema Forever",
+      "url": "https://www.youtube.com/results?search_query=how marvel changed cinema",
+      "channel": "CinemaSins",
+      "minutes": 12,
+      "desc": "漫威如何彻底改变了电影产业"
+    },
+    {
+      "title": "Behind the Scenes: Marvel Movies",
+      "url": "https://www.youtube.com/results?search_query=marvel movies behind the scenes",
+      "channel": "Marvel Entertainment",
+      "minutes": 10,
+      "desc": "漫威电影幕后制作故事"
+    },
+    {
+      "title": "Superhero Movie Success Secrets",
+      "url": "https://www.youtube.com/results?search_query=superhero movie success formula",
+      "channel": "New Rockstars",
+      "minutes": 7,
+      "desc": "超级英雄电影成功的秘诀分析"
+    },
+    {
+      "title": "Comic Books to Movies",
+      "url": "https://www.youtube.com/results?search_query=comic books to movies adaptation",
+      "channel": "Comic Book Historian",
+      "minutes": 9,
+      "desc": "从漫画到电影的改编过程"
+    },
+    {
+      "title": "Future of Superhero Movies",
+      "url": "https://www.youtube.com/results?search_query=future of superhero movies",
+      "channel": "Looper",
+      "minutes": 6,
+      "desc": "超级英雄电影的未来发展趋势"
+    }
+  ],
+  "articles": [
+    {
+      "title": "The Birth of the MCU",
+      "level": "A2-B1",
+      "words": 68,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "The Marvel Cinematic Universe began in 2008 with Iron Man. This movie started everything. Robert Downey Jr. played Tony Stark, a rich inventor who became Iron Man. The film was a big success. It showed that superhero movies could be both exciting and funny. This success led to more movies. Each movie connected to others, creating one big story. This new way of making movies changed Hollywood forever.",
+      "zh": "漫威电影宇宙始于2008年的《钢铁侠》，这部电影开启了一个新时代，展示了超级英雄电影可以既刺激又有趣。",
+      "points": [
+        "began with... started everything 开创了新时代",
+        "rich inventor 富有的发明家",
+        "connected to others 相互连接",
+        "changed Hollywood forever 永远改变了好莱坞"
+      ]
+    },
+    {
+      "title": "Avengers Assemble",
+      "level": "A2-B1",
+      "words": 71,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "The Avengers movie brought together many heroes for the first time. Iron Man, Captain America, Thor, and Hulk all worked together. This was a dream come true for comic fans. The movie showed heroes from different worlds teaming up. They had to learn to work together despite their differences. The action scenes were amazing. The movie made over a billion dollars worldwide. It proved that team-up movies could be huge successes.",
+      "zh": "《复仇者联盟》首次将多位英雄聚集在一起，展示了不同世界的团队合作。",
+      "points": [
+        "brought together many heroes 将多位英雄聚集",
+        "dream come true 梦想成真",
+        "teaming up 组队合作",
+        "huge successes 巨大的成功"
+      ]
+    },
+    {
+      "title": "Superhero Powers",
+      "level": "A2-B1",
+      "words": 66,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Superheroes have amazing powers. Iron Man has a high-tech suit. Captain America has super strength and a shield. Thor can control lightning. Hulk becomes very strong when angry. Spider-Man can climb walls and shoot webs. These powers make them special. But what makes them heroes is not just powers. It's their courage to help others. They use their gifts to protect people and fight for justice.",
+      "zh": "超级英雄拥有非凡的能力，但使他们成为英雄的不仅仅是能力，还有帮助他人的勇气。",
+      "points": [
+        "high-tech suit 高科技装备",
+        "control lightning 控制闪电",
+        "courage to help others 帮助他人的勇气",
+        "fight for justice 为正义而战"
+      ]
+    },
+    {
+      "title": "Movie Villains",
+      "level": "A2-B1",
+      "words": 67,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Every superhero needs a good villain. Villains in superhero movies are often complex. They have reasons for what they do. Loki wants power but also feels lonely. Thanos wants to save the universe in his own way. These villains are not just evil. They have depth and backstories. This makes them interesting and scary at the same time. Good villains make superhero stories more exciting and meaningful.",
+      "zh": "超级英雄电影中的反派往往很复杂，他们有动机和背景故事，这使得他们既可怕又有趣。",
+      "points": [
+        "complex 复杂的",
+        "have reasons for what they do 做事有原因",
+        "depth and backstories 深度和背景故事",
+        "more exciting and更有趣和有意义"
+      ]
+    },
+    {
+      "title": "Special Effects Magic",
+      "level": "A2-B1",
+      "words": 57,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Modern superhero movies use amazing special effects. Computers create impossible worlds. Heroes fly through cities. Battles look real. These effects make the stories believable. They help audiences feel like they are part of the action. The technology keeps getting better. Each new movie pushes the boundaries of what's possible. This makes watching superhero movies an incredible experience.",
+      "zh": "现代超级英雄电影使用令人惊叹的特效，创造不可能的世界，让观众感觉身临其境。",
+      "points": [
+        "special effects 特效",
+        "impossible worlds 不可能的世界",
+        "push the boundaries 推开界限",
+        "incredible experience 难以置信的体验"
+      ]
+    },
+    {
+      "title": "Fan Culture",
+      "level": "A2-B1",
+      "words": 62,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Superhero movies create strong fan communities. Fans discuss theories online. They cosplay as their favorite heroes. They wait in line for midnight screenings. Fan art and fan fiction are popular. This community makes being a fan more fun. Fans feel connected to each other through their love for these stories. The movies become more than entertainment. They become a shared cultural experience.",
+      "zh": "超级英雄电影创造了强大的粉丝社区，粉丝通过理论讨论、cosplay等方式相互连接。",
+      "points": [
+        "fan communities 粉丝社区",
+        "discuss theories 讨论理论",
+        "cosplay 角色扮演",
+        "shared cultural experience 共享的文化体验"
+      ]
+    },
+    {
+      "title": "Movie Merchandise",
+      "level": "A2-B1",
+      "words": 68,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Superhero movies make money from more than just tickets. Toys, clothes, and other products are very popular. Kids want Iron Man toys. Adults collect superhero figures. These products keep the movie experience alive after watching. They let fans show their love for their favorite heroes. The merchandise business is huge. It brings in billions of dollars every year. This shows how big the superhero movie industry has become.",
+      "zh": "超级英雄电影通过玩具、服装等周边产品获得额外收入，让粉丝能够表达对英雄的喜爱。",
+      "points": [
+        "merchandise 商品、周边产品",
+        "collect 收集",
+        "bring in billions 赚取数十亿美元",
+        "movie experience 电影体验"
+      ]
+    },
+    {
+      "title": "Heroes' Personal Lives",
+      "level": "A2-B1",
+      "words": 57,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Superheroes have normal lives too. Peter Parker goes to school and has friends. Tony Stark runs a company. They struggle with everyday problems. This makes them relatable. We see ourselves in their struggles. They balance hero duties with personal life. This balance makes the characters more real. It shows that even heroes face challenges like normal people.",
+      "zh": "超级英雄也有正常的生活，他们面临日常挑战，这让角色更加真实和可亲近。",
+      "points": [
+        "normal lives 正常生活",
+        "relatable 可亲近的",
+        "balance...with... 平衡...与...",
+        "face challenges 面对挑战"
+      ]
+    },
+    {
+      "title": "Global Impact",
+      "level": "A2-B1",
+      "words": 56,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Superhero movies are popular worldwide. People from different countries enjoy these stories. The movies are translated into many languages. They bring people together across cultures. Superheroes become global icons. Their stories teach universal values like courage and hope. This global success shows how powerful good storytelling can be. It connects people from all over the world.",
+      "zh": "超级英雄电影在全球都很受欢迎，成为跨越文化的全球偶像，传递勇气和希望等普世价值。",
+      "points": [
+        "worldwide 全球范围内",
+        "translated into many languages 翻译成多种语言",
+        "global icons 全球偶像",
+        "universal values 普世价值"
+      ]
+    },
+    {
+      "title": "Future of Superheroes",
+      "level": "A2-B1",
+      "words": 65,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Superhero movies will continue to evolve. New heroes will emerge. Stories will become more diverse. Technology will create even better experiences. Movies might become interactive. Viewers might choose what happens next. The future holds endless possibilities. But one thing is sure: people will always love stories about heroes who inspire us. These stories remind us that we can all be heroes in our own way.",
+      "zh": "超级英雄电影将继续发展，新英雄出现，故事更多样化，技术创造更好的体验，未来充满无限可能。",
+      "points": [
+        "continue to evolve 继续发展",
+        "diverse 多样化的",
+        "endless possibilities 无限可能",
+        "inspire us 激励我们"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "evolution",
+      "pos": "noun",
+      "meaning_en": "the way something changes gradually over time",
+      "meaning_zh": "进化，演变",
+      "example": "The evolution of superhero movies shows how they have changed over the years.",
+      "source": "The Evolution of Superhero Movies"
+    },
+    {
+      "word": "cinematic",
+      "pos": "adjective",
+      "meaning_en": "relating to movies or filmmaking",
+      "meaning_zh": "电影的，电影制作的",
+      "example": "Marvel created a new cinematic universe with interconnected stories.",
+      "source": "How Marvel Changed Cinema Forever"
+    },
+    {
+      "word": "franchise",
+      "pos": "noun",
+      "meaning_en": "a series of related movies or products",
+      "meaning_zh": "系列，特许经营权",
+      "example": "The Marvel movie franchise has made billions of dollars worldwide.",
+      "source": "The Birth of the MCU"
+    },
+    {
+      "word": "assemble",
+      "pos": "verb",
+      "meaning_en": "to bring people or things together",
+      "meaning_zh": "集合，聚集",
+      "example": "The Avengers assembled to fight against the villain.",
+      "source": "Avengers Assemble"
+    },
+    {
+      "word": "extraordinary",
+      "pos": "adjective",
+      "meaning_en": "very special or unusual",
+      "meaning_zh": "非凡的，特别的",
+      "example": "Superheroes have extraordinary powers that normal people don't have.",
+      "source": "Superhero Powers"
+    },
+    {
+      "word": "villain",
+      "pos": "noun",
+      "meaning_en": "a bad character in a story",
+      "meaning_zh": "反派，坏人",
+      "example": "Every superhero story needs a good villain to create conflict.",
+      "source": "Movie Villains"
+    },
+    {
+      "word": "complex",
+      "pos": "adjective",
+      "meaning_en": "having many parts; difficult to understand",
+      "meaning_zh": "复杂的",
+      "example": "The villain in this movie is not just evil; he's a complex character.",
+      "source": "Movie Villains"
+    },
+    {
+      "word": "effects",
+      "pos": "noun",
+      "meaning_en": "visual tricks used in movies",
+      "meaning_zh": "特效",
+      "example": "The special effects in superhero movies make the action look real.",
+      "source": "Special Effects Magic"
+    },
+    {
+      "word": "community",
+      "pos": "noun",
+      "meaning_en": "a group of people with shared interests",
+      "meaning_zh": "社区，群体",
+      "example": "Superhero movies create strong fan communities online.",
+      "source": "Fan Culture"
+    },
+    {
+      "word": "merchandise",
+      "pos": "noun",
+      "meaning_en": "products related to a movie or brand",
+      "meaning_zh": "商品，周边产品",
+      "example": "Movie merchandise includes toys, clothes, and collectibles.",
+      "source": "Movie Merchandise"
+    },
+    {
+      "word": "relatable",
+      "pos": "adjective",
+      "meaning_en": "easy to understand or connect with",
+      "meaning_zh": "可亲近的，有共鸣的",
+      "example": "The hero's personal struggles make him relatable to audiences.",
+      "source": "Heroes' Personal Lives"
+    },
+    {
+      "word": "impact",
+      "pos": "noun",
+      "meaning_en": "a strong effect or influence",
+      "meaning_zh": "影响，冲击",
+      "example": "Superhero movies have a huge impact on popular culture.",
+      "source": "Global Impact"
+    },
+    {
+      "word": "diverse",
+      "pos": "adjective",
+      "meaning_en": "including many different types",
+      "meaning_zh": "多样的，不同的",
+      "example": "Future superhero movies will have more diverse characters and stories.",
+      "source": "Future of Superheroes"
+    },
+    {
+      "word": "inspire",
+      "pos": "verb",
+      "meaning_en": "to encourage someone to do something good",
+      "meaning_zh": "激励，鼓舞",
+      "example": "Hero stories inspire people to be brave and kind.",
+      "source": "Future of Superheroes"
+    },
+    {
+      "word": "interconnected",
+      "pos": "adjective",
+      "meaning_en": "connected to each other",
+      "meaning_zh": "相互连接的",
+      "example": "The Marvel universe has interconnected storylines across different movies.",
+      "source": "How Marvel Changed Cinema Forever"
+    },
+    {
+      "word": "dominate",
+      "pos": "verb",
+      "meaning_en": "to be the most successful or powerful",
+      "meaning_zh": "主导，统治",
+      "example": "Superhero movies have dominated the box office for many years.",
+      "source": "The Evolution of Superhero Movies"
+    },
+    {
+      "word": "backstory",
+      "pos": "noun",
+      "meaning_en": "the history of a character before the main story",
+      "meaning_zh": "背景故事",
+      "example": "The villain's backstory explains why he became evil.",
+      "source": "Movie Villains"
+    },
+    {
+      "word": "boundaries",
+      "pos": "noun",
+      "meaning_en": "the limits of what is possible",
+      "meaning_zh": "界限，边界",
+      "example": "New special effects push the boundaries of what we can see on screen.",
+      "source": "Special Effects Magic"
+    },
+    {
+      "word": "cosplay",
+      "pos": "noun",
+      "meaning_en": "the activity of dressing as a character",
+      "meaning_zh": "角色扮演",
+      "example": "Fans enjoy cosplay at superhero movie conventions.",
+      "source": "Fan Culture"
+    },
+    {
+      "word": "collectibles",
+      "pos": "noun",
+      "meaning_en": "items that people collect and keep",
+      "meaning_zh": "收藏品",
+      "example": "Superhero action figures are popular collectibles for fans.",
+      "source": "Movie Merchandise"
+    },
+    {
+      "word": "balance",
+      "pos": "verb",
+      "meaning_en": "to keep two things in equal position",
+      "meaning_zh": "平衡",
+      "example": "Heroes must balance their superhero duties with normal life.",
+      "source": "Heroes' Personal Lives"
+    },
+    {
+      "word": "universal",
+      "pos": "adjective",
+      "meaning_en": "relating to all people or places",
+      "meaning_zh": "普遍的，普世的",
+      "example": "Superhero stories teach universal values like courage and hope.",
+      "source": "Global Impact"
+    },
+    {
+      "word": "evolve",
+      "pos": "verb",
+      "meaning_en": "to change gradually over time",
+      "meaning_zh": "进化，发展",
+      "example": "Superhero movies will continue to evolve with new technology.",
+      "source": "Future of Superheroes"
+    },
+    {
+      "word": "cinema",
+      "pos": "noun",
+      "meaning_en": "the art and industry of making movies",
+      "meaning_zh": "电影，电影业",
+      "example": "Marvel has transformed modern cinema with its connected universe.",
+      "source": "How Marvel Changed Cinema Forever"
+    },
+    {
+      "word": "suit",
+      "pos": "noun",
+      "meaning_en": "a set of clothes worn together",
+      "meaning_zh": "套装，服装",
+      "example": "Iron Man's high-tech suit gives him super strength.",
+      "source": "Superhero Powers"
+    },
+    {
+      "word": "shield",
+      "pos": "noun",
+      "meaning_en": "a protective cover",
+      "meaning_zh": "盾牌",
+      "example": "Captain America uses his shield to protect himself and others.",
+      "source": "Superhero Powers"
+    },
+    {
+      "word": "lightning",
+      "pos": "noun",
+      "meaning_en": "bright flashes of electricity in the sky",
+      "meaning_zh": "闪电",
+      "example": "Thor can control lightning with his hammer.",
+      "source": "Superhero Powers"
+    },
+    {
+      "word": "incredible",
+      "pos": "adjective",
+      "meaning_en": "amazing or hard to believe",
+      "meaning_zh": "难以置信的，惊人的",
+      "example": "The special effects in superhero movies are incredible.",
+      "source": "Special Effects Magic"
+    },
+    {
+      "word": "theories",
+      "pos": "noun",
+      "meaning_en": "ideas that try to explain something",
+      "meaning_zh": "理论，学说",
+      "example": "Fans create theories about what will happen next in the movies.",
+      "source": "Fan Culture"
+    },
+    {
+      "word": "screenings",
+      "pos": "noun",
+      "meaning_en": "showings of a movie",
+      "meaning_zh": "放映，场次",
+      "example": "Fans wait for midnight screenings of new superhero movies.",
+      "source": "Fan Culture"
+    },
+    {
+      "word": "figures",
+      "pos": "noun",
+      "meaning_en": "statues or models of people",
+      "meaning_zh": "人偶，模型",
+      "example": "Collectors buy superhero figures to display at home.",
+      "source": "Movie Merchandise"
+    },
+    {
+      "word": "struggles",
+      "pos": "noun",
+      "meaning_en": "difficult fights or problems",
+      "meaning_zh": "挣扎，斗争",
+      "example": "Heroes face many struggles in their personal lives.",
+      "source": "Heroes' Personal Lives"
+    },
+    {
+      "word": "possibilities",
+      "pos": "noun",
+      "meaning_en": "chances or things that could happen",
+      "meaning_zh": "可能性",
+      "example": "The future of superhero movies has endless possibilities.",
+      "source": "Future of Superheroes"
+    }
+  ],
+  "status": "ready",
+  "generatedBy": "claude",
+  "savedAt": "2026-09-29T17:56:56.970Z"
+}

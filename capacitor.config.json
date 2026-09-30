@@ -1,0 +1,19 @@
+{
+  "appId": "com.lagent.app",
+  "appName": "L_Agent",
+  "webDir": "public",
+  "server": {
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true,
+    "webContentsDebuggingEnabled": true
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": true,
+      "backgroundColor": "#0d0f16",
+      "showSpinner": false
+    }
+  }
+}

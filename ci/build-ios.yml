@@ -1,0 +1,48 @@
+name: Build iOS IPA (unsigned)
+
+on:
+  workflow_dispatch:        # 手动在 Actions 页面点一下即可运行
+  push:
+    branches: [main, master]
+
+jobs:
+  build-ios:
+    runs-on: macos-latest   # GitHub 提供的云端 Mac 虚拟机（免费额度内含）
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install npm dependencies
+        run: npm ci
+
+      - name: Ensure CocoaPods
+        run: which pod >/dev/null 2>&1 || brew install cocoapods
+
+      - name: Add / sync Capacitor iOS platform
+        run: |
+          npx cap add ios || true     # 已存在则跳过
+          npx cap sync ios            # 拷贝最新前端资源 + pod install
+
+      - name: Build unsigned IPA
+        working-directory: ios/App
+        run: |
+          xcodebuild -workspace App.xcworkspace -scheme App -configuration Release \
+            -destination 'generic/platform=iOS' \
+            CODE_SIGNING_ALLOWED=NO CODE_SIGN_IDENTITY="" \
+            -archivePath build/App.xcarchive archive
+
+          mkdir -p build/Payload
+          cp -r "build/App.xcarchive/Products/Applications/App.app" build/Payload/
+          cd build && zip -r "../L_Agent-unsigned.ipa" Payload
+
+      - name: Upload IPA artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: L_Agent-unsigned-ipa
+          path: ios/App/L_Agent-unsigned.ipa
+          if-no-files-found: error

@@ -1,0 +1,511 @@
+{
+  "day": 6,
+  "date": "2026-09-25",
+  "theme": "NBA · 季后赛战术与数据",
+  "domain": "NBA",
+  "level": "A2 → B1",
+  "goals": [
+    "掌握 10 个篮球战术与分析核心词汇",
+    "能读懂简单的季后赛数据报道",
+    "学会用英语描述比赛策略",
+    "理解数据分析如何影响教练决策"
+  ],
+  "tasks": [
+    {
+      "text": "阅读 5 篇英文短文（每篇约 3 分钟）",
+      "minutes": 15
+    },
+    {
+      "text": "观看 2 个视频并记录关键词（每篇 8 分钟）",
+      "minutes": 16
+    },
+    {
+      "text": "学习 30 个核心词汇与例句",
+      "minutes": 15
+    },
+    {
+      "text": "精读 MustLearn 内容并跟读",
+      "minutes": 14
+    }
+  ],
+  "mustLearn": [
+    {
+      "title": "高频表达：Break Down the Defense",
+      "type": "expression",
+      "content": "English: The point guard tries to break down the defense with a fast drive.\nChinese: 控球后卫试图通过快速突破瓦解防守。\nPoint: \"Break down\" means to destroy or overcome something strong. In basketball, it means making the defense fail."
+    },
+    {
+      "title": "数据描述：Higher Efficiency",
+      "type": "expression",
+      "content": "English: Teams want higher efficiency on every possession.\nChinese: 球队希望每次进攻都有更高的效率。\nPoint: \"Efficiency\" is about getting good results with less waste. In NBA, it means scoring more points with fewer shots."
+    },
+    {
+      "title": "语法点：Comparative Adjectives",
+      "type": "grammar",
+      "content": "English: The defense is stronger than before. The shots are easier than last year.\nChinese: 防守比以前更强了。投篮比去年更容易了。\nPoint: Use \"-er\" or \"more\" to compare two things. Add \"than\" after the adjective."
+    },
+    {
+      "title": "战术术语：Pick and Roll",
+      "type": "expression",
+      "content": "English: They run the pick and roll to get an open shot.\nChinese: 他们执行挡拆战术以获得空位投篮机会。\nPoint: \"Pick\" is the screen. \"Roll\" is the player moving to the basket after setting the screen."
+    }
+  ],
+  "expand": [
+    {
+      "title": "文化注释：Analytics in Sports",
+      "type": "note",
+      "content": "Modern NBA teams use computers to track every move. This is called \"analytics\". It helps coaches make better decisions."
+    },
+    {
+      "title": "同义替换：Good vs. Efficient",
+      "type": "note",
+      "content": "Instead of saying \"a good shot\", you can say \"an efficient shot\". It sounds more professional in sports talk."
+    },
+    {
+      "title": "背景知识：Possession",
+      "type": "note",
+      "content": "One \"possession\" means one team has the ball until they score or lose it. Teams count points per possession to measure success."
+    },
+    {
+      "title": "进阶例句：Clutch Time",
+      "type": "note",
+      "content": "Clutch time is the last 5 minutes of a close game. Players who perform well here are called \"clutch players\"."
+    },
+    {
+      "title": "实用技巧：Watching Games",
+      "type": "note",
+      "content": "When watching, don't just look at the ball. Watch the players without the ball. They set screens and move to open spaces."
+    }
+  ],
+  "videos": [
+    {
+      "title": "NBA Playoff Analytics Explained",
+      "url": "https://www.youtube.com/results?search_query=NBA+playoff+analytics+explained",
+      "channel": "Basketball Analysis",
+      "minutes": 8,
+      "desc": "解释季后赛数据分析的基本概念。"
+    },
+    {
+      "title": "Tactical Breakdown Defense",
+      "url": "https://www.youtube.com/results?search_query=NBA+tactical+breakdown+defense",
+      "channel": "Coach Hub",
+      "minutes": 10,
+      "desc": "分析防守战术的拆解视频。"
+    },
+    {
+      "title": "What is Pick and Roll",
+      "url": "https://www.youtube.com/results?search_query=what+is+pick+and+roll+basketball",
+      "channel": "Skills Academy",
+      "minutes": 6,
+      "desc": "基础挡拆战术教学。"
+    },
+    {
+      "title": "Three Point Revolution History",
+      "url": "https://www.youtube.com/results?search_query=NBA+three+point+revolution+history",
+      "channel": "Hoops History",
+      "minutes": 12,
+      "desc": "三分球革命的历史回顾。"
+    },
+    {
+      "title": "Clutch Time Stats NBA",
+      "url": "https://www.youtube.com/results?search_query=clutch+time+stats+NBA",
+      "channel": "Data Sports",
+      "minutes": 7,
+      "desc": "关键时刻数据统计分析。"
+    },
+    {
+      "title": "Thinking Basketball",
+      "url": "https://www.youtube.com/@ThinkingBasketball",
+      "channel": "Thinking Basketball",
+      "minutes": 15,
+      "desc": "频道推荐：深度战术分析。"
+    }
+  ],
+  "articles": [
+    {
+      "title": "What is Analytics",
+      "level": "A2-B1",
+      "words": 120,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "In the modern NBA, analytics is very important. Teams use data to understand the game better. They count every shot and every pass. Coaches look at numbers to make plans. For example, they know where players like to shoot. This helps them stop the other team. Analytics is not just for coaches. Fans use it too. They talk about efficiency and ratings. It makes watching basketball more interesting. You can see why a team wins. It is like a math problem on the court. Data tells the true story of the game.",
+      "zh": "介绍现代 NBA 中数据分析的重要性及其对教练和球迷的影响。",
+      "points": [
+        "analytics: 数据分析，指通过统计数据研究比赛。",
+        "efficiency: 效率，指得分与出手次数的比例。",
+        "make plans: 制定计划，教练根据数据制定战术。"
+      ]
+    },
+    {
+      "title": "Points Per Possession",
+      "level": "A2-B1",
+      "words": 115,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "One key number is points per possession. A possession is when a team has the ball. If a team scores many points with few possessions, they are efficient. This is better than shooting many times and missing. In the playoffs, every possession matters. Teams slow down the game. They want high percentage shots. Coaches tell players to wait for the best moment. Do not rush. A good possession ends with a layup or an open three. Bad possessions end with hard shots. Data shows which teams are careful with the ball.",
+      "zh": "解释每次进攻得分（PPP）的概念及其在季后赛中的重要性。",
+      "points": [
+        "possession: 球权，指球队控制球的一次机会。",
+        "high percentage shots: 高命中率投篮，指容易得分的投篮。",
+        "rush: 匆忙，指不经过思考的快速出手。"
+      ]
+    },
+    {
+      "title": "The Pick and Roll",
+      "level": "A2-B1",
+      "words": 130,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "The pick and roll is the most common play. Two players work together. One player sets a screen. This is the pick. The ball handler uses the screen to get past the defender. Then the screener rolls to the basket. The defense must choose who to stop. If they stop the ball, the roller is open. If they stop the roller, the shooter is open. Analytics shows this play scores many points. Teams run it many times in a game. You need good communication to stop it. Defenders must call out the screen. It is a basic but powerful tactic.",
+      "zh": "描述挡拆战术的执行过程及其得分效率。",
+      "points": [
+        "screen: 掩护，指阻挡防守队员的动作。",
+        "ball handler: 持球人，指控制球的球员。",
+        "call out: 大声喊出，防守沟通的一种方式。"
+      ]
+    },
+    {
+      "title": "Switching Defense",
+      "level": "A2-B1",
+      "words": 125,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Sometimes teams switch on screens. This means defenders change players. If Player A screens for Player B, Defender A guards Player B. This stops the offense from getting open. But it can cause problems. A big defender might guard a small shooter. This is a mismatch. Analytics helps coaches decide when to switch. In the playoffs, switching is common. Teams want to stop three-point shots. They force players to take hard shots. Switching requires smart players. Everyone must know where to go. Communication is the key to success.",
+      "zh": "讲解换防策略及其可能产生的错位问题。",
+      "points": [
+        "switch: 换防，指防守队员交换防守对象。",
+        "mismatch: 错位，指身高或速度不匹配的对抗。",
+        "force: 迫使，指让对手做不喜欢的事。"
+      ]
+    },
+    {
+      "title": "Three Point Revolution",
+      "level": "A2-B1",
+      "words": 128,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Ten years ago, teams shot few threes. Now, everyone shoots threes. This is the three-point revolution. Data shows three points are worth more than two. If you shoot well, you score more. Teams take long shots early in the clock. They want to maximize points. Some coaches say layups are safer. But math says threes are better. In the playoffs, space is important. Shooters stand in the corners. This opens the middle for drives. Analytics changed how basketball looks. The game is faster and has more scoring.",
+      "zh": "阐述三分球革命如何改变篮球比赛风格。",
+      "points": [
+        "revolution: 革命，指巨大的变化。",
+        "maximize: 最大化，指获得最多的分数。",
+        "space: 空间，指进攻时的场上空隙。"
+      ]
+    },
+    {
+      "title": "Clutch Time Stats",
+      "level": "A2-B1",
+      "words": 118,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Clutch time is the last five minutes. The game is close. Scores are within five points. Players feel pressure. Some players play better here. Some play worse. Stats track clutch performance. Who takes the last shot? Who makes the free throws? Coaches trust clutch players. They give them the ball in big moments. Analytics shows who is calm under pressure. In the playoffs, clutch time happens often. Games are tighter. One mistake can end the season. Fans love watching clutch moments. It is the most exciting part of basketball.",
+      "zh": "介绍关键时刻的定义及球员在压力下的表现统计。",
+      "points": [
+        "clutch time: 关键时刻，通常指最后五分钟。",
+        "within five points: 五分以内，指比分接近。",
+        "free throws: 罚球，指无防守的投篮机会。"
+      ]
+    },
+    {
+      "title": "Coach Decisions",
+      "level": "A2-B1",
+      "words": 122,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Coaches make many decisions every game. When to call a timeout? Who to put in the game? Analytics helps them choose. They look at match-ups. If Player A is hot, keep him in. If Player B is tired, rest him. In the playoffs, rotations are shorter. Only eight players play most minutes. Coaches use data to find weaknesses. They target bad defenders. They hide bad shooters. It is like a chess game. Every move counts. Good coaches adjust quickly. They watch the data during the game.",
+      "zh": "描述教练如何利用数据做出换人和战术决策。",
+      "points": [
+        "timeout: 暂停，指比赛中的休息时间。",
+        "rotations: 轮换，指球员上场的顺序安排。",
+        "adjust: 调整，指根据情况改变策略。"
+      ]
+    },
+    {
+      "title": "Player Efficiency",
+      "level": "A2-B1",
+      "words": 126,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "How do we measure a good player? Points are not enough. We use Player Efficiency Rating. It counts points, rebounds, and assists. It also counts mistakes like turnovers. A high rating means a complete player. He helps the team win. In the playoffs, efficiency matters more. You cannot waste possessions. Stars must be efficient. Role players must do their job. Data shows who is valuable. Sometimes a player scores less but helps more. He sets screens and plays defense. Analytics sees all the work. It is not just about scoring.",
+      "zh": "解释球员效率评级（PER）及其综合评估作用。",
+      "points": [
+        "rebounds: 篮板球，指投篮未中后抢到的球。",
+        "assists: 助攻，指帮助队友得分的传球。",
+        "turnovers: 失误，指失去球权的错误。"
+      ]
+    },
+    {
+      "title": "Home Court Advantage",
+      "level": "A2-B1",
+      "words": 124,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Playing at home is easier. The crowd cheers for you. You know the court. This is home court advantage. Stats show home teams win more. In the playoffs, this is huge. Series go to seven games. The last game is at home. Teams fight to get the top seed. They want home court. Traveling is hard for visitors. They sleep in hotels. They eat different food. Home teams rest better. Analytics proves the crowd helps. Players shoot better when fans are loud. It is a real advantage.",
+      "zh": "分析主场优势对季后赛系列赛结果的影响。",
+      "points": [
+        "crowd: 观众，指现场看球的球迷。",
+        "seed: 种子排名，指季后赛的排位。",
+        "series: 系列赛，指多场比赛的对决。"
+      ]
+    },
+    {
+      "title": "Reviewing the Game",
+      "level": "A2-B1",
+      "words": 120,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "After the game, teams watch video. They review every play. Coaches show mistakes. They show good things too. Players learn from this. They see where they were wrong. Analytics provides the numbers. Video provides the pictures. Together, they tell the full story. In the playoffs, teams adjust for the next game. If a tactic fails, change it. If a player is hot, stop him. Learning is fast. You have one day to fix problems. Data makes learning easier. It shows exactly what happened. Teams become better every round.",
+      "zh": "说明赛后复盘如何结合视频与数据来提升表现。",
+      "points": [
+        "review: 复盘，指回顾比赛过程。",
+        "tactic: 战术，指具体的比赛策略。",
+        "adjust: 调整，指为下一场比赛做准备。"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "analytics",
+      "pos": "n.",
+      "meaning_en": "the study of data to find patterns",
+      "meaning_zh": "数据分析",
+      "example": "Teams use analytics to win games.",
+      "source": "What is Analytics"
+    },
+    {
+      "word": "efficiency",
+      "pos": "n.",
+      "meaning_en": "achieving results without waste",
+      "meaning_zh": "效率",
+      "example": "High efficiency means scoring more points.",
+      "source": "What is Analytics"
+    },
+    {
+      "word": "possession",
+      "pos": "n.",
+      "meaning_en": "having control of the ball",
+      "meaning_zh": "球权",
+      "example": "Every possession is important in playoffs.",
+      "source": "Points Per Possession"
+    },
+    {
+      "word": "percentage",
+      "pos": "n.",
+      "meaning_en": "a part of a whole number",
+      "meaning_zh": "百分比/命中率",
+      "example": "They want high percentage shots.",
+      "source": "Points Per Possession"
+    },
+    {
+      "word": "rush",
+      "pos": "v.",
+      "meaning_en": "to do something too quickly",
+      "meaning_zh": "匆忙",
+      "example": "Do not rush your shot.",
+      "source": "Points Per Possession"
+    },
+    {
+      "word": "screen",
+      "pos": "n.",
+      "meaning_en": "blocking a defender to help a teammate",
+      "meaning_zh": "掩护",
+      "example": "He sets a screen for the guard.",
+      "source": "The Pick and Roll"
+    },
+    {
+      "word": "handler",
+      "pos": "n.",
+      "meaning_en": "the player with the ball",
+      "meaning_zh": "持球人",
+      "example": "The ball handler drives to the hoop.",
+      "source": "The Pick and Roll"
+    },
+    {
+      "word": "communication",
+      "pos": "n.",
+      "meaning_en": "sharing information with others",
+      "meaning_zh": "沟通",
+      "example": "Defense needs good communication.",
+      "source": "The Pick and Roll"
+    },
+    {
+      "word": "switch",
+      "pos": "v.",
+      "meaning_en": "to change places with someone",
+      "meaning_zh": "换防",
+      "example": "They switch on every pick.",
+      "source": "Switching Defense"
+    },
+    {
+      "word": "mismatch",
+      "pos": "n.",
+      "meaning_en": "when two players are not equal",
+      "meaning_zh": "错位",
+      "example": "A big man guarding a small man is a mismatch.",
+      "source": "Switching Defense"
+    },
+    {
+      "word": "force",
+      "pos": "v.",
+      "meaning_en": "to make someone do something",
+      "meaning_zh": "迫使",
+      "example": "Defense forces them to take hard shots.",
+      "source": "Switching Defense"
+    },
+    {
+      "word": "revolution",
+      "pos": "n.",
+      "meaning_en": "a big change in how things are done",
+      "meaning_zh": "革命",
+      "example": "The three-point revolution changed NBA.",
+      "source": "Three Point Revolution"
+    },
+    {
+      "word": "maximize",
+      "pos": "v.",
+      "meaning_en": "to make something as large as possible",
+      "meaning_zh": "最大化",
+      "example": "Teams try to maximize their score.",
+      "source": "Three Point Revolution"
+    },
+    {
+      "word": "space",
+      "pos": "n.",
+      "meaning_en": "empty area on the court",
+      "meaning_zh": "空间",
+      "example": "Shooters need space to shoot.",
+      "source": "Three Point Revolution"
+    },
+    {
+      "word": "clutch",
+      "pos": "adj.",
+      "meaning_en": "performing well under pressure",
+      "meaning_zh": "关键时刻的",
+      "example": "He is a clutch player.",
+      "source": "Clutch Time Stats"
+    },
+    {
+      "word": "pressure",
+      "pos": "n.",
+      "meaning_en": "stress from a difficult situation",
+      "meaning_zh": "压力",
+      "example": "Some players like pressure.",
+      "source": "Clutch Time Stats"
+    },
+    {
+      "word": "timeout",
+      "pos": "n.",
+      "meaning_en": "a break in the game",
+      "meaning_zh": "暂停",
+      "example": "Coach calls a timeout to rest.",
+      "source": "Coach Decisions"
+    },
+    {
+      "word": "rotation",
+      "pos": "n.",
+      "meaning_en": "the order players play",
+      "meaning_zh": "轮换",
+      "example": "Playoff rotations are short.",
+      "source": "Coach Decisions"
+    },
+    {
+      "word": "adjust",
+      "pos": "v.",
+      "meaning_en": "to change something to fit",
+      "meaning_zh": "调整",
+      "example": "Coaches adjust plans for the next game.",
+      "source": "Coach Decisions"
+    },
+    {
+      "word": "rebounds",
+      "pos": "n.",
+      "meaning_en": "balls caught after a missed shot",
+      "meaning_zh": "篮板",
+      "example": "He gets many rebounds.",
+      "source": "Player Efficiency"
+    },
+    {
+      "word": "assists",
+      "pos": "n.",
+      "meaning_en": "passes that lead to scores",
+      "meaning_zh": "助攻",
+      "example": "She has ten assists today.",
+      "source": "Player Efficiency"
+    },
+    {
+      "word": "turnovers",
+      "pos": "n.",
+      "meaning_en": "losing the ball to the other team",
+      "meaning_zh": "失误",
+      "example": "Too many turnovers lose games.",
+      "source": "Player Efficiency"
+    },
+    {
+      "word": "crowd",
+      "pos": "n.",
+      "meaning_en": "the people watching the game",
+      "meaning_zh": "观众",
+      "example": "The crowd is very loud.",
+      "source": "Home Court Advantage"
+    },
+    {
+      "word": "seed",
+      "pos": "n.",
+      "meaning_en": "ranking in the playoffs",
+      "meaning_zh": "种子排名",
+      "example": "They want the number one seed.",
+      "source": "Home Court Advantage"
+    },
+    {
+      "word": "series",
+      "pos": "n.",
+      "meaning_en": "a group of games between teams",
+      "meaning_zh": "系列赛",
+      "example": "The series goes to seven games.",
+      "source": "Home Court Advantage"
+    },
+    {
+      "word": "review",
+      "pos": "v.",
+      "meaning_en": "to look at something again",
+      "meaning_zh": "复盘/回顾",
+      "example": "They review the video after the game.",
+      "source": "Reviewing the Game"
+    },
+    {
+      "word": "tactic",
+      "pos": "n.",
+      "meaning_en": "a plan to win",
+      "meaning_zh": "战术",
+      "example": "This tactic works well.",
+      "source": "Reviewing the Game"
+    },
+    {
+      "word": "data",
+      "pos": "n.",
+      "meaning_en": "information collected for analysis",
+      "meaning_zh": "数据",
+      "example": "Data shows the truth.",
+      "source": "What is Analytics"
+    },
+    {
+      "word": "defense",
+      "pos": "n.",
+      "meaning_en": "the team trying to stop scores",
+      "meaning_zh": "防守",
+      "example": "Their defense is very strong.",
+      "source": "Switching Defense"
+    },
+    {
+      "word": "offense",
+      "pos": "n.",
+      "meaning_en": "the team trying to score",
+      "meaning_zh": "进攻",
+      "example": "The offense moves the ball well.",
+      "source": "Switching Defense"
+    }
+  ],
+  "status": "ready",
+  "generatedBy": "claude",
+  "savedAt": "2026-09-30T11:48:50.090Z"
+}

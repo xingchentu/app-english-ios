@@ -1,0 +1,24 @@
+{
+  "name": "l-agent",
+  "version": "1.0.0",
+  "private": true,
+  "description": "L_Agent - 手机 App：Claude 对话 / 服务器文件浏览 / 英语学习助手",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "icons": "node scripts/make-icons.js",
+    "gen:english": "node scripts/generate-english.js",
+    "apk": "bash scripts/build-apk.sh",
+    "ios": "bash scripts/build-ios.sh"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^5.7.8",
+    "@capacitor/cli": "^5.7.8",
+    "@capacitor/core": "^5.7.8",
+    "@capacitor/ios": "^5.7.8"
+  }
+}

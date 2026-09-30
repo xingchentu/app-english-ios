@@ -1,0 +1,515 @@
+{
+  "day": 14,
+  "date": "2026-10-03",
+  "theme": "旅游 · 欧洲火车与跨国交通",
+  "domain": "旅游",
+  "level": "A2 → B1",
+  "goals": [
+    "掌握欧洲火车出行核心词汇（如 platform, ticket, border）",
+    "理解在线购票与车票验证流程",
+    "了解跨国交通规则与申根区概念",
+    "提升旅行场景下的听力与阅读信心"
+  ],
+  "tasks": [
+    {
+      "text": "阅读文章 1-5：火车出行基础与购票",
+      "minutes": 15
+    },
+    {
+      "text": "阅读文章 6-10：车站流程与礼仪规则",
+      "minutes": 15
+    },
+    {
+      "text": "观看视频 1-3：旅行指南与实操演示",
+      "minutes": 10
+    },
+    {
+      "text": "观看视频 4-6：深度体验与技巧分享",
+      "minutes": 10
+    },
+    {
+      "text": "复习必学内容与词汇表",
+      "minutes": 10
+    }
+  ],
+  "mustLearn": [
+    {
+      "title": "高频表达：Book in advance",
+      "type": "expression",
+      "content": "英文：You should book your tickets in advance to save money.\n中文讲解：提前预订。\n要点解析：'in advance' 是固定搭配，意为‘提前’。在欧洲旅游中，火车票越早买通常越便宜，尤其是跨国高铁。"
+    },
+    {
+      "title": "语法点：现在完成时谈经历",
+      "type": "grammar",
+      "content": "英文：I have traveled by train in many countries.\n中文讲解：我已经坐火车去过很多国家。\n要点解析：'have + 过去分词' 表示过去的经历对现在有影响。用于分享旅行经验时非常地道。"
+    },
+    {
+      "title": "文化常识：Validate Your Ticket",
+      "type": "note",
+      "content": "英文：In some countries, you must validate your ticket before boarding.\n中文讲解：上车前需打票验证。\n要点解析：意大利、法国等国家，纸质票需在站台机器上打孔验证时间，否则视为逃票，务必留意。"
+    },
+    {
+      "title": "实用句型：Where is the platform?",
+      "type": "expression",
+      "content": "英文：Excuse me, where is the platform for the train to Paris?\n中文讲解：请问去巴黎的火车在哪个站台？\n要点解析：'platform' 指站台。问路时先说 'Excuse me' 表示礼貌，再问具体地点。"
+    }
+  ],
+  "expand": [
+    {
+      "title": "申根区 (Schengen Area)",
+      "type": "note",
+      "content": "大部分欧洲国家属于申根区，跨国火车通常没有护照检查，但请随身携带护照以备抽查。"
+    },
+    {
+      "title": "一等座与二等座",
+      "type": "note",
+      "content": "First Class 座位更宽、更安静；Second Class 性价比高。长途旅行建议升级一等座。"
+    },
+    {
+      "title": "铁路通票 vs 单点票",
+      "type": "note",
+      "content": "Eurail Pass 适合多国多段行程；如果只去两个城市，直接买 Point-to-Point  tickets 可能更便宜。"
+    },
+    {
+      "title": "行李限额",
+      "type": "note",
+      "content": "欧洲火车通常没有严格行李重量限制，但需自己搬运上架，建议轻装出行。"
+    },
+    {
+      "title": "夜间火车",
+      "type": "note",
+      "content": "Night Train 可节省一晚住宿费。选择 Sleeper Cabin（卧铺）比 Seat（座位）更舒适。"
+    }
+  ],
+  "videos": [
+    {
+      "title": "European Train Travel Guide for Beginners",
+      "url": "https://www.youtube.com/results?search_query=European+train+travel+guide+for+beginners",
+      "channel": "Travel Easy",
+      "minutes": 10,
+      "desc": "初学者欧洲火车旅行综合指南，涵盖购票与乘车流程。"
+    },
+    {
+      "title": "How to Use Eurail Pass Correctly",
+      "url": "https://www.youtube.com/results?search_query=how+to+use+eurail+pass+tutorial",
+      "channel": "Rail Europe",
+      "minutes": 8,
+      "desc": "详细讲解欧洲铁路通票的使用规则与激活方法。"
+    },
+    {
+      "title": "Reading Train Station Signs in Europe",
+      "url": "https://www.youtube.com/results?search_query=reading+train+station+signs+Europe",
+      "channel": "Polyglot Paulie",
+      "minutes": 6,
+      "desc": "教你识别欧洲车站屏幕上的Departure与Platform信息。"
+    },
+    {
+      "title": "Booking Train Tickets Online Tips",
+      "url": "https://www.youtube.com/results?search_query=booking+europe+train+tickets+online+tips",
+      "channel": "Seat61",
+      "minutes": 12,
+      "desc": "各大购票网站对比及省钱技巧分享。"
+    },
+    {
+      "title": "Night Train Experience Across Europe",
+      "url": "https://www.youtube.com/results?search_query=night+train+experience+Europe+vlog",
+      "channel": "Wanderlust",
+      "minutes": 15,
+      "desc": "真实记录夜间火车的睡眠体验与安全注意事项。"
+    },
+    {
+      "title": "Top 10 Train Travel Mistakes to Avoid",
+      "url": "https://www.youtube.com/results?search_query=train+travel+mistakes+Europe+avoid",
+      "channel": "Rick Steves",
+      "minutes": 9,
+      "desc": "总结常见错误，如未验证车票或错过换乘时间。"
+    }
+  ],
+  "articles": [
+    {
+      "title": "Why Choose Train Travel",
+      "level": "A2-B1",
+      "words": 118,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Traveling by train in Europe is very popular among tourists. You can see many beautiful cities without flying. The seats are comfortable and spacious. You can walk around during the long journey. It is often better than flying for short distances. You arrive directly in the city center. Airports are usually far away from downtown. Trains are often on time compared to planes. You can enjoy the scenery through the window. It is a relaxing way to travel between countries. Many tourists choose this method every year. You save time at security checks. There is no strict liquid rule. It feels more like an adventure than a commute.",
+      "zh": "介绍欧洲火车旅行的优势，如舒适、市中心到达及风景优美。",
+      "points": [
+        "popular among: 在...中受欢迎",
+        "directly: 直接地，副词修饰 arrive",
+        "security checks: 安检，机场常见流程"
+      ]
+    },
+    {
+      "title": "Booking Tickets Online",
+      "level": "A2-B1",
+      "words": 125,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "You should book your tickets online before you travel. There are many websites for this. Some are official railway sites. Others are private apps. You need to enter your travel dates. Then you choose the train time. Payment is usually by credit card. You will get a confirmation email. Keep this email on your phone. You can show the screen to the conductor. Sometimes you need to print the ticket. Check the rules for each country. Booking in advance saves money. Last minute tickets are expensive. Make sure your name matches your passport. This is important for international trips. Do not lose your booking reference number.",
+      "zh": "讲解在线购票流程、支付方式及确认信的重要性。",
+      "points": [
+        "in advance: 提前，固定搭配",
+        "confirmation email: 确认邮件，购票凭证",
+        "matches: 与...一致，动词"
+      ]
+    },
+    {
+      "title": "Understanding Rail Passes",
+      "level": "A2-B1",
+      "words": 122,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "A rail pass allows unlimited travel for a set period. The Eurail Pass is famous for visitors. It is valid in many different countries. You can hop on and off trains. This is great for flexible plans. However, it is not always cheaper. You must calculate the total cost. Sometimes point-to-point tickets are better. The pass needs to be activated before use. Write your start date on the pass. You must carry your passport with it. Conductors will check both documents. Some high-speed trains need a reservation. This costs extra money. Read the terms carefully. It is a good choice for long trips.",
+      "zh": "介绍铁路通票（如 Eurail）的优缺点及使用规则。",
+      "points": [
+        "unlimited: 无限的，形容词",
+        "valid: 有效的，指车票在有效期内",
+        "hop on and off: 随时上下车，口语表达"
+      ]
+    },
+    {
+      "title": "Reading Station Screens",
+      "level": "A2-B1",
+      "words": 115,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "When you arrive at the station, look at the big screen. It shows all departures and arrivals. Find your train number first. Then check the destination city. The platform number is very important. It tells you where to wait. The time shows when the train leaves. Sometimes the platform changes suddenly. Listen to the announcements carefully. The screen uses many abbreviations. 'Dep' means depart. 'Arr' means arrive. 'Del' means delayed. If you are confused, ask staff. They wear uniforms and can help. Stand near the screen with your ticket. Compare the information slowly. Do not rush to the wrong platform.",
+      "zh": "指导如何查看车站大屏幕信息，识别关键缩写。",
+      "points": [
+        "departures and arrivals: 出发与到达",
+        "abbreviations: 缩写，如 Dep, Arr",
+        "uniforms: 制服，识别工作人员的依据"
+      ]
+    },
+    {
+      "title": "On Board Experience",
+      "level": "A2-B1",
+      "words": 120,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Once you are on the train, find your seat. The number is on your ticket. Put your luggage on the rack. Do not block the aisle. The conductor will come to check tickets. Show them your phone or paper. You can buy food on some trains. There is a dining car usually. It is expensive but convenient. You can bring your own snacks. Keep your voice down in quiet zones. Many people work or sleep during the ride. The wifi signal is not always strong. Enjoy the view outside the window. The train moves smoothly most of the time. It is a pleasant part of your holiday.",
+      "zh": "描述上车后的体验，包括找座、查票及餐饮设施。",
+      "points": [
+        "on board: 在交通工具上",
+        "aisle: 过道，名词",
+        "quiet zones: 安静区域，需保持低声"
+      ]
+    },
+    {
+      "title": "Crossing Borders",
+      "level": "A2-B1",
+      "words": 128,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Traveling between countries requires some preparation. Most European nations are in the Schengen Area. This means no passport control at the border. However, you must carry your passport always. Police can do random checks on the train. If you go to the UK, rules are different. You need to go through immigration. Keep your documents easy to reach. Do not put them in deep bags. The border control is strict sometimes. Answer questions politely if asked. Declare any expensive items you buy. Customs rules apply to goods too. Know the visa requirements before leaving. It ensures a smooth journey across lines. Safety is the most important thing.",
+      "zh": "讲解跨国交通中的边境检查、申根区及护照携带要求。",
+      "points": [
+        "Schengen Area: 申根区，欧洲免签通行区",
+        "random checks: 随机抽查",
+        "immigration: 入境检查，名词"
+      ]
+    },
+    {
+      "title": "Handling Delays",
+      "level": "A2-B1",
+      "words": 119,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Sometimes trains are late due to weather. Do not panic if this happens. Listen to the station announcements. They will explain the reason. You might wait on the platform. Ask staff about the new time. If the delay is long, you can get a refund. Some tickets allow free changes. Keep your ticket safe as proof. Connectings trains might wait for you. But do not rely on this always. Have a backup plan for hotels. Download offline maps on your phone. Contact your accommodation if late. Most companies apologize for delays. It is not your fault usually. Stay calm and patient during the wait.",
+      "zh": "应对火车晚延的策略，包括听取广播、改签及退款。",
+      "points": [
+        "panic: 恐慌，动词或名词",
+        "refund: 退款，名词",
+        "backup plan: 备用计划"
+      ]
+    },
+    {
+      "title": "Luggage Rules",
+      "level": "A2-B1",
+      "words": 116,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "You can bring large bags on trains. There is no strict weight limit. But you must lift them yourself. Put big suitcases at the end of the car. Small bags go on the overhead rack. Do not leave luggage unattended. It is a security risk. Keep valuables in your pocket. Thieves watch for distracted tourists. Label your bags with your name. This helps if they get lost. Some trains have luggage storage rooms. You need a key or code. Check the size limits for bikes. Sports equipment needs special booking. Travel light if possible. It makes moving easier at stations.",
+      "zh": "说明行李携带规则、存放位置及安全注意事项。",
+      "points": [
+        "unattended: 无人看管的，形容词",
+        "valuables: 贵重物品，名词复数",
+        "overhead rack: 头顶行李架"
+      ]
+    },
+    {
+      "title": "Night Train Tips",
+      "level": "A2-B1",
+      "words": 124,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Night trains save time and hotel costs. You sleep while the train moves. Book a sleeper cabin for comfort. Seats are hard for overnight trips. Lock your door from the inside. Keep your passport under your pillow. Wake up before the final stop. The staff might knock on your door. Bring earplugs for better sleep. The train makes noise on tracks. Breakfast is sometimes included in the price. Check the arrival time carefully. You arrive early in the morning. Wash your face in the small sink. It helps you feel fresh. This is a unique travel experience. Many people love this old style.",
+      "zh": "介绍夜间火车的优势、卧铺预订及安全睡眠建议。",
+      "points": [
+        "sleeper cabin: 卧铺车厢",
+        "overnight: 整夜的，形容词",
+        "earplugs: 耳塞，名词"
+      ]
+    },
+    {
+      "title": "Train Etiquette",
+      "level": "A2-B1",
+      "words": 121,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Respect other passengers on the train. Do not talk loudly on the phone. Use headphones for music and videos. Keep your feet off the seats. This is very impolite behavior. Eat food that does not smell strong. Clean up your trash before leaving. Do not occupy extra seats with bags. If the train is full, move your bag. Help elderly people with luggage. Smile and say hello to neighbors. It creates a friendly atmosphere. Follow the no smoking rule strictly. Smoking is banned on all trains. Being polite makes the trip better. Everyone enjoys a peaceful journey together.",
+      "zh": "强调火车上的礼仪规范，如安静、清洁及互助。",
+      "points": [
+        "etiquette: 礼仪，名词",
+        "headphones: 耳机，名词",
+        "banned: 被禁止的，形容词"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "journey",
+      "pos": "n.",
+      "meaning_en": "the act of traveling from one place to another",
+      "meaning_zh": "旅程，旅行",
+      "example": "The train journey was very relaxing.",
+      "source": "Why Choose Train Travel"
+    },
+    {
+      "word": "comfortable",
+      "pos": "adj.",
+      "meaning_en": "providing physical ease and relaxation",
+      "meaning_zh": "舒适的",
+      "example": "The seats on this train are comfortable.",
+      "source": "Why Choose Train Travel"
+    },
+    {
+      "word": "scenery",
+      "pos": "n.",
+      "meaning_en": "the natural features of a landscape",
+      "meaning_zh": "风景，景色",
+      "example": "You can enjoy the scenery through the window.",
+      "source": "Why Choose Train Travel"
+    },
+    {
+      "word": "book",
+      "pos": "v.",
+      "meaning_en": "to reserve a seat or ticket",
+      "meaning_zh": "预订",
+      "example": "You should book your tickets online.",
+      "source": "Booking Tickets Online"
+    },
+    {
+      "word": "website",
+      "pos": "n.",
+      "meaning_en": "a location on the internet",
+      "meaning_zh": "网站",
+      "example": "There are many websites for this.",
+      "source": "Booking Tickets Online"
+    },
+    {
+      "word": "confirmation",
+      "pos": "n.",
+      "meaning_en": "a statement that something is true",
+      "meaning_zh": "确认，确认信",
+      "example": "You will get a confirmation email.",
+      "source": "Booking Tickets Online"
+    },
+    {
+      "word": "pass",
+      "pos": "n.",
+      "meaning_en": "a ticket for unlimited travel",
+      "meaning_zh": "通票",
+      "example": "A rail pass allows unlimited travel.",
+      "source": "Understanding Rail Passes"
+    },
+    {
+      "word": "unlimited",
+      "pos": "adj.",
+      "meaning_en": "not limited in any way",
+      "meaning_zh": "无限的",
+      "example": "It is valid for unlimited trips.",
+      "source": "Understanding Rail Passes"
+    },
+    {
+      "word": "valid",
+      "pos": "adj.",
+      "meaning_en": "legally or officially acceptable",
+      "meaning_zh": "有效的",
+      "example": "It is valid in many different countries.",
+      "source": "Understanding Rail Passes"
+    },
+    {
+      "word": "platform",
+      "pos": "n.",
+      "meaning_en": "the raised surface where passengers wait",
+      "meaning_zh": "站台",
+      "example": "The platform number is very important.",
+      "source": "Reading Station Screens"
+    },
+    {
+      "word": "depart",
+      "pos": "v.",
+      "meaning_en": "to leave a place",
+      "meaning_zh": "出发，离开",
+      "example": "The screen shows all departures.",
+      "source": "Reading Station Screens"
+    },
+    {
+      "word": "screen",
+      "pos": "n.",
+      "meaning_en": "a display for information",
+      "meaning_zh": "屏幕",
+      "example": "Look at the big screen.",
+      "source": "Reading Station Screens"
+    },
+    {
+      "word": "conductor",
+      "pos": "n.",
+      "meaning_en": "a person who checks tickets on a train",
+      "meaning_zh": "列车员",
+      "example": "The conductor will come to check tickets.",
+      "source": "On Board Experience"
+    },
+    {
+      "word": "check",
+      "pos": "v.",
+      "meaning_en": "to examine something",
+      "meaning_zh": "检查",
+      "example": "Show them your phone to check.",
+      "source": "On Board Experience"
+    },
+    {
+      "word": "seat",
+      "pos": "n.",
+      "meaning_en": "a place to sit",
+      "meaning_zh": "座位",
+      "example": "Find your seat number.",
+      "source": "On Board Experience"
+    },
+    {
+      "word": "border",
+      "pos": "n.",
+      "meaning_en": "the line between two countries",
+      "meaning_zh": "边境，边界",
+      "example": "There is no passport control at the border.",
+      "source": "Crossing Borders"
+    },
+    {
+      "word": "passport",
+      "pos": "n.",
+      "meaning_en": "an official travel document",
+      "meaning_zh": "护照",
+      "example": "You must carry your passport always.",
+      "source": "Crossing Borders"
+    },
+    {
+      "word": "control",
+      "pos": "n.",
+      "meaning_en": "the power to manage or check",
+      "meaning_zh": "检查，控制",
+      "example": "The border control is strict.",
+      "source": "Crossing Borders"
+    },
+    {
+      "word": "delay",
+      "pos": "n.",
+      "meaning_en": "a situation where something is late",
+      "meaning_zh": "延误，延迟",
+      "example": "Sometimes trains are late due to delay.",
+      "source": "Handling Delays"
+    },
+    {
+      "word": "announce",
+      "pos": "v.",
+      "meaning_en": "to make a public statement",
+      "meaning_zh": "广播，宣布",
+      "example": "Listen to the station announcements.",
+      "source": "Handling Delays"
+    },
+    {
+      "word": "refund",
+      "pos": "n.",
+      "meaning_en": "money returned to a payer",
+      "meaning_zh": "退款",
+      "example": "You can get a refund.",
+      "source": "Handling Delays"
+    },
+    {
+      "word": "luggage",
+      "pos": "n.",
+      "meaning_en": "bags and suitcases for travel",
+      "meaning_zh": "行李",
+      "example": "Put your luggage on the rack.",
+      "source": "Luggage Rules"
+    },
+    {
+      "word": "rack",
+      "pos": "n.",
+      "meaning_en": "a frame for holding objects",
+      "meaning_zh": "行李架",
+      "example": "Small bags go on the overhead rack.",
+      "source": "Luggage Rules"
+    },
+    {
+      "word": "allow",
+      "pos": "v.",
+      "meaning_en": "to give permission",
+      "meaning_zh": "允许",
+      "example": "Some tickets allow free changes.",
+      "source": "Luggage Rules"
+    },
+    {
+      "word": "overnight",
+      "pos": "adj.",
+      "meaning_en": "lasting through the night",
+      "meaning_zh": "整夜的",
+      "example": "Seats are hard for overnight trips.",
+      "source": "Night Train Tips"
+    },
+    {
+      "word": "cabin",
+      "pos": "n.",
+      "meaning_en": "a private room on a ship or train",
+      "meaning_zh": "车厢，小包间",
+      "example": "Book a sleeper cabin for comfort.",
+      "source": "Night Train Tips"
+    },
+    {
+      "word": "sleeper",
+      "pos": "n.",
+      "meaning_en": "a train car with beds",
+      "meaning_zh": "卧铺",
+      "example": "The sleeper is more expensive.",
+      "source": "Night Train Tips"
+    },
+    {
+      "word": "quiet",
+      "pos": "adj.",
+      "meaning_en": "making little noise",
+      "meaning_zh": "安静的",
+      "example": "Keep your voice down in quiet zones.",
+      "source": "Train Etiquette"
+    },
+    {
+      "word": "phone",
+      "pos": "n.",
+      "meaning_en": "a mobile device for calls",
+      "meaning_zh": "手机",
+      "example": "Do not talk loudly on the phone.",
+      "source": "Train Etiquette"
+    },
+    {
+      "word": "respect",
+      "pos": "v.",
+      "meaning_en": "to show regard for someone",
+      "meaning_zh": "尊重",
+      "example": "Respect other passengers on the train.",
+      "source": "Train Etiquette"
+    }
+  ],
+  "status": "ready",
+  "generatedBy": "claude",
+  "savedAt": "2026-09-30T11:36:30.234Z"
+}

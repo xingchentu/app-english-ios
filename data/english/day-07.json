@@ -1,0 +1,568 @@
+{
+  "day": 7,
+  "date": "2026-09-26",
+  "theme": "财经 · 通货膨胀与你的钱包",
+  "domain": "财经",
+  "level": "A2 → B1",
+  "goals": [
+    "理解通货膨胀的基本概念及其对日常生活的影响",
+    "掌握 30 个与财经、物价、消费相关的核心词汇",
+    "能够用英语简单讨论物价上涨和个人理财策略",
+    "熟悉财经新闻中常见的句式和表达逻辑"
+  ],
+  "tasks": [
+    {
+      "text": "精读前 5 篇文章（理解基本概念）",
+      "minutes": 20
+    },
+    {
+      "text": "观看前 3 个视频（视觉化学习）",
+      "minutes": 15
+    },
+    {
+      "text": "泛读后 5 篇文章（拓展应用场景）",
+      "minutes": 15
+    },
+    {
+      "text": "观看后 3 个视频（加深理解）",
+      "minutes": 5
+    },
+    {
+      "text": "复习词汇表与必学内容",
+      "minutes": 5
+    }
+  ],
+  "mustLearn": [
+    {
+      "title": "高频表达：Cost of Living",
+      "type": "expression",
+      "content": "English: The cost of living is rising every year.\n中文：生活成本每年都在上涨。\n解析：'Cost of living' 是财经高频词，指维持一定生活水平所需的费用。搭配动词 rise/go up 使用。"
+    },
+    {
+      "title": "实用句型：Due To",
+      "type": "grammar",
+      "content": "English: Prices are high due to inflation.\n中文：由于通货膨胀，物价很高。\n解析：'Due to' 表示原因，相当于 because of。后接名词或名词短语，常用于解释经济现象。"
+    },
+    {
+      "title": "核心动词：Protect",
+      "type": "expression",
+      "content": "English: You need to protect your savings.\n中文：你需要保护你的储蓄。\n解析：'Protect' 意为保护。在理财语境中，常指抵御通胀风险，保持购买力。"
+    },
+    {
+      "title": "对比表达：More Than Before",
+      "type": "expression",
+      "content": "English: We pay more than before for food.\n中文：我们为食物支付的比以前更多。\n解析：'More than before' 是简单的比较结构，用于描述变化。适合 A2 学习者描述通胀影响。"
+    },
+    {
+      "title": "理财建议：Make a Budget",
+      "type": "expression",
+      "content": "English: It is wise to make a budget.\n中文：制定预算是明智的。\n解析：'Make a budget' 指规划收支。'Wise' 表示明智的，常用于建议句型。"
+    }
+  ],
+  "expand": [
+    {
+      "title": "文化注释：CPI 指数",
+      "type": "note",
+      "content": "CPI (Consumer Price Index) 是衡量通胀的关键指标。新闻中常说 'CPI is up'，意味着物价普遍上涨。"
+    },
+    {
+      "title": "同义替换：Increase",
+      "type": "note",
+      "content": "在财经英语中，increase 可替换为 rise, go up, climb, grow。例如：Prices rose last month."
+    },
+    {
+      "title": "背景知识：央行角色",
+      "type": "note",
+      "content": "Central Bank（中央银行）通过调整 Interest Rate（利率）来控制通胀。利率高时，存钱更有吸引力。"
+    },
+    {
+      "title": "进阶例句：Purchasing Power",
+      "type": "note",
+      "content": "Inflation reduces your purchasing power. (通货膨胀降低了你的购买力。) 这是更专业的表达方式。"
+    },
+    {
+      "title": "常见误区：Saving Cash",
+      "type": "note",
+      "content": "在高通胀时期，仅持有现金（cash）可能会贬值。 diversify investments（分散投资）是常见建议。"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Inflation Explained Simply",
+      "url": "https://www.youtube.com/results?search_query=inflation+explained+simple+english",
+      "channel": "Economics Explained",
+      "minutes": 8,
+      "desc": "用简单英语解释通货膨胀的基本原理。"
+    },
+    {
+      "title": "Cost of Living Crisis",
+      "url": "https://www.youtube.com/results?search_query=cost+of+living+crisis+explained",
+      "channel": "CNBC",
+      "minutes": 10,
+      "desc": "分析当前生活成本上升的新闻报道。"
+    },
+    {
+      "title": "How to Save Money",
+      "url": "https://www.youtube.com/results?search_query=how+to+save+money+during+inflation",
+      "channel": "Dave Ramsey",
+      "minutes": 12,
+      "desc": "通胀期间如何存钱的实用建议。"
+    },
+    {
+      "title": "What Causes Inflation",
+      "url": "https://www.youtube.com/results?search_query=what+causes+inflation+economy",
+      "channel": "Khan Academy",
+      "minutes": 7,
+      "desc": "学术视角讲解通胀成因。"
+    },
+    {
+      "title": "Personal Finance Basics",
+      "url": "https://www.youtube.com/results?search_query=personal+finance+basics+for+beginners",
+      "channel": "The Financial Diet",
+      "minutes": 9,
+      "desc": "个人理财基础入门指南。"
+    },
+    {
+      "title": "Federal Reserve Rates",
+      "url": "https://www.youtube.com/results?search_query=federal+reserve+interest+rates+explained",
+      "channel": "Bloomberg",
+      "minutes": 6,
+      "desc": "解释美联储利率如何影响你的钱包。"
+    }
+  ],
+  "articles": [
+    {
+      "title": "What Is Inflation",
+      "level": "A2-B1",
+      "words": 115,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Inflation is when prices go up over time. Imagine you buy bread today for one dollar. Next year, the same bread might cost one dollar and ten cents. This means your money buys less than before. It happens in many countries around the world. When inflation is high, people worry about their wallets. They need to spend carefully on daily goods. Banks try to control this economic problem. They change interest rates to help. For you, it means saving is hard sometimes. But you can learn to manage money better. Understanding inflation helps you plan your future. You know why things cost more now. You can adjust your budget accordingly. Do not panic about the changes. Just learn the financial basics. Knowledge is power for your finance.",
+      "zh": "解释通货膨胀的基本定义及其对购买力的影响。",
+      "points": [
+        "go up: 上涨，用于描述价格变化",
+        "buy less than before: 比以前买得少，表示购买力下降",
+        "manage money: 管理金钱，理财常用表达"
+      ]
+    },
+    {
+      "title": "Why Prices Rise",
+      "level": "A2-B1",
+      "words": 120,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Why do prices rise in the store? There are many reasons for this change. Sometimes, the cost to make things is higher. Oil and transport cost more money. Companies need to pay workers too. If they pay more, they sell products for more. This is called cost-push inflation. Another reason is demand. If many people want to buy one thing, the price goes up. This is demand-pull inflation. Money supply matters as well. If there is too much money in the economy, value drops. Governments print money sometimes. This can cause prices to increase fast. Understanding these reasons helps you see the big picture. You know it is not just one thing. It is a complex system of trade.",
+      "zh": "分析物价上涨的多种原因，包括成本和需求。",
+      "points": [
+        "cost to make things: 制造成本",
+        "demand: 需求，经济学核心词汇",
+        "value drops: 价值下降"
+      ]
+    },
+    {
+      "title": "The Grocery Store",
+      "level": "A2-B1",
+      "words": 118,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Let us look at the grocery store example. You walk in with a shopping list. Last month, milk was three dollars. Today, it is three dollars and fifty cents. Eggs are also more expensive. You feel the difference in your wallet. This is real life inflation. It affects what you eat for dinner. Families need to change their habits. They might buy cheaper brands now. Or they buy less meat and more vegetables. Small changes add up over time. You save a little each week. But the total cost is still higher. Cashiers scan the items quickly. The final number on the screen is big. You pay with card or cash. Every dollar counts in this economy.",
+      "zh": "通过超市购物场景描述通胀对日常生活的具体影响。",
+      "points": [
+        "shopping list: 购物清单",
+        "add up: 累积，合计",
+        "Every dollar counts: 每一分钱都很重要"
+      ]
+    },
+    {
+      "title": "Salary And Value",
+      "level": "A2-B1",
+      "words": 125,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Your salary is important during inflation. If prices go up, you need more income. But does your pay increase too? Sometimes yes, sometimes no. If your salary stays the same, you are poorer. Your real value goes down. Workers ask bosses for more money. They want to keep their lifestyle. Companies might give a raise. But not everyone gets it. This creates stress for families. You need to plan your career well. Learning new skills helps you earn more. A higher income protects you from price rises. You can still save for holidays. Do not wait for others to help. Take action to improve your situation. Financial security is a good goal.",
+      "zh": "讨论工资与通胀的关系，以及收入对生活质量的影响。",
+      "points": [
+        "income: 收入，比 money 更正式",
+        "stay the same: 保持不变",
+        "give a raise: 加薪"
+      ]
+    },
+    {
+      "title": "Saving Strategies",
+      "level": "A2-B1",
+      "words": 122,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "How can you save money now? You need smart strategies for your wallet. First, make a budget plan. Write down what you spend every day. Coffee and lunch add up quickly. Second, cook at home more often. Restaurant food is very expensive now. Third, compare prices before you buy. Use apps to find good deals. Fourth, buy things on sale. Wait for discounts if you can. Fifth, stop buying unnecessary things. Do you really need that new phone? Maybe wait for next year. Small habits make a big difference. You keep more cash in the bank. This helps you feel safe. Safety is important for your mind.",
+      "zh": "提供应对通胀的具体储蓄策略和生活建议。",
+      "points": [
+        "budget plan: 预算计划",
+        "good deals: 优惠交易",
+        "unnecessary things: 不必要的物品"
+      ]
+    },
+    {
+      "title": "Investing Basics",
+      "level": "A2-B1",
+      "words": 128,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Saving is good, but investing is better. When inflation is high, cash loses value. You need to grow your money. Stocks and bonds are common ways. Stocks mean you own part of a company. If the company grows, you make profit. Bonds are like loans to the government. They pay you interest over time. Real estate is another option. Houses often keep value well. But you need a lot of money first. Start small if you are young. Learn about the market risks. Do not put all money in one place. Diversify your investments carefully. Ask experts for advice if needed. Long term thinking is key here. You build wealth for the future.",
+      "zh": "介绍基础投资知识，说明投资如何抵御通胀。",
+      "points": [
+        "lose value: 贬值",
+        "make profit: 获利",
+        "Diversify: 分散投资"
+      ]
+    },
+    {
+      "title": "Central Bank Role",
+      "level": "A2-B1",
+      "words": 116,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Who controls the money system? The Central Bank plays a big role. In the US, it is the Federal Reserve. They watch the economy closely. If inflation is too high, they act. They raise interest rates usually. This makes borrowing money expensive. People buy fewer houses and cars. Demand goes down slowly. Then prices stop rising fast. If economy is weak, they lower rates. This helps people spend more. It is a balancing act always. They want stable prices for everyone. Your bank savings rate changes too. When rates are high, save more. When rates are low, invest more. Follow the news to know their plans.",
+      "zh": "解释中央银行如何通过利率政策控制通货膨胀。",
+      "points": [
+        "Central Bank: 中央银行",
+        "raise interest rates: 提高利率",
+        "balancing act: 平衡行为"
+      ]
+    },
+    {
+      "title": "Global Differences",
+      "level": "A2-B1",
+      "words": 119,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Inflation is not the same everywhere. Some countries have high rates. Others have low rates stable. Developing nations often face more problems. Their currency might lose value fast. Imported goods cost much more there. Rich countries have better control tools. They have strong banks and laws. But even they face crises sometimes. Energy prices affect all nations. Oil is used for transport globally. If oil price jumps, everyone pays more. Travel becomes expensive for tourists. Shipping costs rise for businesses. You see this in local shops. Global events change your local wallet. We are connected in this economy.",
+      "zh": "对比不同国家的通胀情况及其全球关联性。",
+      "points": [
+        "Developing nations: 发展中国家",
+        "currency: 货币",
+        "Imported goods: 进口商品"
+      ]
+    },
+    {
+      "title": "History Lesson",
+      "level": "A2-B1",
+      "words": 124,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "History teaches us about money problems. In the past, some countries had hyperinflation. Prices doubled every day sometimes. People carried bags of cash for bread. Money became worthless paper quickly. This hurts normal people most. Savings disappear overnight sadly. Governments failed to manage well. Today, we learn from those mistakes. Policies are stricter now usually. We try to keep stability. But history can repeat itself. We must stay alert and wise. Read about economic history books. Know what happened in the 1970s. Oil crisis caused high inflation then. Lessons from the past protect us. We do not want that again.",
+      "zh": "通过历史案例说明恶性通胀的危害及教训。",
+      "points": [
+        "hyperinflation: 恶性通货膨胀",
+        "worthless: 无价值的",
+        "stay alert: 保持警惕"
+      ]
+    },
+    {
+      "title": "Future Planning",
+      "level": "A2-B1",
+      "words": 121,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "What should you do for the future? Start planning your finance today. Do not wait for problems to come. Set clear goals for your life. Buy a house or travel more? Save for education or retirement? Inflation will continue probably. You need to grow your wealth. Keep learning about money matters. Read books and watch videos. Talk to friends about ideas. Join online communities for tips. Protect your income sources well. Have more than one job if possible. Side income helps a lot. Stay healthy to work longer. Your mind is your best asset. Plan well and live happily.",
+      "zh": "总结个人应对未来的理财规划建议。",
+      "points": [
+        "Set clear goals: 设定清晰目标",
+        "retirement: 退休",
+        "asset: 资产"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "inflation",
+      "pos": "n.",
+      "meaning_en": "a general increase in prices",
+      "meaning_zh": "通货膨胀",
+      "example": "Inflation makes things expensive.",
+      "source": "What Is Inflation"
+    },
+    {
+      "word": "price",
+      "pos": "n.",
+      "meaning_en": "the amount of money for something",
+      "meaning_zh": "价格",
+      "example": "The price of bread went up.",
+      "source": "What Is Inflation"
+    },
+    {
+      "word": "cost",
+      "pos": "n.",
+      "meaning_en": "the money needed to buy or make something",
+      "meaning_zh": "成本，费用",
+      "example": "The cost of living is high.",
+      "source": "Why Prices Rise"
+    },
+    {
+      "word": "value",
+      "pos": "n.",
+      "meaning_en": "how much something is worth",
+      "meaning_zh": "价值",
+      "example": "Your money loses value over time.",
+      "source": "What Is Inflation"
+    },
+    {
+      "word": "money",
+      "pos": "n.",
+      "meaning_en": "coins and notes used to buy things",
+      "meaning_zh": "钱，货币",
+      "example": "You need money to pay bills.",
+      "source": "What Is Inflation"
+    },
+    {
+      "word": "currency",
+      "pos": "n.",
+      "meaning_en": "the system of money used in a country",
+      "meaning_zh": "货币",
+      "example": "The currency lost value quickly.",
+      "source": "Global Differences"
+    },
+    {
+      "word": "buy",
+      "pos": "v.",
+      "meaning_en": "to get something by paying money",
+      "meaning_zh": "购买",
+      "example": "I buy food at the store.",
+      "source": "What Is Inflation"
+    },
+    {
+      "word": "purchase",
+      "pos": "v.",
+      "meaning_en": "to buy something formally",
+      "meaning_zh": "购买",
+      "example": "You can purchase items online.",
+      "source": "Saving Strategies"
+    },
+    {
+      "word": "sell",
+      "pos": "v.",
+      "meaning_en": "to give something for money",
+      "meaning_zh": "出售",
+      "example": "Companies sell products to people.",
+      "source": "Why Prices Rise"
+    },
+    {
+      "word": "save",
+      "pos": "v.",
+      "meaning_en": "to keep money for future use",
+      "meaning_zh": "储蓄",
+      "example": "You should save money for emergencies.",
+      "source": "Saving Strategies"
+    },
+    {
+      "word": "invest",
+      "pos": "v.",
+      "meaning_en": "to use money to make more money",
+      "meaning_zh": "投资",
+      "example": "He wants to invest in stocks.",
+      "source": "Investing Basics"
+    },
+    {
+      "word": "bank",
+      "pos": "n.",
+      "meaning_en": "a place to keep money safely",
+      "meaning_zh": "银行",
+      "example": "I put my money in the bank.",
+      "source": "What Is Inflation"
+    },
+    {
+      "word": "interest",
+      "pos": "n.",
+      "meaning_en": "extra money paid for saving or borrowing",
+      "meaning_zh": "利息",
+      "example": "The bank pays interest on savings.",
+      "source": "Central Bank Role"
+    },
+    {
+      "word": "rate",
+      "pos": "n.",
+      "meaning_en": "a measure of speed or change",
+      "meaning_zh": "比率，利率",
+      "example": "The interest rate is high now.",
+      "source": "Central Bank Role"
+    },
+    {
+      "word": "increase",
+      "pos": "v.",
+      "meaning_en": "to become larger in amount",
+      "meaning_zh": "增加",
+      "example": "Prices increase every year.",
+      "source": "Why Prices Rise"
+    },
+    {
+      "word": "rise",
+      "pos": "v.",
+      "meaning_en": "to go up",
+      "meaning_zh": "上升",
+      "example": "The sun rises in the east.",
+      "source": "Why Prices Rise"
+    },
+    {
+      "word": "decrease",
+      "pos": "v.",
+      "meaning_en": "to become smaller in amount",
+      "meaning_zh": "减少",
+      "example": "We need to decrease spending.",
+      "source": "Saving Strategies"
+    },
+    {
+      "word": "fall",
+      "pos": "v.",
+      "meaning_en": "to go down",
+      "meaning_zh": "下降",
+      "example": "Prices might fall next month.",
+      "source": "Investing Basics"
+    },
+    {
+      "word": "expensive",
+      "pos": "adj.",
+      "meaning_en": "costing a lot of money",
+      "meaning_zh": "昂贵的",
+      "example": "This car is too expensive.",
+      "source": "The Grocery Store"
+    },
+    {
+      "word": "cheap",
+      "pos": "adj.",
+      "meaning_en": "costing little money",
+      "meaning_zh": "便宜的",
+      "example": "I look for cheap flights.",
+      "source": "The Grocery Store"
+    },
+    {
+      "word": "budget",
+      "pos": "n.",
+      "meaning_en": "a plan for spending money",
+      "meaning_zh": "预算",
+      "example": "Make a budget before you spend.",
+      "source": "Saving Strategies"
+    },
+    {
+      "word": "plan",
+      "pos": "n.",
+      "meaning_en": "a detailed way to do something",
+      "meaning_zh": "计划",
+      "example": "We have a plan for savings.",
+      "source": "Future Planning"
+    },
+    {
+      "word": "salary",
+      "pos": "n.",
+      "meaning_en": "fixed regular payment for work",
+      "meaning_zh": "工资",
+      "example": "My salary pays the rent.",
+      "source": "Salary And Value"
+    },
+    {
+      "word": "income",
+      "pos": "n.",
+      "meaning_en": "money received regularly",
+      "meaning_zh": "收入",
+      "example": "High income helps you save.",
+      "source": "Salary And Value"
+    },
+    {
+      "word": "spend",
+      "pos": "v.",
+      "meaning_en": "to use money to buy things",
+      "meaning_zh": "花费",
+      "example": "Do not spend all your money.",
+      "source": "Saving Strategies"
+    },
+    {
+      "word": "goods",
+      "pos": "n.",
+      "meaning_en": "things that are bought and sold",
+      "meaning_zh": "商品",
+      "example": "Daily goods cost more now.",
+      "source": "What Is Inflation"
+    },
+    {
+      "word": "services",
+      "pos": "n.",
+      "meaning_en": "work done for others for money",
+      "meaning_zh": "服务",
+      "example": "Health services are important.",
+      "source": "Global Differences"
+    },
+    {
+      "word": "economy",
+      "pos": "n.",
+      "meaning_en": "the system of money and trade",
+      "meaning_zh": "经济",
+      "example": "The economy is growing slowly.",
+      "source": "Why Prices Rise"
+    },
+    {
+      "word": "policy",
+      "pos": "n.",
+      "meaning_en": "a set of rules or plans",
+      "meaning_zh": "政策",
+      "example": "Government policy affects prices.",
+      "source": "Central Bank Role"
+    },
+    {
+      "word": "change",
+      "pos": "v.",
+      "meaning_en": "to become different",
+      "meaning_zh": "改变",
+      "example": "Prices change every day.",
+      "source": "What Is Inflation"
+    },
+    {
+      "word": "future",
+      "pos": "n.",
+      "meaning_en": "the time that will come",
+      "meaning_zh": "未来",
+      "example": "Plan for your future now.",
+      "source": "Future Planning"
+    },
+    {
+      "word": "past",
+      "pos": "n.",
+      "meaning_en": "the time that has gone",
+      "meaning_zh": "过去",
+      "example": "Learn from the past mistakes.",
+      "source": "History Lesson"
+    },
+    {
+      "word": "wealth",
+      "pos": "n.",
+      "meaning_en": "a large amount of money",
+      "meaning_zh": "财富",
+      "example": "You build wealth over time.",
+      "source": "Investing Basics"
+    },
+    {
+      "word": "asset",
+      "pos": "n.",
+      "meaning_en": "a useful or valuable thing",
+      "meaning_zh": "资产",
+      "example": "Your mind is your best asset.",
+      "source": "Future Planning"
+    },
+    {
+      "word": "stable",
+      "pos": "adj.",
+      "meaning_en": "not changing or moving",
+      "meaning_zh": "稳定的",
+      "example": "We want stable prices.",
+      "source": "Central Bank Role"
+    },
+    {
+      "word": "crisis",
+      "pos": "n.",
+      "meaning_en": "a time of great difficulty",
+      "meaning_zh": "危机",
+      "example": "The oil crisis caused problems.",
+      "source": "History Lesson"
+    }
+  ],
+  "status": "ready",
+  "generatedBy": "claude",
+  "savedAt": "2026-09-30T11:51:48.522Z"
+}

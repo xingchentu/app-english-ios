@@ -1,0 +1,522 @@
+{
+  "day": 2,
+  "date": "2026-09-21",
+  "theme": "财经 · 复利与指数基金入门",
+  "domain": "财经",
+  "level": "A2 → B1",
+  "goals": [
+    "理解复利（Compound Interest）的基本原理及英文表达",
+    "掌握指数基金（Index Fund）相关的核心金融词汇",
+    "能够用简单英语描述长期投资策略",
+    "听懂慢速财经科普视频的关键信息点"
+  ],
+  "tasks": [
+    {
+      "text": "精读前 5 篇英文短文，标注生词",
+      "minutes": 20
+    },
+    {
+      "text": "观看 2 个推荐视频，开启英文字幕",
+      "minutes": 20
+    },
+    {
+      "text": "学习 32 个核心词汇并完成例句造句",
+      "minutes": 10
+    },
+    {
+      "text": "阅读后 5 篇短文并复盘今日内容",
+      "minutes": 10
+    }
+  ],
+  "mustLearn": [
+    {
+      "title": "核心表达：Let money work for you",
+      "type": "expression",
+      "content": "英文：'You don't work for money; you let money work for you.'\n中文讲解：这是理财经典句式。work for 表示‘为...工作’。\n要点解析：前半句是常态（人赚钱），后半句是目标（钱生钱）。注意 let 后面接动词原形 work。"
+    },
+    {
+      "title": "语法点：Comparative + and + Comparative",
+      "type": "grammar",
+      "content": "英文：'The longer you wait, the more you gain.'\n中文讲解：'The + 比较级，the + 比较级' 结构，表示‘越...越...'。\n要点解析：用于描述复利效应中时间与收益的正比关系。wait 和 gain 都是动词，保持时态一致。"
+    },
+    {
+      "title": "高频搭配：Invest in...",
+      "type": "expression",
+      "content": "英文：'It is safe to invest in index funds.'\n中文讲解：invest in 后接投资对象（股票、基金、市场）。\n要点解析：介词 in 不可省略。例如：invest in stocks, invest in yourself."
+    }
+  ],
+  "expand": [
+    {
+      "title": "文化注释：Rule of 72",
+      "type": "note",
+      "content": "72 法则是一个简单公式，用于估算资金翻倍所需时间。用 72 除以年利率（百分比），即可得到大概年数。例如利率 6%，72/6=12 年翻倍。"
+    },
+    {
+      "title": "同义替换：Grow vs Increase",
+      "type": "note",
+      "content": "在财经语境中，money grows 比 money increases 更地道。Grow 暗示自然生长过程，Increase 仅指数量上升。"
+    },
+    {
+      "title": "背景知识：S&P 500",
+      "type": "note",
+      "content": "标准普尔 500 指数，包含美国 500 家大型上市公司。它是衡量美股市场表现的最重要指标，也是指数基金最常见的追踪对象。"
+    },
+    {
+      "title": "进阶例句：Inflation Impact",
+      "type": "note",
+      "content": "Real return = Nominal return - Inflation. 实际收益等于名义收益减去通货膨胀。这是保护购买力的关键概念。"
+    },
+    {
+      "title": "实用建议：Dollar-Cost Averaging",
+      "type": "note",
+      "content": "定投策略。每月固定金额买入，不管价格高低。这能降低市场波动风险，适合初学者建立纪律。"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Compound Interest Explained Simply",
+      "url": "https://www.youtube.com/results?search_query=compound+interest+explained+simple",
+      "channel": "General Search",
+      "minutes": 8,
+      "desc": "用动画演示复利如何随时间增长，适合初学者。"
+    },
+    {
+      "title": "Index Funds for Beginners",
+      "url": "https://www.youtube.com/results?search_query=index+funds+for+beginners",
+      "channel": "General Search",
+      "minutes": 10,
+      "desc": "解释什么是指数基金以及为什么它适合普通人。"
+    },
+    {
+      "title": "Warren Buffett on Index Funds",
+      "url": "https://www.youtube.com/results?search_query=Warren+Buffett+index+funds+advice",
+      "channel": "General Search",
+      "minutes": 6,
+      "desc": "巴菲特建议普通人投资指数基金的采访片段。"
+    },
+    {
+      "title": "Passive Investing Strategy",
+      "url": "https://www.youtube.com/results?search_query=passive+investing+strategy",
+      "channel": "General Search",
+      "minutes": 12,
+      "desc": "对比主动投资与被动投资的优缺点分析。"
+    },
+    {
+      "title": "The Plain Bagel",
+      "url": "https://www.youtube.com/@ThePlainBagel",
+      "channel": "The Plain Bagel",
+      "minutes": 15,
+      "desc": "专业金融从业者频道，内容深度适中且客观。"
+    },
+    {
+      "title": "Financial Times",
+      "url": "https://www.youtube.com/@FinancialTimes",
+      "channel": "Financial Times",
+      "minutes": 10,
+      "desc": "全球财经新闻，适合了解市场大环境背景。"
+    }
+  ],
+  "articles": [
+    {
+      "title": "The Snowball Effect",
+      "level": "A2",
+      "words": 120,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Money can grow like a snowball rolling down a hill. When you put money in a bank or fund, you get interest. Simple interest is linear, but compound interest is exponential. It means you earn interest on your previous interest. Over ten years, this makes a huge difference. If you start with 1000 dollars at 5 percent, you get 50 dollars the first year. Next year, you get 5 percent on 1050 dollars. This cycle continues automatically. Time is your best friend in this process. The longer you wait, the more you gain. Many people ignore this power completely. They spend money now instead of saving for later. But wealthy people understand this rule well. They let their money work for them daily. You do not need to be rich to start this. You just need to be consistent with your savings. Small amounts add up quickly over decades. This is the secret of building wealth slowly. It is not about luck or guessing games. It is about math and patience combined.",
+      "zh": "介绍复利像滚雪球一样的效应，强调时间的重要性。",
+      "points": [
+        "exponential: 指数的，形容增长速度快",
+        "cycle: 循环，指利息再生利息的过程",
+        "consistent: 持续的，强调坚持储蓄"
+      ]
+    },
+    {
+      "title": "Time Is Money",
+      "level": "A2",
+      "words": 115,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "People often say time is money, but in investing, time is more valuable. Starting early gives your money more time to grow. Imagine two friends, Tom and Jerry. Tom starts investing at age 25. Jerry waits until age 35 to start. They both put in the same amount every month. When they retire at 65, Tom has much more money. Why? Because his money worked for ten extra years. Those ten years make a massive difference in compound interest. You cannot get those years back later in life. So the best time to plant a tree was yesterday. The second best time is today. Do not wait for the perfect moment to begin. The market will go up and down constantly. But over long periods, it usually goes up. Patience is the key virtue for investors. Stop trying to time the market perfectly. Just start now with whatever you have available.",
+      "zh": "通过 Tom 和 Jerry 的故事说明尽早投资的重要性。",
+      "points": [
+        "valuable: 有价值的，指时间比金钱更珍贵",
+        "retire: 退休，指停止工作的年龄",
+        "virtue: 美德，指投资者需要的品质"
+      ]
+    },
+    {
+      "title": "Einstein's Favorite Rule",
+      "level": "A2",
+      "words": 110,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Albert Einstein reportedly called compound interest the eighth wonder of the world. He said those who understand it earn it. Those who do not understand it pay it. This quote highlights the power of knowledge in finance. If you borrow money, compound interest works against you. Credit card debt grows very fast due to high rates. But if you invest money, it works for you positively. Your assets increase without extra effort from you. This is why financial education is so critical today. Schools rarely teach this important concept to students. Most people learn about it too late in life. They spend years working hard for a salary only. They miss the chance to build passive income streams. Understanding this rule changes your mindset completely. You start looking for ways to make money grow. You stop seeing money just as a tool for spending. It becomes a tool for freedom and security instead.",
+      "zh": "引用爱因斯坦的名言，强调理解复利的双向作用。",
+      "points": [
+        "reportedly: 据称，表示消息来源不确定",
+        "assets: 资产，指拥有的有价值的东西",
+        "passive income: 被动收入，指不需要主动工作获得的收入"
+      ]
+    },
+    {
+      "title": "What Is An Index",
+      "level": "A2-B1",
+      "words": 125,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "An index is like a basket of many different stocks. It measures the performance of a specific market section. For example, the S&P 500 tracks 500 large companies in America. When people say the market is up, they mean the index is up. You cannot buy an index directly by itself usually. Instead, you buy a fund that follows the index. This is called an index fund. It holds all the stocks in the same proportion. This gives you instant diversification immediately. You do not need to pick individual winning stocks. Picking stocks is hard and risky for beginners. Even experts fail to beat the market often. An index fund gives you average market returns safely. Average returns are actually very good over time. Historically, the stock market returns about 10 percent yearly. This is much better than a savings account rate. It is a simple way to own a piece of the economy.",
+      "zh": "解释指数的概念及其与指数基金的关系。",
+      "points": [
+        "basket: 篮子，比喻投资组合",
+        "diversification: 分散投资，降低风险",
+        "proportion: 比例，指持有股票的权重"
+      ]
+    },
+    {
+      "title": "The S And P 500",
+      "level": "A2-B1",
+      "words": 130,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "The S&P 500 is the most famous stock market index globally. It includes 500 of the largest public companies in the US. Names like Apple, Microsoft, and Amazon are inside it. When you invest in an S&P 500 fund, you own all of them. This reduces risk significantly compared to one stock. If one company fails, others balance the loss out. The index is rebalanced periodically by committee. Companies that grow big get added to the list. Companies that shrink get removed from it automatically. This ensures the index stays strong over decades. Many mutual funds and ETFs track this index closely. The fees for these funds are very low usually. Low fees mean more money stays in your pocket. High fees eat away your profits silently over time. Always check the expense ratio before buying funds. A difference of 1 percent matters a lot in 30 years. Keep costs low to maximize your final returns.",
+      "zh": "详细介绍标普 500 指数的构成及优势。",
+      "points": [
+        "public companies: 上市公司，指股票公开交易的公司",
+        "rebalanced: 再平衡，指调整成分股",
+        "expense ratio: 费用比率，指基金的管理费"
+      ]
+    },
+    {
+      "title": "Active Or Passive",
+      "level": "B1",
+      "words": 135,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Investors face a choice between active and passive strategies. Active managers try to beat the market constantly. They buy and sell stocks frequently based on research. They charge higher fees for their expert services. Passive managers just copy the market index exactly. They buy and hold stocks for long periods quietly. They charge very low fees for minimal work. Studies show most active managers fail to win. They cannot beat the index after fees consistently. Passive investing is simpler and cheaper for most people. You do not need to read financial news daily. You do not need to analyze company reports ever. You just buy the whole market and wait patiently. This saves time and reduces stress significantly. Emotional trading often leads to poor decisions sadly. Passive strategies remove emotion from the process entirely. It is boring but effective for building wealth slowly. Simplicity is often the best strategy in finance.",
+      "zh": "对比主动投资与被动投资的策略及效果。",
+      "points": [
+        "strategies: 策略，指投资的方法论",
+        "frequently: 频繁地，指交易次数多",
+        "minimal: 最小的，指工作量少"
+      ]
+    },
+    {
+      "title": "Buffett's Simple Advice",
+      "level": "A2-B1",
+      "words": 120,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Warren Buffett is one of the richest men alive. He gives simple advice for regular people often. He tells his wife to put money in index funds. He knows picking stocks is too hard for most. Even he recommends low-cost S&P 500 funds for others. This shows humility and confidence in the market. He believes America's economy will grow over time. He ignores short-term noise and market crashes. He focuses on long-term value creation only. His success comes from patience and discipline strictly. He does not try to get rich quickly ever. He lets compound interest work for decades slowly. You can follow his advice without being a genius. You just need to trust the system partially. Do not panic when prices drop suddenly. Buy more when things are on sale cheaply. Stay the course regardless of news headlines.",
+      "zh": "讲述巴菲特的投资建议及其背后的逻辑。",
+      "points": [
+        "humility: 谦逊，指大佬也认可指数基金",
+        "discipline: 纪律，指坚持投资计划",
+        "panic: 恐慌，指市场下跌时的情绪"
+      ]
+    },
+    {
+      "title": "Start Early Not Late",
+      "level": "A2",
+      "words": 115,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Procrastination is the enemy of wealth building seriously. Many people say they will start next year soon. But next year never comes for many planners. The cost of waiting is higher than you think. Every year you delay costs you thousands later. Your future self will thank you for starting now. You do not need a large sum to begin investing. Even 50 dollars a month makes a difference. Set up an automatic transfer from your bank. This removes the need for willpower completely. Money moves before you can spend it elsewhere. Treat investing like a necessary bill payment. It is paying your future self first always. Cut unnecessary expenses to free up cash flow. Coffee or dining out can be reduced slightly. Small sacrifices today bring big rewards tomorrow. Make investing a habit like brushing teeth daily.",
+      "zh": "强调克服拖延症，尽早开始投资行动。",
+      "points": [
+        "Procrastination: 拖延症，指推迟行动的习惯",
+        "delay: 延迟，指晚开始投资",
+        "automatic transfer: 自动转账，指定时扣款"
+      ]
+    },
+    {
+      "title": "Avoid Common Traps",
+      "level": "A2-B1",
+      "words": 130,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "New investors often fall into common psychological traps. They buy when prices are high due to excitement. They sell when prices are low due to fear. This buys high and sells low pattern loses money. Another trap is chasing hot trends blindly. Crypto or tech stocks might seem attractive suddenly. But trends change faster than you can react. High risk often leads to high losses unfortunately. Stick to boring investments that work proven. Avoid trying to time the market entries. No one knows exactly when the bottom is. Diversify your portfolio across different asset classes. Do not put all eggs in one basket ever. Keep an emergency fund separate from investments. You need cash for unexpected life events safely. Education is your best defense against scams. If it sounds too good to be true, it is.",
+      "zh": "列举新手投资者常见的心理误区及陷阱。",
+      "points": [
+        "psychological: 心理的，指情绪影响决策",
+        "trends: 趋势，指市场热点",
+        "scams: 骗局，指虚假高收益投资"
+      ]
+    },
+    {
+      "title": "Your Action Plan",
+      "level": "A2-B1",
+      "words": 125,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Here is a simple step-by-step plan for you. First, open a brokerage account online easily. Choose a platform with low fees and good tools. Second, decide on a monthly budget for investing. Make sure you can afford it comfortably monthly. Third, select a broad market index fund wisely. Look for low expense ratios under 0.1 percent. Fourth, set up automatic deposits every single month. Fifth, ignore the news and check balances rarely. Checking too often causes unnecessary stress anxiety. Sixth, increase your contribution when income rises. As you earn more, save more proportionally. Seventh, hold until retirement or major goal reached. Selling early interrupts the compounding process sadly. Eighth, review your plan once a year only. Rebalance if your asset allocation shifts significantly. Consistency is the magic ingredient for success finally.",
+      "zh": "提供具体的八步行动计划供学习者执行。",
+      "points": [
+        "brokerage account: 经纪账户，指股票交易账户",
+        "contribution: 投入资金，指每月投资额",
+        "allocation: 配置，指资产分布比例"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "interest",
+      "pos": "n.",
+      "meaning_en": "money paid for borrowing or saving money",
+      "meaning_zh": "利息",
+      "example": "The bank pays 5 percent interest on savings.",
+      "source": "The Snowball Effect"
+    },
+    {
+      "word": "compound",
+      "pos": "adj.",
+      "meaning_en": "made of several parts or mixed",
+      "meaning_zh": "复合的",
+      "example": "Compound interest grows faster than simple interest.",
+      "source": "The Snowball Effect"
+    },
+    {
+      "word": "exponential",
+      "pos": "adj.",
+      "meaning_en": "increasing very quickly",
+      "meaning_zh": "指数的",
+      "example": "The growth became exponential after ten years.",
+      "source": "The Snowball Effect"
+    },
+    {
+      "word": "cycle",
+      "pos": "n.",
+      "meaning_en": "a series of events that repeat",
+      "meaning_zh": "循环",
+      "example": "This cycle continues automatically every year.",
+      "source": "The Snowball Effect"
+    },
+    {
+      "word": "consistent",
+      "pos": "adj.",
+      "meaning_en": "doing something in the same way over time",
+      "meaning_zh": "持续的",
+      "example": "You need to be consistent with your savings.",
+      "source": "The Snowball Effect"
+    },
+    {
+      "word": "valuable",
+      "pos": "adj.",
+      "meaning_en": "worth a lot of money or useful",
+      "meaning_zh": "有价值的",
+      "example": "Time is more valuable than money in investing.",
+      "source": "Time Is Money"
+    },
+    {
+      "word": "retire",
+      "pos": "v.",
+      "meaning_en": "stop working at the end of your career",
+      "meaning_zh": "退休",
+      "example": "They plan to retire at age 65.",
+      "source": "Time Is Money"
+    },
+    {
+      "word": "virtue",
+      "pos": "n.",
+      "meaning_en": "a good quality or habit",
+      "meaning_zh": "美德",
+      "example": "Patience is the key virtue for investors.",
+      "source": "Time Is Money"
+    },
+    {
+      "word": "reportedly",
+      "pos": "adv.",
+      "meaning_en": "according to what people say",
+      "meaning_zh": "据称",
+      "example": "Einstein reportedly loved compound interest.",
+      "source": "Einstein's Favorite Rule"
+    },
+    {
+      "word": "assets",
+      "pos": "n.",
+      "meaning_en": "things of value that you own",
+      "meaning_zh": "资产",
+      "example": "Your assets increase without extra effort.",
+      "source": "Einstein's Favorite Rule"
+    },
+    {
+      "word": "passive income",
+      "pos": "n.",
+      "meaning_en": "money earned without active work",
+      "meaning_zh": "被动收入",
+      "example": "Investing helps build passive income streams.",
+      "source": "Einstein's Favorite Rule"
+    },
+    {
+      "word": "basket",
+      "pos": "n.",
+      "meaning_en": "a container or a group of things",
+      "meaning_zh": "篮子（组合）",
+      "example": "An index is like a basket of stocks.",
+      "source": "What Is An Index"
+    },
+    {
+      "word": "diversification",
+      "pos": "n.",
+      "meaning_en": "mixing different investments to reduce risk",
+      "meaning_zh": "分散投资",
+      "example": "This gives you instant diversification immediately.",
+      "source": "What Is An Index"
+    },
+    {
+      "word": "proportion",
+      "pos": "n.",
+      "meaning_en": "a part compared to the whole",
+      "meaning_zh": "比例",
+      "example": "It holds stocks in the same proportion.",
+      "source": "What Is An Index"
+    },
+    {
+      "word": "public companies",
+      "pos": "n.",
+      "meaning_en": "companies whose shares are traded openly",
+      "meaning_zh": "上市公司",
+      "example": "It includes 500 large public companies.",
+      "source": "The S And P 500"
+    },
+    {
+      "word": "rebalanced",
+      "pos": "v.",
+      "meaning_en": "adjusted to restore original balance",
+      "meaning_zh": "再平衡",
+      "example": "The index is rebalanced periodically.",
+      "source": "The S And P 500"
+    },
+    {
+      "word": "expense ratio",
+      "pos": "n.",
+      "meaning_en": "the fee charged by a fund annually",
+      "meaning_zh": "费用比率",
+      "example": "Check the expense ratio before buying.",
+      "source": "The S And P 500"
+    },
+    {
+      "word": "strategies",
+      "pos": "n.",
+      "meaning_en": "plans designed to achieve a goal",
+      "meaning_zh": "策略",
+      "example": "Investors face a choice between strategies.",
+      "source": "Active Or Passive"
+    },
+    {
+      "word": "frequently",
+      "pos": "adv.",
+      "meaning_en": "often or many times",
+      "meaning_zh": "频繁地",
+      "example": "They sell stocks frequently based on research.",
+      "source": "Active Or Passive"
+    },
+    {
+      "word": "minimal",
+      "pos": "adj.",
+      "meaning_en": "very small in amount",
+      "meaning_zh": "最小的",
+      "example": "They charge low fees for minimal work.",
+      "source": "Active Or Passive"
+    },
+    {
+      "word": "humility",
+      "pos": "n.",
+      "meaning_en": "the quality of being modest",
+      "meaning_zh": "谦逊",
+      "example": "This shows humility and confidence.",
+      "source": "Buffett's Simple Advice"
+    },
+    {
+      "word": "discipline",
+      "pos": "n.",
+      "meaning_en": "controlled behavior and training",
+      "meaning_zh": "纪律",
+      "example": "His success comes from patience and discipline.",
+      "source": "Buffett's Simple Advice"
+    },
+    {
+      "word": "panic",
+      "pos": "v.",
+      "meaning_en": "feel sudden fear",
+      "meaning_zh": "恐慌",
+      "example": "Do not panic when prices drop.",
+      "source": "Buffett's Simple Advice"
+    },
+    {
+      "word": "Procrastination",
+      "pos": "n.",
+      "meaning_en": "delaying action unnecessarily",
+      "meaning_zh": "拖延症",
+      "example": "Procrastination is the enemy of wealth.",
+      "source": "Start Early Not Late"
+    },
+    {
+      "word": "delay",
+      "pos": "v.",
+      "meaning_en": "make something happen later",
+      "meaning_zh": "延迟",
+      "example": "Every year you delay costs you money.",
+      "source": "Start Early Not Late"
+    },
+    {
+      "word": "automatic transfer",
+      "pos": "n.",
+      "meaning_en": "money moved without manual action",
+      "meaning_zh": "自动转账",
+      "example": "Set up an automatic transfer from your bank.",
+      "source": "Start Early Not Late"
+    },
+    {
+      "word": "psychological",
+      "pos": "adj.",
+      "meaning_en": "related to the mind and emotions",
+      "meaning_zh": "心理的",
+      "example": "Investors fall into psychological traps.",
+      "source": "Avoid Common Traps"
+    },
+    {
+      "word": "trends",
+      "pos": "n.",
+      "meaning_en": "general directions of change",
+      "meaning_zh": "趋势",
+      "example": "Another trap is chasing hot trends.",
+      "source": "Avoid Common Traps"
+    },
+    {
+      "word": "scams",
+      "pos": "n.",
+      "meaning_en": "dishonest schemes to get money",
+      "meaning_zh": "骗局",
+      "example": "Education is defense against scams.",
+      "source": "Avoid Common Traps"
+    },
+    {
+      "word": "brokerage account",
+      "pos": "n.",
+      "meaning_en": "an account to buy and sell stocks",
+      "meaning_zh": "经纪账户",
+      "example": "Open a brokerage account online easily.",
+      "source": "Your Action Plan"
+    },
+    {
+      "word": "contribution",
+      "pos": "n.",
+      "meaning_en": "money given to help achieve something",
+      "meaning_zh": "投入资金",
+      "example": "Increase your contribution when income rises.",
+      "source": "Your Action Plan"
+    },
+    {
+      "word": "allocation",
+      "pos": "n.",
+      "meaning_en": "the distribution of resources",
+      "meaning_zh": "配置",
+      "example": "Rebalance if your asset allocation shifts.",
+      "source": "Your Action Plan"
+    }
+  ],
+  "status": "ready",
+  "generatedBy": "claude",
+  "savedAt": "2026-09-30T11:34:06.317Z"
+}

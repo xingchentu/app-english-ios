@@ -1,0 +1,507 @@
+{
+  "day": 11,
+  "date": "2026-09-30",
+  "theme": "NBA · 球星成长故事与个人品牌",
+  "domain": "NBA",
+  "level": "A2 → B1",
+  "goals": [
+    "掌握描述职业生涯阶段的词汇（rookie, draft, legacy）",
+    "理解个人品牌构建的基本商业表达（endorse, venture, invest）",
+    "能使用过去时态简单讲述球星成长故事",
+    "熟悉体育商业合作相关术语（contract, deal, revenue）"
+  ],
+  "tasks": [
+    {
+      "text": "观看 2 个精选视频，注意听球星成长关键词",
+      "minutes": 20
+    },
+    {
+      "text": "精读 3 篇核心文章（Early Dreams, First Shoe Deal, Long Term Legacy）",
+      "minutes": 25
+    },
+    {
+      "text": "学习必学内容并完成 30 个词汇记忆打卡",
+      "minutes": 15
+    }
+  ],
+  "mustLearn": [
+    {
+      "title": "叙事时态：一般过去时",
+      "type": "grammar",
+      "content": "English: He started playing at age five. He practiced every day. He became a star. \n中文讲解：讲述成长故事时，主要动作发生在过去，使用动词过去式（started, practiced, became）。\n要点解析：注意不规则动词变化（become→became, go→went），这是 A2 升 B1 的关键语法点。"
+    },
+    {
+      "title": "高频搭配：Build a Brand",
+      "type": "expression",
+      "content": "English: Players work hard to build their personal brand off the court. \n中文讲解：Build a brand 意为“建立品牌”，常与 personal（个人）连用。\n要点解析：Off the court 指“球场外”，与 On the court 相对，是 NBA 话题高频短语。"
+    },
+    {
+      "title": "商业动词：Sign a Deal",
+      "type": "expression",
+      "content": "English: The star signed a big deal with a sports company. \n中文讲解：Sign a deal 意为“签署协议/合同”，指商业合作达成。\n要点解析：Sign 强调签字动作，Deal 强调交易内容，常用于代言合作场景。"
+    },
+    {
+      "title": "因果表达：Because of / Due to",
+      "type": "grammar",
+      "content": "English: He became famous because of his hard work. \n中文讲解：表示原因，后接名词或短语（his hard work）。\n要点解析：区别于 Because 后接句子，这是 B1 级别常用的书面表达方式。"
+    }
+  ],
+  "expand": [
+    {
+      "title": "NBA 与 CBA 区别",
+      "type": "note",
+      "content": "NBA 是美国职业篮球联赛，全球商业价值最高；CBA 是中国职业篮球联赛。学习时注意区分语境，本文主要围绕 NBA 商业生态。"
+    },
+    {
+      "title": "Endorsement vs Salary",
+      "type": "note",
+      "content": "Salary 是球队发的工资，Endorsement 是品牌代言费。顶级球星的代言费往往超过工资，这是个人品牌的重要体现。"
+    },
+    {
+      "title": "Social Media Impact",
+      "type": "note",
+      "content": "Instagram 和 Twitter 粉丝数直接影响球星商业价值。粉丝越多，品牌曝光越高，代言合同金额越大。"
+    },
+    {
+      "title": "Legacy 的含义",
+      "type": "note",
+      "content": "Legacy 指“遗产/留给后人的东西”。在体育界，指球员退役后留下的精神财富、记录或慈善贡献。"
+    },
+    {
+      "title": "Rookie 的定义",
+      "type": "note",
+      "content": "Rookie 指“新秀”，即进入联盟的第一年球员。Rookie of the Year 是年度最佳新秀奖，是成长故事的重要节点。"
+    }
+  ],
+  "videos": [
+    {
+      "title": "NBA Player Biography Stories",
+      "url": "https://www.youtube.com/results?search_query=NBA+player+biography+story",
+      "channel": "NBA Official",
+      "minutes": 10,
+      "desc": "了解多位球星的童年与成长背景故事。"
+    },
+    {
+      "title": "LeBron James Business Empire",
+      "url": "https://www.youtube.com/results?search_query=LeBron+James+business+brand",
+      "channel": "Business Insider",
+      "minutes": 8,
+      "desc": "分析詹姆斯如何建立场外的商业帝国。"
+    },
+    {
+      "title": "Stephen Curry Journey to Success",
+      "url": "https://www.youtube.com/results?search_query=Stephen+Curry+journey+documentary",
+      "channel": "House of Highlights",
+      "minutes": 12,
+      "desc": "回顾库里从被低估到巨星的奋斗历程。"
+    },
+    {
+      "title": "How Athletes Build Brands",
+      "url": "https://www.youtube.com/results?search_query=how+athletes+build+personal+brand",
+      "channel": "Vox",
+      "minutes": 7,
+      "desc": "解释运动员打造个人品牌的基本逻辑。"
+    },
+    {
+      "title": "NBA Endorsement Deals Explained",
+      "url": "https://www.youtube.com/results?search_query=NBA+endorsement+deals+explained",
+      "channel": "HoopsHype",
+      "minutes": 9,
+      "desc": "详解代言合同如何运作及盈利模式。"
+    },
+    {
+      "title": "From Draft to Star",
+      "url": "https://www.youtube.com/@NBA",
+      "channel": "NBA Official",
+      "minutes": 15,
+      "desc": "官方频道精选：从选秀到成为明星的完整路径。"
+    }
+  ],
+  "articles": [
+    {
+      "title": "Early Dreams",
+      "level": "A2-B1",
+      "words": 120,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Most NBA stars started dreaming when they were very young. They played basketball in the street or at school. Their parents often supported them. They bought shoes and paid for training. The kids watched games on TV. They wanted to be like Michael Jordan or Kobe Bryant. It was not easy. They woke up early to practice. They studied hard too. Education was important. But basketball was their passion. They imagined standing on the big stage. The dream gave them power. Every day, they shot hundreds of balls. Their hands became strong. Their skills improved slowly. This was the first step to success.",
+      "zh": "讲述球星童年时期的梦想起源与家庭支持。",
+      "points": [
+        "supported (支持): 过去式，指父母提供帮助",
+        "passion (热爱): 名词，指强烈的爱好",
+        "imagined (想象): 动词过去式，构想未来场景"
+      ]
+    },
+    {
+      "title": "High School Star",
+      "level": "A2-B1",
+      "words": 115,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "In high school, some players became famous locally. They scored many points in games. People came to watch them play. Newspapers wrote about their talent. Coaches from colleges called them. They offered scholarships. This was a big opportunity. The player had to choose a university. Some players stayed near home. Others went to different states. Life changed quickly. They had to balance study and sport. It was stressful but exciting. They learned teamwork there. They met new friends. Their names started to appear on lists. Scouts watched their every move. This period prepared them for the next level.",
+      "zh": "描述高中时期崭露头角及面临大学选择的过程。",
+      "points": [
+        "scholarships (奖学金): 大学提供的资金支持",
+        "balance (平衡): 动词，协调学习与运动",
+        "scouts (球探): 负责发现 talent 的专业人员"
+      ]
+    },
+    {
+      "title": "The Big Decision",
+      "level": "A2-B1",
+      "words": 130,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "After college, players faced a big decision. They could enter the NBA Draft. This was the door to the professional league. They hired agents to help them. Agents talked to teams. They negotiated contracts. Some players went to the gym every day. They wanted to show their best skills. The draft night was emotional. Families waited together. When their name was called, they hugged. They put on a team hat. They shook hands with the commissioner. It was a dream come true. But the real work began then. They were no longer amateurs. They were professionals now. Money was involved. Responsibility was heavier.",
+      "zh": "讲述选秀前的准备及选秀夜的关键时刻。",
+      "points": [
+        "negotiated (谈判): 讨论合同细节",
+        "commissioner (总裁): 联盟最高负责人",
+        "amateurs (业余选手): 与 professionals 相对"
+      ]
+    },
+    {
+      "title": "Rookie Season",
+      "level": "A2-B1",
+      "words": 125,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "The first year is called the rookie season. It is very hard. Older players are stronger. The speed of the game is fast. Rookies made mistakes often. They sat on the bench sometimes. Coaches taught them tactics. They watched videos to learn. They needed to be patient. Some rookies scored well immediately. Others took time to grow. Fans waited for their progress. Media criticized them too. Pressure was everywhere. They had to stay focused. Health was important. Injuries could stop their career. They listened to trainers. They ate healthy food. Surviving the first year was a victory.",
+      "zh": "描述新秀赛季面临的挑战与适应过程。",
+      "points": [
+        "bench (替补席): 指未上场时的座位",
+        "tactics (战术): 比赛中的策略安排",
+        "criticized (批评): 媒体或公众的负面评价"
+      ]
+    },
+    {
+      "title": "Hard Work Pays Off",
+      "level": "A2-B1",
+      "words": 110,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Success did not come overnight. Players practiced after team training. They worked on their shooting. They ran miles to build stamina. Summer was for improvement. They did not take long breaks. They hired personal coaches. They analyzed their weaknesses. Slowly, their stats went up. They became starters. They led the team to wins. Awards came later. All-Star selections followed. People respected their effort. They became leaders in the locker room. Younger players looked up to them. This was the result of dedication. Talent alone was not enough. Consistency was the key. They showed up every day.",
+      "zh": "强调持续努力带来的成绩提升与认可。",
+      "points": [
+        "stamina (耐力): 身体持续运动的能力",
+        "starters (首发): 比赛开始时上场的球员",
+        "consistency (稳定性): 持续保持高水平表现"
+      ]
+    },
+    {
+      "title": "First Shoe Deal",
+      "level": "A2-B1",
+      "words": 135,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "When players became popular, brands called them. Shoe companies wanted signatures. They offered big money. The player signed a contract. This was the first major deal. They appeared in commercials. They wore specific shoes on court. Fans bought those shoes. The player got a percentage. It was passive income. They did not need to play to earn this. But they had to maintain image. No bad news was allowed. They attended launch events. They traveled to different countries. Marketing teams helped them. The brand logo appeared everywhere. This deal changed their financial life. They were business people now.",
+      "zh": "讲述获得第一份球鞋代言合同的过程与影响。",
+      "points": [
+        "signatures (签名款): 印有球员名字的产品",
+        "passive income (被动收入): 无需主动工作获得的收入",
+        "maintain (维持): 保持某种状态或形象"
+      ]
+    },
+    {
+      "title": "Social Media Fans",
+      "level": "A2-B1",
+      "words": 120,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Today, social media is powerful. Players posted photos and videos. They shared their daily life. Fans commented and liked. The number of followers grew. This number mattered to brands. More followers meant more influence. Players promoted products online. They wrote captions carefully. They interacted with fans directly. Sometimes, they posted funny moments. Sometimes, they shared serious thoughts. They built a personal platform. It was free marketing. Companies valued this reach. A single post could sell goods. Players managed their accounts. Some hired teams to help. Digital presence was part of the brand.",
+      "zh": "分析社交媒体粉丝数对个人品牌价值的提升。",
+      "points": [
+        "followers (粉丝): 关注账号的用户",
+        "influence (影响力): 影响他人购买或看法的能力",
+        "captions (配文): 图片下的文字说明"
+      ]
+    },
+    {
+      "title": "Investing Money",
+      "level": "A2-B1",
+      "words": 128,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Smart players did not just spend. They invested their earnings. They bought real estate. They started technology companies. They joined business groups. They learned from experts. Money made more money. They thought about the future. Basketball careers ended soon. They needed income after retirement. Some players became owners. They bought shares of teams. This was a long-term plan. They attended meetings. They read financial reports. They took risks carefully. Diversification was important. They did not put all money in one place. Financial literacy was a new skill. They protected their wealth.",
+      "zh": "讲述球星如何进行投资理财以保障退役后生活。",
+      "points": [
+        "real estate (房地产): 房产投资",
+        "shares (股份): 公司所有权的一部分",
+        "diversification (多样化): 分散投资以降低风险"
+      ]
+    },
+    {
+      "title": "Helping Community",
+      "level": "A2-B1",
+      "words": 115,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Many stars gave back to society. They opened schools for kids. They built hospitals or centers. They donated money to charities. They visited poor areas. They shared their stories to inspire. They wanted to change lives. This improved their public image. People loved them more. It was not just for tax. It was about responsibility. They used their fame for good. They organized basketball camps. They provided free meals. They spoke at graduations. They became role models. The community thanked them. This legacy lasted longer than stats. Kindness was remembered forever.",
+      "zh": "描述球星回馈社会及建立慈善形象的行为。",
+      "points": [
+        "donated (捐赠): 无偿给予金钱或物资",
+        "charities (慈善机构): 帮助弱势群体的组织",
+        "role models (榜样): 值得学习的人物"
+      ]
+    },
+    {
+      "title": "Long Term Legacy",
+      "level": "A2-B1",
+      "words": 130,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "When players retired, people remembered them. Not just for points or rings. But for their impact. Their brands still existed. Their shoes were still sold. Their names were on buildings. They mentored young players. They worked in media or business. They stayed relevant. They wrote books. They produced movies. Their story continued. They influenced the next generation. They proved sports were more than games. It was about life lessons. Hard work, discipline, and giving. This was the true definition of success. They left the game better. Their legacy was secure. They were legends.",
+      "zh": "总结球星退役后的长期影响力与遗产。",
+      "points": [
+        "retired (退役): 结束职业生涯",
+        "relevant (相关的/活跃的): 保持关注度",
+        "legends (传奇): 被铭记的伟大人物"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "career",
+      "pos": "n.",
+      "meaning_en": "the job or profession that someone does for a long time",
+      "meaning_zh": "职业生涯",
+      "example": "His basketball career lasted for twenty years.",
+      "source": "Early Dreams"
+    },
+    {
+      "word": "passion",
+      "pos": "n.",
+      "meaning_en": "a very strong feeling of love or enthusiasm",
+      "meaning_zh": "热爱，激情",
+      "example": "Basketball was his passion since childhood.",
+      "source": "Early Dreams"
+    },
+    {
+      "word": "scholarship",
+      "pos": "n.",
+      "meaning_en": "money given to help pay for education",
+      "meaning_zh": "奖学金",
+      "example": "He got a scholarship to play at university.",
+      "source": "High School Star"
+    },
+    {
+      "word": "balance",
+      "pos": "v.",
+      "meaning_en": "to keep two things equal or in correct proportions",
+      "meaning_zh": "平衡",
+      "example": "He had to balance study and sport.",
+      "source": "High School Star"
+    },
+    {
+      "word": "scout",
+      "pos": "n.",
+      "meaning_en": "a person who looks for talented players",
+      "meaning_zh": "球探",
+      "example": "Scouts watched his every move.",
+      "source": "High School Star"
+    },
+    {
+      "word": "draft",
+      "pos": "n.",
+      "meaning_en": "a system for selecting players for a team",
+      "meaning_zh": "选秀",
+      "example": "He entered the NBA Draft after college.",
+      "source": "The Big Decision"
+    },
+    {
+      "word": "negotiate",
+      "pos": "v.",
+      "meaning_en": "to discuss something to reach an agreement",
+      "meaning_zh": "谈判，协商",
+      "example": "Agents negotiated contracts with teams.",
+      "source": "The Big Decision"
+    },
+    {
+      "word": "professional",
+      "pos": "adj.",
+      "meaning_en": "doing something as a paid job",
+      "meaning_zh": "职业的",
+      "example": "They were professionals now, not amateurs.",
+      "source": "The Big Decision"
+    },
+    {
+      "word": "rookie",
+      "pos": "n.",
+      "meaning_en": "a person who is new to a job or activity",
+      "meaning_zh": "新秀",
+      "example": "The first year is called the rookie season.",
+      "source": "Rookie Season"
+    },
+    {
+      "word": "tactic",
+      "pos": "n.",
+      "meaning_en": "a planned action to achieve a goal",
+      "meaning_zh": "战术",
+      "example": "Coaches taught them tactics.",
+      "source": "Rookie Season"
+    },
+    {
+      "word": "pressure",
+      "pos": "n.",
+      "meaning_en": "the feeling of worry caused by difficult situations",
+      "meaning_zh": "压力",
+      "example": "Pressure was everywhere in the league.",
+      "source": "Rookie Season"
+    },
+    {
+      "word": "stamina",
+      "pos": "n.",
+      "meaning_en": "physical or mental strength to continue for a long time",
+      "meaning_zh": "耐力",
+      "example": "They ran miles to build stamina.",
+      "source": "Hard Work Pays Off"
+    },
+    {
+      "word": "consistency",
+      "pos": "n.",
+      "meaning_en": "the quality of always behaving in the same way",
+      "meaning_zh": "稳定性，一致性",
+      "example": "Consistency was the key to success.",
+      "source": "Hard Work Pays Off"
+    },
+    {
+      "word": "dedication",
+      "pos": "n.",
+      "meaning_en": "loyalty and hard work for a purpose",
+      "meaning_zh": "奉献，专注",
+      "example": "This was the result of dedication.",
+      "source": "Hard Work Pays Off"
+    },
+    {
+      "word": "endorsement",
+      "pos": "n.",
+      "meaning_en": "an act of saying you support a product publicly",
+      "meaning_zh": "代言",
+      "example": "Shoe companies wanted endorsement deals.",
+      "source": "First Shoe Deal"
+    },
+    {
+      "word": "contract",
+      "pos": "n.",
+      "meaning_en": "a written agreement that is legally binding",
+      "meaning_zh": "合同",
+      "example": "The player signed a contract.",
+      "source": "First Shoe Deal"
+    },
+    {
+      "word": "passive income",
+      "pos": "n.",
+      "meaning_en": "money earned without active work",
+      "meaning_zh": "被动收入",
+      "example": "It was passive income from the deal.",
+      "source": "First Shoe Deal"
+    },
+    {
+      "word": "maintain",
+      "pos": "v.",
+      "meaning_en": "to keep something in good condition",
+      "meaning_zh": "维持，保持",
+      "example": "They had to maintain their image.",
+      "source": "First Shoe Deal"
+    },
+    {
+      "word": "follower",
+      "pos": "n.",
+      "meaning_en": "a person who supports someone on social media",
+      "meaning_zh": "粉丝，关注者",
+      "example": "The number of followers grew quickly.",
+      "source": "Social Media Fans"
+    },
+    {
+      "word": "influence",
+      "pos": "n.",
+      "meaning_en": "the power to affect someone's actions",
+      "meaning_zh": "影响力",
+      "example": "More followers meant more influence.",
+      "source": "Social Media Fans"
+    },
+    {
+      "word": "platform",
+      "pos": "n.",
+      "meaning_en": "a place to share ideas or products",
+      "meaning_zh": "平台",
+      "example": "They built a personal platform online.",
+      "source": "Social Media Fans"
+    },
+    {
+      "word": "invest",
+      "pos": "v.",
+      "meaning_en": "to put money into something to make profit",
+      "meaning_zh": "投资",
+      "example": "They invested their earnings wisely.",
+      "source": "Investing Money"
+    },
+    {
+      "word": "real estate",
+      "pos": "n.",
+      "meaning_en": "property consisting of land and buildings",
+      "meaning_zh": "房地产",
+      "example": "They bought real estate in big cities.",
+      "source": "Investing Money"
+    },
+    {
+      "word": "diversification",
+      "pos": "n.",
+      "meaning_en": "mixing different types of investments",
+      "meaning_zh": "多样化",
+      "example": "Diversification was important for safety.",
+      "source": "Investing Money"
+    },
+    {
+      "word": "donate",
+      "pos": "v.",
+      "meaning_en": "to give money or goods for help",
+      "meaning_zh": "捐赠",
+      "example": "They donated money to charities.",
+      "source": "Helping Community"
+    },
+    {
+      "word": "charity",
+      "pos": "n.",
+      "meaning_en": "an organization that helps people in need",
+      "meaning_zh": "慈善机构",
+      "example": "They supported many local charities.",
+      "source": "Helping Community"
+    },
+    {
+      "word": "legacy",
+      "pos": "n.",
+      "meaning_en": "something left behind after someone dies or retires",
+      "meaning_zh": "遗产，留给后人的东西",
+      "example": "Their legacy lasted longer than stats.",
+      "source": "Long Term Legacy"
+    },
+    {
+      "word": "retire",
+      "pos": "v.",
+      "meaning_en": "to stop working because of age",
+      "meaning_zh": "退役，退休",
+      "example": "When players retired, people remembered them.",
+      "source": "Long Term Legacy"
+    },
+    {
+      "word": "legend",
+      "pos": "n.",
+      "meaning_en": "a very famous person known for great deeds",
+      "meaning_zh": "传奇人物",
+      "example": "They were legends in the sport.",
+      "source": "Long Term Legacy"
+    },
+    {
+      "word": "brand",
+      "pos": "n.",
+      "meaning_en": "a type of product made by a company",
+      "meaning_zh": "品牌",
+      "example": "Their brands still existed after retirement.",
+      "source": "Long Term Legacy"
+    }
+  ],
+  "status": "ready",
+  "generatedBy": "claude",
+  "savedAt": "2026-09-30T11:33:53.308Z"
+}

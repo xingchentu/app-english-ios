@@ -1,0 +1,525 @@
+{
+  "day": 15,
+  "date": "2026-10-04",
+  "theme": "电视剧 · The Office 职场幽默英语",
+  "domain": "电视剧",
+  "level": "A2 → B1",
+  "goals": [
+    "掌握职场幽默英语的核心表达方式",
+    "理解《办公室》中的文化背景和笑点",
+    "学会使用职场场景中的实用短语",
+    "提高对美式幽默的理解能力"
+  ],
+  "tasks": [
+    {
+      "text": "观看 6 个 The Office 相关视频，每个 5-8 分钟",
+      "minutes": 30
+    },
+    {
+      "text": "阅读 10 篇短文，标记生词和难句",
+      "minutes": 15
+    },
+    {
+      "text": "学习 32 个核心词汇和短语",
+      "minutes": 10
+    },
+    {
+      "text": "精读 3-4 个必学内容片段",
+      "minutes": 5
+    }
+  ],
+  "mustLearn": [
+    {
+      "title": "That's what she said",
+      "type": "expression",
+      "content": "英文材料: \"When Michael says 'That's what she said' after Dwight mentions his stapler is stuck, it creates awkward humor.\"\n中文讲解: 这是《办公室》中最经典的梗之一，字面意思是\"她说的就是那个\"，但实际上是双关语，暗示性暗示。\n要点解析: 使用时要注意场合，在正式环境中会显得不专业。这个梗展示了美式幽默中的双关语文化。"
+    },
+    {
+      "title": "Dunder Mifflin Paper Company",
+      "type": "article",
+      "content": "英文材料: \"Dunder Mifflin is a fictional paper company in Scranton, Pennsylvania. It sells paper to businesses and has a funny sales team led by Michael Scott.\"\n中文讲解: Dunder Mifflin 是剧中的虚构纸张公司，位于宾夕法尼亚州的斯克兰顿。\n要点解析: 了解公司背景有助于理解剧情。剧中有很多关于纸张销售的幽默对话，反映了真实的销售场景。"
+    },
+    {
+      "title": "Workplace humor expressions",
+      "type": "grammar",
+      "content": "英文材料: \"I'm not mad, I'm disappointed. / That's what she said. / I declare bankruptcy!\"\n中文讲解: 这些是职场中常见的幽默表达，用夸张或双关来制造笑点。\n要点解析: 美式职场文化中，用幽默化解紧张气氛很常见。这些表达往往需要结合语境和语气来理解。"
+    }
+  ],
+  "expand": [
+    {
+      "title": "美式办公室文化",
+      "type": "culture",
+      "content": "《办公室》展现了典型的美国中西部办公室文化，包括层级关系、同事互动、会议文化等。剧中经常调侃过于正式的商务用语和职场政治。"
+    },
+    {
+      "title": "同义替换: awkward",
+      "type": "synonym",
+      "content": "awkward 可以替换为: uncomfortable, embarrassing, tense, cringeworthy. 例如: \"That moment was so awkward\" → \"That moment was so cringeworthy\"."
+    },
+    {
+      "title": "进阶例句: sarcasm",
+      "type": "advanced",
+      "content": "\"Oh, great, another meeting about nothing.\" (表面说\"好极了\"，实际是讽刺) \"I just love working weekends.\" (实际是抱怨)"
+    },
+    {
+      "title": "背景知识: mockumentary",
+      "type": "background",
+      "content": "《办公室》采用伪纪录片形式，演员常对着镜头说话，打破第四面墙。这种手法让观众感觉像在观看真实记录。"
+    }
+  ],
+  "videos": [
+    {
+      "title": "The Office Best Moments",
+      "url": "https://www.youtube.com/results?search_query=The+Office+best+moments",
+      "channel": "NBC",
+      "minutes": 8,
+      "desc": "精选《办公室》最经典搞笑片段"
+    },
+    {
+      "title": "Michael Scott Quotes",
+      "url": "https://www.youtube.com/results?search_query=Michael+Scott+quotes+funny",
+      "channel": "The Office Fandom",
+      "minutes": 6,
+      "desc": "迈克尔·斯科特的经典语录合集"
+    },
+    {
+      "title": "Workplace Humor Explained",
+      "url": "https://www.youtube.com/results?search_query=work+humor+explained",
+      "channel": "English with Lucy",
+      "minutes": 7,
+      "desc": "解释职场幽默的文化背景"
+    },
+    {
+      "title": "Dwight Schrute Best Scenes",
+      "url": "https://www.youtube.com/results?search_query=Dwight+Schrute+best+scenes",
+      "channel": "Screen Rant",
+      "minutes": 9,
+      "desc": "德怀特·舒特最精彩的场景"
+    },
+    {
+      "title": "The Office Cultural References",
+      "url": "https://www.youtube.com/results?search_query=The+Office+cultural+references",
+      "channel": "TED-Ed",
+      "minutes": 5,
+      "desc": "剧中的文化 references 解析"
+    },
+    {
+      "title": "American Office Culture",
+      "url": "https://www.youtube.com/results?search_query=American+office+culture",
+      "channel": "BBC Learning English",
+      "minutes": 10,
+      "desc": "了解美国办公室文化"
+    }
+  ],
+  "articles": [
+    {
+      "title": "The Office Overview",
+      "level": "A2-B1",
+      "words": 52,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "The Office is a popular American TV show about workplace life. It follows the daily activities of employees at Dunder Mifflin paper company. The show uses a mockumentary style, where characters talk to the camera like in a real documentary. This creates funny moments as they share their true thoughts about coworkers.",
+      "zh": "《办公室》是一部关于职场生活的美剧，讲述杜德尔-米夫林纸张公司员工的日常。",
+      "points": [
+        "mockumentary: 伪纪录片风格",
+        "follow: 跟踪，描述",
+        "share: 分享，表露"
+      ]
+    },
+    {
+      "title": "Meet Michael Scott",
+      "level": "A2-B1",
+      "words": 48,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Michael Scott is the regional manager of Dunder Mifflin. He tries to be a funny boss but often makes awkward situations. Michael loves attention and tells bad jokes. His catchphrase 'That's what she said' became famous. Despite his flaws, Michael cares about his employees in his own way.",
+      "zh": "迈克尔·斯科特是区域经理，努力想成为有趣的老板但经常制造尴尬场面。",
+      "points": [
+        "regional manager: 区域经理",
+        "awkward: 尴尬的",
+        "catchphrase: 标语，口头禅"
+      ]
+    },
+    {
+      "title": "Dwight's Character",
+      "level": "A2-B1",
+      "words": 52,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Dwight Schrute is a sales representative and beet farmer. He takes his job very seriously and follows all rules. Dwight loves martial arts and carries a stun gun. He often competes with Jim for Michael's attention. Dwight's serious personality creates many funny moments when others don't take things as seriously as him.",
+      "zh": "德怀特·舒特是销售代表，非常认真严肃，常与吉姆竞争。",
+      "points": [
+        "representative: 代表",
+        "seriously: 认真地",
+        "competes: 竞争"
+      ]
+    },
+    {
+      "title": "Jim's Pranks",
+      "level": "A2-B1",
+      "words": 47,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Jim Halpert is known for his pranks on Dwight. He puts Dwight's stapler in Jell-O, changes his desk, and makes funny faces. Jim is laid-back and sarcastic. His pranking creates light moments in the office. Jim and Dwight's relationship is a central part of the show's humor.",
+      "zh": "吉姆·哈尔珀特以捉弄德怀特闻名，制作了许多办公室搞笑时刻。",
+      "points": [
+        "pranks: 恶作剧",
+        "laid-back: 放松的",
+        "sarcastic: 讽刺的"
+      ]
+    },
+    {
+      "title": "Pam Beesly",
+      "level": "A2-B1",
+      "words": 50,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Pam is the receptionist who dreams of being an artist. She draws cartoons about coworkers and keeps a diary. Pam is kind and observant. She notices funny things that others miss. Her deadpan delivery of lines adds to the show's humor. Pam's character growth from shy to confident is inspiring.",
+      "zh": "帕姆是接待员，梦想成为艺术家，观察力强，用平淡的语气制造笑点。",
+      "points": [
+        "receptionist: 接待员",
+        "observant: 善于观察的",
+        "deadpan: 面无表情的"
+      ]
+    },
+    {
+      "title": "Office Humor Types",
+      "level": "A2-B1",
+      "words": 52,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "The Office uses different types of humor. There's awkward humor when characters say embarrassing things. There's sarcasm when people mean the opposite of what they say. Physical comedy includes falls and funny faces. The show also has wordplay with puns and double meanings. These different styles keep the humor fresh and entertaining.",
+      "zh": "办公室使用多种幽默：尴尬、讽刺、肢体动作和文字游戏，让笑点丰富多样。",
+      "points": [
+        "awkward: 尴尬的",
+        "sarcasm: 讽刺",
+        "wordplay: 文字游戏"
+      ]
+    },
+    {
+      "title": "Workplace Meetings",
+      "level": "A2-B1",
+      "words": 51,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Meetings in The Office are never boring. Michael leads long meetings with pointless discussions. Dwight takes detailed notes about everything. People pass notes and make funny faces. The meetings show how real office work can be both productive and ridiculous at the same time. This reflects the reality of modern workplaces.",
+      "zh": "办公室会议既展示了真实的工作场景，又充满了无意义的讨论和搞笑时刻。",
+      "points": [
+        "pointless: 无意义的",
+        "ridiculous: 可笑的",
+        "reflects: 反映"
+      ]
+    },
+    {
+      "title": "Office Relationships",
+      "level": "A2-B1",
+      "words": 45,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Romantic relationships add drama and humor to the show. Jim and Pam's slow burn romance keeps viewers interested. They exchange looks and secret smiles. Other characters have complicated relationships too. These relationships create both funny and touching moments, showing how work and personal life mix.",
+      "zh": "办公室恋情增加了戏剧性和幽默，吉姆和帕姆的慢热恋情尤其吸引人。",
+      "points": [
+        "romance: 浪漫",
+        "slow burn: 慢热",
+        "complicated: 复杂的"
+      ]
+    },
+    {
+      "title": "Cultural References",
+      "level": "A2-B1",
+      "words": 48,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "The Office includes many cultural references that Americans understand. There are jokes about movies, TV shows, and current events. Characters reference pop culture that was popular when the show aired. These references make the show feel authentic and connected to real life. Viewers enjoy recognizing these cultural touches.",
+      "zh": "剧中包含许多美国文化 references，涉及电影、电视和时事，让剧集更真实。",
+      "points": [
+        "references: references，暗示",
+        "authentic: 真实的",
+        "pop culture: 流行文化"
+      ]
+    },
+    {
+      "title": "Life Lessons",
+      "level": "A2-B1",
+      "words": 50,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Behind the humor, The Office teaches important lessons. It shows that everyone has flaws and that's okay. The characters learn to accept each other's differences. The workplace can be both challenging and rewarding. These messages make the show more than just comedy. It's about finding joy in everyday work life.",
+      "zh": "在幽默背后，《办公室》教导重要的人生道理：接受不完美，在平凡工作中找到快乐。",
+      "points": [
+        "flaws: 缺点",
+        "accept: 接受",
+        "rewarding: 有回报的"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "mockumentary",
+      "pos": "noun",
+      "meaning_en": "a fake documentary that looks real",
+      "meaning_zh": "伪纪录片",
+      "example": "The Office uses mockumentary style.",
+      "source": "The Office Overview"
+    },
+    {
+      "word": "awkward",
+      "pos": "adjective",
+      "meaning_en": "making you feel embarrassed or uncomfortable",
+      "meaning_zh": "尴尬的",
+      "example": "Michael's joke created an awkward silence.",
+      "source": "Meet Michael Scott"
+    },
+    {
+      "word": "catchphrase",
+      "pos": "noun",
+      "meaning_en": "a phrase that someone says often",
+      "meaning_zh": "口头禅",
+      "example": "\"That's what she said\" is Michael's catchphrase.",
+      "source": "Meet Michael Scott"
+    },
+    {
+      "word": "regional manager",
+      "pos": "noun",
+      "meaning_en": "person who manages a specific area",
+      "meaning_zh": "区域经理",
+      "example": "Michael is the regional manager.",
+      "source": "Meet Michael Scott"
+    },
+    {
+      "word": "seriously",
+      "pos": "adverb",
+      "meaning_en": "in a serious way",
+      "meaning_zh": "认真地",
+      "example": "Dwight takes everything seriously.",
+      "source": "Dwight's Character"
+    },
+    {
+      "word": "representative",
+      "pos": "noun",
+      "meaning_en": "person who speaks for a group",
+      "meaning_zh": "代表",
+      "example": "Dwight is a sales representative.",
+      "source": "Dwight's Character"
+    },
+    {
+      "word": "pranks",
+      "pos": "noun",
+      "meaning_en": "funny tricks played on someone",
+      "meaning_zh": "恶作剧",
+      "example": "Jim plays pranks on Dwight.",
+      "source": "Jim's Pranks"
+    },
+    {
+      "word": "laid-back",
+      "pos": "adjective",
+      "meaning_en": "relaxed and easy-going",
+      "meaning_zh": "放松的",
+      "example": "Jim has a laid-back personality.",
+      "source": "Jim's Pranks"
+    },
+    {
+      "word": "sarcastic",
+      "pos": "adjective",
+      "meaning_en": "saying the opposite of what you mean",
+      "meaning_zh": "讽刺的",
+      "example": "Jim's sarcastic comments are funny.",
+      "source": "Jim's Pranks"
+    },
+    {
+      "word": "receptionist",
+      "pos": "noun",
+      "meaning_en": "person who greets visitors at an office",
+      "meaning_zh": "接待员",
+      "example": "Pam is the receptionist.",
+      "source": "Pam Beesly"
+    },
+    {
+      "word": "observant",
+      "pos": "adjective",
+      "meaning_en": "good at noticing things",
+      "meaning_zh": "善于观察的",
+      "example": "Pam is very observant.",
+      "source": "Pam Beesly"
+    },
+    {
+      "word": "deadpan",
+      "pos": "adjective",
+      "meaning_en": "said without showing emotion",
+      "meaning_zh": "面无表情的",
+      "example": "Pam's deadpan delivery is funny.",
+      "source": "Pam Beesly"
+    },
+    {
+      "word": "sarcasm",
+      "pos": "noun",
+      "meaning_en": "saying the opposite to be funny",
+      "meaning_zh": "讽刺",
+      "example": "The show uses sarcasm for humor.",
+      "source": "Office Humor Types"
+    },
+    {
+      "word": "wordplay",
+      "pos": "noun",
+      "meaning_en": "using words in clever ways",
+      "meaning_zh": "文字游戏",
+      "example": "Michael loves wordplay jokes.",
+      "source": "Office Humor Types"
+    },
+    {
+      "word": "pointless",
+      "pos": "adjective",
+      "meaning_en": "having no purpose or use",
+      "meaning_zh": "无意义的",
+      "example": "The meetings are often pointless.",
+      "source": "Workplace Meetings"
+    },
+    {
+      "word": "ridiculous",
+      "pos": "adjective",
+      "meaning_en": "very silly or unreasonable",
+      "meaning_zh": "可笑的",
+      "example": "Michael's behavior is ridiculous.",
+      "source": "Workplace Meetings"
+    },
+    {
+      "word": "reflects",
+      "pos": "verb",
+      "meaning_en": "shows or represents something",
+      "meaning_zh": "反映",
+      "example": "The show reflects real office life.",
+      "source": "Workplace Meetings"
+    },
+    {
+      "word": "romance",
+      "pos": "noun",
+      "meaning_en": "love story between people",
+      "meaning_zh": "浪漫",
+      "example": "Jim and Pam's romance develops slowly.",
+      "source": "Office Relationships"
+    },
+    {
+      "word": "slow burn",
+      "pos": "phrase",
+      "meaning_en": "developing slowly over time",
+      "meaning_zh": "慢热",
+      "example": "Their relationship is a slow burn romance.",
+      "source": "Office Relationships"
+    },
+    {
+      "word": "complicated",
+      "pos": "adjective",
+      "meaning_en": "difficult to understand or explain",
+      "meaning_zh": "复杂的",
+      "example": "Office relationships can be complicated.",
+      "source": "Office Relationships"
+    },
+    {
+      "word": "references",
+      "pos": "noun",
+      "meaning_en": "mentions of other things",
+      "meaning_zh": "references，暗示",
+      "example": "The show has many cultural references.",
+      "source": "Cultural References"
+    },
+    {
+      "word": "authentic",
+      "pos": "adjective",
+      "meaning_en": "real and not fake",
+      "meaning_zh": "真实的",
+      "example": "The show feels authentic.",
+      "source": "Cultural References"
+    },
+    {
+      "word": "pop culture",
+      "pos": "noun",
+      "meaning_en": "popular music, movies, and trends",
+      "meaning_zh": "流行文化",
+      "example": "The Office references pop culture.",
+      "source": "Cultural References"
+    },
+    {
+      "word": "flaws",
+      "pos": "noun",
+      "meaning_en": "mistakes or bad qualities",
+      "meaning_zh": "缺点",
+      "example": "Everyone has flaws in the show.",
+      "source": "Life Lessons"
+    },
+    {
+      "word": "accept",
+      "pos": "verb",
+      "meaning_en": "take or agree to something",
+      "meaning_zh": "接受",
+      "example": "Characters learn to accept each other.",
+      "source": "Life Lessons"
+    },
+    {
+      "word": "rewarding",
+      "pos": "adjective",
+      "meaning_en": "giving satisfaction or benefit",
+      "meaning_zh": "有回报的",
+      "example": "Work can be rewarding.",
+      "source": "Life Lessons"
+    },
+    {
+      "word": "declare bankruptcy",
+      "pos": "phrase",
+      "meaning_en": "say you have no money",
+      "meaning_zh": "宣布破产",
+      "example": "Michael declares bankruptcy jokingly.",
+      "source": "Michael Scott Quotes"
+    },
+    {
+      "word": "beet farmer",
+      "pos": "noun",
+      "meaning_en": "person who grows beets",
+      "meaning_zh": "甜菜农民",
+      "example": "Dwight is a part-time beet farmer.",
+      "source": "Dwight's Character"
+    },
+    {
+      "word": "stapler in Jell-O",
+      "pos": "phrase",
+      "meaning_en": "putting a stapler in gelatin",
+      "meaning_zh": "订书机在果冻里",
+      "example": "Jim puts Dwight's stapler in Jell-O.",
+      "source": "Jim's Pranks"
+    },
+    {
+      "word": "pass notes",
+      "pos": "phrase",
+      "meaning_en": "secret messages in class",
+      "meaning_zh": "传纸条",
+      "example": "People pass notes during meetings.",
+      "source": "Workplace Meetings"
+    },
+    {
+      "word": "secret smiles",
+      "pos": "phrase",
+      "meaning_en": "hidden happy looks",
+      "meaning_zh": "秘密的微笑",
+      "example": "Jim and Pam exchange secret smiles.",
+      "source": "Office Relationships"
+    },
+    {
+      "word": "current events",
+      "pos": "phrase",
+      "meaning_en": "things happening now",
+      "meaning_zh": "时事",
+      "example": "The show references current events.",
+      "source": "Cultural References"
+    },
+    {
+      "word": "everyday",
+      "pos": "adjective",
+      "meaning_en": "happening every day",
+      "meaning_zh": "日常的",
+      "example": "Finding joy in everyday life.",
+      "source": "Life Lessons"
+    }
+  ],
+  "status": "ready",
+  "generatedBy": "claude",
+  "savedAt": "2026-09-29T17:34:09.244Z"
+}

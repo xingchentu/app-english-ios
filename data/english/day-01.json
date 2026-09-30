@@ -1,0 +1,531 @@
+{
+  "day": 1,
+  "date": "2026-09-20",
+  "theme": "NBA · 交易截止日与球队重建",
+  "domain": "NBA",
+  "level": "A2 → B1",
+  "goals": [
+    "掌握 NBA 交易与重建相关的核心词汇（如 trade, rebuild, cap）",
+    "能够读懂简单的英文 NBA 新闻短文（100-150 词）",
+    "理解交易截止日的基本规则及其对球队的影响",
+    "学会用英文简单表达对未来球队计划的看法"
+  ],
+  "tasks": [
+    {
+      "text": "观看 2 个 NBA 交易科普视频，记录 5 个生词",
+      "minutes": 20
+    },
+    {
+      "text": "精读前 5 篇英文短文，划出不懂的句子",
+      "minutes": 20
+    },
+    {
+      "text": "略读后 5 篇英文短文，理解大意即可",
+      "minutes": 10
+    },
+    {
+      "text": "复习词汇表，朗读例句",
+      "minutes": 5
+    },
+    {
+      "text": "用英文写 3 句话总结今日所学",
+      "minutes": 5
+    }
+  ],
+  "mustLearn": [
+    {
+      "title": "核心表达：Trade Deadline",
+      "type": "expression",
+      "content": "英文：The trade deadline is the last day to swap players.\n中文讲解：交易截止日是交换球员的最后期限。\n要点解析：Deadline 指截止日期，过了这个时间点就不能再做某事。在 NBA 中，这是赛季中期最重要的时间点之一。"
+    },
+    {
+      "title": "高频句型：Plan to...",
+      "type": "grammar",
+      "content": "英文：The team plans to rebuild for the future.\n中文讲解：球队计划为了未来而重建。\n要点解析：Plan to do something 表示计划做某事。Rebuild 指重建球队阵容，通常意味着放弃当下成绩，培养年轻人。"
+    },
+    {
+      "title": "关键概念：Salary Cap",
+      "type": "article",
+      "content": "英文：The salary cap is the limit on money teams can spend.\n中文讲解：工资帽是球队花钱的工资上限。\n要点解析：Cap 原意是帽子，这里指上限。理解 cap 有助于明白为什么球队不能随便买所有好球员。"
+    },
+    {
+      "title": "实用短语：Give up",
+      "type": "expression",
+      "content": "英文：Sometimes teams must give up star players.\n中文讲解：有时球队必须放弃明星球员。\n要点解析：Give up 意为放弃。在交易中，为了得到未来资产，球队可能需要送走现在的明星。"
+    }
+  ],
+  "expand": [
+    {
+      "title": "文化注释：NBA 赛季结构",
+      "type": "note",
+      "content": "NBA 赛季通常从 10 月开始，到次年 6 月结束。交易截止日一般在 2 月，此时赛季过半，球队需要决定是冲刺季后赛还是准备下赛季。"
+    },
+    {
+      "title": "同义替换：Trade vs Swap",
+      "type": "note",
+      "content": "Trade 和 Swap 都可以表示交换。Trade 更正式，常用于官方新闻；Swap 更口语化，常用于球迷讨论。"
+    },
+    {
+      "title": "背景知识：重建的代价",
+      "type": "note",
+      "content": "重建（Rebuild）通常意味着输掉很多比赛。球迷需要耐心，因为年轻球员需要时间成长，但未来可能赢得冠军。"
+    },
+    {
+      "title": "进阶表达：Asset Management",
+      "type": "note",
+      "content": "Asset 指资产，在 NBA 中指选秀权、年轻球员或薪金空间。管理资产是总经理最重要的工作之一。"
+    },
+    {
+      "title": "常见误区：交易不等于变强",
+      "type": "note",
+      "content": "很多球迷认为交易来明星就会赢。但实际上，如果球队化学性质不好，交易可能导致更糟的结果。"
+    }
+  ],
+  "videos": [
+    {
+      "title": "NBA Trade Deadline Explained",
+      "url": "https://www.youtube.com/results?search_query=NBA+trade+deadline+explained",
+      "channel": "NBA Official",
+      "minutes": 8,
+      "desc": "官方解释交易截止日的基本规则和时间点。"
+    },
+    {
+      "title": "How NBA Rebuilds Work",
+      "url": "https://www.youtube.com/results?search_query=NBA+team+rebuild+strategy",
+      "channel": "Bleacher Report",
+      "minutes": 10,
+      "desc": "分析球队如何通过交易进行重建的策略。"
+    },
+    {
+      "title": "Salary Cap Basics for Fans",
+      "url": "https://www.youtube.com/results?search_query=NBA+salary+cap+basics",
+      "channel": "ESPN",
+      "minutes": 7,
+      "desc": "简单讲解工资帽如何限制球队花钱。"
+    },
+    {
+      "title": "Draft Picks Value Explained",
+      "url": "https://www.youtube.com/results?search_query=NBA+draft+picks+value",
+      "channel": "House of Highlights",
+      "minutes": 6,
+      "desc": "解释选秀权为什么比现金更重要。"
+    },
+    {
+      "title": "Best NBA Trades History",
+      "url": "https://www.youtube.com/@BleacherReport",
+      "channel": "Bleacher Report",
+      "minutes": 12,
+      "desc": "回顾历史上最成功的交易案例。"
+    },
+    {
+      "title": "Worst NBA Trades History",
+      "url": "https://www.youtube.com/@ESPN",
+      "channel": "ESPN",
+      "minutes": 10,
+      "desc": "回顾历史上最失败的交易案例。"
+    }
+  ],
+  "articles": [
+    {
+      "title": "What Is the Trade Deadline",
+      "level": "A2-B1",
+      "words": 120,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "The NBA trade deadline is a specific date every season. After this date, teams cannot exchange players until the next season. It usually happens in February. Teams want to fix problems before the playoffs. Some teams buy players to win now. Other teams sell players for future picks. This day is very busy for managers. They talk on the phone many times. Fans wait for news on social media. A big trade can change a team's luck. Sometimes a star player moves to a new city. This makes fans excited or angry. The deadline creates pressure for everyone. It is a key moment in the basketball year. Understanding this helps you follow the news better.",
+      "zh": "介绍 NBA 交易截止日的定义、时间点及其对球队和球迷的影响。",
+      "points": [
+        "Exchange 意为交换，同 swap 类似。",
+        "Playoffs 指季后赛，是赛季末的淘汰赛阶段。",
+        "Creates pressure 表示制造压力，常用搭配。"
+      ]
+    },
+    {
+      "title": "Why Teams Make Trades",
+      "level": "A2-B1",
+      "words": 115,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Teams make trades for different reasons. The main goal is to improve the roster. A roster is the list of all players. If a team is weak, they need strong players. If a team is old, they need young energy. Managers look for good fits. A good fit means the player plays well with others. Sometimes trades save money. Sometimes trades bring hope. Fans hope for a championship. A championship is the biggest prize. Without trades, some teams stay bad forever. Movement is healthy for the league. It keeps stories interesting. Every trade has a risk. But managers must take chances to win.",
+      "zh": "解释球队进行交易的主要原因，包括增强阵容、节省资金和带来希望。",
+      "points": [
+        "Roster 指球队大名单，是 NBA 常用词。",
+        "Fit 在这里指适合，指球员与球队体系匹配。",
+        "Take chances 意为冒险，尝试机会。"
+      ]
+    },
+    {
+      "title": "Signs of a Rebuild",
+      "level": "A2-B1",
+      "words": 125,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "How do you know a team is rebuilding? There are clear signs. First, they trade old stars. They send veterans to other teams. In return, they get draft picks. Second, they play young rookies. Rookies are first-year players. They make mistakes but learn fast. Third, they lose many games. Losing gives them better picks next year. This is called tanking sometimes. Fans might be sad. But the plan is for the future. A rebuild takes three to five years. Patience is very important. Managers say they trust the process. The process means working hard slowly. Success does not come quickly.",
+      "zh": "列举球队重建的三个明显迹象：交易老将、启用新秀、接受输球。",
+      "points": [
+        "In return 表示作为回报。",
+        "Tanking 指故意输球以获得更好选秀权的策略。",
+        "Trust the process 是常用口号，意为相信过程。"
+      ]
+    },
+    {
+      "title": "Understanding Draft Picks",
+      "level": "A2-B1",
+      "words": 130,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Draft picks are like tickets for new players. Every year, the league holds a draft. Teams choose college players or international players. Picks have different values. A first-round pick is very valuable. It means you can choose a top player. A second-round pick is less valuable. Teams trade picks like money. Sometimes they swap picks for current stars. Protecting picks is also common. This means keeping the pick if it is high. Fans love discussing pick value. It shows how smart a manager is. Good picks build strong teams. Bad picks waste time and money. Understanding picks helps you judge trades.",
+      "zh": "讲解选秀权的价值差异，包括首轮与次轮的区别及其在交易中的作用。",
+      "points": [
+        "Valuable 意为有价值的，珍贵的。",
+        "Swap 意为交换，常用于非正式场合。",
+        "Judge 意为评价，判断。"
+      ]
+    },
+    {
+      "title": "Salary Cap Basics",
+      "level": "A2-B1",
+      "words": 128,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "The salary cap is a spending limit. The league sets a number each year. Teams cannot pay players more than this. This keeps the league fair. Rich teams cannot buy everyone. There are exceptions to the rule. Some teams can go over the cap. This is called the luxury tax. They pay extra money to the league. Managers must do math carefully. They need space to sign free agents. Free agents are players without teams. If a team has no cap space, they cannot sign anyone. This is why trades happen. Teams move contracts to clear space. Cap rules make the game complex.",
+      "zh": "介绍工资帽的基本概念、奢侈税以及其对球队签约的影响。",
+      "points": [
+        "Limit 指限制，上限。",
+        "Exceptions 指例外情况。",
+        "Clear space 意为清理空间，指腾出薪金空间。"
+      ]
+    },
+    {
+      "title": "Young Players vs Veterans",
+      "level": "A2-B1",
+      "words": 122,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Teams need a mix of age. Young players have energy and speed. They run fast and jump high. But they lack experience. Veterans have experience and wisdom. They know how to win games. They teach young players lessons. In a rebuild, teams want youth. In a win-now mode, teams want veterans. A veteran contract is often expensive. A young contract is cheap and long. Managers balance the roster age. Too old means the team declines. Too young means the team loses. Finding the right balance is art. Both groups are important for success. Respect between them is key.",
+      "zh": "对比年轻球员与老将的优缺点，以及球队如何平衡年龄结构。",
+      "points": [
+        "Lack 意为缺乏，缺少。",
+        "Declines 指下滑，衰退。",
+        "Balance 意为平衡，此处指阵容年龄搭配。"
+      ]
+    },
+    {
+      "title": "The Role of Agents",
+      "level": "A2-B1",
+      "words": 118,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Players do not talk to teams directly. They have agents. Agents represent the players. They negotiate contracts and trades. An agent wants the best deal. The best deal means more money. Sometimes agents push for trades. They tell teams their client is unhappy. This creates pressure on managers. Good agents have many connections. They know what other teams want. They call many phones during deadline day. Fans often blame agents for moves. But agents just do their job. They protect the player's interest. Understanding agents helps you see the business side. It is not just about basketball.",
+      "zh": "说明经纪人在交易中的作用，包括谈判合同和向球队施压。",
+      "points": [
+        "Represent 意为代表。",
+        "Negotiate 指谈判，协商。",
+        "Interest 此处指利益。"
+      ]
+    },
+    {
+      "title": "Fan Reactions to Trades",
+      "level": "A2-B1",
+      "words": 124,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Fans react strongly to news. Social media explodes on deadline day. Some fans are happy and celebrate. They post photos and videos. Other fans are sad and cry. They feel betrayed by the team. Betrayed means feeling hurt by someone you trust. Twitter and Instagram fill with opinions. Some opinions are smart and logical. Some opinions are angry and emotional. Teams watch these reactions closely. They care about ticket sales. If fans are unhappy, they do not buy tickets. So managers try to keep fans calm. But big trades always cause noise. It is part of the sports culture.",
+      "zh": "描述球迷对交易消息的强烈反应，包括社交媒体上的情绪表达。",
+      "points": [
+        "Explodes 此处指消息爆发，热度激增。",
+        "Betrayed 意为被背叛的，感到受伤的。",
+        "Logical 指逻辑的，理性的。"
+      ]
+    },
+    {
+      "title": "Successful Rebuilds",
+      "level": "A2-B1",
+      "words": 126,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Some rebuilds work very well. The Oklahoma City Thunder is a recent example. They traded stars for many picks. They waited for years. Now they have a young strong team. They win many games today. This plan took patience. Fans had to suffer losing seasons. But the reward is a championship chance. Another example is the Philadelphia 76ers past. They trusted the process explicitly. They drafted great players like Embiid. Success requires good scouting. Scouting means finding talent early. It also requires luck. Injuries can ruin a plan. But a good rebuild changes a franchise forever.",
+      "zh": "举例说明成功的重建案例，如雷霆队和 76 人队的过程。",
+      "points": [
+        "Reward 指回报，奖励。",
+        "Suffer 意为遭受，忍受。",
+        "Franchise 指球队 franchise，即俱乐部。"
+      ]
+    },
+    {
+      "title": "Failed Trades",
+      "level": "A2-B1",
+      "words": 127,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Not all trades are successful. Some teams lose value. The Brooklyn Nets had a big failure. They traded all their picks for stars. The stars got old or hurt. Now the team has no future assets. They cannot draft new players. This is a dangerous position. Fans feel angry and hopeless. Managers might lose their jobs. A bad trade sets a team back years. It is hard to recover from this. Recovery means getting back to normal. Teams must learn from mistakes. Analyzing failed trades teaches us lessons. Do not trade everything for now. Always keep something for tomorrow.",
+      "zh": "分析失败的交易案例，如篮网队透支未来的教训。",
+      "points": [
+        "Assets 指资产，此处指选秀权等资源。",
+        "Dangerous position 指危险的处境。",
+        "Recover 意为恢复，复原。"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "trade",
+      "pos": "n.",
+      "meaning_en": "an act of exchanging one thing for another",
+      "meaning_zh": "交易",
+      "example": "The team made a big trade yesterday.",
+      "source": "What Is the Trade Deadline"
+    },
+    {
+      "word": "deadline",
+      "pos": "n.",
+      "meaning_en": "the latest time or date by which something should be completed",
+      "meaning_zh": "截止日期",
+      "example": "Do not miss the trade deadline.",
+      "source": "What Is the Trade Deadline"
+    },
+    {
+      "word": "season",
+      "pos": "n.",
+      "meaning_en": "a period of the year when a sport is played",
+      "meaning_zh": "赛季",
+      "example": "The NBA season starts in October.",
+      "source": "What Is the Trade Deadline"
+    },
+    {
+      "word": "exchange",
+      "pos": "v.",
+      "meaning_en": "to give something and get something else",
+      "meaning_zh": "交换",
+      "example": "Teams exchange players for picks.",
+      "source": "What Is the Trade Deadline"
+    },
+    {
+      "word": "roster",
+      "pos": "n.",
+      "meaning_en": "a list of players on a team",
+      "meaning_zh": "球员名单",
+      "example": "The manager wants to improve the roster.",
+      "source": "Why Teams Make Trades"
+    },
+    {
+      "word": "improve",
+      "pos": "v.",
+      "meaning_en": "to make something better",
+      "meaning_zh": "改善，提高",
+      "example": "They trade to improve the team.",
+      "source": "Why Teams Make Trades"
+    },
+    {
+      "word": "championship",
+      "pos": "n.",
+      "meaning_en": "the competition to find the best team",
+      "meaning_zh": "冠军赛",
+      "example": "Every team wants to win the championship.",
+      "source": "Why Teams Make Trades"
+    },
+    {
+      "word": "rebuild",
+      "pos": "v.",
+      "meaning_en": "to build something again after it fails",
+      "meaning_zh": "重建",
+      "example": "The team decides to rebuild for the future.",
+      "source": "Signs of a Rebuild"
+    },
+    {
+      "word": "veteran",
+      "pos": "n.",
+      "meaning_en": "a person with long experience in a job",
+      "meaning_zh": "老将",
+      "example": "They trade old veterans for young players.",
+      "source": "Signs of a Rebuild"
+    },
+    {
+      "word": "rookie",
+      "pos": "n.",
+      "meaning_en": "a person new to a job or sport",
+      "meaning_zh": "新秀",
+      "example": "The rookie plays well in his first game.",
+      "source": "Signs of a Rebuild"
+    },
+    {
+      "word": "draft",
+      "pos": "n.",
+      "meaning_en": "a system for choosing new players",
+      "meaning_zh": "选秀",
+      "example": "They get a first-round pick in the draft.",
+      "source": "Understanding Draft Picks"
+    },
+    {
+      "word": "pick",
+      "pos": "n.",
+      "meaning_en": "the right to choose a player in a draft",
+      "meaning_zh": "选秀权",
+      "example": "This pick is very valuable.",
+      "source": "Understanding Draft Picks"
+    },
+    {
+      "word": "valuable",
+      "pos": "adj.",
+      "meaning_en": "worth a lot of money or useful",
+      "meaning_zh": "有价值的",
+      "example": "First-round picks are more valuable.",
+      "source": "Understanding Draft Picks"
+    },
+    {
+      "word": "swap",
+      "pos": "v.",
+      "meaning_en": "to exchange one thing for another",
+      "meaning_zh": "交换",
+      "example": "Teams sometimes swap picks for stars.",
+      "source": "Understanding Draft Picks"
+    },
+    {
+      "word": "cap",
+      "pos": "n.",
+      "meaning_en": "a limit on the amount of money",
+      "meaning_zh": "上限，帽",
+      "example": "The salary cap stops teams from spending too much.",
+      "source": "Salary Cap Basics"
+    },
+    {
+      "word": "limit",
+      "pos": "n.",
+      "meaning_en": "the maximum amount allowed",
+      "meaning_zh": "限制",
+      "example": "There is a limit on player salaries.",
+      "source": "Salary Cap Basics"
+    },
+    {
+      "word": "contract",
+      "pos": "n.",
+      "meaning_en": "a written agreement to work for money",
+      "meaning_zh": "合同",
+      "example": "He signed a new contract today.",
+      "source": "Salary Cap Basics"
+    },
+    {
+      "word": "experience",
+      "pos": "n.",
+      "meaning_en": "knowledge gained over time",
+      "meaning_zh": "经验",
+      "example": "Veterans have more experience than rookies.",
+      "source": "Young Players vs Veterans"
+    },
+    {
+      "word": "balance",
+      "pos": "n.",
+      "meaning_en": "a situation where different parts are equal",
+      "meaning_zh": "平衡",
+      "example": "Managers need to balance the team age.",
+      "source": "Young Players vs Veterans"
+    },
+    {
+      "word": "agent",
+      "pos": "n.",
+      "meaning_en": "a person who acts for another person",
+      "meaning_zh": "经纪人",
+      "example": "The agent talks to the team manager.",
+      "source": "The Role of Agents"
+    },
+    {
+      "word": "negotiate",
+      "pos": "v.",
+      "meaning_en": "to discuss to reach an agreement",
+      "meaning_zh": "谈判",
+      "example": "They negotiate the contract price.",
+      "source": "The Role of Agents"
+    },
+    {
+      "word": "react",
+      "pos": "v.",
+      "meaning_en": "to behave in a particular way because of something",
+      "meaning_zh": "反应",
+      "example": "Fans react strongly to bad news.",
+      "source": "Fan Reactions to Trades"
+    },
+    {
+      "word": "betrayed",
+      "pos": "adj.",
+      "meaning_en": "feeling hurt by someone you trusted",
+      "meaning_zh": "被背叛的",
+      "example": "Fans feel betrayed when stars leave.",
+      "source": "Fan Reactions to Trades"
+    },
+    {
+      "word": "reward",
+      "pos": "n.",
+      "meaning_en": "something given for good work",
+      "meaning_zh": "回报",
+      "example": "The reward is a championship chance.",
+      "source": "Successful Rebuilds"
+    },
+    {
+      "word": "patience",
+      "pos": "n.",
+      "meaning_en": "the ability to wait without getting angry",
+      "meaning_zh": "耐心",
+      "example": "Rebuilding requires great patience.",
+      "source": "Successful Rebuilds"
+    },
+    {
+      "word": "asset",
+      "pos": "n.",
+      "meaning_en": "a useful or valuable thing",
+      "meaning_zh": "资产",
+      "example": "They have no future assets left.",
+      "source": "Failed Trades"
+    },
+    {
+      "word": "recover",
+      "pos": "v.",
+      "meaning_en": "to return to a normal state",
+      "meaning_zh": "恢复",
+      "example": "It is hard to recover from bad trades.",
+      "source": "Failed Trades"
+    },
+    {
+      "word": "analyze",
+      "pos": "v.",
+      "meaning_en": "to study something carefully",
+      "meaning_zh": "分析",
+      "example": "We analyze failed trades to learn.",
+      "source": "Failed Trades"
+    },
+    {
+      "word": "pressure",
+      "pos": "n.",
+      "meaning_en": "the feeling of stress or urgency",
+      "meaning_zh": "压力",
+      "example": "The deadline creates pressure for managers.",
+      "source": "What Is the Trade Deadline"
+    },
+    {
+      "word": "fit",
+      "pos": "n.",
+      "meaning_en": "being suitable for a purpose",
+      "meaning_zh": "适合",
+      "example": "He is a good fit for the team.",
+      "source": "Why Teams Make Trades"
+    },
+    {
+      "word": "process",
+      "pos": "n.",
+      "meaning_en": "a series of actions to achieve a result",
+      "meaning_zh": "过程",
+      "example": "Trust the process during rebuilds.",
+      "source": "Signs of a Rebuild"
+    },
+    {
+      "word": "franchise",
+      "pos": "n.",
+      "meaning_en": "a professional sports team",
+      "meaning_zh": "球队， franchise",
+      "example": "A good rebuild changes the franchise.",
+      "source": "Successful Rebuilds"
+    }
+  ],
+  "status": "ready",
+  "generatedBy": "claude",
+  "savedAt": "2026-09-30T11:33:59.686Z"
+}

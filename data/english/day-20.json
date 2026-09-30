@@ -1,0 +1,527 @@
+{
+  "day": 20,
+  "date": "2026-10-09",
+  "theme": "电视剧 · 悬疑剧常用表达与推理词汇",
+  "domain": "电视剧",
+  "level": "A2 → B1",
+  "goals": [
+    "掌握 10 个悬疑剧核心推理词汇（如 clue, alibi, motive）",
+    "能够用英文简单描述剧情转折与人物关系",
+    "听懂悬疑剧预告片中的关键信息点",
+    "积累 3 个高频口语句型用于讨论剧情"
+  ],
+  "tasks": [
+    {
+      "text": "精读 10 篇短篇文章，标注生词",
+      "minutes": 30
+    },
+    {
+      "text": "观看 2 个视频，练习听力",
+      "minutes": 15
+    },
+    {
+      "text": "记忆 32 个核心词汇与例句",
+      "minutes": 10
+    },
+    {
+      "text": "复述一个悬疑故事梗概（录音）",
+      "minutes": 5
+    }
+  ],
+  "mustLearn": [
+    {
+      "title": "句型：It turns out that...",
+      "type": "expression",
+      "content": "English: It turns out that the butler was the killer. Chinese: 结果发现管家是凶手。Analysis: 'It turns out that' 用于揭示真相或意外结果，是悬疑剧高频句型。"
+    },
+    {
+      "title": "句型：have a hunch",
+      "type": "expression",
+      "content": "English: I have a hunch that she is lying. Chinese: 我有一种直觉她在撒谎。Analysis: 'hunch' 指没有证据的直觉，侦探常用词，比 'guess' 更地道。"
+    },
+    {
+      "title": "词汇辨析：suspect vs witness",
+      "type": "vocabulary",
+      "content": "English: The suspect is the person who might did the crime. The witness saw the crime. Chinese: suspect 是嫌疑人，witness 是目击者。Analysis: 注意角色定位，suspect 可能被证明 innocent，witness 提供 evidence。"
+    },
+    {
+      "title": "语法：Past Perfect for Backstory",
+      "type": "grammar",
+      "content": "English: He had hidden the money before the police arrived. Chinese: 警察到来之前，他已经藏好了钱。Analysis: 过去完成时用于描述‘过去的过去’，常用于推理时间线。"
+    }
+  ],
+  "expand": [
+    {
+      "title": "文化注释：Whodunit",
+      "type": "note",
+      "content": "源自 'Who done it?'，指传统推理小说或剧集，核心是找出凶手。"
+    },
+    {
+      "title": "同义替换：kill vs murder",
+      "type": "note",
+      "content": "kill 是通用词，murder 指非法故意杀人，法律语境更严谨。"
+    },
+    {
+      "title": "进阶表达：red herring",
+      "type": "note",
+      "content": "字面是红鲱鱼，剧中指误导观众视线的假线索，高级推理词汇。"
+    },
+    {
+      "title": "背景知识：CSI",
+      "type": "note",
+      "content": "Crime Scene Investigation，犯罪现场调查，美剧常见题材，涉及法医科学。"
+    },
+    {
+      "title": "观影建议",
+      "type": "note",
+      "content": "初学者建议先看英字幕，重点听数字、时间、地点名词，忽略复杂法律术语。"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Mystery Drama Vocabulary List",
+      "url": "https://www.youtube.com/results?search_query=mystery+drama+vocabulary+english",
+      "channel": "English with Lucy",
+      "minutes": 10,
+      "desc": "学习悬疑剧常见单词与发音"
+    },
+    {
+      "title": "How to Describe Plot Twists",
+      "url": "https://www.youtube.com/results?search_query=how+to+describe+plot+twists+in+english",
+      "channel": "BBC Learning English",
+      "minutes": 8,
+      "desc": "掌握描述剧情转折的地道表达"
+    },
+    {
+      "title": "Sherlock Holmes English Analysis",
+      "url": "https://www.youtube.com/results?search_query=sherlock+holmes+english+analysis",
+      "channel": "Learn English With TV Series",
+      "minutes": 12,
+      "desc": "通过神夏片段学习推理用语"
+    },
+    {
+      "title": "Crime Scene Investigation Terms",
+      "url": "https://www.youtube.com/results?search_query=crime+scene+investigation+terms+english",
+      "channel": "Voice of America",
+      "minutes": 9,
+      "desc": "了解法医与调查专业术语"
+    },
+    {
+      "title": "Top 10 Thriller Series Recommendations",
+      "url": "https://www.youtube.com/results?search_query=top+10+thriller+series+recommendations",
+      "channel": "WatchMojo",
+      "minutes": 11,
+      "desc": "拓展剧单并学习评价用语"
+    },
+    {
+      "title": "English Learning With TV Shows",
+      "url": "https://www.youtube.com/results?search_query=learn+english+with+tv+shows+method",
+      "channel": "EngVid",
+      "minutes": 7,
+      "desc": "如何利用电视剧高效学英语"
+    }
+  ],
+  "articles": [
+    {
+      "title": "What Is a Mystery Drama",
+      "level": "A2-B1",
+      "words": 120,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "A mystery drama is a type of TV show or movie. The story usually starts with a crime. Someone steals money or hurts another person. The main goal is to find the truth. The audience watches the characters work hard. They look for clues and ask questions. Sometimes the story is scary. Sometimes it is funny. But the most important part is the puzzle. You want to know who did it. Many people love this genre. It makes your brain think. You try to guess the ending before the hero finds the answer. It is very exciting to watch.",
+      "zh": "介绍悬疑剧的基本定义与观众心理。",
+      "points": [
+        "genre 指类型，如 comedy, drama",
+        "puzzle 指谜题，此处指案情",
+        "makes your brain think 使动用法"
+      ]
+    },
+    {
+      "title": "The Main Characters",
+      "level": "A2-B1",
+      "words": 130,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Every mystery story needs people. The most important person is the detective. This person solves the crime. They are usually very smart. Sometimes they are police officers. Sometimes they are normal people. Then there is the suspect. This is the person who might do the bad thing. There can be many suspects. Also, we have the victim. This is the person who gets hurt. Finally, there is the witness. They see something important. All these characters talk to each other. They hide secrets. They tell lies. The detective must listen to everyone. It is like a big game of chess.",
+      "zh": "解析悬疑剧中四大核心角色及其关系。",
+      "points": [
+        "might 表示可能性，语气不确定",
+        "normal people 普通人，相对于警察",
+        "like a big game of chess 比喻手法"
+      ]
+    },
+    {
+      "title": "Finding the Crime Scene",
+      "level": "A2-B1",
+      "words": 125,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "The story begins at the crime scene. This is the place where the crime happens. It could be a house, a park, or an office. The police come quickly. They put up yellow tape. This tape means no one can enter. Only special people can go inside. They wear gloves. They do not touch anything with bare hands. They take photos of everything. They measure the distance between objects. Every small thing matters. A broken cup or a lost key can be important. The scene must stay clean. If people walk there, they destroy evidence. So protection is the first step.",
+      "zh": "描述犯罪现场的封锁与保护流程。",
+      "points": [
+        "put up 搭建/拉起",
+        "bare hands 裸手，直接用手",
+        "matters 动词，意为重要"
+      ]
+    },
+    {
+      "title": "Looking for Clues",
+      "level": "A2-B1",
+      "words": 128,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Detectives love clues. A clue is a small piece of information. It helps them solve the problem. Maybe they find a fingerprint on a glass. Maybe they find hair on the floor. Sometimes the clue is digital. It is on a computer or a phone. They look at messages and calls. They check the time. Where was the suspect at eight oclock? Clues are like dots. You must connect the dots. One clue is not enough. You need many clues to see the picture. Sometimes a clue is fake. Someone puts it there to trick the detective. This makes the job very hard.",
+      "zh": "讲解线索的种类与真假线索的干扰。",
+      "points": [
+        "piece of information 一条信息",
+        "connect the dots 串联线索",
+        "trick 动词，欺骗/误导"
+      ]
+    },
+    {
+      "title": "Understanding Evidence",
+      "level": "A2-B1",
+      "words": 135,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Evidence is stronger than a clue. Evidence can be used in court. A clue is just an idea. Evidence is proof. For example, a video camera shows the face. This is strong evidence. DNA is also very strong. It comes from blood or skin. It tells us who was there. Lawyers love evidence. They use it to win the case. Without evidence, the suspect can go home. The police must collect evidence carefully. They put it in bags. They write labels on the bags. They must not lose anything. If the evidence is lost, the case is over. So safety is key.",
+      "zh": "区分线索与证据，强调法律效力。",
+      "points": [
+        "court 法庭",
+        "proof 证明，不可数名词",
+        "case 案件"
+      ]
+    },
+    {
+      "title": "The Suspect's Alibi",
+      "level": "A2-B1",
+      "words": 132,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "When the police ask questions, the suspect speaks. They say where they were. This is called an alibi. An alibi is a story about time. I was at the cinema. I was with my friend. The police check this story. They call the friend. They check the ticket. If the story is true, the suspect is safe. If the story is false, they are in trouble. Sometimes the alibi is weak. I was at home alone. No one saw me. This is bad for the suspect. Detectives try to break the alibi. They find holes in the story. Everyone lies sometimes. But lies are hard to keep.",
+      "zh": "解释不在场证明的概念与验证过程。",
+      "points": [
+        "called 被称为",
+        "in trouble 有麻烦",
+        "holes 漏洞"
+      ]
+    },
+    {
+      "title": "Why Did They Do It",
+      "level": "A2-B1",
+      "words": 126,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Finding the person is step one. Step two is finding the reason. This is the motive. Why did they kill or steal? Maybe they wanted money. Maybe they were angry. Maybe they wanted love. Money is a common motive. People do bad things for cash. Love is also common. Jealousy makes people crazy. Sometimes the motive is secret. No one knows why. The detective must dig deep. They look at the past. Did someone hurt them before? Was there a fight last week? Understanding the motive helps the jury. It explains the action. Without a motive, the story feels incomplete.",
+      "zh": "探讨犯罪动机对剧情完整性的作用。",
+      "points": [
+        "step one 第一步",
+        "dig deep 深挖",
+        "jury 陪审团"
+      ]
+    },
+    {
+      "title": "Questioning the Witness",
+      "level": "A2-B1",
+      "words": 129,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Witnesses are very helpful. They saw the event. But people forget things. Memory is not perfect. The detective asks many questions. What did you wear? What did you hear? Was it loud? Was it dark? Sometimes the witness is scared. They do not want to talk. They fear the bad guy. The police must protect them. Sometimes the witness lies. They want to help a friend. So the detective watches their eyes. They watch their hands. Body language tells the truth. If the story changes, it is a problem. Consistency is important. The story must stay the same.",
+      "zh": "描述询问目击者的技巧与难点。",
+      "points": [
+        "forget 忘记，过去式 forgot",
+        "body language 肢体语言",
+        "consistency 一致性"
+      ]
+    },
+    {
+      "title": "The Big Plot Twist",
+      "level": "A2-B1",
+      "words": 131,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Every good mystery has a twist. A twist is a surprise. You think you know the answer. Then everything changes. The nice guy is the bad guy. The dead person is alive. This happens near the end. It shocks the audience. You say wow I did not know that. Writers plan this carefully. They hide hints early in the show. You watch it again and you see them. But the first time, you miss them. A good twist makes sense. It is not random. It fits the story. If it is too crazy, people get angry. They want a logical surprise. So the twist must be smart.",
+      "zh": "分析剧情转折的设计逻辑与观众反应。",
+      "points": [
+        "near the end 接近尾声",
+        "miss 错过/没看到",
+        "logical 符合逻辑的"
+      ]
+    },
+    {
+      "title": "Solving the Case",
+      "level": "A2-B1",
+      "words": 134,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Finally, the detective solves the case. They gather everyone in a room. This is a classic scene. They explain everything. They show the evidence. They name the killer. The killer tries to run. But the police catch them. Sometimes the killer cries. Sometimes they laugh. Then the story ends. The victim gets justice. The town is safe again. The detective goes home. They are tired but happy. Sometimes there is a sequel. Another crime happens next year. But for now, it is over. The audience feels satisfied. They enjoyed the journey. Mystery dramas are never boring.",
+      "zh": "总结结案场景与典型结局模式。",
+      "points": [
+        "gather 聚集",
+        "justice 正义",
+        "sequel 续集"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "mystery",
+      "pos": "n.",
+      "meaning_en": "Something that is difficult to understand or explain",
+      "meaning_zh": "谜，神秘事物",
+      "example": "The mystery of the lost key was never solved.",
+      "source": "What Is a Mystery Drama"
+    },
+    {
+      "word": "drama",
+      "pos": "n.",
+      "meaning_en": "A play for theater, radio, or television",
+      "meaning_zh": "戏剧，电视剧",
+      "example": "She likes watching crime drama on weekends.",
+      "source": "What Is a Mystery Drama"
+    },
+    {
+      "word": "detective",
+      "pos": "n.",
+      "meaning_en": "A person whose job is to solve crimes",
+      "meaning_zh": "侦探",
+      "example": "The detective looked for clues at the scene.",
+      "source": "The Main Characters"
+    },
+    {
+      "word": "suspect",
+      "pos": "n.",
+      "meaning_en": "A person thought to be guilty of a crime",
+      "meaning_zh": "嫌疑人",
+      "example": "The police arrested the main suspect yesterday.",
+      "source": "The Main Characters"
+    },
+    {
+      "word": "victim",
+      "pos": "n.",
+      "meaning_en": "A person harmed or killed by another",
+      "meaning_zh": "受害者",
+      "example": "The victim was found in the park.",
+      "source": "The Main Characters"
+    },
+    {
+      "word": "witness",
+      "pos": "n.",
+      "meaning_en": "A person who sees an event happen",
+      "meaning_zh": "目击者",
+      "example": "The witness told the police what she saw.",
+      "source": "The Main Characters"
+    },
+    {
+      "word": "crime",
+      "pos": "n.",
+      "meaning_en": "An action that breaks the law",
+      "meaning_zh": "犯罪，罪行",
+      "example": "Stealing is a serious crime.",
+      "source": "Finding the Crime Scene"
+    },
+    {
+      "word": "scene",
+      "pos": "n.",
+      "meaning_en": "The place where something happens",
+      "meaning_zh": "现场，场景",
+      "example": "Do not touch anything at the crime scene.",
+      "source": "Finding the Crime Scene"
+    },
+    {
+      "word": "evidence",
+      "pos": "n.",
+      "meaning_en": "Facts that show something is true",
+      "meaning_zh": "证据",
+      "example": "There is no evidence against him.",
+      "source": "Understanding Evidence"
+    },
+    {
+      "word": "clue",
+      "pos": "n.",
+      "meaning_en": "A fact or object that helps solve a problem",
+      "meaning_zh": "线索",
+      "example": "This fingerprint is a important clue.",
+      "source": "Looking for Clues"
+    },
+    {
+      "word": "alibi",
+      "pos": "n.",
+      "meaning_en": "Proof that someone was elsewhere during a crime",
+      "meaning_zh": "不在场证明",
+      "example": "He has a strong alibi for that night.",
+      "source": "The Suspect's Alibi"
+    },
+    {
+      "word": "motive",
+      "pos": "n.",
+      "meaning_en": "The reason for doing something",
+      "meaning_zh": "动机",
+      "example": "Money was the motive for the theft.",
+      "source": "Why Did They Do It"
+    },
+    {
+      "word": "solve",
+      "pos": "v.",
+      "meaning_en": "To find the answer to a problem",
+      "meaning_zh": "解决，破解",
+      "example": "It took weeks to solve the case.",
+      "source": "Solving the Case"
+    },
+    {
+      "word": "investigate",
+      "pos": "v.",
+      "meaning_en": "To try to discover facts about something",
+      "meaning_zh": "调查",
+      "example": "The team will investigate the accident.",
+      "source": "Looking for Clues"
+    },
+    {
+      "word": "guilty",
+      "pos": "adj.",
+      "meaning_en": "Responsible for a crime",
+      "meaning_zh": "有罪的",
+      "example": "The jury found him guilty.",
+      "source": "Understanding Evidence"
+    },
+    {
+      "word": "innocent",
+      "pos": "adj.",
+      "meaning_en": "Not guilty of a crime",
+      "meaning_zh": "无罪的",
+      "example": "She proved she was innocent.",
+      "source": "The Suspect's Alibi"
+    },
+    {
+      "word": "lie",
+      "pos": "v.",
+      "meaning_en": "To say something that is not true",
+      "meaning_zh": "说谎",
+      "example": "Do not lie to the police.",
+      "source": "The Main Characters"
+    },
+    {
+      "word": "truth",
+      "pos": "n.",
+      "meaning_en": "The real facts about something",
+      "meaning_zh": "真相",
+      "example": "We want to know the truth.",
+      "source": "What Is a Mystery Drama"
+    },
+    {
+      "word": "secret",
+      "pos": "n.",
+      "meaning_en": "Something kept hidden from others",
+      "meaning_zh": "秘密",
+      "example": "Everyone in the house had a secret.",
+      "source": "The Main Characters"
+    },
+    {
+      "word": "hide",
+      "pos": "v.",
+      "meaning_en": "To put something where it cannot be seen",
+      "meaning_zh": "隐藏",
+      "example": "He tried to hide the money.",
+      "source": "Solving the Case"
+    },
+    {
+      "word": "police",
+      "pos": "n.",
+      "meaning_en": "The organization that stops crime",
+      "meaning_zh": "警察",
+      "example": "Call the police immediately.",
+      "source": "Finding the Crime Scene"
+    },
+    {
+      "word": "court",
+      "pos": "n.",
+      "meaning_en": "The place where legal trials happen",
+      "meaning_zh": "法庭",
+      "example": "The case will go to court next month.",
+      "source": "Understanding Evidence"
+    },
+    {
+      "word": "judge",
+      "pos": "n.",
+      "meaning_en": "The person who controls a trial",
+      "meaning_zh": "法官",
+      "example": "The judge made the final decision.",
+      "source": "Understanding Evidence"
+    },
+    {
+      "word": "lawyer",
+      "pos": "n.",
+      "meaning_en": "A person who gives legal advice",
+      "meaning_zh": "律师",
+      "example": "You need a good lawyer.",
+      "source": "Understanding Evidence"
+    },
+    {
+      "word": "prison",
+      "pos": "n.",
+      "meaning_en": "A place where criminals are kept",
+      "meaning_zh": "监狱",
+      "example": "He went to prison for five years.",
+      "source": "Solving the Case"
+    },
+    {
+      "word": "twist",
+      "pos": "n.",
+      "meaning_en": "An unexpected change in a story",
+      "meaning_zh": "转折",
+      "example": "The movie had a big twist at the end.",
+      "source": "The Big Plot Twist"
+    },
+    {
+      "word": "fear",
+      "pos": "n.",
+      "meaning_en": "An unpleasant emotion caused by danger",
+      "meaning_zh": "恐惧",
+      "example": "The witness spoke out of fear.",
+      "source": "Questioning the Witness"
+    },
+    {
+      "word": "danger",
+      "pos": "n.",
+      "meaning_en": "The possibility of harm",
+      "meaning_zh": "危险",
+      "example": "They were in great danger.",
+      "source": "Questioning the Witness"
+    },
+    {
+      "word": "protect",
+      "pos": "v.",
+      "meaning_en": "To keep someone safe from harm",
+      "meaning_zh": "保护",
+      "example": "The police must protect the witness.",
+      "source": "Questioning the Witness"
+    },
+    {
+      "word": "justice",
+      "pos": "n.",
+      "meaning_en": "Fair treatment under the law",
+      "meaning_zh": "正义",
+      "example": "The victim finally got justice.",
+      "source": "Solving the Case"
+    },
+    {
+      "word": "gather",
+      "pos": "v.",
+      "meaning_en": "To bring people together",
+      "meaning_zh": "聚集",
+      "example": "Let us gather in the living room.",
+      "source": "Solving the Case"
+    },
+    {
+      "word": "logical",
+      "pos": "adj.",
+      "meaning_en": "Based on clear reasoning",
+      "meaning_zh": "符合逻辑的",
+      "example": "The explanation was logical and clear.",
+      "source": "The Big Plot Twist"
+    }
+  ],
+  "status": "ready",
+  "generatedBy": "claude",
+  "savedAt": "2026-09-30T11:51:25.678Z"
+}

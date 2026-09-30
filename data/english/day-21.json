@@ -1,0 +1,507 @@
+{
+  "day": 21,
+  "date": "2026-10-10",
+  "theme": "NBA · 伤病、负荷管理与康复",
+  "domain": "NBA",
+  "level": "A2 → B1",
+  "goals": [
+    "读懂 NBA 官方伤病报告的状态术语",
+    "掌握身体部位与常见伤情英文词汇",
+    "理解负荷管理（Load Management）的争议与逻辑",
+    "能用简单英文讨论球员健康与休息话题"
+  ],
+  "tasks": [
+    {
+      "text": "精读 5 篇核心文章（理解伤病报告与恢复方法）",
+      "minutes": 20
+    },
+    {
+      "text": "观看 3 个精选视频（听取专家解释与案例）",
+      "minutes": 20
+    },
+    {
+      "text": "背诵 30 个核心词汇与 3 条必学表达",
+      "minutes": 20
+    }
+  ],
+  "mustLearn": [
+    {
+      "title": "伤病报告状态术语",
+      "type": "expression",
+      "content": "Out (缺阵), Doubtful (大概率缺阵), Questionable (出战成疑), Day-to-Day (逐日观察). Example: 'Curry is questionable for tonight.' 中文讲解：这是 NBA 官方标准术语，用于描述球员上场可能性。要点解析：Questionable 意味着 50% 概率，Day-to-Day 通常指轻微伤但需每日评估。"
+    },
+    {
+      "title": "被动语态在报告中的应用",
+      "type": "grammar",
+      "content": "Players are listed as... / He is ruled out... Example: 'He is listed as doubtful due to knee pain.' 中文讲解：伤病报告常用被动语态，强调状态而非动作执行者。要点解析：be listed as (被列为), be ruled out (被排除/确认缺阵)，注意介词 due to 表示原因。"
+    },
+    {
+      "title": "负荷管理核心表达",
+      "type": "expression",
+      "content": "Load management (负荷管理), Back-to-back (背靠背比赛), Rest days (休息日). Example: 'Teams use load management for back-to-back games.' 中文讲解：指为了保护球员健康而刻意安排休息的策略。要点解析：Back-to-back 指连续两天比赛，是负荷管理的高发场景，常缩写为 B2B。"
+    },
+    {
+      "title": "康复与预防词汇搭配",
+      "type": "expression",
+      "content": "Prevent injury (预防伤病), Recover from (从...恢复), Reduce swelling (消肿). Example: 'Ice baths help reduce swelling quickly.' 中文讲解：描述医疗动作的固定搭配。要点解析：Recover 是不及物动词，需加 from；Reduce 常与 swelling/pain 搭配，表示减轻症状。"
+    }
+  ],
+  "expand": [
+    {
+      "title": "球迷为何反感负荷管理",
+      "type": "note",
+      "content": "球迷购买昂贵门票是为了看球星。当球星因负荷管理休息时，球迷感到被欺骗（cheated）。这是商业利益与球员健康的冲突。"
+    },
+    {
+      "title": "Out 与 Doubtful 的区别",
+      "type": "note",
+      "content": "Out 表示 100% 不上场。Doubtful 表示大概率不上场（约 75%），但仍有微小可能。Questionable 则是 50% 不确定。"
+    },
+    {
+      "title": "冰浴（Ice Bath）的科学原理",
+      "type": "note",
+      "content": "冷水收缩血管，减少炎症（inflammation）。离开冷水后血管扩张，促进血液循环。这是职业运动员常用的恢复手段。"
+    },
+    {
+      "title": "职业生涯 longevity",
+      "type": "note",
+      "content": "Longevity 指职业生涯的长度。现代球员通过科技和饮食管理， aim to play until age 40，如 LeBron James。"
+    },
+    {
+      "title": "背靠背比赛 B2B",
+      "type": "note",
+      "content": "Back-to-back 指连续两天都有比赛。这是 NBA 赛程中最疲劳的时刻，也是伤病高发期，教练常在此时轮休主力。"
+    }
+  ],
+  "videos": [
+    {
+      "title": "NBA Injury Report Explained",
+      "url": "https://www.youtube.com/results?search_query=NBA+injury+report+explained+status",
+      "channel": "NBA Official",
+      "minutes": 8,
+      "desc": "官方解释伤病报告术语与规则更新。"
+    },
+    {
+      "title": "Load Management Controversy",
+      "url": "https://www.youtube.com/results?search_query=NBA+load+management+controversy+fans",
+      "channel": "ESPN",
+      "minutes": 10,
+      "desc": "讨论球迷与联盟对负荷管理的不同看法。"
+    },
+    {
+      "title": "Stephen Curry Ankle History",
+      "url": "https://www.youtube.com/results?search_query=Stephen+Curry+ankle+injury+history",
+      "channel": "House of Highlights",
+      "minutes": 7,
+      "desc": "回顾库里脚踝伤病与康复历程。"
+    },
+    {
+      "title": "NBA Player Recovery Methods",
+      "url": "https://www.youtube.com/results?search_query=NBA+player+recovery+methods+ice+bath",
+      "channel": "Bleacher Report",
+      "minutes": 9,
+      "desc": "展示球员使用的冰浴、按摩等恢复技术。"
+    },
+    {
+      "title": "Physical Therapy Routine",
+      "url": "https://www.youtube.com/results?search_query=NBA+physical+therapy+routine+behind+scenes",
+      "channel": "Jomboy Media",
+      "minutes": 12,
+      "desc": "幕后探访物理治疗师的日常工作流程。"
+    },
+    {
+      "title": "Kevin Durant Comeback",
+      "url": "https://www.youtube.com/results?search_query=Kevin+Durant+Achilles+injury+comeback",
+      "channel": "NBA",
+      "minutes": 11,
+      "desc": "杜兰特跟腱断裂后复出的案例分析。"
+    }
+  ],
+  "articles": [
+    {
+      "title": "Understanding Injury Reports",
+      "level": "A2-B1",
+      "words": 115,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Every NBA team releases an official injury report before games. It tells fans and media who can play tonight. Players are listed as Out, Doubtful, or Questionable. This helps coaches plan their strategies carefully. Fans check these reports daily on apps. It is also important for sports betting companies. The league wants more transparency now. Sometimes players hide minor injuries in the past. Now rules are much stricter. Teams must update player status regularly. This keeps the game fair for everyone. Everyone knows the truth about health.",
+      "zh": "介绍 NBA 伤病报告的作用、术语及联盟透明度规则。",
+      "points": [
+        "releases an official report (发布官方报告)",
+        "listed as (被列为...状态)",
+        "transparency (透明度，指信息公开)"
+      ]
+    },
+    {
+      "title": "Common Body Injuries",
+      "level": "A2-B1",
+      "words": 118,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Basketball is a physical sport. Players jump and run often. Ankles and knees suffer most. An ankle sprain is very common. It happens when landing wrong. Knee pain takes longer to heal. Back issues affect older players. Hands and fingers get jammed. Muscles can strain during sprints. Doctors use scans to check bones. Rest is the best medicine. Ice helps reduce swelling quickly. Players wear braces for support. Prevention is better than cure. Strong legs prevent many falls.",
+      "zh": "列举篮球运动中常见的身体部位伤情及基础治疗。",
+      "points": [
+        "suffer most (受创最多)",
+        "ankle sprain (脚踝扭伤)",
+        "reduce swelling (消肿)"
+      ]
+    },
+    {
+      "title": "What is Load Management",
+      "level": "A2-B1",
+      "words": 119,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Star players play many games. Eighty-two games is a long season. Bodies need time to rest. Load management means resting often. Coaches sit stars for back-to-backs. This prevents big injuries later. Fans sometimes feel unhappy. They pay tickets to see stars. But teams care about playoffs. Health is priority number one. A healthy star wins more. Short term pain for long gain. Science supports this method now. Data shows rest helps performance.",
+      "zh": "解释负荷管理的定义、目的及科学依据。",
+      "points": [
+        "load management (负荷管理)",
+        "back-to-backs (背靠背比赛)",
+        "priority number one (第一优先级)"
+      ]
+    },
+    {
+      "title": "Resting Star Players",
+      "level": "A2-B1",
+      "words": 118,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Superstars like LeBron rest often. They play fewer regular season games. This saves energy for June. The Finals are very hard. Young players get more minutes. They learn from veterans nearby. Coaches trust the bench more. The team depth becomes stronger. Critics say it hurts the show. TV ratings might drop slightly. But career length increases greatly. Players play until age forty. It changes how we view seasons. Winning is the only goal.",
+      "zh": "讨论球星轮休对常规赛、年轻球员及职业生涯的影响。",
+      "points": [
+        "regular season (常规赛)",
+        "team depth (球队深度/阵容厚度)",
+        "career length (职业生涯长度)"
+      ]
+    },
+    {
+      "title": "Recovery Methods Today",
+      "level": "A2-B1",
+      "words": 119,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Modern NBA uses high tech. Ice baths are very popular. Players sit in cold water. It reduces muscle inflammation fast. Massage therapists work daily. Sleep is crucial for growth. Some use hyperbaric chambers too. Nutrition plans are very strict. No sugar or bad fats. Water intake is monitored closely. Stretching happens before practice. Yoga helps flexibility and mind. Recovery is a full-time job. Players treat bodies like machines.",
+      "zh": "介绍现代 NBA 球员使用的高科技恢复手段与生活习惯。",
+      "points": [
+        "ice baths (冰浴)",
+        "inflammation (炎症)",
+        "monitored closely (被密切监控)"
+      ]
+    },
+    {
+      "title": "Role of Physical Therapy",
+      "level": "A2-B1",
+      "words": 118,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Physical therapists are key staff. They work behind the scenes. They design exercise plans daily. Rehab takes weeks or months. Players must follow rules strictly. Skipping steps causes re-injury. Patience is very hard to keep. Therapists use machines for muscles. Electrical stimulation helps pain. Movement is slowly increased. Goal is full range motion. Strength returns over many weeks. Trust between player and therapist. Success means returning to court.",
+      "zh": "描述物理治疗师在球员康复过程中的关键作用。",
+      "points": [
+        "behind the scenes (幕后)",
+        "re-injury (再次受伤)",
+        "range motion (活动范围)"
+      ]
+    },
+    {
+      "title": "Season Length Impact",
+      "level": "A2-B1",
+      "words": 119,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "The NBA season is long. It starts in October usually. It ends in June finally. Traveling across time zones hurts. Jet lag affects performance badly. Four games in five nights. This is very tough physically. Mental fatigue is real too. Players miss family events often. Stress builds up over months. Shortening season is discussed now. Maybe seventy games is enough. But money drives the schedule. Owners want more ticket sales. Players want more safety though.",
+      "zh": "分析漫长赛季对球员身体、心理及家庭的影响。",
+      "points": [
+        "time zones (时区)",
+        "jet lag (时差反应)",
+        "mental fatigue (精神疲劳)"
+      ]
+    },
+    {
+      "title": "Fan Reaction to Rest",
+      "level": "A2-B1",
+      "words": 116,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Fans buy tickets early. They want to see stars. When stars rest, fans cry. They feel cheated by teams. Social media gets very angry. Hashtags trend about load management. Commissioners hear the complaints. Rules change to limit resting. National TV games need stars. Local fans deserve best show. It is a business conflict. Players need health protection too. Finding balance is very hard. Everyone wants a healthy league.",
+      "zh": "探讨球迷对球星轮休的反应及联盟的商业考量。",
+      "points": [
+        "feel cheated (感到被欺骗)",
+        "trend (成为热点)",
+        "business conflict (商业冲突)"
+      ]
+    },
+    {
+      "title": "Career Longevity Goals",
+      "level": "A2-B1",
+      "words": 118,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Players want long careers. Playing ten years is good. Playing fifteen years is great. LeBron James is the example. He spends millions on health. Diet and sleep are perfect. Training is specific and smart. Avoiding risky plays helps. Fouls are drawn not taken. Mindset matters for longevity. Love the game deeply. Body maintenance is daily work. Retirement comes eventually sadly. Legacy remains after leaving. Health ensures life after basketball.",
+      "zh": "讲述球员如何追求职业生涯 longevity 及退役后的健康。",
+      "points": [
+        "longevity (长寿/持久)",
+        "specific and smart (针对性且聪明)",
+        "body maintenance (身体维护)"
+      ]
+    },
+    {
+      "title": "Future of Health Tech",
+      "level": "A2-B1",
+      "words": 119,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Technology will change recovery. Wearable sensors track heart rate. Coaches see data in real time. AI predicts injury risks early. Shoes adapt to court surface. Floors absorb more impact now. Genetics might guide training plans. Personalized medicine is coming soon. Recovery time will decrease slowly. Science makes players stronger. Fans will see better quality. Fewer injuries mean more stars. The future looks very bright. Investment in health is huge.",
+      "zh": "展望科技如何改变未来的球员健康管理与伤病预防。",
+      "points": [
+        "wearable sensors (可穿戴传感器)",
+        "predicts injury risks (预测伤病风险)",
+        "personalized medicine (个性化医疗)"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "injury",
+      "pos": "n.",
+      "meaning_en": "damage to the body",
+      "meaning_zh": "伤病",
+      "example": "The player has a knee injury.",
+      "source": "Understanding Injury Reports"
+    },
+    {
+      "word": "report",
+      "pos": "n.",
+      "meaning_en": "official statement",
+      "meaning_zh": "报告",
+      "example": "Read the injury report before the game.",
+      "source": "Understanding Injury Reports"
+    },
+    {
+      "word": "status",
+      "pos": "n.",
+      "meaning_en": "current situation",
+      "meaning_zh": "状态",
+      "example": "His status is questionable today.",
+      "source": "Understanding Injury Reports"
+    },
+    {
+      "word": "transparency",
+      "pos": "n.",
+      "meaning_en": "openness and honesty",
+      "meaning_zh": "透明度",
+      "example": "The league wants more transparency.",
+      "source": "Understanding Injury Reports"
+    },
+    {
+      "word": "ankle",
+      "pos": "n.",
+      "meaning_en": "joint connecting foot and leg",
+      "meaning_zh": "脚踝",
+      "example": "He twisted his ankle while running.",
+      "source": "Common Body Injuries"
+    },
+    {
+      "word": "sprain",
+      "pos": "n.",
+      "meaning_en": "twist of a joint",
+      "meaning_zh": "扭伤",
+      "example": "An ankle sprain is very common.",
+      "source": "Common Body Injuries"
+    },
+    {
+      "word": "heal",
+      "pos": "v.",
+      "meaning_en": "become healthy again",
+      "meaning_zh": "愈合",
+      "example": "Knee pain takes longer to heal.",
+      "source": "Common Body Injuries"
+    },
+    {
+      "word": "swelling",
+      "pos": "n.",
+      "meaning_en": "increase in size due to fluid",
+      "meaning_zh": "肿胀",
+      "example": "Ice helps reduce swelling quickly.",
+      "source": "Common Body Injuries"
+    },
+    {
+      "word": "load",
+      "pos": "n.",
+      "meaning_en": "amount of work",
+      "meaning_zh": "负荷",
+      "example": "Load management helps players rest.",
+      "source": "What is Load Management"
+    },
+    {
+      "word": "manage",
+      "pos": "v.",
+      "meaning_en": "control or handle",
+      "meaning_zh": "管理",
+      "example": "Coaches manage the player load.",
+      "source": "What is Load Management"
+    },
+    {
+      "word": "priority",
+      "pos": "n.",
+      "meaning_en": "most important thing",
+      "meaning_zh": "优先级",
+      "example": "Health is priority number one.",
+      "source": "What is Load Management"
+    },
+    {
+      "word": "performance",
+      "pos": "n.",
+      "meaning_en": "how well someone plays",
+      "meaning_zh": "表现",
+      "example": "Rest helps performance on court.",
+      "source": "What is Load Management"
+    },
+    {
+      "word": "regular",
+      "pos": "adj.",
+      "meaning_en": "normal or usual",
+      "meaning_zh": "常规的",
+      "example": "They play fewer regular season games.",
+      "source": "Resting Star Players"
+    },
+    {
+      "word": "energy",
+      "pos": "n.",
+      "meaning_en": "strength for activity",
+      "meaning_zh": "能量",
+      "example": "This saves energy for June.",
+      "source": "Resting Star Players"
+    },
+    {
+      "word": "veteran",
+      "pos": "n.",
+      "meaning_en": "experienced player",
+      "meaning_zh": "老将",
+      "example": "Young players learn from veterans.",
+      "source": "Resting Star Players"
+    },
+    {
+      "word": "depth",
+      "pos": "n.",
+      "meaning_en": "quality of reserve players",
+      "meaning_zh": "深度/阵容厚度",
+      "example": "The team depth becomes stronger.",
+      "source": "Resting Star Players"
+    },
+    {
+      "word": "inflammation",
+      "pos": "n.",
+      "meaning_en": "body response to injury",
+      "meaning_zh": "炎症",
+      "example": "It reduces muscle inflammation fast.",
+      "source": "Recovery Methods Today"
+    },
+    {
+      "word": "therapist",
+      "pos": "n.",
+      "meaning_en": "person who treats illness",
+      "meaning_zh": "治疗师",
+      "example": "Massage therapists work daily.",
+      "source": "Recovery Methods Today"
+    },
+    {
+      "word": "nutrition",
+      "pos": "n.",
+      "meaning_en": "food for health",
+      "meaning_zh": "营养",
+      "example": "Nutrition plans are very strict.",
+      "source": "Recovery Methods Today"
+    },
+    {
+      "word": "flexibility",
+      "pos": "n.",
+      "meaning_en": "ability to bend easily",
+      "meaning_zh": "柔韧性",
+      "example": "Yoga helps flexibility and mind.",
+      "source": "Recovery Methods Today"
+    },
+    {
+      "word": "rehab",
+      "pos": "n.",
+      "meaning_en": "exercise to recover",
+      "meaning_zh": "康复训练",
+      "example": "Rehab takes weeks or months.",
+      "source": "Role of Physical Therapy"
+    },
+    {
+      "word": "strictly",
+      "pos": "adv.",
+      "meaning_en": "in a strict way",
+      "meaning_zh": "严格地",
+      "example": "Players must follow rules strictly.",
+      "source": "Role of Physical Therapy"
+    },
+    {
+      "word": "fatigue",
+      "pos": "n.",
+      "meaning_en": "extreme tiredness",
+      "meaning_zh": "疲劳",
+      "example": "Mental fatigue is real too.",
+      "source": "Season Length Impact"
+    },
+    {
+      "word": "schedule",
+      "pos": "n.",
+      "meaning_en": "plan of events",
+      "meaning_zh": "赛程",
+      "example": "Money drives the schedule.",
+      "source": "Season Length Impact"
+    },
+    {
+      "word": "cheated",
+      "pos": "adj.",
+      "meaning_en": "treated unfairly",
+      "meaning_zh": "被欺骗的",
+      "example": "They feel cheated by teams.",
+      "source": "Fan Reaction to Rest"
+    },
+    {
+      "word": "balance",
+      "pos": "n.",
+      "meaning_en": "steady position or state",
+      "meaning_zh": "平衡",
+      "example": "Finding balance is very hard.",
+      "source": "Fan Reaction to Rest"
+    },
+    {
+      "word": "longevity",
+      "pos": "n.",
+      "meaning_en": "long duration of life",
+      "meaning_zh": "长寿/持久",
+      "example": "Mindset matters for longevity.",
+      "source": "Career Longevity Goals"
+    },
+    {
+      "word": "maintenance",
+      "pos": "n.",
+      "meaning_en": "keeping in good condition",
+      "meaning_zh": "维护",
+      "example": "Body maintenance is daily work.",
+      "source": "Career Longevity Goals"
+    },
+    {
+      "word": "sensor",
+      "pos": "n.",
+      "meaning_en": "device that detects changes",
+      "meaning_zh": "传感器",
+      "example": "Wearable sensors track heart rate.",
+      "source": "Future of Health Tech"
+    },
+    {
+      "word": "predict",
+      "pos": "v.",
+      "meaning_en": "say what will happen",
+      "meaning_zh": "预测",
+      "example": "AI predicts injury risks early.",
+      "source": "Future of Health Tech"
+    }
+  ],
+  "status": "ready",
+  "generatedBy": "claude",
+  "savedAt": "2026-09-29T17:49:00.732Z"
+}

@@ -1,0 +1,511 @@
+{
+  "day": 8,
+  "date": "2026-09-27",
+  "theme": "电影 · 科幻电影与视觉特效",
+  "domain": "电影",
+  "level": "A2 → B1",
+  "goals": [
+    "掌握 30 个与电影制作及科幻题材相关的核心词汇",
+    "能够用英文简单描述喜欢的科幻电影及其特效",
+    "理解关于视觉特效（VFX）的基础英文介绍",
+    "提升 A2 至 B1 级别的阅读流畅度与听力理解"
+  ],
+  "tasks": [
+    {
+      "text": "阅读 10 篇英文短文，标注生词并理解大意",
+      "minutes": 30
+    },
+    {
+      "text": "观看 6 个 YouTube 视频片段，练习听力",
+      "minutes": 15
+    },
+    {
+      "text": "学习 30 个核心词汇，造句记忆",
+      "minutes": 10
+    },
+    {
+      "text": "复习必学内容与拓展笔记，尝试口头复述",
+      "minutes": 5
+    }
+  ],
+  "mustLearn": [
+    {
+      "title": "高频表达：Make use of",
+      "type": "expression",
+      "content": "English: Directors make use of technology to create amazing scenes.\nChinese: 导演利用科技创造惊人的场景。\nPoint: 'Make use of' 意为‘利用’，比单用 'use' 更正式一点，强调有效使用某物。"
+    },
+    {
+      "title": "语法点：被动语态 (Passive Voice)",
+      "type": "grammar",
+      "content": "English: The movie was made in 2020. / Effects are created by computers.\nChinese: 电影是在 2020 年制作的。/ 特效是由电脑创造的。\nPoint: 当动作执行者不重要或未知时，常用被动语态 (be + done)。在描述电影制作流程时非常常见。"
+    },
+    {
+      "title": "精读片段：描述感受",
+      "type": "article",
+      "content": "English: The scene looks very real. I felt excited when I watched it. The color was dark and mysterious.\nChinese: 场景看起来非常真实。我看的时候感到很兴奋。颜色深沉且神秘。\nPoint: 学习使用 look/feel + 形容词 来描述观影体验，注意感官动词的用法。"
+    },
+    {
+      "title": "词汇辨析：Film vs Movie",
+      "type": "expression",
+      "content": "English: People say 'movie' in daily life. 'Film' is often used by artists or in industry.\nChinese: 日常生活中人们说'movie'。'Film' 常被艺术家或行业内人士使用。\nPoint: 两者都指电影，但 'film' 听起来更艺术或正式，'movie' 更口语化。"
+    }
+  ],
+  "expand": [
+    {
+      "title": "文化注释：CGI 是什么",
+      "type": "note",
+      "content": "CGI 代表 Computer-Generated Imagery（计算机生成图像）。在现代科幻电影中，大多数太空场景和怪兽都是用 CGI 制作的，而不是真实拍摄的。"
+    },
+    {
+      "title": "同义替换：Amazing",
+      "type": "note",
+      "content": "在描述电影好看时，不要只用 'good'。可以尝试：amazing, fantastic, impressive, stunning, wonderful。这些词能让你的表达更丰富。"
+    },
+    {
+      "title": "背景知识：绿幕技术",
+      "type": "note",
+      "content": "Green Screen（绿幕）是电影拍摄中常用的技术。演员在绿色背景前表演，后期电脑会将绿色替换成任何想要的背景，如太空或城市。"
+    },
+    {
+      "title": "进阶例句：条件句",
+      "type": "note",
+      "content": "If I had more money, I would watch movies in the cinema every week. (如果我更有钱，我会每周去电影院看电影。这是虚拟语气，表示与现在事实相反。)"
+    },
+    {
+      "title": "实用建议：如何选择电影",
+      "type": "note",
+      "content": "阅读英文影评 (Reviews) 是学习电影词汇的好方法。关注 IMDb 或 Rotten Tomatoes 上的简单评论，积累描述情节和感受的形容词。"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Sci-Fi Movie Explained",
+      "url": "https://www.youtube.com/results?search_query=sci-fi+movie+explained+english",
+      "channel": "Movie Explainers",
+      "minutes": 8,
+      "desc": "用英文简单解释科幻电影的情节和背景。"
+    },
+    {
+      "title": "How VFX Are Made",
+      "url": "https://www.youtube.com/results?search_query=how+vfx+are+made+simple",
+      "channel": "Film Tech Hub",
+      "minutes": 10,
+      "desc": "介绍视觉特效制作的基本流程。"
+    },
+    {
+      "title": "Top 10 Sci-Fi Films",
+      "url": "https://www.youtube.com/results?search_query=top+10+sci-fi+films+all+time",
+      "channel": "Cinema List",
+      "minutes": 12,
+      "desc": "盘点历史上最受欢迎的十部科幻电影。"
+    },
+    {
+      "title": "CGI vs Practical Effects",
+      "url": "https://www.youtube.com/results?search_query=CGI+vs+practical+effects+comparison",
+      "channel": "VFX Breakdown",
+      "minutes": 7,
+      "desc": "对比电脑特效与实景特效的区别。"
+    },
+    {
+      "title": "Future of Movies",
+      "url": "https://www.youtube.com/results?search_query=future+of+movies+AI+technology",
+      "channel": "Tech Trends",
+      "minutes": 9,
+      "desc": "探讨人工智能如何改变未来电影制作。"
+    },
+    {
+      "title": "Learn English with Movies",
+      "url": "https://www.youtube.com/@LearnEnglishWithMovies",
+      "channel": "Learn English With Movies",
+      "minutes": 15,
+      "desc": "通过电影片段学习地道英语口语表达。"
+    }
+  ],
+  "articles": [
+    {
+      "title": "What is Science Fiction",
+      "level": "A2",
+      "words": 110,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Science fiction is a popular type of movie. It often talks about the future. There are spaceships and aliens in these stories. People like sci-fi because it is imaginative. The technology in the movie is not real today. But writers think about what will happen tomorrow. Some movies show life on other planets. Others show robots helping humans. These stories make us think about science. They also entertain us with exciting actions. Many famous films belong to this group. Star Wars is a good example. It has many fans around the world.",
+      "zh": "介绍科幻电影的定义及其常见元素，如太空船和外星人。",
+      "points": [
+        "belong to: 属于",
+        "imaginative: 富有想象力的",
+        "entertain: 娱乐"
+      ]
+    },
+    {
+      "title": "History of Visual Effects",
+      "level": "A2-B1",
+      "words": 120,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Visual effects have a long history. In the past, people used models and paintings. They put small models in front of the camera. It looked like a big building. Later, computers changed everything. Now we call it CGI. Computers can create any image. Directors do not need to build real sets. They can make a city on the screen. This saves money and time. The first CGI movie was simple. Today, effects look very real. You cannot tell the difference. Technology helps artists tell better stories. It makes the magic possible.",
+      "zh": "简述视觉特效的发展历史，从模型到电脑 CGI 的转变。",
+      "points": [
+        "models: 模型",
+        "sets: 布景",
+        "tell the difference: 分辨区别"
+      ]
+    },
+    {
+      "title": "CGI vs Practical Effects",
+      "level": "B1",
+      "words": 130,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "There are two main ways to make effects. One is CGI, and the other is practical effects. Practical means real things. For example, a real explosion or a real mask. CGI is done inside a computer. Some directors prefer practical effects. They say it looks more natural. Actors can touch real objects. This helps them act better. But CGI is more flexible. You can change colors easily. You can make huge monsters. Most modern movies use both. They mix real things with computer images. This combination gives the best result. Audiences love the realistic style.",
+      "zh": "对比电脑特效与实景特效的优缺点及现代电影的混合使用。",
+      "points": [
+        "flexible: 灵活的",
+        "combination: 结合",
+        "realistic: 逼真的"
+      ]
+    },
+    {
+      "title": "Famous Sci-Fi Movies",
+      "level": "A2",
+      "words": 115,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Many sci-fi movies are famous. The Matrix is one of them. It shows a world inside a computer. People wear black coats and sunglasses. Another famous film is Avatar. It happens on a blue planet. The people there are tall and blue. E.T. is an old but classic movie. It is about a friendly alien. He wants to go home. These movies have great stories. They also have wonderful music. The music helps create the mood. When you hear it, you remember the scene. These films win many awards. They are important for cinema history.",
+      "zh": "列举几部著名科幻电影及其特色，如《黑客帝国》和《阿凡达》。",
+      "points": [
+        "classic: 经典的",
+        "mood: 氛围",
+        "awards: 奖项"
+      ]
+    },
+    {
+      "title": "How Movies Are Made",
+      "level": "A2-B1",
+      "words": 125,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Making a movie takes many steps. First, writers write the script. Then directors plan the scenes. Actors learn their lines. They stand in front of the camera. Cameras record their voices and faces. After filming, editors cut the video. They choose the best parts. Sound engineers add music and noise. VFX artists add special images. Finally, the movie is ready. It goes to the cinema or online. Many people work together. It is a team effort. One person cannot do it alone. Everyone has a specific job. Cooperation is the key to success.",
+      "zh": "描述电影制作的基本流程，从剧本到后期制作的协作。",
+      "points": [
+        "script: 剧本",
+        "editors: 剪辑师",
+        "cooperation: 合作"
+      ]
+    },
+    {
+      "title": "Cost of Production",
+      "level": "B1",
+      "words": 135,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Sci-fi movies are often expensive. They need lots of technology. Building spaceships costs much money. Paying famous actors is also costly. Sometimes the budget is over 200 million dollars. Companies hope to get profit. They sell tickets and merchandise. Toys and games are popular items. If the movie fails, they lose money. So producers take risks. They study the market carefully. They want to know what fans like. High cost does not mean good quality. Some cheap movies are also great. Story is more important than money. A good script can save the film.",
+      "zh": "探讨科幻电影的高成本制作及商业回报风险。",
+      "points": [
+        "budget: 预算",
+        "profit: 利润",
+        "merchandise: 周边商品"
+      ]
+    },
+    {
+      "title": "Audience Reaction",
+      "level": "A2",
+      "words": 105,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Audiences react differently to movies. Some people cry during sad scenes. Others laugh at funny jokes. In sci-fi films, people feel amazed. They open their eyes wide. They watch the screen carefully. They do not want to miss anything. After the movie, they talk about it. They share opinions with friends. Some write reviews online. They give stars to the film. Five stars mean it is excellent. One star means it is bad. These reviews help other people. They decide whether to watch it. Your opinion matters too. Share what you think honestly.",
+      "zh": "描述观众观影时的反应及观影后的评价行为。",
+      "points": [
+        "react: 反应",
+        "reviews: 评论",
+        "excellent: 极好的"
+      ]
+    },
+    {
+      "title": "AI in Future Movies",
+      "level": "B1",
+      "words": 140,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Artificial Intelligence is changing films. AI can write scripts now. It can also generate images. Some actors worry about their jobs. They think computers will replace humans. But directors say AI is a tool. It helps them work faster. It does not replace creativity. Humans still tell the stories. AI just makes the pictures. In the future, we might see new things. Maybe movies will change based on you. You can choose the ending. This is interactive cinema. Technology brings new possibilities. We should watch and learn. The future is coming soon.",
+      "zh": "讨论人工智能对未来电影制作及互动影院的影响。",
+      "points": [
+        "generate: 生成",
+        "replace: 取代",
+        "interactive: 互动的"
+      ]
+    },
+    {
+      "title": "Recommendation Dialogue",
+      "level": "A2-B1",
+      "words": 120,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "A: Have you seen any good movies lately?\nB: Yes, I watched a sci-fi film yesterday.\nA: What is it about?\nB: It is about space travel. The effects were stunning.\nA: Is it available on Netflix?\nB: I think so. You should try it.\nA: Who is the main actor?\nB: A famous star from Hollywood.\nA: I love his movies. I will watch it tonight.\nB: Tell me what you think later.\nA: Sure. Thanks for the recommendation.\nThis conversation is simple but useful. You can use it with friends. Practice asking and answering. It helps improve your speaking.",
+      "zh": "提供一段关于推荐电影的简单对话范例。",
+      "points": [
+        "lately: 最近",
+        "available: 可获得的",
+        "recommendation: 推荐"
+      ]
+    },
+    {
+      "title": "Summary and Review",
+      "level": "A2",
+      "words": 110,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Today we learned about sci-fi movies. We talked about visual effects. We know CGI makes images real. We read about famous films. We understood how movies are made. Cost and audience are important. AI is the new trend. You should watch more movies. Practice English while watching. Turn on English subtitles. Listen to the actors speak. Write down new words. Review them every day. Learning should be fun. Do not stress too much. Enjoy the story and the language. You will improve step by step. Keep going and do not stop.",
+      "zh": "总结今日学习内容，鼓励持续学习并享受过程。",
+      "points": [
+        "subtitles: 字幕",
+        "stress: 压力",
+        "step by step: 一步一步地"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "science",
+      "pos": "n.",
+      "meaning_en": "study of the natural world",
+      "meaning_zh": "科学",
+      "example": "Science fiction movies often talk about future technology.",
+      "source": "What is Science Fiction"
+    },
+    {
+      "word": "fiction",
+      "pos": "n.",
+      "meaning_en": "stories that are not real",
+      "meaning_zh": "小说/虚构",
+      "example": "This book is fiction, not history.",
+      "source": "What is Science Fiction"
+    },
+    {
+      "word": "imaginative",
+      "pos": "adj.",
+      "meaning_en": "having new ideas",
+      "meaning_zh": "富有想象力的",
+      "example": "The story is very imaginative and creative.",
+      "source": "What is Science Fiction"
+    },
+    {
+      "word": "entertain",
+      "pos": "v.",
+      "meaning_en": "to make people happy",
+      "meaning_zh": "娱乐",
+      "example": "Clowns entertain children at the party.",
+      "source": "What is Science Fiction"
+    },
+    {
+      "word": "models",
+      "pos": "n.",
+      "meaning_en": "small copies of objects",
+      "meaning_zh": "模型",
+      "example": "They built small models of the buildings.",
+      "source": "History of Visual Effects"
+    },
+    {
+      "word": "computers",
+      "pos": "n.",
+      "meaning_en": "machines for processing data",
+      "meaning_zh": "电脑",
+      "example": "Computers help us draw digital images.",
+      "source": "History of Visual Effects"
+    },
+    {
+      "word": "directors",
+      "pos": "n.",
+      "meaning_en": "people who make movies",
+      "meaning_zh": "导演",
+      "example": "Directors tell actors what to do.",
+      "source": "History of Visual Effects"
+    },
+    {
+      "word": "flexible",
+      "pos": "adj.",
+      "meaning_en": "able to change easily",
+      "meaning_zh": "灵活的",
+      "example": "The schedule is flexible for everyone.",
+      "source": "CGI vs Practical Effects"
+    },
+    {
+      "word": "monsters",
+      "pos": "n.",
+      "meaning_en": "scary imaginary creatures",
+      "meaning_zh": "怪兽",
+      "example": "Children are afraid of monsters under the bed.",
+      "source": "CGI vs Practical Effects"
+    },
+    {
+      "word": "combination",
+      "pos": "n.",
+      "meaning_en": "mixing two things together",
+      "meaning_zh": "结合",
+      "example": "The combination of sugar and salt is strange.",
+      "source": "CGI vs Practical Effects"
+    },
+    {
+      "word": "classic",
+      "pos": "adj.",
+      "meaning_en": "very good and lasting",
+      "meaning_zh": "经典的",
+      "example": "This song is a classic hit from the 90s.",
+      "source": "Famous Sci-Fi Movies"
+    },
+    {
+      "word": "mood",
+      "pos": "n.",
+      "meaning_en": "feeling or atmosphere",
+      "meaning_zh": "氛围/心情",
+      "example": "The dark room created a scary mood.",
+      "source": "Famous Sci-Fi Movies"
+    },
+    {
+      "word": "awards",
+      "pos": "n.",
+      "meaning_en": "prizes for good work",
+      "meaning_zh": "奖项",
+      "example": "The actor won many awards for his role.",
+      "source": "Famous Sci-Fi Movies"
+    },
+    {
+      "word": "script",
+      "pos": "n.",
+      "meaning_en": "written text of a movie",
+      "meaning_zh": "剧本",
+      "example": "She forgot her lines in the script.",
+      "source": "How Movies Are Made"
+    },
+    {
+      "word": "editors",
+      "pos": "n.",
+      "meaning_en": "people who cut video",
+      "meaning_zh": "剪辑师",
+      "example": "Editors work long hours to finish the film.",
+      "source": "How Movies Are Made"
+    },
+    {
+      "word": "cooperation",
+      "pos": "n.",
+      "meaning_en": "working together",
+      "meaning_zh": "合作",
+      "example": "Success needs cooperation from the team.",
+      "source": "How Movies Are Made"
+    },
+    {
+      "word": "budget",
+      "pos": "n.",
+      "meaning_en": "amount of money available",
+      "meaning_zh": "预算",
+      "example": "We have a small budget for this trip.",
+      "source": "Cost of Production"
+    },
+    {
+      "word": "profit",
+      "pos": "n.",
+      "meaning_en": "money gained from business",
+      "meaning_zh": "利润",
+      "example": "The company made a large profit this year.",
+      "source": "Cost of Production"
+    },
+    {
+      "word": "merchandise",
+      "pos": "n.",
+      "meaning_en": "goods to be sold",
+      "meaning_zh": "周边商品",
+      "example": "Toy stores sell movie merchandise.",
+      "source": "Cost of Production"
+    },
+    {
+      "word": "react",
+      "pos": "v.",
+      "meaning_en": "to respond to something",
+      "meaning_zh": "反应",
+      "example": "How did he react to the news?",
+      "source": "Audience Reaction"
+    },
+    {
+      "word": "reviews",
+      "pos": "n.",
+      "meaning_en": "opinions about a movie",
+      "meaning_zh": "评论",
+      "example": "I read reviews before buying a product.",
+      "source": "Audience Reaction"
+    },
+    {
+      "word": "excellent",
+      "pos": "adj.",
+      "meaning_en": "very good",
+      "meaning_zh": "极好的",
+      "example": "She did an excellent job on the project.",
+      "source": "Audience Reaction"
+    },
+    {
+      "word": "generate",
+      "pos": "v.",
+      "meaning_en": "to produce or create",
+      "meaning_zh": "生成",
+      "example": "The machine can generate electricity.",
+      "source": "AI in Future Movies"
+    },
+    {
+      "word": "replace",
+      "pos": "v.",
+      "meaning_en": "to take the place of",
+      "meaning_zh": "取代",
+      "example": "Robots might replace workers in factories.",
+      "source": "AI in Future Movies"
+    },
+    {
+      "word": "interactive",
+      "pos": "adj.",
+      "meaning_en": "allowing two-way communication",
+      "meaning_zh": "互动的",
+      "example": "The game is interactive and fun.",
+      "source": "AI in Future Movies"
+    },
+    {
+      "word": "lately",
+      "pos": "adv.",
+      "meaning_en": "recently",
+      "meaning_zh": "最近",
+      "example": "Have you seen any good movies lately?",
+      "source": "Recommendation Dialogue"
+    },
+    {
+      "word": "available",
+      "pos": "adj.",
+      "meaning_en": "ready to use",
+      "meaning_zh": "可获得的",
+      "example": "Is this seat available?",
+      "source": "Recommendation Dialogue"
+    },
+    {
+      "word": "recommendation",
+      "pos": "n.",
+      "meaning_en": "suggestion about what to choose",
+      "meaning_zh": "推荐",
+      "example": "Thank you for your recommendation.",
+      "source": "Recommendation Dialogue"
+    },
+    {
+      "word": "subtitles",
+      "pos": "n.",
+      "meaning_en": "text at bottom of screen",
+      "meaning_zh": "字幕",
+      "example": "I turn on subtitles to understand better.",
+      "source": "Summary and Review"
+    },
+    {
+      "word": "stress",
+      "pos": "n.",
+      "meaning_en": "pressure or worry",
+      "meaning_zh": "压力",
+      "example": "Do not let stress control your life.",
+      "source": "Summary and Review"
+    }
+  ],
+  "status": "ready",
+  "generatedBy": "claude",
+  "savedAt": "2026-09-29T17:09:01.589Z"
+}

@@ -1,0 +1,531 @@
+{
+  "day": 17,
+  "date": "2026-10-06",
+  "theme": "财经 · 股市基础术语与读财报",
+  "domain": "财经",
+  "level": "A2 → B1",
+  "goals": [
+    "掌握 10 个核心股市术语（如 stock, share, dividend）",
+    "能读懂简易财报中的收入与利润部分",
+    "听懂 3 分钟财经新闻摘要",
+    "学会用英语讨论股价涨跌"
+  ],
+  "tasks": [
+    {
+      "text": "阅读英文短文 1-5 篇，标记生词",
+      "minutes": 15
+    },
+    {
+      "text": "观看视频 1-3，开启英文字幕",
+      "minutes": 15
+    },
+    {
+      "text": "阅读英文短文 6-10 篇，总结要点",
+      "minutes": 15
+    },
+    {
+      "text": "观看视频 4-6，跟读关键句",
+      "minutes": 10
+    },
+    {
+      "text": "复习词汇表与必学内容",
+      "minutes": 5
+    }
+  ],
+  "mustLearn": [
+    {
+      "title": "高频表达：股价涨跌",
+      "type": "expression",
+      "content": "英文：The stock price went up yesterday. / The market went down. 中文讲解：描述股价变动最地道的说法是 go up 和 go down，比 increase 或 decrease 更口语化。要点解析：go 是不规则动词 (go-went-gone)，过去式 went 常用于汇报昨日行情。"
+    },
+    {
+      "title": "财报术语：Bottom Line",
+      "type": "expression",
+      "content": "英文：What is the bottom line? 中文讲解：字面意思是“底线”，在财报中指“净利润”。要点解析：因为净利润通常写在利润表的最后一行。引申义为“最终结果”或“最关键的事实”。"
+    },
+    {
+      "title": "语法点：一般过去时",
+      "type": "grammar",
+      "content": "英文：The company reported profits last year. 中文讲解：财报是对过去数据的总结，因此大量使用一般过去时。要点解析：注意规则动词加-ed (reported)，不规则动词变形式 (went, sold)。时间状语常含 last year, in 2025。"
+    },
+    {
+      "title": "阅读技巧：扫读数字",
+      "type": "article",
+      "content": "英文：When reading reports, do not read every word. Look for key numbers like Revenue and Net Income. 中文讲解：读财报不需要逐字阅读，先抓核心数据。要点解析：训练眼睛快速定位数字符号 ($) 和百分比 (%)，忽略修饰性形容词。"
+    }
+  ],
+  "expand": [
+    {
+      "title": "华尔街文化注释",
+      "type": "note",
+      "content": "美国财经新闻常提及 Wall Street（华尔街），它代指整个美国金融行业。 Bulls（牛市）象征价格上涨，Bears（熊市）象征价格下跌。"
+    },
+    {
+      "title": "同义替换：Profit",
+      "type": "note",
+      "content": "Profit, Income, Earnings 在财报中常互换使用，均指“利润”。Revenue 指“收入”，不要混淆。Cost 和 Expense 均指“花费”。"
+    },
+    {
+      "title": "进阶例句：估值",
+      "type": "note",
+      "content": "The company is undervalued. (公司被低估了) / The stock is overpriced. (股价过高了)。这是投资者分析价值时的常用语。"
+    },
+    {
+      "title": "背景知识：财报季",
+      "type": "note",
+      "content": "Earnings Season（财报季）通常在每年 1 月、4 月、7 月、10 月。此时上市公司集中发布季度报告，市场波动较大。"
+    },
+    {
+      "title": "避坑指南：勿追高",
+      "type": "note",
+      "content": "Do not chase the high. (不要追高)。当股价已经大幅上涨时，买入风险很高。新手应等待回调 (wait for a pullback)。"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Stock Market Basics for Beginners",
+      "url": "https://www.youtube.com/results?search_query=stock+market+basics+for+beginners",
+      "channel": "Investopedia",
+      "minutes": 8,
+      "desc": "解释股票是什么以及市场如何运作的基础视频。"
+    },
+    {
+      "title": "How to Read Financial Statements",
+      "url": "https://www.youtube.com/results?search_query=how+to+read+financial+statements",
+      "channel": "Khan Academy",
+      "minutes": 10,
+      "desc": "逐步讲解如何阅读资产负债表和利润表。"
+    },
+    {
+      "title": "What is a Dividend",
+      "url": "https://www.youtube.com/results?search_query=what+is+a+dividend+explained",
+      "channel": "CNBC",
+      "minutes": 5,
+      "desc": "简短说明股息的概念及如何支付给投资者。"
+    },
+    {
+      "title": "Bull vs Bear Market Explained",
+      "url": "https://www.youtube.com/results?search_query=bull+vs+bear+market+explained",
+      "channel": "Financial Times",
+      "minutes": 6,
+      "desc": "对比牛市和熊市的区别及市场情绪。"
+    },
+    {
+      "title": "Income Statement Explained",
+      "url": "https://www.youtube.com/results?search_query=income+statement+explained+simply",
+      "channel": "Accounting Stuff",
+      "minutes": 9,
+      "desc": "专门讲解利润表中的收入与支出部分。"
+    },
+    {
+      "title": "Stock Price vs Value",
+      "url": "https://www.youtube.com/results?search_query=stock+price+vs+value+investing",
+      "channel": "Warren Buffett Archives",
+      "minutes": 7,
+      "desc": "区分股价波动与公司实际价值的不同。"
+    }
+  ],
+  "articles": [
+    {
+      "title": "What Is a Stock",
+      "level": "A2",
+      "words": 125,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "A stock represents a small piece of a company. When you buy a stock, you become a partial owner. This means you have a claim on part of the company assets and earnings. Companies sell stocks to raise money for growth. They use this capital to build new factories or hire more staff. Owners hope the stock price will increase over time. If the company does well, the stock value goes up. If the company fails, the value goes down. Investors trade stocks on exchanges like the New York Stock Exchange. You can buy shares through a broker app. It is important to understand the business before buying. Never invest money you cannot afford to lose. Stocks are riskier than bank savings but offer higher returns. Many people hold stocks for retirement plans. Diversification helps reduce the risk of loss. Always read the news about your companies. Knowledge is power in the stock market. Start small and learn gradually.",
+      "zh": "介绍股票的基本定义，说明购买股票即成为公司部分所有者及其风险与回报。",
+      "points": [
+        "represent: 代表，表示",
+        "partial owner: 部分所有者",
+        "raise money: 筹集资金"
+      ]
+    },
+    {
+      "title": "How Stock Prices Move",
+      "level": "A2",
+      "words": 118,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Stock prices change every day based on supply and demand. If many people want to buy a stock, the price goes up. This is high demand. If many people want to sell, the price goes down. This is low demand. News events affect these decisions heavily. Good news about profits makes people buy. Bad news about losses makes people sell. The market opens at 9 AM and closes at 4 PM in New York. Prices can be volatile during these hours. Volatile means changing quickly and unpredictably. Investors watch charts to see patterns. Some traders buy and sell within minutes. Others hold stocks for years. Long-term investing is usually safer. Short-term trading requires more skill and time. Emotions often drive bad decisions. Fear makes people sell too low. Greed makes people buy too high. Stay calm and follow your plan.",
+      "zh": "解释股价波动由供需关系决定，并提及市场开放时间及投资者情绪的影响。",
+      "points": [
+        "supply and demand: 供需关系",
+        "volatile: 波动大的",
+        "follow your plan: 遵循你的计划"
+      ]
+    },
+    {
+      "title": "Understanding Dividends",
+      "level": "A2",
+      "words": 122,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "A dividend is a payment made by a company to its shareholders. It is a way to share profits directly. Not all companies pay dividends. Tech companies often keep money to grow faster. Utility companies often pay regular dividends. Payments usually happen every three months. The amount depends on how much profit the company made. Investors like dividends because they provide cash flow. You do not need to sell the stock to get money. This is called passive income. The dividend yield is a percentage calculation. It shows how much you earn relative to the price. High yield stocks are popular for retirement. However, a very high yield can be risky. It might mean the stock price dropped sharply. Always check the company financial health. Consistent payments show stability. Reinvesting dividends can grow wealth faster. Compound interest works magic over time.",
+      "zh": "讲解股息的概念，说明哪些公司会发放股息以及股息对投资者的意义。",
+      "points": [
+        "shareholders: 股东",
+        "passive income: 被动收入",
+        "compound interest: 复利"
+      ]
+    },
+    {
+      "title": "Bull Market vs Bear Market",
+      "level": "A2",
+      "words": 115,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Market trends are described using animal names. A bull market means prices are rising. The bull attacks upwards with its horns. People feel optimistic and confident. They expect the economy to grow. A bear market means prices are falling. The bear swipes downwards with its paws. People feel pessimistic and scared. They expect economic trouble ahead. A bear market is technically a drop of twenty percent. These cycles happen over many years. No market goes up forever. Corrections are normal and healthy. A correction is a small drop of ten percent. It resets valuations to reasonable levels. Investors should prepare for both seasons. Keep some cash ready for opportunities. Buying during a bear market can be profitable. But timing the bottom is very hard. Focus on quality companies instead. They survive bad times better than others.",
+      "zh": "对比牛市和熊市的定义、象征意义及投资者应采取的不同策略。",
+      "points": [
+        "optimistic: 乐观的",
+        "pessimistic: 悲观的",
+        "corrections: 回调"
+      ]
+    },
+    {
+      "title": "Reading Financial News",
+      "level": "A2",
+      "words": 120,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Financial news headlines use specific language. Words like surge, plunge, and rally are common. Surge means a sudden large increase. Plunge means a sudden large decrease. Rally means prices recover after a fall. Analysts give ratings like buy or sell. A buy rating suggests the price will go up. A sell rating suggests the price will go down. Hold means keep what you have. Earnings reports come out quarterly. Companies call these quarterly earnings calls. CEOs discuss results with investors. Listen for guidance about the future. Guidance predicts next year performance. Missed expectations cause stock drops. Beat expectations cause stock rises. Expectations are what experts predicted before. Read between the lines carefully. Management tone matters too. Confident words signal good health. Vague words might hide problems. Practice reading one article daily.",
+      "zh": "介绍财经新闻常用词汇及财报电话会议中的关键信息点。",
+      "points": [
+        "surge: 激增",
+        "plunge: 暴跌",
+        "guidance: 业绩指引"
+      ]
+    },
+    {
+      "title": "The Income Statement Top Line",
+      "level": "A2",
+      "words": 128,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "The income statement shows company performance. The top line is Revenue or Sales. This is the total money collected from customers. It does not include costs yet. Growth in revenue is a good sign. It means the company is selling more. Or it means they raised prices. Compare revenue to last year numbers. This is called year over year growth. Percentages make comparison easier. Ten percent growth is solid. Negative growth is a warning signal. Seasonal businesses have uneven revenue. Retailers make more money in December. Tourism companies make more in summer. Understand the business cycle. Do not panic if one quarter is low. Look at the full year trend. Revenue quality matters too. Cash revenue is better than credit. Accounts receivable means money owed. Collecting cash takes time. Always check the cash flow statement.",
+      "zh": "讲解利润表中的“顶线”即收入，说明如何分析收入增长及季节性影响。",
+      "points": [
+        "Revenue: 收入",
+        "year over year: 同比",
+        "Accounts receivable: 应收账款"
+      ]
+    },
+    {
+      "title": "Operating Expenses",
+      "level": "A2",
+      "words": 124,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Running a business costs money. These costs are called Operating Expenses. Examples include rent, salaries, and marketing. Rent is for office or factory space. Salaries are paid to employees. Marketing attracts new customers. Utilities like electricity are also costs. Depreciation is a non-cash expense. It accounts for equipment wear and tear. Companies want to keep costs low. Lower costs mean higher profits. But cutting costs too much is bad. Quality might suffer without enough staff. Innovation needs research spending. Investors look at operating margins. This is profit divided by revenue. High margins show efficiency. Low margins show heavy competition. Compare margins with competitors. If yours are lower, find out why. Maybe your technology is older. Maybe your supply chain is slow. Efficiency drives long-term success. Manage expenses wisely every month.",
+      "zh": "介绍运营支出的构成，说明成本控制与利润之间的关系及效率指标。",
+      "points": [
+        "Operating Expenses: 运营支出",
+        "Depreciation: 折旧",
+        "margins: 利润率"
+      ]
+    },
+    {
+      "title": "Net Income Calculation",
+      "level": "A2",
+      "words": 119,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Net Income is the final profit number. It is also called the bottom line. You calculate it by subtracting all costs. Start with Revenue. Subtract Cost of Goods Sold. This gives Gross Profit. Then subtract Operating Expenses. This gives Operating Income. Finally subtract Taxes and Interest. The result is Net Income. This money belongs to shareholders. Companies can reinvest it or pay dividends. Negative net income is a loss. Losses are okay for new startups. They need time to grow. But established companies should profit. Consistent losses lead to bankruptcy. Bankruptcy means the company closes. Investors lose their money completely. Check the trend over five years. Is profit growing steadily? Or is it fluctuating wildly? Steady growth is preferred. One-time events can distort numbers. Read the notes in the report. They explain unusual items clearly. Transparency builds investor trust.",
+      "zh": "详解净利润的计算过程，从收入到最终利润的步骤及亏损的风险。",
+      "points": [
+        "Net Income: 净利润",
+        "Gross Profit: 毛利润",
+        "bankruptcy: 破产"
+      ]
+    },
+    {
+      "title": "Managing Investment Risk",
+      "level": "A2",
+      "words": 126,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "All investments carry some risk. Risk means the chance of losing money. Higher reward usually means higher risk. Government bonds are very safe. Stocks are riskier than bonds. Crypto is very risky and volatile. Never put all eggs in one basket. This is called diversification. Buy stocks in different industries. Tech, healthcare, and consumer goods mix well. If one sector fails, others survive. Use index funds for easy diversification. An index fund buys many stocks at once. It matches the market average. Fees are usually very low. Low fees save money over time. Avoid timing the market perfectly. Nobody knows the future exactly. Invest regularly every month. This is dollar cost averaging. You buy more shares when prices are low. You buy fewer when prices are high. Patience is the best strategy. Wait for compound growth to work.",
+      "zh": "讨论投资风险的概念，介绍分散投资及定期定额投资策略。",
+      "points": [
+        "diversification: 分散投资",
+        "index funds: 指数基金",
+        "dollar cost averaging: 定投"
+      ]
+    },
+    {
+      "title": "Building a Long-term Plan",
+      "level": "A2",
+      "words": 123,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Success comes from a clear plan. Define your financial goals first. Do you want retirement income? Or do you want to buy a house? Write down the amount needed. Estimate how many years you have. Younger investors can take more risk. Older investors need more safety. Create a written investment policy. State what you will buy. State when you will sell. Stick to the rules strictly. Do not change plans due to news. News creates noise and fear. Review your portfolio once a year. Rebalance if percentages shift too much. Sell winners to buy losers. This keeps your risk level constant. Keep emergency cash separate. Do not invest money needed soon. Market crashes happen unexpectedly. Cash lets you sleep well at night. Education is part of the plan. Read books and follow experts. Continuous learning improves results. Start today for a better future.",
+      "zh": "强调制定长期投资计划的重要性，包括目标设定、策略执行及定期复盘。",
+      "points": [
+        "financial goals: 财务目标",
+        "portfolio: 投资组合",
+        "Rebalance: 再平衡"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "stock",
+      "pos": "n.",
+      "meaning_en": "a share in the ownership of a company",
+      "meaning_zh": "股票",
+      "example": "I bought one share of Apple stock.",
+      "source": "What Is a Stock"
+    },
+    {
+      "word": "share",
+      "pos": "n.",
+      "meaning_en": "one of the equal parts into which a company's capital is divided",
+      "meaning_zh": "股份",
+      "example": "He owns ten shares of the company.",
+      "source": "What Is a Stock"
+    },
+    {
+      "word": "owner",
+      "pos": "n.",
+      "meaning_en": "a person who owns something",
+      "meaning_zh": "所有者",
+      "example": "As an owner, you get part of the profit.",
+      "source": "What Is a Stock"
+    },
+    {
+      "word": "capital",
+      "pos": "n.",
+      "meaning_en": "money used to start or grow a business",
+      "meaning_zh": "资本",
+      "example": "The company raised capital to build a factory.",
+      "source": "What Is a Stock"
+    },
+    {
+      "word": "value",
+      "pos": "n.",
+      "meaning_en": "how much something is worth",
+      "meaning_zh": "价值",
+      "example": "The stock value went up yesterday.",
+      "source": "What Is a Stock"
+    },
+    {
+      "word": "demand",
+      "pos": "n.",
+      "meaning_en": "the desire of customers to buy something",
+      "meaning_zh": "需求",
+      "example": "High demand makes the price go up.",
+      "source": "How Stock Prices Move"
+    },
+    {
+      "word": "volatile",
+      "pos": "adj.",
+      "meaning_en": "changing quickly and unpredictably",
+      "meaning_zh": "波动大的",
+      "example": "The market is very volatile today.",
+      "source": "How Stock Prices Move"
+    },
+    {
+      "word": "pattern",
+      "pos": "n.",
+      "meaning_en": "a repeated way in which something happens",
+      "meaning_zh": "模式",
+      "example": "Traders look for patterns in the charts.",
+      "source": "How Stock Prices Move"
+    },
+    {
+      "word": "dividend",
+      "pos": "n.",
+      "meaning_en": "a sum of money paid by a company to its shareholders",
+      "meaning_zh": "股息",
+      "example": "The company pays a dividend every quarter.",
+      "source": "Understanding Dividends"
+    },
+    {
+      "word": "profit",
+      "pos": "n.",
+      "meaning_en": "money gained from business",
+      "meaning_zh": "利润",
+      "example": "They share profits directly with owners.",
+      "source": "Understanding Dividends"
+    },
+    {
+      "word": "yield",
+      "pos": "n.",
+      "meaning_en": "the amount of income generated by an investment",
+      "meaning_zh": "收益率",
+      "example": "The dividend yield is four percent.",
+      "source": "Understanding Dividends"
+    },
+    {
+      "word": "optimistic",
+      "pos": "adj.",
+      "meaning_en": "hopeful and confident about the future",
+      "meaning_zh": "乐观的",
+      "example": "People feel optimistic in a bull market.",
+      "source": "Bull Market vs Bear Market"
+    },
+    {
+      "word": "pessimistic",
+      "pos": "adj.",
+      "meaning_en": "tending to see the worst aspect of things",
+      "meaning_zh": "悲观的",
+      "example": "Investors are pessimistic when prices fall.",
+      "source": "Bull Market vs Bear Market"
+    },
+    {
+      "word": "cycle",
+      "pos": "n.",
+      "meaning_en": "a series of events that are regularly repeated",
+      "meaning_zh": "周期",
+      "example": "Market cycles happen over many years.",
+      "source": "Bull Market vs Bear Market"
+    },
+    {
+      "word": "surge",
+      "pos": "v.",
+      "meaning_en": "to increase suddenly and powerfully",
+      "meaning_zh": "激增",
+      "example": "Prices surged after the good news.",
+      "source": "Reading Financial News"
+    },
+    {
+      "word": "plunge",
+      "pos": "v.",
+      "meaning_en": "to fall suddenly and steeply",
+      "meaning_zh": "暴跌",
+      "example": "The stock plunged during the crash.",
+      "source": "Reading Financial News"
+    },
+    {
+      "word": "rating",
+      "pos": "n.",
+      "meaning_en": "a classification or ranking",
+      "meaning_zh": "评级",
+      "example": "Analysts gave it a buy rating.",
+      "source": "Reading Financial News"
+    },
+    {
+      "word": "revenue",
+      "pos": "n.",
+      "meaning_en": "income generated from normal business operations",
+      "meaning_zh": "收入",
+      "example": "Revenue is the top line number.",
+      "source": "The Income Statement Top Line"
+    },
+    {
+      "word": "growth",
+      "pos": "n.",
+      "meaning_en": "the process of increasing in size or amount",
+      "meaning_zh": "增长",
+      "example": "Ten percent growth is solid.",
+      "source": "The Income Statement Top Line"
+    },
+    {
+      "word": "seasonal",
+      "pos": "adj.",
+      "meaning_en": "dependent on or varied by the season",
+      "meaning_zh": "季节性的",
+      "example": "Retailers have seasonal business cycles.",
+      "source": "The Income Statement Top Line"
+    },
+    {
+      "word": "expense",
+      "pos": "n.",
+      "meaning_en": "the cost required for something",
+      "meaning_zh": "支出",
+      "example": "Rent is a major operating expense.",
+      "source": "Operating Expenses"
+    },
+    {
+      "word": "salary",
+      "pos": "n.",
+      "meaning_en": "a fixed regular payment made to an employee",
+      "meaning_zh": "薪水",
+      "example": "Salaries are paid to employees monthly.",
+      "source": "Operating Expenses"
+    },
+    {
+      "word": "margin",
+      "pos": "n.",
+      "meaning_en": "the difference between cost and selling price",
+      "meaning_zh": "利润率",
+      "example": "High margins show efficiency.",
+      "source": "Operating Expenses"
+    },
+    {
+      "word": "income",
+      "pos": "n.",
+      "meaning_en": "money received especially on a regular basis",
+      "meaning_zh": "收入/所得",
+      "example": "Net Income is the final profit number.",
+      "source": "Net Income Calculation"
+    },
+    {
+      "word": "loss",
+      "pos": "n.",
+      "meaning_en": "the amount of money lost",
+      "meaning_zh": "亏损",
+      "example": "Negative net income is a loss.",
+      "source": "Net Income Calculation"
+    },
+    {
+      "word": "risk",
+      "pos": "n.",
+      "meaning_en": "the possibility of something bad happening",
+      "meaning_zh": "风险",
+      "example": "All investments carry some risk.",
+      "source": "Managing Investment Risk"
+    },
+    {
+      "word": "diversification",
+      "pos": "n.",
+      "meaning_en": "the process of varying investments to reduce risk",
+      "meaning_zh": "分散投资",
+      "example": "Diversification helps reduce the risk of loss.",
+      "source": "Managing Investment Risk"
+    },
+    {
+      "word": "fund",
+      "pos": "n.",
+      "meaning_en": "a sum of money saved or made available for a purpose",
+      "meaning_zh": "基金",
+      "example": "Use index funds for easy diversification.",
+      "source": "Managing Investment Risk"
+    },
+    {
+      "word": "goal",
+      "pos": "n.",
+      "meaning_en": "the object of a person's ambition or effort",
+      "meaning_zh": "目标",
+      "example": "Define your financial goals first.",
+      "source": "Building a Long-term Plan"
+    },
+    {
+      "word": "portfolio",
+      "pos": "n.",
+      "meaning_en": "a range of investments held by a person",
+      "meaning_zh": "投资组合",
+      "example": "Review your portfolio once a year.",
+      "source": "Building a Long-term Plan"
+    },
+    {
+      "word": "strategy",
+      "pos": "n.",
+      "meaning_en": "a plan of action designed to achieve a long-term aim",
+      "meaning_zh": "策略",
+      "example": "Patience is the best strategy.",
+      "source": "Building a Long-term Plan"
+    },
+    {
+      "word": "invest",
+      "pos": "v.",
+      "meaning_en": "to put money into financial schemes or property",
+      "meaning_zh": "投资",
+      "example": "Never invest money you cannot afford to lose.",
+      "source": "What Is a Stock"
+    }
+  ],
+  "status": "ready",
+  "generatedBy": "claude",
+  "savedAt": "2026-09-30T11:36:45.810Z"
+}

@@ -1,0 +1,568 @@
+{
+  "day": 13,
+  "date": "2026-10-02",
+  "theme": "电影 · 动画电影与配音艺术",
+  "domain": "电影",
+  "level": "A2 → B1",
+  "goals": [
+    "了解动画电影的基本特点和配音艺术的重要性",
+    "学习动画电影制作相关的专业词汇和表达",
+    "掌握描述动画电影和配音技巧的实用句型",
+    "提升对英语动画电影的理解和欣赏能力"
+  ],
+  "tasks": [
+    {
+      "text": "观看 6 个动画电影相关视频（15分钟）",
+      "minutes": 15
+    },
+    {
+      "text": "精读 10 篇英文短文（20分钟）",
+      "minutes": 20
+    },
+    {
+      "text": "学习 32 个核心词汇短语（10分钟）",
+      "minutes": 10
+    },
+    {
+      "text": "掌握 4 个必学重点内容（10分钟）",
+      "minutes": 10
+    },
+    {
+      "text": "完成拓展内容学习（5分钟）",
+      "minutes": 5
+    }
+  ],
+  "mustLearn": [
+    {
+      "title": "Animation Voice Acting Techniques",
+      "type": "article",
+      "content": "Voice acting for animation requires special skills. Unlike live-action acting, voice actors must convey emotions and personality through their voice alone. They need to match their performance with the character's movements and expressions, often without seeing the final animation. Good voice actors can create distinct characters using different vocal techniques like pitch, tone, and pacing. They must also be able to perform multiple voices and maintain consistency throughout a production."
+    },
+    {
+      "title": "Describing Animation Styles",
+      "type": "expression",
+      "content": "Animation comes in many different styles. Traditional hand-drawn animation creates a classic, artistic look. 3D computer animation offers realistic movement and depth. Stop-motion animation uses physical models that are photographed frame by frame. Each style has its own strengths and creates different viewing experiences. Modern animation often combines multiple techniques to create unique visual effects."
+    },
+    {
+      "title": "Present Perfect vs Simple Past",
+      "type": "grammar",
+      "content": "Use present perfect for experiences up to now: 'I have watched many animated films.' Use simple past for completed actions at a specific time: 'I watched Toy Story yesterday.' Present perfect connects past to present, showing relevance now. Simple past shows finished actions without current connection. In animation discussions, use present perfect for general experiences and simple past for specific viewings."
+    },
+    {
+      "title": "Animation Industry Vocabulary",
+      "type": "vocabulary",
+      "content": "Key terms in animation: 'storyboard' (visual planning), 'character design' (creating characters), 'voice casting' (selecting actors), 'lip sync' (matching speech to mouth movements), 'rendering' (creating final images), 'frame rate' (speed of animation). These terms help discuss animation production. Understanding them improves your ability to talk about how animated films are made."
+    }
+  ],
+  "expand": [
+    {
+      "title": "Animation History Timeline",
+      "type": "background",
+      "content": "动画发展简史：1906年第一部动画短片出现，1928年米老鼠诞生，1937年《白雪公主》首部长篇动画，1995年《玩具总动员》首部3D动画，2000年代数字动画技术成熟，2010年代虚拟现实动画兴起。每个时代都有其技术突破和艺术创新。"
+    },
+    {
+      "title": "Voice Acting Expressions",
+      "type": "synonyms",
+      "content": "描述配音的多种表达：'bring a character to life'（赋予角色生命），'give voice to'（为...配音），'animate with voice'（用声音激活），'character voice'（角色声音），'vocal performance'（声音表演）。"
+    },
+    {
+      "title": "Animation Industry Facts",
+      "type": "culture",
+      "content": "动画产业趣闻：动画师每秒需要绘制24张画面才能产生流畅效果；配音演员通常在录音室单独工作，很少与其他演员见面；皮克斯的动画师平均每人需要3-5年才能参与一部电影制作。"
+    },
+    {
+      "title": "Advanced Animation Vocabulary",
+      "type": "advanced",
+      "content": "进阶动画词汇：'morphing'（变形动画），'tweening'（中间帧），'rigging'（绑定），'motion capture'（动作捕捉），'cel-shading'（卡通渲染），'particle system'（粒子系统）。"
+    }
+  ],
+  "videos": [
+    {
+      "title": "How Animated Movies Are Made",
+      "url": "https://www.youtube.com/results?search_query=how animated movies are made",
+      "channel": "National Geographic",
+      "minutes": 8,
+      "desc": "了解动画电影制作的完整流程"
+    },
+    {
+      "title": "Voice Acting for Animation",
+      "url": "https://www.youtube.com/results?search_query=voice acting animation techniques",
+      "channel": "Animation Career Pro",
+      "minutes": 12,
+      "desc": "学习动画配音的专业技巧"
+    },
+    {
+      "title": "Famous Voice Actors",
+      "url": "https://www.youtube.com/results?search_query=famous animation voice actors behind scenes",
+      "channel": "Screen Rant",
+      "minutes": 10,
+      "desc": "探索知名配音演员的工作日常"
+    },
+    {
+      "title": "Animation Styles Explained",
+      "url": "https://www.youtube.com/results?search_query=different animation styles explained",
+      "channel": "The Film Theorists",
+      "minutes": 7,
+      "desc": "认识各种动画风格的特点"
+    },
+    {
+      "title": "Creating Animated Characters",
+      "url": "https://www.youtube.com/results?search_query=how to create animated characters",
+      "channel": "Pixar",
+      "minutes": 9,
+      "desc": "学习角色设计的过程和方法"
+    },
+    {
+      "title": "Animation Sound Design",
+      "url": "https://www.youtube.com/results?search_query=animation sound design importance",
+      "channel": "CinemaSins",
+      "minutes": 6,
+      "desc": "了解声音在动画中的重要性"
+    }
+  ],
+  "articles": [
+    {
+      "title": "The Magic of Animation",
+      "level": "A2-B1",
+      "words": 60,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Animation brings stories to life in unique ways. Unlike live-action films, animation creates entire worlds from imagination. Animators draw every frame, making impossible things possible. Animation can be hand-drawn or computer-generated. Each style has its own charm. Hand-drawn animation feels artistic and warm. Computer animation offers realistic movement. Animation appeals to all ages because it tells stories beyond reality limits.",
+      "zh": "动画以独特方式让故事活起来。与真人电影不同，动画从想象中创造整个世界。动画师绘制每一帧，使不可能成为可能。动画可以是手绘或电脑生成。每种风格都有其魅力。手绘动画感觉艺术而温暖。电脑动画提供真实动感。动画吸引所有年龄层，因为它讲述超越现实限制的故事。",
+      "points": [
+        "bring sth to life：使...活起来",
+        "beyond reality limits：超越现实限制",
+        "appeal to all ages：吸引所有年龄层",
+        "unique ways：独特方式"
+      ]
+    },
+    {
+      "title": "Voice Acting Skills",
+      "level": "A2-B1",
+      "words": 69,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Voice acting is more than just talking. It requires special skills to create characters. Voice actors must change their voices to match different characters. They need to show emotions through tone and pitch. Good voice actors can make audiences believe in animated characters. They practice daily to improve their voice control. Many voice actors also act in live films. This helps them bring more depth to their voice performances.",
+      "zh": "配音不仅仅是说话。它需要创造角色的特殊技能。配音演员必须改变声音来匹配不同角色。他们需要通过音调和音高表现情感。优秀的配音演员能让观众相信动画角色。他们每天练习提高声音控制能力。许多配音演员也在真人电影中表演，这为他们的配音表演带来更多深度。",
+      "points": [
+        "more than just：不仅仅是",
+        "match different characters：匹配不同角色",
+        "show emotions：表现情感",
+        "voice control：声音控制"
+      ]
+    },
+    {
+      "title": "Animation History",
+      "level": "A2-B1",
+      "words": 68,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Animation has a rich history dating back to early 1900s. The first animated cartoons were simple black and white films. Walt Disney changed animation with Snow White in 1937. This was the first full-length animated feature. Computer animation began in the 1990s. Toy Story was the first fully computer-animated feature film. Today, animation continues to evolve with new technologies. Virtual reality and AI are changing how animators work.",
+      "zh": "动画有着丰富的历史，可追溯到1900年代初。最早的动画卡通是简单的黑白电影。1937年《白雪公主》改变了动画，这是第一部全长动画电影。1990年代开始电脑动画。《玩具总动员》是第一部完全电脑动画电影。今天，动画随着新技术不断进化。虚拟现实和人工智能正在改变动画师的工作方式。",
+      "points": [
+        "date back to：追溯到",
+        "full-length animated feature：全长动画电影",
+        "evolve with：随着...进化",
+        "change how animators work：改变动画师的工作方式"
+      ]
+    },
+    {
+      "title": "Famous Animation Studios",
+      "level": "A2-B1",
+      "words": 65,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Several studios lead the animation industry. Pixar creates emotional stories with amazing visuals. Disney combines classic storytelling with modern technology. DreamWorks makes popular animated films for all ages. Studio Ghibli produces beautiful hand-drawn animations from Japan. Each studio has its own style. Pixar focuses on character development. Disney emphasizes music and songs. DreamWorks adds humor to its stories. Ghibli creates magical worlds with detailed backgrounds.",
+      "zh": "几家工作室引领动画行业。皮克斯用惊人视觉效果创造情感故事。迪士尼将经典故事与现代技术结合。梦工厂为所有年龄段制作流行动画。吉卜力工作室制作精美的日本手绘动画。每个工作室都有自己的风格。皮克斯专注于角色发展。迪士尼强调音乐和歌曲。梦工厂为故事添加幽默。吉卜力创造具有详细背景的魔法世界。",
+      "points": [
+        "lead the industry：引领行业",
+        "combine...with...：将...与...结合",
+        "focus on：专注于",
+        "emphasize：强调"
+      ]
+    },
+    {
+      "title": "Animation Techniques",
+      "level": "A2-B1",
+      "words": 66,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Animators use many techniques to create movement. Traditional animation draws each frame by hand. This method takes time but creates smooth motion. 3D animation uses computers to create characters and environments. Stop-motion animation moves physical objects frame by frame. This creates a unique look. Motion capture records actors' movements for realistic animation. Each technique has advantages. Modern animation often combines multiple techniques for the best results.",
+      "zh": "动画师使用多种技术创造动感。传统动画手工绘制每一帧。这种方法耗时但创造流畅动作。3D动画使用电脑创造角色和环境。定格动画逐帧移动实体物体。这创造独特外观。动作捕捉记录演员动作实现真实动画。每种技术都有优势。现代动画常结合多种技术获得最佳效果。",
+      "points": [
+        "create movement：创造动感",
+        "by hand：手工",
+        "frame by frame：逐帧",
+        "combine multiple techniques：结合多种技术"
+      ]
+    },
+    {
+      "title": "Voice Casting Process",
+      "level": "A2-B1",
+      "words": 73,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Casting voices for animation is a careful process. Directors listen to many voice actors for each character. They look for voices that match the character's personality. Sometimes famous actors voice animated characters. This helps attract audiences to the film. Voice actors often record alone in a studio. They must imagine the character's movements while speaking. The director guides them to get the perfect performance. Good voice casting makes characters feel real and memorable.",
+      "zh": "动画配音选角是谨慎的过程。导演为每个角色听取许多配音演员的声音。他们寻找与角色性格匹配的声音。有时著名演员为动画角色配音，这有助于吸引观众。配音演员通常在录音室单独录音。他们说话时必须想象角色的动作。导演指导他们获得完美表演。好的配音选角让角色感觉真实难忘。",
+      "points": [
+        "careful process：谨慎的过程",
+        "match the character's personality：匹配角色性格",
+        "attract audiences：吸引观众",
+        "feel real and memorable：感觉真实难忘"
+      ]
+    },
+    {
+      "title": "Animation Sound Design",
+      "level": "A2-B1",
+      "words": 67,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Sound is important in animation. Sound designers create sounds that match the action. They make footsteps, animal sounds, and magical effects. Music helps set the mood of scenes. Happy scenes have upbeat music. Scary scenes use tense sounds. Voice actors must match their voices to lip movements. This is called lip sync. Good sound design makes animation more immersive. It helps audiences believe in the animated world.",
+      "zh": "声音在动画中很重要。音效设计师创造匹配动作的声音。他们制作脚步声、动物声音和魔法效果。音乐帮助设定场景氛围。快乐场景有欢快的音乐。恐怖场景使用紧张的声音。配音演员必须让声音与嘴部动作匹配。这叫做口型同步。好的音效设计让动画更具沉浸感，帮助观众相信动画世界。",
+      "points": [
+        "set the mood：设定氛围",
+        "match the action：匹配动作",
+        "lip sync：口型同步",
+        "immersive：沉浸的"
+      ]
+    },
+    {
+      "title": "Animation Career Paths",
+      "level": "A2-B1",
+      "words": 60,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Many careers exist in animation. Animators draw characters and scenes. Storyboard artists plan the visual story. Voice actors give voices to characters. Sound designers create audio effects. Directors oversee the entire production. Animation requires both artistic and technical skills. Many animators study art and computer graphics. Voice actors practice acting and vocal techniques. Animation careers can be challenging but rewarding.",
+      "zh": "动画行业有许多职业。动画师绘制角色和场景。分镜师规划视觉故事。配音演员为角色配音。音效设计师创造音频效果。导演监督整个制作。动画需要艺术和技术技能。许多动画师学习艺术和电脑图形学。配音演员练习表演和声音技巧。动画职业具有挑战性但回报丰厚。",
+      "points": [
+        "career paths：职业道路",
+        "oversee the entire production：监督整个制作",
+        "both artistic and technical skills：艺术和技术技能",
+        "challenging but rewarding：具有挑战性但回报丰厚"
+      ]
+    },
+    {
+      "title": "Animation Around the World",
+      "level": "A2-B1",
+      "words": 59,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Different countries have unique animation styles. American animation often focuses on entertainment. Japanese animation called anime has detailed stories. European animation emphasizes art and creativity. Animation reflects cultural values and traditions. Some animations teach lessons about life. Others simply entertain audiences. International animation festivals celebrate this art form. They bring together animators from many countries to share their work.",
+      "zh": "不同国家有独特的动画风格。美国动画通常专注于娱乐。日本动画（动漫）有详细的故事。欧洲动画强调艺术和创造力。动画反映文化价值观和传统。一些动画教授生活课程，其他则简单娱乐观众。国际动画节庆祝这种艺术形式，它们将来自许多国家的动画师聚集在一起分享作品。",
+      "points": [
+        "unique animation styles：独特的动画风格",
+        "called anime：称为动漫",
+        "reflect cultural values：反映文化价值观",
+        "bring together：聚集在一起"
+      ]
+    },
+    {
+      "title": "Future of Animation",
+      "level": "A2-B1",
+      "words": 60,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Animation technology continues to advance. Virtual reality creates immersive experiences. Artificial intelligence helps create realistic characters. Streaming platforms make animation more accessible. More people can enjoy animated content anytime. Animation education becomes more available online. Young animators learn new tools and techniques. The future of animation looks bright. New technologies will create amazing stories that we can't even imagine today.",
+      "zh": "动画技术不断进步。虚拟现实创造沉浸式体验。人工智能帮助创造真实角色。流媒体平台使动画更易获得。更多人可以随时享受动画内容。动画教育在线上变得更加普及。年轻动画师学习新工具和技术。动画的未来看起来光明。新技术将创造我们今天甚至无法想象的精彩故事。",
+      "points": [
+        "continue to advance：继续进步",
+        "immersive experiences：沉浸式体验",
+        "more accessible：更易获得",
+        "looks bright：看起来光明"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "animation",
+      "pos": "noun",
+      "meaning_en": "moving pictures created from drawings or computer graphics",
+      "meaning_zh": "动画，由绘图或电脑图形创造的动态画面",
+      "example": "Animation brings stories to life in unique ways.",
+      "source": "The Magic of Animation"
+    },
+    {
+      "word": "voice acting",
+      "pos": "noun",
+      "meaning_en": "the art of performing voices for characters",
+      "meaning_zh": "配音表演，为角色表演声音的艺术",
+      "example": "Voice acting requires special skills to create characters.",
+      "source": "Voice Acting Skills"
+    },
+    {
+      "word": "storyboard",
+      "pos": "noun",
+      "meaning_en": "a sequence of drawings showing the scenes of a film",
+      "meaning_zh": "分镜脚本，显示电影场景的一系列图画",
+      "example": "Storyboard artists plan the visual story of animation.",
+      "source": "Animation Career Paths"
+    },
+    {
+      "word": "character design",
+      "pos": "noun",
+      "meaning_en": "the process of creating characters for animation",
+      "meaning_zh": "角色设计，为动画创造角色的过程",
+      "example": "Character design is important for animated films.",
+      "source": "Creating Animated Characters"
+    },
+    {
+      "word": "lip sync",
+      "pos": "noun",
+      "meaning_en": "matching spoken words with mouth movements",
+      "meaning_zh": "口型同步，让说话的词语与嘴部动作匹配",
+      "example": "Voice actors must match their voices to lip movements.",
+      "source": "Animation Sound Design"
+    },
+    {
+      "word": "rendering",
+      "pos": "noun",
+      "meaning_en": "the process of creating final images from animation",
+      "meaning_zh": "渲染，从动画创建最终图像的过程",
+      "example": "Rendering takes time but creates beautiful results.",
+      "source": "Animation Techniques"
+    },
+    {
+      "word": "frame rate",
+      "pos": "noun",
+      "meaning_en": "the number of frames shown per second",
+      "meaning_zh": "帧率，每秒显示的画面数量",
+      "example": "Higher frame rate makes animation smoother.",
+      "source": "Animation Techniques"
+    },
+    {
+      "word": "emotion",
+      "pos": "noun",
+      "meaning_en": "strong feelings like happiness or sadness",
+      "meaning_zh": "情感，如快乐或悲伤等强烈感受",
+      "example": "Voice actors must show emotions through their voices.",
+      "source": "Voice Acting Skills"
+    },
+    {
+      "word": "pitch",
+      "pos": "noun",
+      "meaning_en": "how high or low a sound is",
+      "meaning_zh": "音高，声音的高低程度",
+      "example": "Voice actors use different pitches for characters.",
+      "source": "Voice Acting for Animation"
+    },
+    {
+      "word": "tone",
+      "pos": "noun",
+      "meaning_en": "the quality of a sound that shows feeling",
+      "meaning_zh": "音调，显示声音感受的质量",
+      "example": "The tone of voice changes with different emotions.",
+      "source": "Voice Acting Skills"
+    },
+    {
+      "word": "studio",
+      "pos": "noun",
+      "meaning_en": "a company that makes films or animations",
+      "meaning_zh": "工作室，制作电影或动画的公司",
+      "example": "Pixar is a famous animation studio.",
+      "source": "Famous Animation Studios"
+    },
+    {
+      "word": "technique",
+      "pos": "noun",
+      "meaning_en": "a special way of doing something",
+      "meaning_zh": "技巧，做某事的特殊方法",
+      "example": "Animators use different techniques for movement.",
+      "source": "Animation Techniques"
+    },
+    {
+      "word": "cast",
+      "pos": "verb",
+      "meaning_en": "to choose actors for roles",
+      "meaning_zh": "选角，为角色选择演员",
+      "example": "Directors cast voices carefully for each character.",
+      "source": "Voice Casting Process"
+    },
+    {
+      "word": "immersive",
+      "pos": "adjective",
+      "meaning_en": "that completely takes you into another world",
+      "meaning_zh": "沉浸式的，完全带你进入另一个世界",
+      "example": "Good sound design makes animation more immersive.",
+      "source": "Animation Sound Design"
+    },
+    {
+      "word": "realistic",
+      "pos": "adjective",
+      "meaning_en": "looking or seeming like real life",
+      "meaning_zh": "逼真的，看起来或像真实生活",
+      "example": "3D animation offers realistic movement.",
+      "source": "The Magic of Animation"
+    },
+    {
+      "word": "artistic",
+      "pos": "adjective",
+      "meaning_en": "related to art or beautiful in an artistic way",
+      "meaning_zh": "艺术的，与艺术相关或以艺术方式美丽",
+      "example": "Hand-drawn animation feels artistic and warm.",
+      "source": "The Magic of Animation"
+    },
+    {
+      "word": "evolve",
+      "pos": "verb",
+      "meaning_en": "to develop gradually over time",
+      "meaning_zh": "进化，随时间逐渐发展",
+      "example": "Animation continues to evolve with new technologies.",
+      "source": "Animation History"
+    },
+    {
+      "word": "capture",
+      "pos": "verb",
+      "meaning_en": "to record or take something",
+      "meaning_zh": "捕捉，记录或获取某物",
+      "example": "Motion capture records actors' movements.",
+      "source": "Animation Techniques"
+    },
+    {
+      "word": "emphasize",
+      "pos": "verb",
+      "meaning_en": "to give special importance to something",
+      "meaning_zh": "强调，给某物特殊重要性",
+      "example": "Disney emphasizes music and songs in animation.",
+      "source": "Famous Animation Studios"
+    },
+    {
+      "word": "create",
+      "pos": "verb",
+      "meaning_en": "to make something new",
+      "meaning_zh": "创造，制作新事物",
+      "example": "Animators create entire worlds from imagination.",
+      "source": "The Magic of Animation"
+    },
+    {
+      "word": "perform",
+      "pos": "verb",
+      "meaning_en": "to act or show something",
+      "meaning_zh": "表演，行动或展示某物",
+      "example": "Voice actors perform different characters.",
+      "source": "Voice Acting Skills"
+    },
+    {
+      "word": "develop",
+      "pos": "verb",
+      "meaning_en": "to grow or create something gradually",
+      "meaning_zh": "发展，逐渐成长或创造某物",
+      "example": "Pixar focuses on character development.",
+      "source": "Famous Animation Studios"
+    },
+    {
+      "word": "entertainment",
+      "pos": "noun",
+      "meaning_en": "shows, films, or activities that amuse people",
+      "meaning_zh": "娱乐，娱乐人们的表现、电影或活动",
+      "example": "Animation provides entertainment for all ages.",
+      "source": "Animation Around the World"
+    },
+    {
+      "word": "accessible",
+      "pos": "adjective",
+      "meaning_en": "easy to get or use",
+      "meaning_zh": "易获得的，容易获取或使用",
+      "example": "Streaming platforms make animation more accessible.",
+      "source": "Future of Animation"
+    },
+    {
+      "word": "virtual reality",
+      "pos": "noun",
+      "meaning_en": "computer technology that creates artificial worlds",
+      "meaning_zh": "虚拟现实，创造人工世界的电脑技术",
+      "example": "Virtual reality creates immersive experiences.",
+      "source": "Future of Animation"
+    },
+    {
+      "word": "artificial intelligence",
+      "pos": "noun",
+      "meaning_en": "computer systems that can think like humans",
+      "meaning_zh": "人工智能，能像人类一样思考的电脑系统",
+      "example": "AI helps create realistic animated characters.",
+      "source": "Future of Animation"
+    },
+    {
+      "word": "streaming",
+      "pos": "noun",
+      "meaning_en": "watching content over the internet",
+      "meaning_zh": "流媒体，通过互联网观看内容",
+      "example": "Streaming platforms make animation popular.",
+      "source": "Future of Animation"
+    },
+    {
+      "word": "background",
+      "pos": "noun",
+      "meaning_en": "the scenery behind characters in a scene",
+      "meaning_zh": "背景，场景中角色后面的风景",
+      "example": "Ghibli creates detailed backgrounds.",
+      "source": "Famous Animation Studios"
+    },
+    {
+      "word": "magical",
+      "pos": "adjective",
+      "meaning_en": "having wonderful or supernatural qualities",
+      "meaning_zh": "魔法的，具有奇妙或超自然品质",
+      "example": "Animation creates magical worlds.",
+      "source": "Animation Around the World"
+    },
+    {
+      "word": "challenging",
+      "pos": "adjective",
+      "meaning_en": "difficult but interesting",
+      "meaning_zh": "具有挑战性的，困难但有趣",
+      "example": "Animation careers can be challenging but rewarding.",
+      "source": "Animation Career Paths"
+    },
+    {
+      "word": "rewarding",
+      "pos": "adjective",
+      "meaning_en": "giving satisfaction or pleasure",
+      "meaning_zh": "回报丰厚的，给予满足或快乐",
+      "example": "Animation work is very rewarding.",
+      "source": "Animation Career Paths"
+    },
+    {
+      "word": "festival",
+      "pos": "noun",
+      "meaning_en": "a celebration of films or art",
+      "meaning_zh": "电影节，对电影或艺术的庆祝",
+      "example": "Animation festivals celebrate this art form.",
+      "source": "Animation Around the World"
+    },
+    {
+      "word": "imagination",
+      "pos": "noun",
+      "meaning_en": "the ability to create mental images",
+      "meaning_zh": "想象力，创造心理图像的能力",
+      "example": "Animation comes from the power of imagination.",
+      "source": "The Magic of Animation"
+    },
+    {
+      "word": "smooth",
+      "pos": "adjective",
+      "meaning_en": "without sudden changes or movements",
+      "meaning_zh": "流畅的，没有突然的变化或动作",
+      "example": "Good animation has smooth movement.",
+      "source": "Animation Techniques"
+    },
+    {
+      "word": "unique",
+      "pos": "adjective",
+      "meaning_en": "being the only one of its kind",
+      "meaning_zh": "独特的，是其唯一的一种",
+      "example": "Each animation style has its unique charm.",
+      "source": "The Magic of Animation"
+    },
+    {
+      "word": "memorable",
+      "pos": "adjective",
+      "meaning_en": "worth remembering or easy to remember",
+      "meaning_zh": "难忘的，值得记住或容易记住",
+      "example": "Good voice acting makes characters memorable.",
+      "source": "Voice Casting Process"
+    }
+  ],
+  "status": "ready",
+  "generatedBy": "claude",
+  "savedAt": "2026-09-29T17:39:11.208Z"
+}

@@ -1,0 +1,526 @@
+{
+  "day": 10,
+  "date": "2026-09-29",
+  "theme": "电视剧 · Modern Family 家庭场景表达",
+  "domain": "电视剧",
+  "level": "A2 → B1",
+  "goals": [
+    "掌握 30 个与家庭生活相关的高频英文词汇",
+    "理解美剧中的幽默表达与 sarcasm（讽刺）语气",
+    "能够用英文描述简单的家庭日常活动与人物关系"
+  ],
+  "tasks": [
+    {
+      "text": "阅读 10 篇英文短文，理解大意并标记生词",
+      "minutes": 30
+    },
+    {
+      "text": "观看 6 个 YouTube 视频片段，注意听力输入",
+      "minutes": 15
+    },
+    {
+      "text": "复习 vocabulary 列表并完成例句仿写",
+      "minutes": 10
+    },
+    {
+      "text": "精读 mustLearn 内容并跟读练习",
+      "minutes": 5
+    }
+  ],
+  "mustLearn": [
+    {
+      "title": "Expression: Break a leg",
+      "type": "expression",
+      "content": "英文：'Break a leg' means good luck, often used before a performance. 中文：字面是'摔断腿'，实际是祝你好运。要点：这是演艺圈常用语，不要按字面理解，适合用于朋友考试或演讲前。"
+    },
+    {
+      "title": "Grammar: Used to vs. Be used to",
+      "type": "grammar",
+      "content": "英文：'I used to wake up early' (past habit) vs. 'I am used to waking up early' (current habit). 中文：前者表示过去常常，后者表示习惯于。要点：注意 used to 后接动词原形，be used to 后接动名词。"
+    },
+    {
+      "title": "Phrase: Get on someone's nerves",
+      "type": "expression",
+      "content": "英文：'Stop making that noise, you are getting on my nerves.' 中文：让某人心烦意乱。要点：Nerves 指神经，形象地表示噪音或行为干扰了某人的平静，家庭争吵中常用。"
+    },
+    {
+      "title": "Context: Sarcasm in Family",
+      "type": "article",
+      "content": "英文：In Modern Family, characters often say the opposite of what they mean. 中文：美剧中家人常通过说反话来表达幽默或不满。要点：注意语调（tone），如果语调夸张，通常是在开玩笑或讽刺。"
+    }
+  ],
+  "expand": [
+    {
+      "title": "文化注释：American Breakfast",
+      "type": "note",
+      "content": "美国家庭早餐通常包括 cereal（麦片）、toast（吐司）和 coffee。剧中常展现早餐桌旁的快速对话，这是家庭沟通的关键时刻。"
+    },
+    {
+      "title": "同义替换：Angry",
+      "type": "note",
+      "content": "除了 angry，还可以用 upset, annoyed, frustrated。剧中 Claire 生气时常用 frustrated 表示因混乱而感到挫败。"
+    },
+    {
+      "title": "进阶例句：Conditionals",
+      "type": "note",
+      "content": "Phil 常说：'If I were you, I would wear that shirt.' 这是虚拟语气，表示建议。尝试用 If I were... 造句。"
+    },
+    {
+      "title": "背景知识：Mockumentary",
+      "type": "note",
+      "content": "Modern Family 是伪纪录片风格，角色会对着镜头说话（confessional）。这代表角色的内心独白，帮助观众理解真实想法。"
+    },
+    {
+      "title": "实用表达：Check in",
+      "type": "note",
+      "content": "家人之间常说'Just checking in'，意思是确认一下情况或表达关心。适合用于发信息给父母或朋友。"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Modern Family English Learning Clips",
+      "url": "https://www.youtube.com/results?search_query=Modern+Family+English+learning+clips",
+      "channel": "English With TV Series",
+      "minutes": 10,
+      "desc": "精选剧集片段配合英文字幕讲解，适合初学者模仿。"
+    },
+    {
+      "title": "Best Moments of Phil Dunphy",
+      "url": "https://www.youtube.com/results?search_query=Best+Moments+Phil+Dunphy+Modern+Family",
+      "channel": "Comedy Central",
+      "minutes": 8,
+      "desc": "收集 Phil 的经典幽默瞬间，学习地道美式幽默表达。"
+    },
+    {
+      "title": "Modern Family Family Dinner Scenes",
+      "url": "https://www.youtube.com/results?search_query=Modern+Family+dinner+scenes+compilation",
+      "channel": "ABC",
+      "minutes": 12,
+      "desc": "家庭晚餐场景合集，包含大量日常对话和互动词汇。"
+    },
+    {
+      "title": "Jay and Gloria Generation Gap",
+      "url": "https://www.youtube.com/results?search_query=Jay+and+Gloria+Modern+Family+funny",
+      "channel": "Sitcom Club",
+      "minutes": 9,
+      "desc": "展现不同文化背景夫妻的有趣互动，适合学习跨文化交流用语。"
+    },
+    {
+      "title": "Mitch and Cam Argument Resolution",
+      "url": "https://www.youtube.com/results?search_query=Mitch+and+Cam+argument+Modern+Family",
+      "channel": "Love TV",
+      "minutes": 7,
+      "desc": "学习如何解决争吵的表达，包含情感词汇和道歉用语。"
+    },
+    {
+      "title": "Modern Family Kids Growing Up",
+      "url": "https://www.youtube.com/results?search_query=Modern+Family+kids+growing+up+montage",
+      "channel": "Fan Edits",
+      "minutes": 6,
+      "desc": "回顾孩子们的成长片段，涉及学校、朋友、未来规划等话题。"
+    }
+  ],
+  "articles": [
+    {
+      "title": "Welcome to the Dunphy House",
+      "level": "A2-B1",
+      "words": 120,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Welcome to the Dunphy House. This family lives in Los Angeles. There are three children in this big house. Haley is the oldest daughter. She likes fashion and friends very much. Alex is the middle child. She is very smart and studies hard at school. Luke is the youngest boy. He loves games and fun activities. Their parents are Claire and Phil. Claire is strict but loving mother. Phil is funny and kind father. They often have breakfast together in the kitchen. Sometimes they are late for school or work. The house is big and always noisy. Everyone has a different personality here. But they love each other very much. This is a typical American family life. Many people watch their life on TV every week. It feels like real life for viewers. You can learn many useful words here. Family life is busy but happy always.",
+      "zh": "介绍 Dunphy 家庭的基本成员结构和日常生活状态。",
+      "points": [
+        "oldest/middle/youngest 用于描述兄弟姐妹排行",
+        "strict but loving 形容父母既严格又有爱",
+        "typical 表示典型的，常用于描述文化现象"
+      ]
+    },
+    {
+      "title": "Jay and Gloria Generation Gap",
+      "level": "A2-B1",
+      "words": 130,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Jay is an old man with traditional ideas. Gloria is a young woman from Colombia. They have a son named Manny. Sometimes they do not understand each other. Jay likes quiet and old music. Gloria likes loud and new songs. This is called a generation gap. But they respect each other deeply. Jay helps Gloria with English words. Gloria helps Jay with new technology. They often argue about small things. For example, Jay hates modern art. Gloria thinks modern art is beautiful. They also cook different food together. Jay likes steak and potatoes. Gloria likes spicy Latin food. Their house is a mix of two cultures. It is interesting to watch them talk. They show that love is more important than age. Language barriers can be funny sometimes. But patience solves many problems in life. They are a happy couple finally.",
+      "zh": "描述 Jay 和 Gloria 因年龄和文化差异产生的有趣互动。",
+      "points": [
+        "generation gap 指代沟，常用于长辈与晚辈之间",
+        "respect 表示尊重，是人际关系核心词汇",
+        "barriers 指障碍，language barriers 即语言障碍"
+      ]
+    },
+    {
+      "title": "Mitch and Cam Funny Arguments",
+      "level": "A2-B1",
+      "words": 125,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Mitchell and Cameron are a married couple. They adopt a little girl named Lily. They live in a nice house nearby. Sometimes they have funny arguments at home. Mitch is serious and clean always. Cam is dramatic and loud sometimes. They disagree about parenting styles. Mitch wants rules and order. Cam wants fun and creativity. But they love their daughter very much. They often talk about school events. Cam likes to dress up for parties. Mitch prefers simple clothes usually. Their friends laugh at their jokes. They support each other in hard times. When Lily grows up, they worry a lot. They want the best for their child. Their relationship shows modern love. It is not about man and woman. It is about care and commitment. Watching them helps us understand family. Love makes a house a home truly.",
+      "zh": "讲述 Mitch 和 Cam 的育儿分歧与深厚的感情基础。",
+      "points": [
+        "adopt 表示收养，是家庭构建的一种方式",
+        "dramatic 形容人情绪夸张，戏剧化",
+        "commitment 指承诺，常用于婚姻或责任语境"
+      ]
+    },
+    {
+      "title": "Phil Dad Jokes Explained",
+      "level": "A2-B1",
+      "words": 115,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Phil Dunphy loves to tell jokes. His children often roll their eyes. These jokes are called dad jokes. They are usually very simple and punny. For example, he says puns about words. He wants to make people smile always. Sometimes the jokes are not funny at all. But he tries hard to be cool. He works as a real estate agent. He sells houses to many people. He uses humor in his work too. Clients like his friendly personality. He believes laughter is good for health. His wife Claire often corrects him. She wants him to be more serious. But Phil stays young at heart. He teaches us to stay positive. Life is short so laugh often. Even bad jokes bring joy sometimes. Family members remember his kindness. Humor is a gift from him.",
+      "zh": "分析 Phil 的“老爹幽默”及其对家庭氛围的影响。",
+      "points": [
+        "roll their eyes 翻白眼，表示无奈或不屑",
+        "puns 指双关语，是英语幽默常见形式",
+        "stay young at heart 指心态年轻"
+      ]
+    },
+    {
+      "title": "Claire Busy Morning Routine",
+      "level": "A2-B1",
+      "words": 135,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Claire wakes up early every morning. She has a busy schedule always. First she makes coffee for Jay. Then she checks emails on her phone. She manages the family business too. Her children need help with clothes. She finds socks and shirts everywhere. The house is messy before school. She tells everyone to hurry up. She drives the kids to school daily. Then she goes to her office work. She is a strong business woman. She handles problems very well. Sometimes she feels stressed and tired. But she loves her family deeply. She plans dinner for everyone tonight. She wants healthy food for children. Claire is the manager of the house. Without her, the family stops working. She balances work and home life. It is not easy to be her. But she does it with success.",
+      "zh": "展现 Claire 作为母亲和职业女性的忙碌早晨。",
+      "points": [
+        "schedule 指日程表，管理时间的关键工具",
+        "manages 表示管理，可用于家庭或公司",
+        "balances 指平衡，work-life balance 是常见话题"
+      ]
+    },
+    {
+      "title": "Haley Teenage Problems",
+      "level": "A2-B1",
+      "words": 120,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Haley is a typical teenager girl. She cares about her appearance much. She spends hours in front of mirror. She talks to friends on phone always. Her parents worry about her grades. She thinks school is boring sometimes. She wants to be popular in school. She likes fashion and shopping malls. She often argues with her mother. Claire wants her to study more. Haley wants to have fun now. This is common for young people. She makes mistakes and learns from them. Later she grows up and changes. She finds her own path in life. She starts to understand her parents. Teenage years are hard for everyone. Emotions change quickly like weather. Friends are very important to her. She needs support from family members. Love helps her grow into adult.",
+      "zh": "描述 Haley 的青春期烦恼与成长过程。",
+      "points": [
+        "appearance 指外貌，青少年常关注的话题",
+        "popular 表示受欢迎的，学校社交核心词",
+        "emotions 指情绪，青春期波动较大"
+      ]
+    },
+    {
+      "title": "Alex School Life Balance",
+      "level": "A2-B1",
+      "words": 125,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Alex is the smart sister in family. She gets good grades in school. She studies science and math mostly. Teachers like her very much always. But she feels lonely sometimes too. She does not have many close friends. She prefers books to parties usually. Her parents are proud of her. They buy her new books often. She wants to go to college early. She works hard for her future. Sometimes she feels too much pressure. She needs to relax and play. She learns to join school clubs. She meets new people there slowly. Balance is key for healthy life. Study is important but not all. She helps her brother with homework. She is kind despite being smart. Intelligence is her super power. But kindness makes her beloved.",
+      "zh": "讲述学霸 Alex 的学习压力与社交挑战。",
+      "points": [
+        "grades 指成绩，学生常用词汇",
+        "pressure 指压力，学业压力常见表达",
+        "clubs 指社团，学校社交的重要场所"
+      ]
+    },
+    {
+      "title": "Luke Crazy Adventures",
+      "level": "A2-B1",
+      "words": 110,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Luke is the youngest child at home. He is energetic and crazy boy. He loves to play outside daily. He often breaks things by accident. His parents shout at him sometimes. But he does not listen always. He has many wild ideas in head. He wants to be an inventor. He builds toys from old boxes. He runs around the garden fast. He is not good at studying. But he is good at sports. He makes people laugh with actions. He is the sunshine of the house. Without him, it is too quiet. He grows up to be kind man. He learns from his mistakes slowly. Energy needs to be used well. He finds hobbies he loves really. Family supports his crazy dreams. Love accepts him as he is.",
+      "zh": "描写 Luke 的活泼性格与捣蛋行为。",
+      "points": [
+        "energetic 指精力充沛的，形容好动孩子",
+        "by accident 表示意外地，非故意",
+        "inventor 指发明家，职业词汇"
+      ]
+    },
+    {
+      "title": "Family Dinner Traditions",
+      "level": "A2-B1",
+      "words": 130,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Dinner time is important for family. They try to eat together nightly. They sit around the big table. They share food and stories daily. Sometimes they argue about small things. Who washed the dishes yesterday. Who forgot to buy the milk. But they laugh and eat together. Food brings them close always. Claire cooks delicious meals often. Jay brings wine for the adults. Kids drink juice or water usually. They talk about their day events. What happened at work or school. It is a time to connect. In modern life, this is rare. Many families eat separately now. Phones are banned at the table. They look at each other eyes. This tradition builds strong bonds. Memories are made over dinner plates. Love is served with the food.",
+      "zh": "强调家庭晚餐传统对维系亲情的重要性。",
+      "points": [
+        "traditions 指传统，家庭习惯的核心词",
+        "connect 指连接，情感上的沟通",
+        "banned 表示被禁止，规则类词汇"
+      ]
+    },
+    {
+      "title": "Why We Love This Show",
+      "level": "A2-B1",
+      "words": 140,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Many people love Modern Family show. It runs for many seasons long. Characters feel like real friends. We see them grow and change. They face problems like us all. Money issues and health worries. Love troubles and school stress. The show makes us laugh hard. But it also makes us cry. It teaches lessons about life. Family is not always perfect. But it is where we belong. Language learning is fun with it. You hear natural English spoken. Slang and idioms are everywhere. It is better than textbooks much. You can watch with subtitles first. Then try without them later. Repeat scenes to practice speaking. Join online fans to discuss. This show is a great teacher. It opens doors to culture too.",
+      "zh": "总结为何该剧适合英语学习者及大众喜爱。",
+      "points": [
+        "seasons 指剧集的季，美剧常用单位",
+        "slang 指俚语，口语学习重点",
+        "subtitles 指字幕，学习工具词汇"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "personality",
+      "pos": "n.",
+      "meaning_en": "the qualities that form your character",
+      "meaning_zh": "个性，性格",
+      "example": "Everyone has a different personality here.",
+      "source": "Welcome to the Dunphy House"
+    },
+    {
+      "word": "typical",
+      "pos": "adj.",
+      "meaning_en": "usual or normal",
+      "meaning_zh": "典型的",
+      "example": "This is a typical American family life.",
+      "source": "Welcome to the Dunphy House"
+    },
+    {
+      "word": "traditional",
+      "pos": "adj.",
+      "meaning_en": "following old customs",
+      "meaning_zh": "传统的",
+      "example": "Jay is an old man with traditional ideas.",
+      "source": "Jay and Gloria Generation Gap"
+    },
+    {
+      "word": "respect",
+      "pos": "v.",
+      "meaning_en": "to admire someone",
+      "meaning_zh": "尊重",
+      "example": "But they respect each other deeply.",
+      "source": "Jay and Gloria Generation Gap"
+    },
+    {
+      "word": "barriers",
+      "pos": "n.",
+      "meaning_en": "things that block progress",
+      "meaning_zh": "障碍",
+      "example": "Language barriers can be funny sometimes.",
+      "source": "Jay and Gloria Generation Gap"
+    },
+    {
+      "word": "adopt",
+      "pos": "v.",
+      "meaning_en": "to take a child into family",
+      "meaning_zh": "收养",
+      "example": "They adopt a little girl named Lily.",
+      "source": "Mitch and Cam Funny Arguments"
+    },
+    {
+      "word": "dramatic",
+      "pos": "adj.",
+      "meaning_en": "exciting or emotional",
+      "meaning_zh": "戏剧化的，夸张的",
+      "example": "Cam is dramatic and loud sometimes.",
+      "source": "Mitch and Cam Funny Arguments"
+    },
+    {
+      "word": "commitment",
+      "pos": "n.",
+      "meaning_en": "a promise to do something",
+      "meaning_zh": "承诺，投入",
+      "example": "It is about care and commitment.",
+      "source": "Mitch and Cam Funny Arguments"
+    },
+    {
+      "word": "roll eyes",
+      "pos": "phrase",
+      "meaning_en": "to show annoyance",
+      "meaning_zh": "翻白眼",
+      "example": "His children often roll their eyes.",
+      "source": "Phil Dad Jokes Explained"
+    },
+    {
+      "word": "puns",
+      "pos": "n.",
+      "meaning_en": "jokes using word meanings",
+      "meaning_zh": "双关语",
+      "example": "For example, he says puns about words.",
+      "source": "Phil Dad Jokes Explained"
+    },
+    {
+      "word": "schedule",
+      "pos": "n.",
+      "meaning_en": "a plan of times",
+      "meaning_zh": "日程表",
+      "example": "She has a busy schedule always.",
+      "source": "Claire Busy Morning Routine"
+    },
+    {
+      "word": "manages",
+      "pos": "v.",
+      "meaning_en": "to control or handle",
+      "meaning_zh": "管理",
+      "example": "She manages the family business too.",
+      "source": "Claire Busy Morning Routine"
+    },
+    {
+      "word": "balances",
+      "pos": "v.",
+      "meaning_en": "to keep equal weight",
+      "meaning_zh": "平衡",
+      "example": "She balances work and home life.",
+      "source": "Claire Busy Morning Routine"
+    },
+    {
+      "word": "appearance",
+      "pos": "n.",
+      "meaning_en": "how someone looks",
+      "meaning_zh": "外貌",
+      "example": "She cares about her appearance much.",
+      "source": "Haley Teenage Problems"
+    },
+    {
+      "word": "popular",
+      "pos": "adj.",
+      "meaning_en": "liked by many people",
+      "meaning_zh": "受欢迎的",
+      "example": "She wants to be popular in school.",
+      "source": "Haley Teenage Problems"
+    },
+    {
+      "word": "emotions",
+      "pos": "n.",
+      "meaning_en": "feelings like joy or sad",
+      "meaning_zh": "情绪",
+      "example": "Emotions change quickly like weather.",
+      "source": "Haley Teenage Problems"
+    },
+    {
+      "word": "grades",
+      "pos": "n.",
+      "meaning_en": "marks in school tests",
+      "meaning_zh": "成绩",
+      "example": "She gets good grades in school.",
+      "source": "Alex School Life Balance"
+    },
+    {
+      "word": "pressure",
+      "pos": "n.",
+      "meaning_en": "stress from demands",
+      "meaning_zh": "压力",
+      "example": "Sometimes she feels too much pressure.",
+      "source": "Alex School Life Balance"
+    },
+    {
+      "word": "clubs",
+      "pos": "n.",
+      "meaning_en": "groups for activities",
+      "meaning_zh": "社团",
+      "example": "She learns to join school clubs.",
+      "source": "Alex School Life Balance"
+    },
+    {
+      "word": "energetic",
+      "pos": "adj.",
+      "meaning_en": "full of energy",
+      "meaning_zh": "精力充沛的",
+      "example": "He is energetic and crazy boy.",
+      "source": "Luke Crazy Adventures"
+    },
+    {
+      "word": "accident",
+      "pos": "n.",
+      "meaning_en": "unplanned event",
+      "meaning_zh": "意外",
+      "example": "He often breaks things by accident.",
+      "source": "Luke Crazy Adventures"
+    },
+    {
+      "word": "inventor",
+      "pos": "n.",
+      "meaning_en": "person who creates things",
+      "meaning_zh": "发明家",
+      "example": "He wants to be an inventor.",
+      "source": "Luke Crazy Adventures"
+    },
+    {
+      "word": "traditions",
+      "pos": "n.",
+      "meaning_en": "customs passed down",
+      "meaning_zh": "传统",
+      "example": "Dinner time is important for family traditions.",
+      "source": "Family Dinner Traditions"
+    },
+    {
+      "word": "connect",
+      "pos": "v.",
+      "meaning_en": "to join together",
+      "meaning_zh": "连接，沟通",
+      "example": "It is a time to connect.",
+      "source": "Family Dinner Traditions"
+    },
+    {
+      "word": "banned",
+      "pos": "adj.",
+      "meaning_en": "not allowed",
+      "meaning_zh": "被禁止的",
+      "example": "Phones are banned at the table.",
+      "source": "Family Dinner Traditions"
+    },
+    {
+      "word": "seasons",
+      "pos": "n.",
+      "meaning_en": "parts of a TV show",
+      "meaning_zh": "季",
+      "example": "It runs for many seasons long.",
+      "source": "Why We Love This Show"
+    },
+    {
+      "word": "slang",
+      "pos": "n.",
+      "meaning_en": "informal language",
+      "meaning_zh": "俚语",
+      "example": "Slang and idioms are everywhere.",
+      "source": "Why We Love This Show"
+    },
+    {
+      "word": "subtitles",
+      "pos": "n.",
+      "meaning_en": "text at bottom of screen",
+      "meaning_zh": "字幕",
+      "example": "You can watch with subtitles first.",
+      "source": "Why We Love This Show"
+    },
+    {
+      "word": "strict",
+      "pos": "adj.",
+      "meaning_en": "firm about rules",
+      "meaning_zh": "严格的",
+      "example": "Claire is strict but loving mother.",
+      "source": "Welcome to the Dunphy House"
+    },
+    {
+      "word": "support",
+      "pos": "v.",
+      "meaning_en": "to help or encourage",
+      "meaning_zh": "支持",
+      "example": "They support each other in hard times.",
+      "source": "Mitch and Cam Funny Arguments"
+    },
+    {
+      "word": "positive",
+      "pos": "adj.",
+      "meaning_en": "optimistic and good",
+      "meaning_zh": "积极的",
+      "example": "He teaches us to stay positive.",
+      "source": "Phil Dad Jokes Explained"
+    },
+    {
+      "word": "rare",
+      "pos": "adj.",
+      "meaning_en": "not common",
+      "meaning_zh": "罕见的",
+      "example": "In modern life, this is rare.",
+      "source": "Family Dinner Traditions"
+    }
+  ],
+  "status": "ready",
+  "generatedBy": "claude",
+  "savedAt": "2026-09-30T11:33:47.436Z"
+}

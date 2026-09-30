@@ -1,0 +1,511 @@
+{
+  "day": 4,
+  "date": "2026-09-23",
+  "theme": "旅游 · 日本自由行实用英语",
+  "domain": "旅游",
+  "level": "A2 → B1",
+  "goals": [
+    "掌握机场入境与交通卡购买英语",
+    "学会酒店入住与餐厅点餐场景对话",
+    "积累 30 个旅游高频词汇，提升听力敏感度",
+    "了解日本公共场合礼仪与文化禁忌"
+  ],
+  "tasks": [
+    {
+      "text": "观看视频资料（选看 3 个）",
+      "minutes": 25
+    },
+    {
+      "text": "精读短文（选读 5 篇）",
+      "minutes": 20
+    },
+    {
+      "text": "词汇记忆与必学内容",
+      "minutes": 10
+    },
+    {
+      "text": "口语跟读练习",
+      "minutes": 5
+    }
+  ],
+  "mustLearn": [
+    {
+      "title": "礼貌询问句型",
+      "type": "expression",
+      "content": "英文：Excuse me, could you tell me how to get to...? / 中文：打扰一下，能告诉我怎么去...吗？/ 要点：Could you 比 Can you 更礼貌，适合问路或求助陌生人。"
+    },
+    {
+      "title": "支付相关表达",
+      "type": "expression",
+      "content": "英文：Can I pay by card? / Cash only? / 中文：我可以刷卡吗？/ 只收现金吗？/ 要点：日本很多小店只收现金，提前确认避免尴尬。"
+    },
+    {
+      "title": "过去时态描述行程",
+      "type": "grammar",
+      "content": "英文：I visited Tokyo last year. / 中文：我去年 visited 东京。/ 要点：描述已完成的旅行经历用动词过去式，如 visited, bought, ate。"
+    },
+    {
+      "title": "数量与价格",
+      "type": "expression",
+      "content": "英文：How much is this? / Two tickets, please. / 中文：这个多少钱？/ 请给我两张票。/ 要点：购物买票时直接说数量 + 物品，please 结尾显礼貌。"
+    }
+  ],
+  "expand": [
+    {
+      "title": "现金为王",
+      "type": "note",
+      "content": "虽然日本大城市刷卡普及，但自动售票机、小餐馆、神社寺庙往往只收现金。建议每天携带 10000 日元备用。"
+    },
+    {
+      "title": "电车礼仪",
+      "type": "note",
+      "content": "日本电车内禁止打电话，手机需调至静音模式。优先席附近即使静音也建议关闭电源，以示对老人孕妇尊重。"
+    },
+    {
+      "title": "小费文化",
+      "type": "note",
+      "content": "日本没有小费习惯。在餐厅结账时只需支付账单金额，给小费反而可能让店员困惑甚至追还给你。"
+    },
+    {
+      "title": "垃圾分类",
+      "type": "note",
+      "content": "日本街头垃圾桶很少，建议自带塑料袋装垃圾。便利店垃圾桶通常分瓶、罐、可燃物，投放前需简单分类。"
+    },
+    {
+      "title": "词汇替换",
+      "type": "note",
+      "content": "Toilet 在英语通用，但在日本标志常写 Restroom 或 Washroom。问路时说 Where is the restroom? 更地道。"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Japan Airport Arrival Guide",
+      "url": "https://www.youtube.com/results?search_query=Japan+airport+arrival+English+guide",
+      "channel": "Travel English Pro",
+      "minutes": 8,
+      "desc": "讲解成田机场入境流程与英语对话。"
+    },
+    {
+      "title": "Tokyo Subway Navigation",
+      "url": "https://www.youtube.com/results?search_query=Tokyo+subway+how+to+use+English",
+      "channel": "Tokyo Cheapo",
+      "minutes": 10,
+      "desc": "演示如何购买地铁票与查看路线图。"
+    },
+    {
+      "title": "Hotel Check-in Conversation",
+      "url": "https://www.youtube.com/results?search_query=hotel+check+in+English+conversation",
+      "channel": "English with Lucy",
+      "minutes": 7,
+      "desc": "模拟酒店前台入住登记场景。"
+    },
+    {
+      "title": "Ordering Food in Japan",
+      "url": "https://www.youtube.com/results?search_query=ordering+food+Japan+restaurant+English",
+      "channel": "Learn English with Emma",
+      "minutes": 9,
+      "desc": "介绍拉面店点餐机使用与常用语。"
+    },
+    {
+      "title": "Shopping Tax Free System",
+      "url": "https://www.youtube.com/results?search_query=Japan+tax+free+shopping+guide",
+      "channel": "Japan Guide",
+      "minutes": 6,
+      "desc": "说明免税购物流程与护照要求。"
+    },
+    {
+      "title": "Japanese Culture Etiquette",
+      "url": "https://www.youtube.com/results?search_query=Japanese+culture+etiquette+for+tourists",
+      "channel": "Abroad in Japan",
+      "minutes": 12,
+      "desc": "讲解游客需注意的文化禁忌与礼仪。"
+    }
+  ],
+  "articles": [
+    {
+      "title": "Arrival at Narita Airport",
+      "level": "A2-B1",
+      "words": 115,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "When you land in Japan, you need to go through immigration control first. Show your passport and arrival card to the officer. They might ask about your hotel or purpose of visit. Answer clearly and politely. Then, collect your luggage at the baggage claim area. Follow the green signs for Exit. You can buy a tourist SIM card at the airport. It helps you use navigation maps on your phone. Don't forget to exchange some money if needed. Many places take credit cards, but cash is still king in Japan. Keep your boarding pass until you leave the secure zone. Welcome to Japan!",
+      "zh": "介绍抵达日本机场后的入境、取行李及换汇流程。",
+      "points": [
+        "immigration control：入境检查处",
+        "baggage claim：行李提取区",
+        "cash is king：现金为王（指现金最通用）"
+      ]
+    },
+    {
+      "title": "Buying a Transport Card",
+      "level": "A2-B1",
+      "words": 120,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Public transport in Japan is very convenient. You should buy an IC card like Suica or Pasmo. Go to the ticket machine at the station. Select English language on the screen. Choose the card type and put cash into the slot. You can charge money onto the card anytime. Just tap the card on the gate reader to enter. It works on trains, buses, and even convenience stores. If you lose the card, you cannot get the money back. So keep it safe in your wallet. At the end of your trip, you can return it for a refund. This saves time buying single tickets.",
+      "zh": "讲解如何购买及使用日本交通 IC 卡。",
+      "points": [
+        "ticket machine：自动售票机",
+        "charge money：充值",
+        "tap the card：刷卡（感应）"
+      ]
+    },
+    {
+      "title": "Using the Subway Map",
+      "level": "A2-B1",
+      "words": 118,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Tokyo has many train lines. It can be confusing for beginners. Look at the color-coded map on the wall. Each line has a different color and letter. Find your current station and your destination. Check the direction carefully. Some trains do not stop at every station. Look for the word Local or Express. Local stops everywhere, Express is faster. Wait behind the yellow line on the platform. Let passengers get off before you get on. If you are lost, ask station staff. They usually wear uniforms and can speak basic English. Don't rush, trains come every few minutes.",
+      "zh": "指导如何看懂复杂的东京地铁线路图。",
+      "points": [
+        "color-coded：颜色编码的",
+        "destination：目的地",
+        "platform：站台"
+      ]
+    },
+    {
+      "title": "Hotel Check-in Process",
+      "level": "A2-B1",
+      "words": 125,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Arrive at your hotel reception desk. Say hello and give your name. The staff will ask for your passport. This is required by law in Japan. They might ask about your breakfast plan. Sign the registration form carefully. You will get a room key card. Ask about the Wi-Fi password and breakfast time. Some hotels have large baths on the top floor. You can relax there after walking all day. Check the checkout time. Usually, it is around 10 or 11 AM. Keep the key card with you. You need it to open the elevator and your room door. Enjoy your stay!",
+      "zh": "描述酒店入住登记及注意事项。",
+      "points": [
+        "reception desk：前台",
+        "required by law：法律要求",
+        "checkout time：退房时间"
+      ]
+    },
+    {
+      "title": "Ordering Ramen",
+      "level": "A2-B1",
+      "words": 110,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Many ramen shops use a ticket machine. Look at the photos and prices on the wall. Put money into the machine and press the button. Take the small ticket to your seat. Give the ticket to the chef. Say what you want, like extra noodles or spicy. Wait for your bowl at the counter. It is polite to say Itadakimasu before eating. Slurping the noodles is okay. It shows you enjoy the food. Drink the soup directly from the bowl. When you finish, say Go-chiso-sama. This means thank you for the meal. It is a quick and delicious experience.",
+      "zh": "介绍日本拉面店点餐及用餐礼仪。",
+      "points": [
+        "ticket machine：食券机",
+        "extra noodles：加面",
+        "Itadakimasu：我开动了（餐前语）"
+      ]
+    },
+    {
+      "title": "Convenience Store Visit",
+      "level": "A2-B1",
+      "words": 115,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "7-Eleven and Lawson are everywhere in Japan. They sell fresh food, drinks, and snacks. You can also pay bills or print documents here. Pick up a plastic tray for your items. Take it to the cashier. They will ask if you need a bag. Say yes or no. You can heat up bento boxes in the store. Just ask the staff to warm it. They have microwaves ready for customers. Try the onigiri rice balls. They are cheap and tasty. Pay with cash or your IC card. Keep the receipt until you leave the store. It is a great place for a quick break.",
+      "zh": "说明便利店的功能及购买便当加热服务。",
+      "points": [
+        "cashier：收银员",
+        "bento boxes：便当盒",
+        "onigiri：饭团"
+      ]
+    },
+    {
+      "title": "Shopping Tax Free",
+      "level": "A2-B1",
+      "words": 122,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Tourists can save money on shopping. Look for the Tax Free sign in stores. Spend over 5000 yen to qualify. Bring your passport to the counter. The staff will process the tax exemption form. They might staple your passport. Do not remove the staple until you leave Japan. The 10 percent tax is deducted immediately. Some items like food are not eligible. Check the rules at the service desk. Pack the tax-free items in a sealed bag. Do not open them while in Japan. Show your passport at customs when departing. This helps you buy more souvenirs within budget.",
+      "zh": "讲解游客免税购物流程及限制。",
+      "points": [
+        "Tax Free：免税",
+        "exemption form：免税表格",
+        "deducted：扣除"
+      ]
+    },
+    {
+      "title": "Asking for Directions",
+      "level": "A2-B1",
+      "words": 118,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Sometimes Google Maps is not enough. You might need to ask people. Approach someone politely. Say Excuse me first. Show them the address on your phone. Ask Where is this place? They might point with their hand. Listen for words like straight, left, or right. Near the station or next to the bank are common clues. If you don't understand, say Sorry, one more time. Most people are kind and want to help. You can also show a map picture. Walk slowly and look at signs. Train stations are good landmarks. Don't be shy to ask for help.",
+      "zh": "教授如何向当地人问路及理解指引。",
+      "points": [
+        "Approach：接近",
+        "landmarks：地标",
+        "clues：线索"
+      ]
+    },
+    {
+      "title": "Emergency Phrases",
+      "level": "A2-B1",
+      "words": 112,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Hope you don't need this, but be prepared. If you feel sick, say I need a doctor. If you lose your wallet, go to the police box. It is called Koban in Japanese. Say I lost my passport. They will help you contact your embassy. Keep emergency numbers in your phone. 110 is for police, 119 is for ambulance. Show your insurance card if you have one. Many hotels have front desk staff who speak English. Tell them your room number and problem. Stay calm and speak slowly. Write things down if talking is hard. Safety is the most important part of travel.",
+      "zh": "列举生病、丢失物品等紧急情况的表达。",
+      "points": [
+        "police box：派出所（交番）",
+        "embassy：大使馆",
+        "ambulance：救护车"
+      ]
+    },
+    {
+      "title": "Public Etiquette",
+      "level": "A2-B1",
+      "words": 120,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Japan is known for being quiet and clean. Do not talk loudly on trains. Turn your phone to silent mode. Eating while walking is not common. Finish your food at the park or station. Put trash in your bag until you find a bin. Queue properly when waiting for trains. Let people exit before you enter. Do not smoke on the street unless in a designated area. Respect local customs and rules. If you see a sign, follow it. People appreciate polite behavior from tourists. Your actions represent your country. Be a respectful visitor and enjoy the culture.",
+      "zh": "强调日本公共场合的安静与整洁礼仪。",
+      "points": [
+        "silent mode：静音模式",
+        "Queue：排队",
+        "designated area：指定区域"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "immigration",
+      "pos": "n.",
+      "meaning_en": "place where officials check passports",
+      "meaning_zh": "入境检查处",
+      "example": "Go through immigration control first.",
+      "source": "Arrival at Narita Airport"
+    },
+    {
+      "word": "passport",
+      "pos": "n.",
+      "meaning_en": "official document for travel",
+      "meaning_zh": "护照",
+      "example": "Show your passport to the officer.",
+      "source": "Arrival at Narita Airport"
+    },
+    {
+      "word": "luggage",
+      "pos": "n.",
+      "meaning_en": "bags you take when traveling",
+      "meaning_zh": "行李",
+      "example": "Collect your luggage at the baggage claim.",
+      "source": "Arrival at Narita Airport"
+    },
+    {
+      "word": "ticket",
+      "pos": "n.",
+      "meaning_en": "paper that allows you to travel",
+      "meaning_zh": "车票",
+      "example": "Buying single tickets takes time.",
+      "source": "Buying a Transport Card"
+    },
+    {
+      "word": "machine",
+      "pos": "n.",
+      "meaning_en": "device that does a specific job",
+      "meaning_zh": "机器",
+      "example": "Go to the ticket machine at the station.",
+      "source": "Buying a Transport Card"
+    },
+    {
+      "word": "charge",
+      "pos": "v.",
+      "meaning_en": "put money onto a card",
+      "meaning_zh": "充值",
+      "example": "You can charge money onto the card anytime.",
+      "source": "Buying a Transport Card"
+    },
+    {
+      "word": "line",
+      "pos": "n.",
+      "meaning_en": "route for trains or buses",
+      "meaning_zh": "线路",
+      "example": "Tokyo has many train lines.",
+      "source": "Using the Subway Map"
+    },
+    {
+      "word": "platform",
+      "pos": "n.",
+      "meaning_en": "place where you wait for trains",
+      "meaning_zh": "站台",
+      "example": "Wait behind the yellow line on the platform.",
+      "source": "Using the Subway Map"
+    },
+    {
+      "word": "transfer",
+      "pos": "v.",
+      "meaning_en": "change from one train to another",
+      "meaning_zh": "换乘",
+      "example": "Check if you need to transfer trains.",
+      "source": "Using the Subway Map"
+    },
+    {
+      "word": "reception",
+      "pos": "n.",
+      "meaning_en": "desk where guests arrive",
+      "meaning_zh": "前台",
+      "example": "Arrive at your hotel reception desk.",
+      "source": "Hotel Check-in Process"
+    },
+    {
+      "word": "key",
+      "pos": "n.",
+      "meaning_en": "object to open a door",
+      "meaning_zh": "钥匙",
+      "example": "You will get a room key card.",
+      "source": "Hotel Check-in Process"
+    },
+    {
+      "word": "checkout",
+      "pos": "n.",
+      "meaning_en": "time you leave the hotel",
+      "meaning_zh": "退房",
+      "example": "Check the checkout time.",
+      "source": "Hotel Check-in Process"
+    },
+    {
+      "word": "menu",
+      "pos": "n.",
+      "meaning_en": "list of food you can order",
+      "meaning_zh": "菜单",
+      "example": "Look at the photos on the menu.",
+      "source": "Ordering Ramen"
+    },
+    {
+      "word": "order",
+      "pos": "v.",
+      "meaning_en": "ask for food to eat",
+      "meaning_zh": "点餐",
+      "example": "Say what you want to order.",
+      "source": "Ordering Ramen"
+    },
+    {
+      "word": "spicy",
+      "pos": "adj.",
+      "meaning_en": "tasting hot like chili",
+      "meaning_zh": "辣的",
+      "example": "Ask for extra noodles or spicy.",
+      "source": "Ordering Ramen"
+    },
+    {
+      "word": "snack",
+      "pos": "n.",
+      "meaning_en": "small amount of food",
+      "meaning_zh": "零食",
+      "example": "They sell fresh food and snacks.",
+      "source": "Convenience Store Visit"
+    },
+    {
+      "word": "drink",
+      "pos": "n.",
+      "meaning_en": "liquid you swallow",
+      "meaning_zh": "饮料",
+      "example": "They sell fresh food and drinks.",
+      "source": "Convenience Store Visit"
+    },
+    {
+      "word": "heat",
+      "pos": "v.",
+      "meaning_en": "make food warm",
+      "meaning_zh": "加热",
+      "example": "You can heat up bento boxes.",
+      "source": "Convenience Store Visit"
+    },
+    {
+      "word": "receipt",
+      "pos": "n.",
+      "meaning_en": "paper showing you paid",
+      "meaning_zh": "收据",
+      "example": "Keep the receipt until you leave.",
+      "source": "Convenience Store Visit"
+    },
+    {
+      "word": "discount",
+      "pos": "n.",
+      "meaning_en": "lower price than usual",
+      "meaning_zh": "折扣",
+      "example": "Tourists can save money with discount.",
+      "source": "Shopping Tax Free"
+    },
+    {
+      "word": "sign",
+      "pos": "n.",
+      "meaning_en": "board with information",
+      "meaning_zh": "标志",
+      "example": "Look for the Tax Free sign.",
+      "source": "Shopping Tax Free"
+    },
+    {
+      "word": "map",
+      "pos": "n.",
+      "meaning_en": "drawing of an area",
+      "meaning_zh": "地图",
+      "example": "Show them the address on your map.",
+      "source": "Asking for Directions"
+    },
+    {
+      "word": "station",
+      "pos": "n.",
+      "meaning_en": "place where trains stop",
+      "meaning_zh": "车站",
+      "example": "Train stations are good landmarks.",
+      "source": "Asking for Directions"
+    },
+    {
+      "word": "corner",
+      "pos": "n.",
+      "meaning_en": "place where streets meet",
+      "meaning_zh": "角落",
+      "example": "Turn left at the corner.",
+      "source": "Asking for Directions"
+    },
+    {
+      "word": "police",
+      "pos": "n.",
+      "meaning_en": "people who keep safety",
+      "meaning_zh": "警察",
+      "example": "Go to the police box.",
+      "source": "Emergency Phrases"
+    },
+    {
+      "word": "help",
+      "pos": "v.",
+      "meaning_en": "do something for someone",
+      "meaning_zh": "帮助",
+      "example": "They will help you contact your embassy.",
+      "source": "Emergency Phrases"
+    },
+    {
+      "word": "lost",
+      "pos": "adj.",
+      "meaning_en": "not knowing where you are",
+      "meaning_zh": "迷路/丢失",
+      "example": "Say I lost my passport.",
+      "source": "Emergency Phrases"
+    },
+    {
+      "word": "quiet",
+      "pos": "adj.",
+      "meaning_en": "making little noise",
+      "meaning_zh": "安静的",
+      "example": "Japan is known for being quiet.",
+      "source": "Public Etiquette"
+    },
+    {
+      "word": "phone",
+      "pos": "n.",
+      "meaning_en": "device to call people",
+      "meaning_zh": "手机",
+      "example": "Turn your phone to silent mode.",
+      "source": "Public Etiquette"
+    },
+    {
+      "word": "respect",
+      "pos": "v.",
+      "meaning_en": "show honor to others",
+      "meaning_zh": "尊重",
+      "example": "Respect local customs and rules.",
+      "source": "Public Etiquette"
+    }
+  ],
+  "status": "ready",
+  "generatedBy": "claude",
+  "savedAt": "2026-09-30T11:49:07.803Z"
+}

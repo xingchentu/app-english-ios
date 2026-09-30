@@ -1,0 +1,522 @@
+{
+  "day": 9,
+  "date": "2026-09-28",
+  "theme": "旅游 · 机场值机、安检与酒店入住",
+  "domain": "旅游",
+  "level": "A2 → B1",
+  "goals": [
+    "掌握机场与酒店场景下的 30 个核心高频词汇",
+    "能够听懂安检人员与酒店前台的基本指令",
+    "学会用英语完成值机与入住的简单对话",
+    "理解国际旅行中的常见禁忌与文化差异"
+  ],
+  "tasks": [
+    {
+      "text": "阅读 10 篇系列短文，理解旅行全流程",
+      "minutes": 25
+    },
+    {
+      "text": "观看 6 个情景视频，模仿语音语调",
+      "minutes": 20
+    },
+    {
+      "text": "记忆 32 个核心词汇并完成例句造句",
+      "minutes": 10
+    },
+    {
+      "text": "复习必学表达与拓展笔记，自我测试",
+      "minutes": 5
+    }
+  ],
+  "mustLearn": [
+    {
+      "title": "值机核心句型",
+      "type": "expression",
+      "content": "英文：I would like to check in for my flight to London. / Can I have a window seat, please?\n中文讲解：这是值机柜台最常用的两个句子。第一句表达目的，第二句提出具体需求。\n要点解析：'would like to' 比 'want' 更礼貌；'check in' 是固定搭配，意为办理登机手续。"
+    },
+    {
+      "title": "安检指令听懂",
+      "type": "expression",
+      "content": "英文：Please remove your laptop and liquids. / Put your bag on the belt.\n中文讲解：安检人员语速较快，需听懂关键动词 remove, put, belt。\n要点解析：'remove' 意为拿走/取出；'belt' 指传送带。听到这些词要立即配合动作。"
+    },
+    {
+      "title": "酒店入住确认",
+      "type": "expression",
+      "content": "英文：I have a reservation under the name of Smith. / What time is check-out?\n中文讲解：入住时首先报预订姓名，离开前确认退房时间。\n要点解析：'under the name of' 是预订常用介词搭配；'check-out' 与 'check-in' 对应，指退房。"
+    }
+  ],
+  "expand": [
+    {
+      "title": "小费文化",
+      "type": "note",
+      "content": "在欧美酒店，行李员帮你搬运行李后，通常期望收到 1-5 美元的小费。这不是强制的，但是一种礼貌。如果服务很好，给小费会让他们很开心。"
+    },
+    {
+      "title": "液体限制",
+      "type": "note",
+      "content": "国际航班随身携带的液体容器不能超过 100 毫升，且必须装入透明塑料袋。即使是半瓶 200 毫升的香水也不能带，因为容器大小超标。"
+    },
+    {
+      "title": "时差调整",
+      "type": "note",
+      "content": "长途飞行后，建议抵达当天按当地时间作息。多晒太阳有助于调整生物钟。不要立刻长时间睡觉，否则第二天会更累。"
+    },
+    {
+      "title": "电源插座",
+      "type": "note",
+      "content": "不同国家插座形状不同。出发前务必准备万能转换插头。美国是两孔扁插，英国是三方插，欧洲通常是两孔圆插。"
+    },
+    {
+      "title": "紧急联系",
+      "type": "note",
+      "content": "记下当地紧急电话（如美国 911，欧洲 112）和中国大使馆电话。手机里保存电子护照备份，以防实体护照丢失。"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Airport Check-in Conversation",
+      "url": "https://www.youtube.com/results?search_query=airport+check+in+english+conversation",
+      "channel": "English Speaking Success",
+      "minutes": 8,
+      "desc": "模拟值机柜台完整对话，适合跟读练习。"
+    },
+    {
+      "title": "Security Check Process",
+      "url": "https://www.youtube.com/results?search_query=airport+security+check+process+english",
+      "channel": "Travel Tips TV",
+      "minutes": 6,
+      "desc": "展示安检流程及常见英文指令。"
+    },
+    {
+      "title": "Hotel Check-in Role Play",
+      "url": "https://www.youtube.com/results?search_query=hotel+check+in+role+play+english",
+      "channel": "Learn English with Rebecca",
+      "minutes": 10,
+      "desc": "酒店前台入住情景模拟，包含付款环节。"
+    },
+    {
+      "title": "Travel Vocabulary Essentials",
+      "url": "https://www.youtube.com/results?search_query=travel+english+vocabulary+airport+hotel",
+      "channel": "BBC Learning English",
+      "minutes": 7,
+      "desc": "核心旅行词汇讲解，配有图片辅助记忆。"
+    },
+    {
+      "title": "Packing Tips for Flight",
+      "url": "https://www.youtube.com/results?search_query=what+to+pack+for+flight+liquids+rules",
+      "channel": "Samuel and Emily",
+      "minutes": 9,
+      "desc": "讲解行李打包规则及液体限制细节。"
+    },
+    {
+      "title": "Immigration Interview Questions",
+      "url": "https://www.youtube.com/results?search_query=immigration+interview+questions+and+answers",
+      "channel": "English Class 101",
+      "minutes": 12,
+      "desc": "入境海关常见问题及回答策略。"
+    }
+  ],
+  "articles": [
+    {
+      "title": "Before You Leave Home",
+      "level": "A2-B1",
+      "words": 135,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Before you leave home, you need to prepare many things. First, check your passport. It must be valid for six months. Next, look at your flight ticket. Check the time and the airport name. Many airports have two terminals. Do not go to the wrong place. Pack your clothes carefully. Do not put liquids in your carry-on bag. Liquids must be less than 100 milliliters. Put them in a clear plastic bag. Also, bring your charger and phone. Keep your important documents in a safe place. If you lose them, travel is hard. Finally, set an alarm clock. You must arrive early. Being late is very stressful. Prepare everything the night before. This helps you feel relaxed. Good preparation makes a good trip.",
+      "zh": "出发前的准备工作，包括证件检查、行李打包及时间管理。",
+      "points": [
+        "valid: 有效的，指证件在有效期内。",
+        "terminal: 航站楼，大机场通常有多个。",
+        "carry-on: 随身携带的行李，区别于托运。"
+      ]
+    },
+    {
+      "title": "Online Check-in Benefits",
+      "level": "A2-B1",
+      "words": 128,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Most airlines allow online check-in. You can do this on their website or app. Usually, it opens twenty-four hours before the flight. This saves a lot of time at the airport. You can choose your seat early. If you like the window, pick it fast. After checking in, you get a boarding pass. You can save it on your phone. You do not need to print paper. Go to the baggage drop counter. Give your big bags to the staff. Then you can go to security. Some people like this method. It is modern and convenient. However, if you have special needs, go to the main counter. They can help you more there. Always check the rules for your ticket.",
+      "zh": "介绍在线值机的优势、流程及电子登机牌的使用。",
+      "points": [
+        "boarding pass: 登机牌，登机的必要凭证。",
+        "baggage drop: 行李托运处，已值机者可在此交行李。",
+        "convenient: 方便的，省事的。"
+      ]
+    },
+    {
+      "title": "At the Check-in Counter",
+      "level": "A2-B1",
+      "words": 142,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "When you arrive at the counter, smile and say hello. The staff will ask for your passport. Give it to them politely. They will weigh your baggage. If it is too heavy, you pay extra. This is called excess baggage fee. Try to pack light to save money. They will ask where you are going. Say your destination clearly. They might ask if you packed your bags yourself. Say yes clearly. This is a security question. Then they give you the boarding pass. Check the gate number and time. Sometimes the gate changes. Keep your eyes on the screens. Ask where the restroom is if you need. Be friendly to the staff. They work hard every day. A kind word makes their day better.",
+      "zh": "柜台值机时的互动流程、行李称重及安全问题。",
+      "points": [
+        "weigh: 称重，动词。",
+        "excess baggage fee: 超重行李费。",
+        "destination: 目的地。"
+      ]
+    },
+    {
+      "title": "Understanding Baggage Allowance",
+      "level": "A2-B1",
+      "words": 130,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Every ticket has a baggage allowance. This means how much you can bring. Economy class usually has one checked bag. Business class has more. The weight limit is often twenty-three kilograms. Check your ticket details before you pack. If you buy cheap tickets, baggage might not be included. You must pay to add it. It is cheaper to pay online before travel. At the airport, it costs more. Also, check the size of your bag. Some bags are too big for the plane. Sports equipment needs special care. Tell the airline if you bring golf clubs. They will tell you the rules. Losing baggage is rare but possible. Put a tag with your name on it. This helps them find you if it is lost.",
+      "zh": "解释行李额度、重量限制及特殊物品托运规则。",
+      "points": [
+        "allowance: 限额，允许的数量。",
+        "Economy class: 经济舱。",
+        "tag: 标签，用于识别行李。"
+      ]
+    },
+    {
+      "title": "Security Check Procedures",
+      "level": "A2-B1",
+      "words": 138,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Security check is very strict. You must follow all rules. First, take off your shoes and belt. Put them in the blue box. Take out your laptop and tablet. They must be scanned separately. Take off your heavy coat too. Walk through the metal detector. If it beeps, stop and wait. The officer will check you with a wand. Do not touch the officer. Just stand still and relax. They are looking for dangerous things. Keep your boarding pass ready. You need it after security. Sometimes they check your liquids again. Make sure the bag is closed. Do not argue with the staff. It wastes time for everyone. Follow instructions quickly. Then you can go to the shop. Duty-free shops are inside this area.",
+      "zh": "安检流程详解，包括脱鞋、取出电子产品及通过金属探测门。",
+      "points": [
+        "metal detector: 金属探测门。",
+        "wand: 手持扫描仪。",
+        "Duty-free: 免税的。"
+      ]
+    },
+    {
+      "title": "What Cannot Fly",
+      "level": "A2-B1",
+      "words": 125,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Some items are prohibited on planes. You cannot bring weapons or knives. Even small scissors might be taken. Do not bring fireworks or gas. These are dangerous for the flight. Large liquids must go in checked bags. Power banks must be in carry-on bags. Never put them in checked luggage. They can catch fire in the hold. Food is usually okay but check rules. Some countries do not allow fresh fruit. Meat products are also restricted. Customs officers will throw them away. If you are not sure, ask staff. It is better to leave it at home. Buying things at destination is safer. Remember, rules change sometimes. Check the website before you pack. Safety is the most important thing.",
+      "zh": "列举禁飞物品，包括武器、液体、电池及食品限制。",
+      "points": [
+        "prohibited: 被禁止的。",
+        "Power banks: 充电宝。",
+        "Customs: 海关。"
+      ]
+    },
+    {
+      "title": "Waiting at the Departure Gate",
+      "level": "A2-B1",
+      "words": 132,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "After security, find your gate number. Look at the information screens. Gates can change without notice. Sit near the gate area. Listen for announcements carefully. They will call your flight number. Do not walk too far away. You might miss the boarding call. You can buy water or food here. Prices are higher than outside. Charge your phone at the station. Many seats have USB ports now. Read a book or listen to music. Relax before the long flight. If you need help, ask staff. They wear uniforms and badges. Boarding usually starts thirty minutes before. They call groups by row number. Check your boarding pass for the group. Stand in line when your group is called. Have your pass ready in your hand.",
+      "zh": "登机口等待期间的注意事项，包括关注屏幕、充电及登机分组。",
+      "points": [
+        "announcements: 广播通知。",
+        "USB ports: USB 接口。",
+        "row number: 排号，登机顺序依据。"
+      ]
+    },
+    {
+      "title": "Boarding the Aircraft",
+      "level": "A2-B1",
+      "words": 129,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "When your group is called, stand up. Give your boarding pass to the agent. They scan the barcode. Walk down the jet bridge. It connects the terminal to the plane. Find your seat number quickly. Put small bags under the seat. Put big bags in the overhead bin. Do not block the aisle. Let people pass if you are inside. Sit down and fasten your seatbelt. The crew will show safety rules. Listen to them carefully. Turn off your phone or use flight mode. Do not use wifi until they say ok. The plane will push back soon. Watch the window during takeoff. It is an exciting moment. Keep your belt on until landing. Safety is always the first rule.",
+      "zh": "登机流程，包括扫描登机牌、存放行李及起飞前安全须知。",
+      "points": [
+        "jet bridge: 登机廊桥。",
+        "overhead bin: 头顶行李架。",
+        "fasten: 系紧，扣好。"
+      ]
+    },
+    {
+      "title": "Arrival and Immigration",
+      "level": "A2-B1",
+      "words": 136,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "When the plane lands, wait for the sign. Do not stand up too early. Follow people to immigration. There are many lines there. Choose the line for visitors. Wait for your turn patiently. The officer will ask questions. Why are you here? How long will you stay? Where will you live? Answer clearly and honestly. Show your return ticket if asked. They might stamp your passport. Keep the stamp paper safe. Do not lose it. Then go to the baggage claim area. Look for your flight number on screens. Wait for your bags on the belt. Take them and check the tag. If bags are damaged, report it soon. Then you can walk out to the hall. Someone might wait for you there. Welcome to the new country.",
+      "zh": "抵达后的入境检查、海关问答及行李提取流程。",
+      "points": [
+        "immigration: 入境检查处。",
+        "stamp: 盖章，动词或名词。",
+        "baggage claim: 行李提取处。"
+      ]
+    },
+    {
+      "title": "Hotel Check-in Experience",
+      "level": "A2-B1",
+      "words": 140,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Take a taxi or train to your hotel. Go to the front desk. Say you have a reservation. Give them your name and passport. They will look for your booking. Sometimes you need to pay a deposit. This is for extra services. They will give you a key card. Ask about breakfast time and location. Ask where the elevator is. Check the room number on the card. Go up to your floor. Open the door and check inside. Is the bed clean? Does the water work? If there is a problem, call reception. Do not wait until tomorrow. Keep the card with you always. You need it to open the door. Enjoy your stay and rest well. Tomorrow you can start your tour. Traveling is tiring but wonderful.",
+      "zh": "酒店入住流程，包括押金、房卡使用及房间检查。",
+      "points": [
+        "front desk: 前台。",
+        "deposit: 押金。",
+        "reception: 接待处，同 front desk。"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "passport",
+      "pos": "n.",
+      "meaning_en": "An official document that proves your identity and nationality",
+      "meaning_zh": "护照",
+      "example": "Check your passport before you leave home.",
+      "source": "Before You Leave Home"
+    },
+    {
+      "word": "valid",
+      "pos": "adj.",
+      "meaning_en": "Legally acceptable or effective",
+      "meaning_zh": "有效的",
+      "example": "Your passport must be valid for six months.",
+      "source": "Before You Leave Home"
+    },
+    {
+      "word": "terminal",
+      "pos": "n.",
+      "meaning_en": "A building at an airport where passengers wait",
+      "meaning_zh": "航站楼",
+      "example": "Many airports have two terminals.",
+      "source": "Before You Leave Home"
+    },
+    {
+      "word": "carry-on",
+      "pos": "n.",
+      "meaning_en": "A small bag you take onto the plane",
+      "meaning_zh": "随身行李",
+      "example": "Do not put liquids in your carry-on bag.",
+      "source": "Before You Leave Home"
+    },
+    {
+      "word": "documents",
+      "pos": "n.",
+      "meaning_en": "Important papers like tickets or IDs",
+      "meaning_zh": "文件，证件",
+      "example": "Keep your important documents in a safe place.",
+      "source": "Before You Leave Home"
+    },
+    {
+      "word": "boarding pass",
+      "pos": "n.",
+      "meaning_en": "A card that allows you to get on the plane",
+      "meaning_zh": "登机牌",
+      "example": "After checking in, you get a boarding pass.",
+      "source": "Online Check-in Benefits"
+    },
+    {
+      "word": "convenient",
+      "pos": "adj.",
+      "meaning_en": "Easy to use or suitable for your needs",
+      "meaning_zh": "方便的",
+      "example": "Online check-in is modern and convenient.",
+      "source": "Online Check-in Benefits"
+    },
+    {
+      "word": "counter",
+      "pos": "n.",
+      "meaning_en": "A place where service is provided",
+      "meaning_zh": "柜台",
+      "example": "Go to the baggage drop counter.",
+      "source": "Online Check-in Benefits"
+    },
+    {
+      "word": "weigh",
+      "pos": "v.",
+      "meaning_en": "To measure how heavy something is",
+      "meaning_zh": "称重",
+      "example": "The staff will weigh your baggage.",
+      "source": "At the Check-in Counter"
+    },
+    {
+      "word": "destination",
+      "pos": "n.",
+      "meaning_en": "The place where you are going",
+      "meaning_zh": "目的地",
+      "example": "Say your destination clearly.",
+      "source": "At the Check-in Counter"
+    },
+    {
+      "word": "allowance",
+      "pos": "n.",
+      "meaning_en": "The amount something is allowed",
+      "meaning_zh": "额度，限额",
+      "example": "Every ticket has a baggage allowance.",
+      "source": "Understanding Baggage Allowance"
+    },
+    {
+      "word": "Economy class",
+      "pos": "n.",
+      "meaning_en": "The cheapest seats on a plane",
+      "meaning_zh": "经济舱",
+      "example": "Economy class usually has one checked bag.",
+      "source": "Understanding Baggage Allowance"
+    },
+    {
+      "word": "tag",
+      "pos": "n.",
+      "meaning_en": "A small piece of paper attached to something",
+      "meaning_zh": "标签",
+      "example": "Put a tag with your name on it.",
+      "source": "Understanding Baggage Allowance"
+    },
+    {
+      "word": "security",
+      "pos": "n.",
+      "meaning_en": "The place where people are checked for safety",
+      "meaning_zh": "安检",
+      "example": "Security check is very strict.",
+      "source": "Security Check Procedures"
+    },
+    {
+      "word": "detector",
+      "pos": "n.",
+      "meaning_en": "A machine that finds something hidden",
+      "meaning_zh": "探测器",
+      "example": "Walk through the metal detector.",
+      "source": "Security Check Procedures"
+    },
+    {
+      "word": "prohibited",
+      "pos": "adj.",
+      "meaning_en": "Not allowed by rules or law",
+      "meaning_zh": "被禁止的",
+      "example": "Some items are prohibited on planes.",
+      "source": "What Cannot Fly"
+    },
+    {
+      "word": "Power banks",
+      "pos": "n.",
+      "meaning_en": "Portable devices for charging phones",
+      "meaning_zh": "充电宝",
+      "example": "Power banks must be in carry-on bags.",
+      "source": "What Cannot Fly"
+    },
+    {
+      "word": "Customs",
+      "pos": "n.",
+      "meaning_en": "The place where goods are checked at a border",
+      "meaning_zh": "海关",
+      "example": "Customs officers will throw them away.",
+      "source": "What Cannot Fly"
+    },
+    {
+      "word": "announcements",
+      "pos": "n.",
+      "meaning_en": "Public spoken messages",
+      "meaning_zh": "广播通知",
+      "example": "Listen for announcements carefully.",
+      "source": "Waiting at the Departure Gate"
+    },
+    {
+      "word": "ports",
+      "pos": "n.",
+      "meaning_en": "Places where you can connect cables",
+      "meaning_zh": "接口",
+      "example": "Many seats have USB ports now.",
+      "source": "Waiting at the Departure Gate"
+    },
+    {
+      "word": "jet bridge",
+      "pos": "n.",
+      "meaning_en": "A movable passage connecting terminal to plane",
+      "meaning_zh": "登机廊桥",
+      "example": "Walk down the jet bridge.",
+      "source": "Boarding the Aircraft"
+    },
+    {
+      "word": "fasten",
+      "pos": "v.",
+      "meaning_en": "To close or tie something securely",
+      "meaning_zh": "系紧",
+      "example": "Sit down and fasten your seatbelt.",
+      "source": "Boarding the Aircraft"
+    },
+    {
+      "word": "immigration",
+      "pos": "n.",
+      "meaning_en": "Control of people entering a country",
+      "meaning_zh": "入境检查",
+      "example": "Follow people to immigration.",
+      "source": "Arrival and Immigration"
+    },
+    {
+      "word": "stamp",
+      "pos": "v.",
+      "meaning_en": "To mark a document with an official seal",
+      "meaning_zh": "盖章",
+      "example": "They might stamp your passport.",
+      "source": "Arrival and Immigration"
+    },
+    {
+      "word": "claim",
+      "pos": "n.",
+      "meaning_en": "The area to collect your bags",
+      "meaning_zh": "提取处",
+      "example": "Then go to the baggage claim area.",
+      "source": "Arrival and Immigration"
+    },
+    {
+      "word": "front desk",
+      "pos": "n.",
+      "meaning_en": "The main reception area in a hotel",
+      "meaning_zh": "前台",
+      "example": "Go to the front desk.",
+      "source": "Hotel Check-in Experience"
+    },
+    {
+      "word": "deposit",
+      "pos": "n.",
+      "meaning_en": "Money paid in advance as security",
+      "meaning_zh": "押金",
+      "example": "Sometimes you need to pay a deposit.",
+      "source": "Hotel Check-in Experience"
+    },
+    {
+      "word": "elevator",
+      "pos": "n.",
+      "meaning_en": "A machine that carries people between floors",
+      "meaning_zh": "电梯",
+      "example": "Ask where the elevator is.",
+      "source": "Hotel Check-in Experience"
+    },
+    {
+      "word": "reception",
+      "pos": "n.",
+      "meaning_en": "The place where guests are welcomed",
+      "meaning_zh": "接待处",
+      "example": "If there is a problem, call reception.",
+      "source": "Hotel Check-in Experience"
+    },
+    {
+      "word": "reservation",
+      "pos": "n.",
+      "meaning_en": "An arrangement to keep a room or seat",
+      "meaning_zh": "预订",
+      "example": "Say you have a reservation.",
+      "source": "Hotel Check-in Experience"
+    },
+    {
+      "word": "luggage",
+      "pos": "n.",
+      "meaning_en": "Bags and suitcases for travel",
+      "meaning_zh": "行李",
+      "example": "Never put them in checked luggage.",
+      "source": "What Cannot Fly"
+    },
+    {
+      "word": "staff",
+      "pos": "n.",
+      "meaning_en": "The group of people who work for an organization",
+      "meaning_zh": "员工",
+      "example": "Give your big bags to the staff.",
+      "source": "At the Check-in Counter"
+    }
+  ],
+  "status": "ready",
+  "generatedBy": "claude",
+  "savedAt": "2026-09-30T11:51:38.353Z"
+}

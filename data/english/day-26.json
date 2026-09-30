@@ -1,0 +1,507 @@
+{
+  "day": 26,
+  "date": "2026-10-15",
+  "theme": "NBA · 总决赛经典时刻回顾",
+  "domain": "NBA",
+  "level": "A2 → B1",
+  "goals": [
+    "理解 NBA 总决赛的基本背景与历史意义",
+    "掌握描述比赛关键时刻的体育词汇",
+    "学会用过去时态讲述经典比赛故事",
+    "提升阅读英文体育短文的信心与速度"
+  ],
+  "tasks": [
+    {
+      "text": "精读 10 篇系列短文，标注生词",
+      "minutes": 30
+    },
+    {
+      "text": "观看 6 个视频片段，熟悉听力语境",
+      "minutes": 20
+    },
+    {
+      "text": "复习 30 个核心词汇并完成例句造句",
+      "minutes": 10
+    }
+  ],
+  "mustLearn": [
+    {
+      "title": "关键表达：Clutch Moment",
+      "type": "expression",
+      "content": "英文：A clutch moment is when a player performs well under pressure at the end of the game. 中文：关键时刻表现。要点：Clutch 原意是抓住，体育中指顶住压力得分。"
+    },
+    {
+      "title": "语法：一般过去时叙事",
+      "type": "grammar",
+      "content": "英文：Jordan scored 38 points. He won the game. 中文：乔丹得了 38 分。他赢了比赛。要点：讲述过去发生的比赛事实，动词需用过去式。"
+    },
+    {
+      "title": "高频动词：Defend",
+      "type": "article",
+      "content": "英文：To defend means to stop the other team from scoring. 中文：防守。要点：篮球中进攻是 offense，防守是 defense。"
+    },
+    {
+      "title": "文化：Larry O'Brien Trophy",
+      "type": "video",
+      "content": "英文：The champion team receives the Larry O'Brien Championship Trophy. 中文：冠军球队获得拉里·奥布莱恩冠军奖杯。要点：以 NBA 前总裁命名，象征最高荣誉。"
+    }
+  ],
+  "expand": [
+    {
+      "title": "同义替换：Win vs Beat",
+      "type": "note",
+      "content": "Win 后接比赛或奖项 (win the game)，Beat 后接对手 (beat the Lakers)。"
+    },
+    {
+      "title": "文化注释：Ring Ceremony",
+      "type": "note",
+      "content": "新赛季开始前，卫冕冠军会颁发总冠军戒指 (Championship Rings)，象征荣耀。"
+    },
+    {
+      "title": "进阶表达：Underdog Story",
+      "type": "note",
+      "content": "指不被看好的一方最终获胜的故事，总决赛常出现弱队逆袭。"
+    },
+    {
+      "title": "背景知识：Best of Seven",
+      "type": "note",
+      "content": "总决赛采用七局四胜制，先赢四场的球队获得冠军。"
+    },
+    {
+      "title": "常见误区：Finals 单复数",
+      "type": "note",
+      "content": "NBA Finals 通常用复数形式，谓语动词可用单数或复数，视作一个赛事。"
+    }
+  ],
+  "videos": [
+    {
+      "title": "NBA Finals Best Highlights",
+      "url": "https://www.youtube.com/results?search_query=NBA+Finals+Best+Highlights",
+      "channel": "NBA Highlights",
+      "minutes": 10,
+      "desc": "回顾历年总决赛精彩集锦"
+    },
+    {
+      "title": "Michael Jordan Last Shot 1998",
+      "url": "https://www.youtube.com/results?search_query=Michael+Jordan+Last+Shot+1998",
+      "channel": "Classic NBA",
+      "minutes": 8,
+      "desc": "乔丹总决赛最后一投经典回顾"
+    },
+    {
+      "title": "LeBron James 2016 Comeback",
+      "url": "https://www.youtube.com/results?search_query=LeBron+James+2016+Finals+Comeback",
+      "channel": "Sports History",
+      "minutes": 12,
+      "desc": "2016 年骑士队逆转夺冠历程"
+    },
+    {
+      "title": "Kobe Bryant Finals 2010",
+      "url": "https://www.youtube.com/results?search_query=Kobe+Bryant+Finals+2010+Highlights",
+      "channel": "Lakers Nation",
+      "minutes": 9,
+      "desc": "科比 2010 年夺冠高光时刻"
+    },
+    {
+      "title": "Top Overtime Finals Games",
+      "url": "https://www.youtube.com/results?search_query=NBA+Finals+Overtime+Games",
+      "channel": "Hoops Wire",
+      "minutes": 11,
+      "desc": "盘点总决赛加时赛经典战役"
+    },
+    {
+      "title": "Official NBA Channel",
+      "url": "https://www.youtube.com/@NBA",
+      "channel": "NBA",
+      "minutes": 5,
+      "desc": "NBA 官方频道总决赛专题"
+    }
+  ],
+  "articles": [
+    {
+      "title": "The Big Stage",
+      "level": "A2-B1",
+      "words": 120,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "The NBA Finals is the biggest stage in basketball. Every year, two teams fight for the championship. Players practice hard all season. They want to win the trophy. The crowd is loud. The lights are bright. It is not just a game. It is history. Fans watch from home or at the arena. Everyone waits for the final shot. Who will be the hero? Who will make a mistake? This moment lasts forever. Players remember this day for their whole lives. It is the dream of every child who plays basketball. To stand on top of the world.",
+      "zh": "介绍 NBA 总决赛作为篮球最高舞台的意义与氛围。",
+      "points": [
+        "stage: 舞台，此处指赛场",
+        "trophy: 奖杯，冠军象征",
+        "forever: 永远，强调记忆深刻"
+      ]
+    },
+    {
+      "title": "Jordan's Flu Game",
+      "level": "A2-B1",
+      "words": 130,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "In 1997, Michael Jordan was sick. He had a fever. But he played in the Finals. He was weak. He could not stand well. But he scored 38 points. He helped his team win. This is called the Flu Game. People still talk about it. It shows his spirit. He never gave up. Even when his body was tired, his mind was strong. This is why he is a legend. Young players learn from him. Hard work beats talent. Jordan showed us what a champion looks like. It is not about health. It is about heart.",
+      "zh": "讲述乔丹 1997 年总决赛带病作战的经典故事。",
+      "points": [
+        "fever: 发烧",
+        "spirit: 精神，意志",
+        "legend: 传奇人物"
+      ]
+    },
+    {
+      "title": "LeBron's Promise",
+      "level": "A2-B1",
+      "words": 125,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "LeBron James made a promise. He wanted to bring a title to Cleveland. In 2016, his team was losing. They were down 3-1. No team ever came back from this. But LeBron did not stop. He played better. He blocked shots. He passed the ball. Finally, they won Game Seven. The city cried. People hugged in the streets. LeBron kept his word. He said he would do it. And he did. This is leadership. A leader does not quit. He pushes the team forward. This moment changed history. It proved anything is possible.",
+      "zh": "描述 2016 年詹姆斯带领骑士队逆转夺冠的承诺兑现。",
+      "points": [
+        "promise: 承诺",
+        "blocked: 盖帽，阻挡",
+        "leadership: 领导力"
+      ]
+    },
+    {
+      "title": "Kobe's Farewell Win",
+      "level": "A2-B1",
+      "words": 128,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Kobe Bryant loved the Lakers. He won five rings. In 2010, he beat the Celtics. It was hard. The game was close. Kobe scored many points. He fought for every ball. After the game, he held the trophy. He was happy. He worked hard for this. Later, he said goodbye to fans. But this win was special. It was his last championship. Fans remember his skill. He shot from far away. He drove to the basket. He was a killer on the court. His name is always with the Finals.",
+      "zh": "回顾科比 2010 年夺冠及职业生涯的辉煌时刻。",
+      "points": [
+        "rings: 冠军戒指",
+        "close: 比分接近",
+        "killer: 杀手，指场上极具杀伤力"
+      ]
+    },
+    {
+      "title": "The Trophy Ceremony",
+      "level": "A2-B1",
+      "words": 115,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "When the game ends, the real show begins. The commissioner brings the trophy. It is gold and heavy. The captain lifts it high. Confetti falls from the sky. Music plays loud. Players hug each other. They cry and laugh. Families come to the court. Children hold the ring. This is the reward. All the pain is gone. Only joy remains. Reporters take photos. The world watches. This image goes into books. It inspires the next generation. To win is great. To share it is better.",
+      "zh": "描写夺冠后颁奖仪式的场景与情感。",
+      "points": [
+        "commissioner: 总裁，联盟负责人",
+        "confetti: 彩带，庆祝用品",
+        "reward: 回报，奖赏"
+      ]
+    },
+    {
+      "title": "Underdog Stories",
+      "level": "A2-B1",
+      "words": 122,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Sometimes, a small team wins. People call them underdogs. No one expects them to win. But they play together. They defend well. They share the ball. In 2004, the Pistons beat the Lakers. The Lakers had stars. The Pistons had teamwork. This is magic. It shows money is not everything. Heart matters more. Fans love these stories. It gives hope. If they can win, we can win too. In life, we face big problems. But like the Pistons, we can fight. Teamwork makes the dream work.",
+      "zh": "讲述弱队逆袭夺冠的励志故事，如 2004 年活塞队。",
+      "points": [
+        "underdog: 不被看好的一方",
+        "teamwork: 团队合作",
+        "matter: 要紧，重要"
+      ]
+    },
+    {
+      "title": "Overtime Thrillers",
+      "level": "A2-B1",
+      "words": 135,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Some games do not end in regulation. They go to overtime. Five more minutes. Players are tired. Legs are heavy. But they must run. One shot can change everything. In 2013, Ray Allen shot a three. It saved the Heat. The game went to overtime. They won the ring. This shot is famous. People watch it again and again. It was lucky and skilled. Overtime games are exciting. Fans cannot sleep. They wait for the result. These moments make the Finals special. Nothing is sure until the buzzer.",
+      "zh": "回顾总决赛加时赛的经典绝杀，如 2013 年雷阿伦三分。",
+      "points": [
+        "regulation: 常规时间",
+        "overtime: 加时赛",
+        "buzzer: 终场蜂鸣器"
+      ]
+    },
+    {
+      "title": "Coaching Decisions",
+      "level": "A2-B1",
+      "words": 118,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Players play, but coaches think. They make plans. They call timeouts. In the Finals, every choice counts. Should we pass or shoot? Who should defend the star? Coach Popovich is famous. He wins many titles. He trusts his team. He stays calm. When the game is close, his voice is quiet. He tells players what to do. Good coaching wins games. Bad coaching loses them. Fans argue about choices. But coaches know best. They study video all night. Their mind is a computer. Strategy is key.",
+      "zh": "探讨教练在总决赛中的战术决策与重要性。",
+      "points": [
+        "timeout: 暂停",
+        "strategy: 策略，战术",
+        "argue: 争论"
+      ]
+    },
+    {
+      "title": "Media Coverage",
+      "level": "A2-B1",
+      "words": 126,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "The world watches the Finals. TV stations show the games. Reporters write stories. They interview players. They ask hard questions. How do you feel? What is your plan? Players answer carefully. They want to be polite. Social media talks too. Tweets go viral. Photos spread fast. Everyone has an opinion. Some say this player is best. Some say that team is lucky. The media makes it big. It becomes more than sport. It is culture. People who do not play basketball still watch. The Finals is a global party.",
+      "zh": "描述媒体对总决赛的报道及全球影响力。",
+      "points": [
+        "interview: 采访",
+        "viral: 病毒式传播，火爆",
+        "global: 全球的"
+      ]
+    },
+    {
+      "title": "Legacy of Champions",
+      "level": "A2-B1",
+      "words": 132,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "When players retire, what remains? Their stats. Their rings. Their stories. Champions live forever. We talk about Jordan today. We talk about Kobe. They are gone from the court. But their spirit is here. Young kids wear their jerseys. They try to copy their moves. This is legacy. It is not just about winning. It is about impact. How did you change the game? Did you inspire people? The Finals creates these legends. Every year, a new name is added. But the old names stay. History never forgets.",
+      "zh": "总结冠军球员的遗产与对后世的影响。",
+      "points": [
+        "retire: 退役",
+        "legacy: 遗产，精神传承",
+        "impact: 影响"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "championship",
+      "pos": "n.",
+      "meaning_en": "a competition to find the best team",
+      "meaning_zh": "锦标赛，冠军赛",
+      "example": "They fought for the championship.",
+      "source": "The Big Stage"
+    },
+    {
+      "word": "trophy",
+      "pos": "n.",
+      "meaning_en": "a prize for winning",
+      "meaning_zh": "奖杯",
+      "example": "He lifted the trophy high.",
+      "source": "The Big Stage"
+    },
+    {
+      "word": "arena",
+      "pos": "n.",
+      "meaning_en": "a place for sports events",
+      "meaning_zh": "体育馆，竞技场",
+      "example": "Fans filled the arena.",
+      "source": "The Big Stage"
+    },
+    {
+      "word": "fever",
+      "pos": "n.",
+      "meaning_en": "high body temperature when sick",
+      "meaning_zh": "发烧",
+      "example": "He played with a fever.",
+      "source": "Jordan's Flu Game"
+    },
+    {
+      "word": "spirit",
+      "pos": "n.",
+      "meaning_en": "the quality of courage",
+      "meaning_zh": "精神，意志",
+      "example": "His spirit was strong.",
+      "source": "Jordan's Flu Game"
+    },
+    {
+      "word": "legend",
+      "pos": "n.",
+      "meaning_en": "a very famous person",
+      "meaning_zh": "传奇人物",
+      "example": "Jordan is a basketball legend.",
+      "source": "Jordan's Flu Game"
+    },
+    {
+      "word": "promise",
+      "pos": "n.",
+      "meaning_en": "a word that you will do something",
+      "meaning_zh": "承诺",
+      "example": "He kept his promise.",
+      "source": "LeBron's Promise"
+    },
+    {
+      "word": "blocked",
+      "pos": "v.",
+      "meaning_en": "stopped the ball from going in",
+      "meaning_zh": "盖帽，阻挡",
+      "example": "He blocked the shot.",
+      "source": "LeBron's Promise"
+    },
+    {
+      "word": "leadership",
+      "pos": "n.",
+      "meaning_en": "the action of leading a group",
+      "meaning_zh": "领导力",
+      "example": "His leadership helped the team.",
+      "source": "LeBron's Promise"
+    },
+    {
+      "word": "rings",
+      "pos": "n.",
+      "meaning_en": "gold bands given to winners",
+      "meaning_zh": "冠军戒指",
+      "example": "He won five rings.",
+      "source": "Kobe's Farewell Win"
+    },
+    {
+      "word": "close",
+      "pos": "adj.",
+      "meaning_en": "near in score or distance",
+      "meaning_zh": "接近的",
+      "example": "The game was very close.",
+      "source": "Kobe's Farewell Win"
+    },
+    {
+      "word": "commissioner",
+      "pos": "n.",
+      "meaning_en": "the head of the league",
+      "meaning_zh": "总裁，专员",
+      "example": "The commissioner gave the cup.",
+      "source": "The Trophy Ceremony"
+    },
+    {
+      "word": "confetti",
+      "pos": "n.",
+      "meaning_en": "small pieces of paper for celebration",
+      "meaning_zh": "彩带",
+      "example": "Confetti fell from the sky.",
+      "source": "The Trophy Ceremony"
+    },
+    {
+      "word": "reward",
+      "pos": "n.",
+      "meaning_en": "something given for good work",
+      "meaning_zh": "回报，奖赏",
+      "example": "Winning was their reward.",
+      "source": "The Trophy Ceremony"
+    },
+    {
+      "word": "underdog",
+      "pos": "n.",
+      "meaning_en": "a team expected to lose",
+      "meaning_zh": "弱者，不被看好者",
+      "example": "The underdog won the game.",
+      "source": "Underdog Stories"
+    },
+    {
+      "word": "teamwork",
+      "pos": "n.",
+      "meaning_en": "working together as a group",
+      "meaning_zh": "团队合作",
+      "example": "Teamwork is important.",
+      "source": "Underdog Stories"
+    },
+    {
+      "word": "matter",
+      "pos": "v.",
+      "meaning_en": "to be important",
+      "meaning_zh": "要紧，重要",
+      "example": "Heart matters more.",
+      "source": "Underdog Stories"
+    },
+    {
+      "word": "regulation",
+      "pos": "n.",
+      "meaning_en": "the normal time of a game",
+      "meaning_zh": "常规时间",
+      "example": "The game ended in regulation.",
+      "source": "Overtime Thrillers"
+    },
+    {
+      "word": "overtime",
+      "pos": "n.",
+      "meaning_en": "extra time to play",
+      "meaning_zh": "加时赛",
+      "example": "They went to overtime.",
+      "source": "Overtime Thrillers"
+    },
+    {
+      "word": "buzzer",
+      "pos": "n.",
+      "meaning_en": "a sound signaling the end",
+      "meaning_zh": "蜂鸣器",
+      "example": "He shot before the buzzer.",
+      "source": "Overtime Thrillers"
+    },
+    {
+      "word": "timeout",
+      "pos": "n.",
+      "meaning_en": "a break in the game",
+      "meaning_zh": "暂停",
+      "example": "The coach called a timeout.",
+      "source": "Coaching Decisions"
+    },
+    {
+      "word": "strategy",
+      "pos": "n.",
+      "meaning_en": "a plan to win",
+      "meaning_zh": "策略，战术",
+      "example": "Their strategy worked well.",
+      "source": "Coaching Decisions"
+    },
+    {
+      "word": "argue",
+      "pos": "v.",
+      "meaning_en": "to speak angrily about ideas",
+      "meaning_zh": "争论",
+      "example": "Fans argue about the call.",
+      "source": "Coaching Decisions"
+    },
+    {
+      "word": "interview",
+      "pos": "v.",
+      "meaning_en": "to ask questions to a person",
+      "meaning_zh": "采访",
+      "example": "Reporters interview the star.",
+      "source": "Media Coverage"
+    },
+    {
+      "word": "viral",
+      "pos": "adj.",
+      "meaning_en": "spread quickly online",
+      "meaning_zh": "病毒式传播的",
+      "example": "The video went viral.",
+      "source": "Media Coverage"
+    },
+    {
+      "word": "global",
+      "pos": "adj.",
+      "meaning_en": "all around the world",
+      "meaning_zh": "全球的",
+      "example": "It is a global event.",
+      "source": "Media Coverage"
+    },
+    {
+      "word": "retire",
+      "pos": "v.",
+      "meaning_en": "to stop working or playing",
+      "meaning_zh": "退役，退休",
+      "example": "He decided to retire.",
+      "source": "Legacy of Champions"
+    },
+    {
+      "word": "legacy",
+      "pos": "n.",
+      "meaning_en": "what is left behind",
+      "meaning_zh": "遗产，传承",
+      "example": "His legacy is great.",
+      "source": "Legacy of Champions"
+    },
+    {
+      "word": "impact",
+      "pos": "n.",
+      "meaning_en": "a strong effect on something",
+      "meaning_zh": "影响",
+      "example": "He had a big impact.",
+      "source": "Legacy of Champions"
+    },
+    {
+      "word": "inspire",
+      "pos": "v.",
+      "meaning_en": "to make someone want to do good",
+      "meaning_zh": "激励，鼓舞",
+      "example": "He inspires young players.",
+      "source": "Legacy of Champions"
+    }
+  ],
+  "status": "ready",
+  "generatedBy": "claude",
+  "savedAt": "2026-09-30T11:53:40.689Z"
+}

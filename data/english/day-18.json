@@ -1,0 +1,522 @@
+{
+  "day": 18,
+  "date": "2026-10-07",
+  "theme": "电影 · 影评写作与评分体系",
+  "domain": "电影",
+  "level": "A2 → B1",
+  "goals": [
+    "掌握影评常用词汇与表达（如 plot, rating, spoiler）",
+    "理解主流评分网站（IMDb, Rotten Tomatoes）的区别",
+    "能够撰写一篇简单的英文短评（100 词左右）",
+    "学会礼貌地讨论电影结局与剧透"
+  ],
+  "tasks": [
+    {
+      "text": "阅读 5 篇精选短文（Why Read Reviews, Star Ratings, Websites, Acting, Plot）",
+      "minutes": 25
+    },
+    {
+      "text": "观看 2 个视频（Movie Review Tips, IMDb vs Rotten Tomatoes）",
+      "minutes": 20
+    },
+    {
+      "text": "学习 32 个核心词汇并完成例句填空",
+      "minutes": 10
+    },
+    {
+      "text": "尝试写一篇 50 词的英文电影短评",
+      "minutes": 5
+    }
+  ],
+  "mustLearn": [
+    {
+      "title": "高频表达：Spoiler Alert",
+      "type": "expression",
+      "content": "英文：'Spoiler Alert' is used before revealing key plot points.\n中文：剧透警告。在讨论关键情节前使用，以示礼貌。\n要点：网上发帖时放在段首，口头交流前需询问对方。"
+    },
+    {
+      "title": "形容词搭配：Opinion Adjectives",
+      "type": "grammar",
+      "content": "英文：Use adjectives like 'convincing', 'boring', 'exciting' to describe feelings.\n中文：使用情感形容词表达观点，避免只用 good/bad。\n要点：i+1 进阶：用 convincing 代替 good acting，用 weak 代替 bad。"
+    },
+    {
+      "title": "影评结构：Intro-Body-Conclusion",
+      "type": "article",
+      "content": "英文：1. Movie name & feeling. 2. Why (acting/plot). 3. Recommendation.\n中文：三段式结构：片名感受、理由（演技/剧情）、推荐与否。\n要点：保持逻辑清晰，每部分 1-2 句话即可。"
+    },
+    {
+      "title": "地道句型：Trust Your Taste",
+      "type": "expression",
+      "content": "英文：'Art is personal. Do not let critics bully you.'\n中文：艺术是个人的，不要让评论家左右你。\n要点：用于表达自信的观点，强调主观体验的重要性。"
+    }
+  ],
+  "expand": [
+    {
+      "title": "文化注释：奥斯卡与戛纳",
+      "type": "note",
+      "content": "奥斯卡（Oscars）侧重美国商业与艺术平衡，戛纳（Cannes）侧重艺术性。了解奖项有助于理解影评背景。"
+    },
+    {
+      "title": "同义替换：Good 的进阶表达",
+      "type": "note",
+      "content": "尝试使用 excellent, outstanding, impressive, remarkable 代替重复的 good。"
+    },
+    {
+      "title": "同义替换：Bad 的进阶表达",
+      "type": "note",
+      "content": "尝试使用 terrible, weak, disappointing, dull 代替重复的 bad。"
+    },
+    {
+      "title": "背景知识： IMDb 评分机制",
+      "type": "note",
+      "content": "IMDb 分数由注册用户投票产生（1-10 分），反映大众喜好；烂番茄由专业影评人给出“新鲜/腐烂”判定。"
+    }
+  ],
+  "videos": [
+    {
+      "title": "How to Write a Movie Review",
+      "url": "https://www.youtube.com/results?search_query=how+to+write+a+movie+review+english",
+      "channel": "English with Lucy",
+      "minutes": 10,
+      "desc": "学习如何用英文结构化地撰写影评。"
+    },
+    {
+      "title": "IMDb vs Rotten Tomatoes Explained",
+      "url": "https://www.youtube.com/results?search_query=IMDb+vs+Rotten+Tomatoes+explained",
+      "channel": "Film Theory",
+      "minutes": 8,
+      "desc": "对比两大评分网站的区别与优缺点。"
+    },
+    {
+      "title": "Movie Rating Systems",
+      "url": "https://www.youtube.com/results?search_query=movie+rating+systems+explained",
+      "channel": "Screen Rant",
+      "minutes": 7,
+      "desc": "了解不同国家与平台的电影分级与评分。"
+    },
+    {
+      "title": "Film Criticism Basics",
+      "url": "https://www.youtube.com/results?search_query=film+criticism+basics+for+beginners",
+      "channel": "Every Frame a Painting",
+      "minutes": 12,
+      "desc": "入门级的电影批评理论与视角。"
+    },
+    {
+      "title": "Understanding Box Office",
+      "url": "https://www.youtube.com/results?search_query=understanding+box+office+numbers",
+      "channel": "Variety",
+      "minutes": 6,
+      "desc": "解读票房数据背后的商业逻辑。"
+    },
+    {
+      "title": "Spoiler Etiquette",
+      "url": "https://www.youtube.com/results?search_query=movie+spoiler+etiquette+rules",
+      "channel": "Collider",
+      "minutes": 5,
+      "desc": "学习关于剧透的礼仪与规则。"
+    }
+  ],
+  "articles": [
+    {
+      "title": "Why Read Reviews?",
+      "level": "A2",
+      "words": 105,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Many people watch movies every week. But there are so many new films. It is hard to choose. Movie reviews help us decide. A good review tells you the story without secrets. It also says if the acting is good. You can save time and money. If a review is bad, you do not buy the ticket. If it is good, you feel excited. Reading reviews is a habit for film lovers. You learn new words too. You understand why people like or hate a film. It makes watching movies more fun. Next time, read a review first.",
+      "zh": "介绍阅读影评的好处，帮助节省时间并提升观影体验。",
+      "points": [
+        "habit: 习惯，指经常做的行为。",
+        "decide: 决定，动词，后接宾语从句。",
+        "without secrets: without 表示没有，secrets 指剧透。"
+      ]
+    },
+    {
+      "title": "Understanding Star Ratings",
+      "level": "A2-B1",
+      "words": 112,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Most websites use stars for ratings. One star is very bad. Five stars is excellent. Three stars is average. It is a simple system. But stars are not always clear. Some people give five stars for fun. Others are very strict. A comedy might get low stars but be funny. An art film might get high stars but be boring. Do not trust stars only. Read the text below the stars. The writer explains why they chose that number. Your opinion might be different. That is okay. Art is subjective. Use stars as a guide, not a rule.",
+      "zh": "解释星级评分系统的含义及其局限性。",
+      "points": [
+        "average: 平均的，普通的，指中等水平。",
+        "strict: 严格的，指评分标准高。",
+        "subjective: 主观的，指基于个人感受而非事实。"
+      ]
+    },
+    {
+      "title": "Popular Review Websites",
+      "level": "A2-B1",
+      "words": 118,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "IMDb and Rotten Tomatoes are famous. IMDb lets users vote for movies. The score is from one to ten. Rotten Tomatoes uses fresh or rotten tomatoes. Fresh means good. Rotten means bad. Critics write for Rotten Tomatoes. Users write for IMDb. Both sites are useful. You can see photos and trailers too. Sometimes the scores are different. A movie might be popular on IMDb but bad on Rotten Tomatoes. This happens because critics and users are different. Check both sites before you watch. It gives you a full picture. Learning to use these sites helps your English.",
+      "zh": "介绍 IMDb 和烂番茄两大主流影评网站的区别。",
+      "points": [
+        "vote: 投票，动词，表示表达选择。",
+        "critics: 评论家，指专业影评人。",
+        "full picture: 全貌，指完整的信息。"
+      ]
+    },
+    {
+      "title": "How to Start Writing",
+      "level": "A2",
+      "words": 115,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Do you want to write reviews? Start small. Write three sentences. First, say the movie name. Second, say your feeling. Third, say why. For example, I liked Avatar. It was exciting. The pictures were beautiful. You do not need big words. Simple English is best. Your friends want to know your truth. As you practice, write more. Talk about the music or the clothes. Keep a notebook for your thoughts. Writing helps you remember the film. It also improves your grammar. Share your writing online. Get feedback from others. You will become a better writer.",
+      "zh": "提供初学者撰写影评的简单步骤与建议。",
+      "points": [
+        "practice: 练习，动词或名词，指反复做以提高技能。",
+        "feedback: 反馈，指他人对你的评价。",
+        "truth: 真相，此处指真实的感受。"
+      ]
+    },
+    {
+      "title": "Talking About Acting",
+      "level": "A2-B1",
+      "words": 116,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Actors bring characters to life. Good acting makes you cry or laugh. Bad acting makes you feel awkward. When you watch, look at their faces. Do their eyes show emotion? Is their voice clear? Sometimes a famous actor is not good. Sometimes a new actor is amazing. You can say He played the role well. Or She was convincing. If you dislike the acting, say it was weak. Do not be mean. Just be honest. Acting is hard work. Respect the actors even if you critique them. Notice the main star and the small roles. Everyone matters in a movie.",
+      "zh": "学习如何评价演员的表演与情感表达。",
+      "points": [
+        "convincing: 令人信服的，指表演真实自然。",
+        "awkward: 尴尬的，指表演不自然。",
+        "critique: 批评，动词，指专业的评价。"
+      ]
+    },
+    {
+      "title": "Discussing the Plot",
+      "level": "A2-B1",
+      "words": 119,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "The plot is the story of the film. Is it interesting? Is it too slow? A good plot has surprises. But do not tell the secrets. This is called a spoiler. If you talk about the end, people get angry. Say the beginning is strong. Say the middle is exciting. Say the end is satisfying. You can compare it to other movies. Is it like a old classic? Is it new and fresh? Confusing plots are sometimes good. But usually, clear stories are better. Think about the message too. What did the director want to say? The plot carries the message.",
+      "zh": "讨论如何评价电影剧情而不涉及剧透。",
+      "points": [
+        "plot: 情节，指故事的发展脉络。",
+        "spoiler: 剧透，指提前泄露关键情节。",
+        "satisfying: 令人满意的，指结局好。"
+      ]
+    },
+    {
+      "title": "Warning About Spoilers",
+      "level": "A2",
+      "words": 113,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Spoilers ruin the surprise. Never share the ending online. Many people hate spoilers. If you must talk about the end, use a warning. Write Spoiler Alert at the top. Then people can choose to read or not. In conversations, ask first. Can I tell you the end? If they say no, stop talking. It is polite to protect the mystery. Movies are about discovery. Knowing the end kills the joy. Even old movies have spoilers for new viewers. Be careful with classic films too. Respect your friends time and experience. Good reviewers hide the big twists.",
+      "zh": "强调剧透礼仪及如何礼貌地讨论结局。",
+      "points": [
+        "ruin: 破坏，动词，指毁坏体验。",
+        "mystery: 神秘感，指未知的情节。",
+        "twists: 转折，指剧情的大反转。"
+      ]
+    },
+    {
+      "title": "The Director's Role",
+      "level": "A2-B1",
+      "words": 117,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "The director is the boss of the film. They choose the actors and scenes. They decide how the movie looks. Some directors have a special style. You can know their work without names. For example, Christopher Nolan makes complex films. Quentin Tarantino loves dialogue. When you review, mention the director. Did they succeed in their vision? Was the style right for the story? Sometimes the director is also the writer. This gives them more control. Learning about directors helps you understand cinema. It is like knowing an artist. Their name is a brand. Follow your favorite directors.",
+      "zh": "介绍导演在电影制作中的核心作用及风格。",
+      "points": [
+        "vision: 愿景，指导演的创作构想。",
+        "style: 风格，指独特的艺术表现。",
+        "brand: 品牌，此处指导演的知名度。"
+      ]
+    },
+    {
+      "title": "Box Office Numbers",
+      "level": "A2-B1",
+      "words": 118,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Box office means money made. Big numbers mean many people watched. But money does not mean quality. Some great films make little money. Some bad films make millions. Marketing helps sell tickets. Stars help sell tickets too. Do not judge a film by money. Judge it by your feeling. However, box office shows popularity. It tells us what people like now. Action movies usually make more money. Drama movies make less. It is interesting data for fans. You can read reports online. Compare the budget and the profit. It is like business news.",
+      "zh": "解释票房数据的含义及其与电影质量的关系。",
+      "points": [
+        "box office: 票房，指电影售票收入。",
+        "quality: 质量，指电影的好坏程度。",
+        "budget: 预算，指制作花费的资金。"
+      ]
+    },
+    {
+      "title": "Trust Your Own Taste",
+      "level": "A2",
+      "words": 108,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Finally, trust yourself. Reviews are just opinions. You might love a bad movie. You might hate a good movie. That is fine. Art is personal. Your background affects your taste. Your mood affects your taste too. Do not let critics bully you. Watch what makes you happy. Write what you truly feel. Over time, your taste will grow. You will understand more genres. You will find hidden gems. Keep watching and learning. Your voice matters. Share it with confidence. The world needs your perspective. Enjoy the journey of film.",
+      "zh": "鼓励读者相信自己的审美，独立表达观点。",
+      "points": [
+        "taste: 品味，指个人的审美偏好。",
+        "genres: 类型，指电影的种类。",
+        "perspective: 视角，指个人的看法。"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "review",
+      "pos": "n.",
+      "meaning_en": "a report about a movie",
+      "meaning_zh": "影评，评论",
+      "example": "I read a good review before watching.",
+      "source": "Why Read Reviews?"
+    },
+    {
+      "word": "decide",
+      "pos": "v.",
+      "meaning_en": "to choose something",
+      "meaning_zh": "决定",
+      "example": "Reviews help us decide which film to see.",
+      "source": "Why Read Reviews?"
+    },
+    {
+      "word": "habit",
+      "pos": "n.",
+      "meaning_en": "something you do often",
+      "meaning_zh": "习惯",
+      "example": "Reading reviews is a habit for me.",
+      "source": "Why Read Reviews?"
+    },
+    {
+      "word": "rating",
+      "pos": "n.",
+      "meaning_en": "a score given to a movie",
+      "meaning_zh": "评分",
+      "example": "The movie has a high rating.",
+      "source": "Understanding Star Ratings"
+    },
+    {
+      "word": "average",
+      "pos": "adj.",
+      "meaning_en": "normal, not special",
+      "meaning_zh": "平均的，普通的",
+      "example": "Three stars is an average score.",
+      "source": "Understanding Star Ratings"
+    },
+    {
+      "word": "strict",
+      "pos": "adj.",
+      "meaning_en": "hard to please",
+      "meaning_zh": "严格的",
+      "example": "Some critics are very strict.",
+      "source": "Understanding Star Ratings"
+    },
+    {
+      "word": "subjective",
+      "pos": "adj.",
+      "meaning_en": "based on feelings",
+      "meaning_zh": "主观的",
+      "example": "Art is subjective, not fact.",
+      "source": "Understanding Star Ratings"
+    },
+    {
+      "word": "website",
+      "pos": "n.",
+      "meaning_en": "a place on the internet",
+      "meaning_zh": "网站",
+      "example": "IMDb is a popular website.",
+      "source": "Popular Review Websites"
+    },
+    {
+      "word": "score",
+      "pos": "n.",
+      "meaning_en": "a number showing quality",
+      "meaning_zh": "分数",
+      "example": "The score is from one to ten.",
+      "source": "Popular Review Websites"
+    },
+    {
+      "word": "critics",
+      "pos": "n.",
+      "meaning_en": "people who judge art",
+      "meaning_zh": "评论家",
+      "example": "Critics write for Rotten Tomatoes.",
+      "source": "Popular Review Websites"
+    },
+    {
+      "word": "useful",
+      "pos": "adj.",
+      "meaning_en": "helpful to use",
+      "meaning_zh": "有用的",
+      "example": "Both sites are useful for fans.",
+      "source": "Popular Review Websites"
+    },
+    {
+      "word": "write",
+      "pos": "v.",
+      "meaning_en": "to make words on paper",
+      "meaning_zh": "写",
+      "example": "Do you want to write reviews?",
+      "source": "How to Start Writing"
+    },
+    {
+      "word": "simple",
+      "pos": "adj.",
+      "meaning_en": "easy to understand",
+      "meaning_zh": "简单的",
+      "example": "Simple English is best for beginners.",
+      "source": "How to Start Writing"
+    },
+    {
+      "word": "practice",
+      "pos": "v.",
+      "meaning_en": "to do something to learn",
+      "meaning_zh": "练习",
+      "example": "As you practice, write more.",
+      "source": "How to Start Writing"
+    },
+    {
+      "word": "feedback",
+      "pos": "n.",
+      "meaning_en": "comments about your work",
+      "meaning_zh": "反馈",
+      "example": "Get feedback from others online.",
+      "source": "How to Start Writing"
+    },
+    {
+      "word": "actors",
+      "pos": "n.",
+      "meaning_en": "people in a movie",
+      "meaning_zh": "演员",
+      "example": "Actors bring characters to life.",
+      "source": "Talking About Acting"
+    },
+    {
+      "word": "emotion",
+      "pos": "n.",
+      "meaning_en": "feelings like sad or happy",
+      "meaning_zh": "情感",
+      "example": "Do their eyes show emotion?",
+      "source": "Talking About Acting"
+    },
+    {
+      "word": "convincing",
+      "pos": "adj.",
+      "meaning_en": "believable",
+      "meaning_zh": "令人信服的",
+      "example": "She was convincing in the role.",
+      "source": "Talking About Acting"
+    },
+    {
+      "word": "respect",
+      "pos": "v.",
+      "meaning_en": "to show care for",
+      "meaning_zh": "尊重",
+      "example": "Respect the actors even if you critique them.",
+      "source": "Talking About Acting"
+    },
+    {
+      "word": "plot",
+      "pos": "n.",
+      "meaning_en": "the story of a film",
+      "meaning_zh": "情节",
+      "example": "The plot is the story of the film.",
+      "source": "Discussing the Plot"
+    },
+    {
+      "word": "surprises",
+      "pos": "n.",
+      "meaning_en": "unexpected things",
+      "meaning_zh": "惊喜，意外",
+      "example": "A good plot has surprises.",
+      "source": "Discussing the Plot"
+    },
+    {
+      "word": "spoiler",
+      "pos": "n.",
+      "meaning_en": "secret about the end",
+      "meaning_zh": "剧透",
+      "example": "This is called a spoiler.",
+      "source": "Discussing the Plot"
+    },
+    {
+      "word": "mystery",
+      "pos": "n.",
+      "meaning_en": "something unknown",
+      "meaning_zh": "神秘感",
+      "example": "It is polite to protect the mystery.",
+      "source": "Warning About Spoilers"
+    },
+    {
+      "word": "director",
+      "pos": "n.",
+      "meaning_en": "the boss of a film",
+      "meaning_zh": "导演",
+      "example": "The director is the boss of the film.",
+      "source": "The Director's Role"
+    },
+    {
+      "word": "style",
+      "pos": "n.",
+      "meaning_en": "a special way of doing",
+      "meaning_zh": "风格",
+      "example": "Some directors have a special style.",
+      "source": "The Director's Role"
+    },
+    {
+      "word": "vision",
+      "pos": "n.",
+      "meaning_en": "an idea for the future",
+      "meaning_zh": "愿景，构想",
+      "example": "Did they succeed in their vision?",
+      "source": "The Director's Role"
+    },
+    {
+      "word": "box office",
+      "pos": "n.",
+      "meaning_en": "money from tickets",
+      "meaning_zh": "票房",
+      "example": "Box office means money made.",
+      "source": "Box Office Numbers"
+    },
+    {
+      "word": "quality",
+      "pos": "n.",
+      "meaning_en": "how good something is",
+      "meaning_zh": "质量",
+      "example": "Money does not mean quality.",
+      "source": "Box Office Numbers"
+    },
+    {
+      "word": "popularity",
+      "pos": "n.",
+      "meaning_en": "being liked by many",
+      "meaning_zh": "人气，流行",
+      "example": "Box office shows popularity.",
+      "source": "Box Office Numbers"
+    },
+    {
+      "word": "budget",
+      "pos": "n.",
+      "meaning_en": "money planned to spend",
+      "meaning_zh": "预算",
+      "example": "Compare the budget and the profit.",
+      "source": "Box Office Numbers"
+    },
+    {
+      "word": "taste",
+      "pos": "n.",
+      "meaning_en": "personal liking",
+      "meaning_zh": "品味",
+      "example": "Your background affects your taste.",
+      "source": "Trust Your Own Taste"
+    },
+    {
+      "word": "perspective",
+      "pos": "n.",
+      "meaning_en": "a way of seeing things",
+      "meaning_zh": "视角，观点",
+      "example": "The world needs your perspective.",
+      "source": "Trust Your Own Taste"
+    }
+  ],
+  "status": "ready",
+  "generatedBy": "claude",
+  "savedAt": "2026-09-30T11:36:59.637Z"
+}

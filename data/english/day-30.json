@@ -1,0 +1,527 @@
+{
+  "day": 30,
+  "date": "2026-10-19",
+  "theme": "综合 · 30 天复习：自我表达与成果展示",
+  "domain": "综合",
+  "level": "A2 → B1",
+  "goals": [
+    "掌握描述进步与成果的常用英文表达",
+    "能够用简单英语复盘过去 30 天的学习情况",
+    "熟悉与目标设定相关的核心词汇",
+    "提升口语自信，敢于展示学习成果"
+  ],
+  "tasks": [
+    {
+      "text": "精读 3 篇核心文章（文章 1/2/10）并完成笔记",
+      "minutes": 15
+    },
+    {
+      "text": "观看 2 个精选视频（视频 1/4）并跟读关键句",
+      "minutes": 15
+    },
+    {
+      "text": "记忆 15 个核心词汇并用每个词造一个句子",
+      "minutes": 15
+    },
+    {
+      "text": "录制 1 分钟英文自我复盘音频，总结本月收获",
+      "minutes": 15
+    }
+  ],
+  "mustLearn": [
+    {
+      "title": "现在完成时描述成就",
+      "type": "grammar",
+      "content": "English: I have learned 500 words. I have improved my listening. \n中文讲解：用现在完成时（have/has + done）强调过去的动作对现在的影响，适合展示成果。\n要点解析：区别于一般过去时，这里不强调具体时间，只强调结果。"
+    },
+    {
+      "title": "表达进步的句型",
+      "type": "expression",
+      "content": "English: I made progress in... / I managed to... / I got better at... \n中文讲解：这三个短语是描述“变好”的地道表达，比单纯用 improve 更自然。\n要点解析：made progress 侧重过程，managed to 侧重克服困难，got better 侧重状态变化。"
+    },
+    {
+      "title": "连接词让故事更流畅",
+      "type": "article",
+      "content": "English: First, I started with... Then, I found... Finally, I realized... \n中文讲解：使用顺序连接词可以让你的复盘逻辑清晰，听众更容易理解。\n要点解析：避免只用 and，尝试使用 First, Then, After that, Finally 来组织时间线。"
+    },
+    {
+      "title": "自信的语气技巧",
+      "type": "expression",
+      "content": "English: I am proud of... / I feel confident about... \n中文讲解：直接表达情感是自我展示的重要部分，不要过于谦虚而隐藏成就。\n要点解析：配合微笑和眼神接触，语气要坚定，避免使用 maybe 或 I think 过多。"
+    }
+  ],
+  "expand": [
+    {
+      "title": "中西方展示成果的差异",
+      "type": "note",
+      "content": "西方文化更鼓励直接展示个人成就（Showcase），而中方习惯谦虚。在英文环境中，适当说 'I did a good job' 是自信的表现，不是炫耀。"
+    },
+    {
+      "title": "Improve 的同义替换",
+      "type": "note",
+      "content": "除了 improve，还可以用：get better, enhance, develop, grow, make progress, level up。多样化表达能让语言更生动。"
+    },
+    {
+      "title": "肢体语言辅助表达",
+      "type": "note",
+      "content": "说到成就时，手势可以打开（open gestures），身体前倾。避免双手抱胸或低头，这显得不自信。"
+    },
+    {
+      "title": "复盘的频率建议",
+      "type": "note",
+      "content": "建议每周小复盘，每月大复盘。写下来比只在脑子里想更有效，因为写作能强迫你组织语言逻辑。"
+    },
+    {
+      "title": "常见错误预警",
+      "type": "note",
+      "content": "不要说 'I improved my English very much'，最好说 'I made significant progress in English'。Much 修饰动词比较口语化，书面或正式表达用 significant。"
+    }
+  ],
+  "videos": [
+    {
+      "title": "How to Track Your Learning Progress",
+      "url": "https://www.youtube.com/results?search_query=how+to+track+learning+progress+english",
+      "channel": "Learning Tips",
+      "minutes": 8,
+      "desc": "学习如何记录和追踪你的学习进度，适合复盘参考。"
+    },
+    {
+      "title": "Setting Smart Goals for Language Learning",
+      "url": "https://www.youtube.com/results?search_query=setting+smart+goals+language+learning",
+      "channel": "English Coach",
+      "minutes": 10,
+      "desc": "讲解如何设定聪明的目标，帮助制定下月计划。"
+    },
+    {
+      "title": "Talking About Your Achievements in English",
+      "url": "https://www.youtube.com/results?search_query=talking+about+achievements+english+speaking",
+      "channel": "Speak Confidently",
+      "minutes": 7,
+      "desc": "专门教授如何用英语谈论个人成就和进步。"
+    },
+    {
+      "title": "My 30 Day English Challenge Results",
+      "url": "https://www.youtube.com/results?search_query=30+day+english+challenge+results",
+      "channel": "Student Vlog",
+      "minutes": 12,
+      "desc": "观看其他学习者的 30 天挑战复盘，获取灵感。"
+    },
+    {
+      "title": "Body Language for Presentations",
+      "url": "https://www.youtube.com/results?search_query=body+language+for+presentations+confidence",
+      "channel": "Communication Skills",
+      "minutes": 9,
+      "desc": "学习展示成果时的肢体语言，提升自信感。"
+    },
+    {
+      "title": "Reflecting on Your Learning Journey",
+      "url": "https://www.youtube.com/results?search_query=reflecting+on+learning+journey+english",
+      "channel": "Mindset Matters",
+      "minutes": 6,
+      "desc": "如何反思学习旅程，调整心态面对未来。"
+    }
+  ],
+  "articles": [
+    {
+      "title": "Why We Review",
+      "level": "A2-B1",
+      "words": 125,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Reviewing is a very important part of learning. When we look back, we can see our progress. Sometimes, we feel stuck. We think we do not learn anything new. But if we check our old notes, we find many changes. Thirty days ago, I could not understand simple videos. Now, I can watch them with English subtitles. This is a big change. Reviewing helps us feel proud. It also shows us where we need to work harder. Do not skip this step. Spend ten minutes every week to write down what you did. Your future self will thank you for this habit. It is the key to long-term success.",
+      "zh": "阐述复习的重要性，通过对比过去现在发现进步，建立自信。",
+      "points": [
+        "look back: 回顾，复盘",
+        "feel stuck: 感觉停滞不前",
+        "skip this step: 跳过这一步"
+      ]
+    },
+    {
+      "title": "My Learning Journey",
+      "level": "A2-B1",
+      "words": 130,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "My journey started one month ago. I was afraid to speak. I made many mistakes. But I kept practicing every day. I listened to podcasts in the morning. I read short articles at night. Slowly, my ears got used to the speed. My mouth moved more easily. I found a partner to talk with. We spoke for fifteen minutes each day. It was hard at first. Now, it feels normal. I am not perfect, but I am better. This journey taught me patience. Learning is not a race. It is a walk. Enjoy every step you take on this road.",
+      "zh": "讲述个人学习故事，强调坚持和伙伴练习的重要性。",
+      "points": [
+        "got used to: 习惯于",
+        "not a race: 不是比赛",
+        "Enjoy every step: 享受每一步"
+      ]
+    },
+    {
+      "title": "Tracking Time",
+      "level": "A2-B1",
+      "words": 120,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Time is our most valuable resource. If we do not track it, we lose it. I use a simple app to record my study time. Every day, I write down how many minutes I spent. Sometimes, I study for sixty minutes. Sometimes, only twenty. Seeing the numbers helps me stay honest. If I see a low number, I try to do more the next day. Data does not lie. It shows the truth about our habits. You do not need a complex system. A notebook is enough. Just write the date and the time. This small action builds big discipline over time.",
+      "zh": "介绍时间追踪的方法，利用数据建立学习习惯。",
+      "points": [
+        "valuable resource: 宝贵资源",
+        "stay honest: 保持诚实",
+        "Data does not lie: 数据不说谎"
+      ]
+    },
+    {
+      "title": "Sharing Success",
+      "level": "A2-B1",
+      "words": 128,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Sharing your success is powerful. When you tell others, you make it real. I told my friend about my new vocabulary words. She was happy for me. Her smile gave me energy. Some people think sharing is showing off. But it is not. It is about connecting. When you share, you inspire others. Maybe your friend will start learning too. You become a leader in your group. Do not hide your light. Let it shine. Write a post on social media. Send a message to your teacher. Celebrate your small wins with the people who care about you.",
+      "zh": "鼓励分享成功，说明分享能激励他人并获得正向反馈。",
+      "points": [
+        "showing off: 炫耀",
+        "inspire others: 激励他人",
+        "small wins: 小胜利"
+      ]
+    },
+    {
+      "title": "Setting New Goals",
+      "level": "A2-B1",
+      "words": 135,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "After reviewing, we need new goals. Old goals are finished. Now, look at the next month. What do you want to achieve? Maybe you want to read a book. Maybe you want to watch a movie without subtitles. Make your goals clear. Do not say 'I want to be better'. Say 'I want to learn ten new words every day'. Specific goals are easier to follow. Write them down on a paper. Put the paper on your wall. Look at it every morning. This keeps your focus sharp. Goals give us direction. Without them, we walk in circles. Plan well, and you will arrive.",
+      "zh": "指导如何设定新的具体目标，强调目标清晰化的重要性。",
+      "points": [
+        "achieve: 达成",
+        "Specific goals: 具体的目标",
+        "walk in circles: 原地打转"
+      ]
+    },
+    {
+      "title": "Key Words for Progress",
+      "level": "A2-B1",
+      "words": 122,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "To talk about progress, you need the right words. Here are some useful terms. 'Improvement' means getting better. 'Achievement' means finishing something hard. 'Challenge' is a difficult task. 'Overcome' means beating a problem. 'Consistent' means doing things regularly. Use these words in your sentences. Instead of saying 'I did good', say 'I made an improvement'. Instead of 'It was hard', say 'It was a challenge'. Using precise vocabulary makes you sound professional. It also helps you think clearly about your learning. Practice these words today. Try to use at least three of them in your next conversation.",
+      "zh": "介绍描述进步的核心词汇，提升表达的专业度。",
+      "points": [
+        "Improvement: 进步",
+        "Overcome: 克服",
+        "Consistent: 持续的"
+      ]
+    },
+    {
+      "title": "Culture of Success",
+      "level": "A2-B1",
+      "words": 132,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Different cultures view success differently. In some places, people are very quiet about their wins. They say 'It was luck'. In English-speaking countries, people often say 'I worked hard'. Both are okay. But when you speak English, you can be more direct. It is not rude to say 'I am proud'. It shows confidence. Confidence attracts opportunities. People want to work with confident people. So, adjust your mindset. You can be humble and confident at the same time. Say 'I am proud of my work, and I have more to learn'. This balance is perfect for international communication.",
+      "zh": "探讨不同文化对成功的看法，建议在西式语境下更自信。",
+      "points": [
+        "view success: 看待成功",
+        "attracts opportunities: 吸引机会",
+        "adjust your mindset: 调整心态"
+      ]
+    },
+    {
+      "title": "Saying I Improved",
+      "level": "A2-B1",
+      "words": 126,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "How do you say you improved? There are many ways. You can say 'I have grown'. You can say 'I leveled up'. You can say 'I made progress'. Avoid saying 'I am perfect'. Nobody is perfect. Focus on the change. 'My listening is stronger now.' 'I speak faster than before.' These sentences are true and humble. They show facts. When you talk to a teacher, use these phrases. They help the teacher see your growth. Also, record yourself speaking. Listen to the old recording. Compare it with the new one. You will hear the difference clearly. Hearing is believing.",
+      "zh": "提供多种表达“我进步了”的句型，强调事实而非完美。",
+      "points": [
+        "leveled up: 升级了",
+        "Focus on the change: 关注变化",
+        "Hearing is believing: 听见即相信"
+      ]
+    },
+    {
+      "title": "Common Mistakes",
+      "level": "A2-B1",
+      "words": 129,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "When we talk about the past, we make mistakes. A common error is using the wrong tense. Do not say 'I have studied yesterday'. Say 'I studied yesterday'. Use Past Simple for specific times. Use Present Perfect for general results. Another mistake is being too negative. Do not say 'I failed'. Say 'I learned something'. Mistakes are part of learning. Do not fear them. Correct them and move on. Also, do not compare yourself with others. Compare yourself with yesterday's you. This is the only competition that matters. Stay positive and keep correcting your errors gently.",
+      "zh": "指出复盘时常见的时态错误和心态误区，提供修正建议。",
+      "points": [
+        "wrong tense: 错误的时态",
+        "Past Simple: 一般过去时",
+        "compare yourself: 比较你自己"
+      ]
+    },
+    {
+      "title": "Looking Ahead",
+      "level": "A2-B1",
+      "words": 124,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Now, we look to the future. The past is done. The future is waiting. You have the tools. You have the plan. You have the confidence. Next month will be even better. Keep your habits strong. Do not stop when it gets hard. Hard times show your true strength. Remember why you started. You started to grow. You started to explore. Keep that fire burning. Share your journey with us. We want to hear your story. Good luck with your next step. You are ready. Take a deep breath and go. The world is waiting for your voice.",
+      "zh": "展望未来，鼓励保持习惯，继续成长之旅。",
+      "points": [
+        "Looking Ahead: 展望未来",
+        "Keep that fire burning: 保持热情",
+        "Take a deep breath: 深呼吸"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "review",
+      "pos": "v.",
+      "meaning_en": "to look at something again",
+      "meaning_zh": "复习，回顾",
+      "example": "I need to review my notes before the test.",
+      "source": "Why We Review"
+    },
+    {
+      "word": "progress",
+      "pos": "n.",
+      "meaning_en": "forward movement toward a goal",
+      "meaning_zh": "进步，进展",
+      "example": "She made great progress in English this month.",
+      "source": "Why We Review"
+    },
+    {
+      "word": "stuck",
+      "pos": "adj.",
+      "meaning_en": "unable to move or change",
+      "meaning_zh": "卡住的，停滞的",
+      "example": "I feel stuck in my learning journey.",
+      "source": "Why We Review"
+    },
+    {
+      "word": "subtitle",
+      "pos": "n.",
+      "meaning_en": "text at the bottom of a video",
+      "meaning_zh": "字幕",
+      "example": "I watch movies with English subtitles.",
+      "source": "Why We Review"
+    },
+    {
+      "word": "habit",
+      "pos": "n.",
+      "meaning_en": "something you do often",
+      "meaning_zh": "习惯",
+      "example": "Reading every day is a good habit.",
+      "source": "Why We Review"
+    },
+    {
+      "word": "journey",
+      "pos": "n.",
+      "meaning_en": "a process of travel or change",
+      "meaning_zh": "旅程，历程",
+      "example": "My learning journey started last year.",
+      "source": "My Learning Journey"
+    },
+    {
+      "word": "afraid",
+      "pos": "adj.",
+      "meaning_en": "feeling fear",
+      "meaning_zh": "害怕的",
+      "example": "He was afraid to speak in class.",
+      "source": "My Learning Journey"
+    },
+    {
+      "word": "practice",
+      "pos": "v.",
+      "meaning_en": "to do something repeatedly to improve",
+      "meaning_zh": "练习",
+      "example": "I practice speaking with my friend.",
+      "source": "My Learning Journey"
+    },
+    {
+      "word": "podcast",
+      "pos": "n.",
+      "meaning_en": "a digital audio program",
+      "meaning_zh": "播客",
+      "example": "I listen to a podcast on the bus.",
+      "source": "My Learning Journey"
+    },
+    {
+      "word": "patience",
+      "pos": "n.",
+      "meaning_en": "ability to wait without getting angry",
+      "meaning_zh": "耐心",
+      "example": "Learning a language requires patience.",
+      "source": "My Learning Journey"
+    },
+    {
+      "word": "track",
+      "pos": "v.",
+      "meaning_en": "to record or follow progress",
+      "meaning_zh": "追踪，记录",
+      "example": "I track my study time every day.",
+      "source": "Tracking Time"
+    },
+    {
+      "word": "resource",
+      "pos": "n.",
+      "meaning_en": "something useful that you can use",
+      "meaning_zh": "资源",
+      "example": "Time is our most valuable resource.",
+      "source": "Tracking Time"
+    },
+    {
+      "word": "record",
+      "pos": "v.",
+      "meaning_en": "to write down or save information",
+      "meaning_zh": "记录",
+      "example": "Please record your score in the book.",
+      "source": "Tracking Time"
+    },
+    {
+      "word": "discipline",
+      "pos": "n.",
+      "meaning_en": "control over your own behavior",
+      "meaning_zh": "自律，纪律",
+      "example": "Self-discipline helps you succeed.",
+      "source": "Tracking Time"
+    },
+    {
+      "word": "sharing",
+      "pos": "n.",
+      "meaning_en": "the act of giving to others",
+      "meaning_zh": "分享",
+      "example": "Sharing your knowledge helps everyone.",
+      "source": "Sharing Success"
+    },
+    {
+      "word": "powerful",
+      "pos": "adj.",
+      "meaning_en": "having great effect or strength",
+      "meaning_zh": "有力的，强大的",
+      "example": "Your words are very powerful.",
+      "source": "Sharing Success"
+    },
+    {
+      "word": "inspire",
+      "pos": "v.",
+      "meaning_en": "to make someone want to do something",
+      "meaning_zh": "激励，鼓舞",
+      "example": "His story inspired me to learn.",
+      "source": "Sharing Success"
+    },
+    {
+      "word": "achieve",
+      "pos": "v.",
+      "meaning_en": "to succeed in doing something",
+      "meaning_zh": "达成，实现",
+      "example": "I want to achieve my goals this year.",
+      "source": "Setting New Goals"
+    },
+    {
+      "word": "specific",
+      "pos": "adj.",
+      "meaning_en": "clear and detailed",
+      "meaning_zh": "具体的，明确的",
+      "example": "Give me a specific example.",
+      "source": "Setting New Goals"
+    },
+    {
+      "word": "focus",
+      "pos": "n.",
+      "meaning_en": "center of attention or effort",
+      "meaning_zh": "焦点，专注",
+      "example": "Keep your focus on your work.",
+      "source": "Setting New Goals"
+    },
+    {
+      "word": "improvement",
+      "pos": "n.",
+      "meaning_en": "the act of making something better",
+      "meaning_zh": "改进，提升",
+      "example": "There is a big improvement in his writing.",
+      "source": "Key Words for Progress"
+    },
+    {
+      "word": "challenge",
+      "pos": "n.",
+      "meaning_en": "a difficult task that tests ability",
+      "meaning_zh": "挑战",
+      "example": "This game is a big challenge.",
+      "source": "Key Words for Progress"
+    },
+    {
+      "word": "overcome",
+      "pos": "v.",
+      "meaning_en": "to succeed in dealing with a problem",
+      "meaning_zh": "克服",
+      "example": "She overcame her fear of flying.",
+      "source": "Key Words for Progress"
+    },
+    {
+      "word": "consistent",
+      "pos": "adj.",
+      "meaning_en": "doing something in the same way over time",
+      "meaning_zh": "一致的，持续的",
+      "example": "Be consistent with your practice.",
+      "source": "Key Words for Progress"
+    },
+    {
+      "word": "confidence",
+      "pos": "n.",
+      "meaning_en": "belief in your own abilities",
+      "meaning_zh": "自信",
+      "example": "Speak with confidence.",
+      "source": "Culture of Success"
+    },
+    {
+      "word": "humble",
+      "pos": "adj.",
+      "meaning_en": "not proud or arrogant",
+      "meaning_zh": "谦虚的",
+      "example": "He is rich but very humble.",
+      "source": "Culture of Success"
+    },
+    {
+      "word": "compare",
+      "pos": "v.",
+      "meaning_en": "to look at differences between things",
+      "meaning_zh": "比较",
+      "example": "Do not compare yourself with others.",
+      "source": "Common Mistakes"
+    },
+    {
+      "word": "positive",
+      "pos": "adj.",
+      "meaning_en": "good or optimistic",
+      "meaning_zh": "积极的，乐观的",
+      "example": "Stay positive when things are hard.",
+      "source": "Common Mistakes"
+    },
+    {
+      "word": "future",
+      "pos": "n.",
+      "meaning_en": "the time that is to come",
+      "meaning_zh": "未来",
+      "example": "The future looks bright.",
+      "source": "Looking Ahead"
+    },
+    {
+      "word": "explore",
+      "pos": "v.",
+      "meaning_en": "to travel to learn about new places",
+      "meaning_zh": "探索",
+      "example": "I want to explore new countries.",
+      "source": "Looking Ahead"
+    },
+    {
+      "word": "voice",
+      "pos": "n.",
+      "meaning_en": "sound made by speaking",
+      "meaning_zh": "声音，意见",
+      "example": "Let your voice be heard.",
+      "source": "Looking Ahead"
+    },
+    {
+      "word": "resourceful",
+      "pos": "adj.",
+      "meaning_en": "good at finding ways to do things",
+      "meaning_zh": "足智多谋的",
+      "example": "She is a resourceful learner.",
+      "source": "Tracking Time"
+    }
+  ],
+  "status": "ready",
+  "generatedBy": "claude",
+  "savedAt": "2026-09-29T18:09:51.916Z"
+}

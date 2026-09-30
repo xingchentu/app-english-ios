@@ -1,0 +1,500 @@
+{
+  "day": 22,
+  "date": "2026-10-11",
+  "theme": "财经 · 个人预算与记账方法",
+  "domain": "财经",
+  "level": "A2 → B1",
+  "goals": [
+    "掌握预算、收入、支出等核心财经词汇",
+    "理解并能用英文描述简单的记账流程",
+    "学会表达个人财务目标与计划"
+  ],
+  "tasks": [
+    {
+      "text": "阅读文章 1-5 篇，理解预算基础概念",
+      "minutes": 15
+    },
+    {
+      "text": "观看视频 1-3 个，熟悉记账工具与方法",
+      "minutes": 15
+    },
+    {
+      "text": "阅读文章 6-10 篇，学习避坑与长期规划",
+      "minutes": 15
+    },
+    {
+      "text": "观看视频 4-6 个，复习词汇并完成必学内容",
+      "minutes": 15
+    }
+  ],
+  "mustLearn": [
+    {
+      "title": "高频表达：Make a budget",
+      "type": "expression",
+      "content": "英文：I need to make a budget for next month. 中文：我需要为下个月做预算。解析：Make a budget 是固定搭配，表示制定预算计划，比 do a budget 更地道。"
+    },
+    {
+      "title": "语法点：Future with Going to",
+      "type": "grammar",
+      "content": "英文：I am going to save more money. 中文：我打算存更多钱。解析：Be going to 用于表达已经计划好的未来意图，适合财务规划场景。"
+    },
+    {
+      "title": "核心句型：Track your spending",
+      "type": "expression",
+      "content": "英文：You should track your spending every day. 中文：你应该每天记录你的支出。解析：Track 意为追踪、记录，spending 是 spend 的动名词形式，指花费的钱。"
+    }
+  ],
+  "expand": [
+    {
+      "title": "文化注释：50/30/20 Rule",
+      "type": "note",
+      "content": "这是美国流行的预算法则：50% 用于必需品，30% 用于想要的东西，20% 用于储蓄或还债。适合初学者参考。"
+    },
+    {
+      "title": "同义替换：Save vs Set aside",
+      "type": "note",
+      "content": "Save money 和 Set aside money 都可以表示存钱。Set aside 更强调特意留出一部分钱不做他用。"
+    },
+    {
+      "title": "背景知识：Credit Score",
+      "type": "note",
+      "content": "在西方国家，信用分数影响贷款买房买车。按时还债和预算管理能力直接关联信用分数。"
+    },
+    {
+      "title": "实用建议：Start Small",
+      "type": "note",
+      "content": "不要一开始就追求完美记账。先从记录每天最大的三笔支出开始，养成习惯后再细化。"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Budgeting for Beginners",
+      "url": "https://www.youtube.com/results?search_query=budgeting+for+beginners+english",
+      "channel": "Financial Education",
+      "minutes": 8,
+      "desc": "适合新手的预算基础介绍，语速较慢。"
+    },
+    {
+      "title": "How to Track Expenses",
+      "url": "https://www.youtube.com/results?search_query=how+to+track+expenses+app",
+      "channel": "Money Master",
+      "minutes": 6,
+      "desc": "展示如何使用手机应用记录日常开销。"
+    },
+    {
+      "title": "The 50 30 20 Rule Explained",
+      "url": "https://www.youtube.com/results?search_query=50+30+20+rule+budget",
+      "channel": "Clear Finance",
+      "minutes": 7,
+      "desc": "详细解释经典的预算分配法则。"
+    },
+    {
+      "title": "Cash Envelope System",
+      "url": "https://www.youtube.com/results?search_query=cash+envelope+system+how+to",
+      "channel": "Frugal Living",
+      "minutes": 9,
+      "desc": "介绍传统的现金信封记账管理法。"
+    },
+    {
+      "title": "Stop Making Budget Mistakes",
+      "url": "https://www.youtube.com/results?search_query=common+budgeting+mistakes",
+      "channel": "Smart Money",
+      "minutes": 8,
+      "desc": "列举新手常犯的预算错误及解决方法。"
+    },
+    {
+      "title": "Saving Goals Motivation",
+      "url": "https://www.youtube.com/results?search_query=setting+financial+goals+motivation",
+      "channel": "Wealth Mindset",
+      "minutes": 10,
+      "desc": "如何设定储蓄目标并保持动力。"
+    }
+  ],
+  "articles": [
+    {
+      "title": "Why You Need a Budget",
+      "level": "A2",
+      "words": 110,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Managing money is important for everyone. A budget helps you know where your money goes. Many people spend too much on small things. They do not plan for the future. With a budget, you can save for a house or a car. It reduces stress about bills. You need to write down all your income. Then list your expenses like food and rent. Compare the two numbers. If you spend more than you earn, you have a problem. Start today with a simple notebook. Write every coin you spend. This habit changes your life. You will feel more control. Financial freedom is possible with small steps. Do not wait for tomorrow. Your future self will thank you.",
+      "zh": "介绍预算的重要性，帮助控制支出并减少压力。",
+      "points": [
+        "where your money goes: 钱花到哪里去了",
+        "reduce stress: 减少压力",
+        "financial freedom: 财务自由"
+      ]
+    },
+    {
+      "title": "Income vs Expenses",
+      "level": "A2",
+      "words": 115,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "To make a budget, you must know two things. First is income. This is money you get from work or other sources. Second is expenses. These are things you buy or pay for. Income should be higher than expenses. If not, you cannot save money. Write down your salary every month. Then list all bills. Rent, electricity, and internet are fixed costs. Food and entertainment change every month. These are variable costs. Fixed costs are easy to plan. Variable costs are harder to control. You need to watch them carefully. Use a spreadsheet or an app. Keep the record clear. This helps you see the difference. Balance is the key to success.",
+      "zh": "解释收入与支出的区别，强调平衡的重要性。",
+      "points": [
+        "fixed costs: 固定成本",
+        "variable costs: 可变成本",
+        "balance: 平衡"
+      ]
+    },
+    {
+      "title": "The 50 30 20 Rule",
+      "level": "A2-B1",
+      "words": 120,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "There is a popular rule for budgeting. It is called the 50 30 20 rule. Fifty percent of your income is for needs. Needs are things like rent and food. Thirty percent is for wants. Wants are movies, hobbies, or dining out. Twenty percent is for savings and debt. This rule is simple to follow. It helps you organize your money. You do not need complex math. Just divide your income into three parts. Put money into different accounts. This stops you from spending savings. If you earn more, save more. If you earn less, cut wants. This method works for many people. Try it for one month. See if it fits your life.",
+      "zh": "介绍 50/30/20 预算分配法则及其具体操作。",
+      "points": [
+        "needs vs wants: 必需品与想要的东西",
+        "divide into: 分成",
+        "fit your life: 适合你的生活"
+      ]
+    },
+    {
+      "title": "Using Budget Apps",
+      "level": "A2-B1",
+      "words": 125,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Technology makes tracking easier. There are many budget apps on your phone. They connect to your bank account. Every time you buy something, the app records it. You can see charts and graphs. These show where your money goes. Some apps send warnings. They tell you if you spend too much. This is very helpful for busy people. You do not need to write by hand. Just check the app once a week. Make sure the data is correct. Sometimes the app makes mistakes. You need to check the numbers. Protect your password carefully. Security is important for money. Choose an app with good reviews. Start with a free version first.",
+      "zh": "介绍如何使用手机应用辅助记账，强调便利性与安全性。",
+      "points": [
+        "connect to: 连接到",
+        "send warnings: 发送警告",
+        "good reviews: 好评"
+      ]
+    },
+    {
+      "title": "Cash Envelope System",
+      "level": "A2",
+      "words": 118,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Some people prefer cash. They use the envelope system. You take out cash for each category. Put food money in one envelope. Put gas money in another. When the envelope is empty, you stop spending. This prevents overspending. You can feel the money leaving. It is more real than cards. Digital numbers are easy to ignore. Paper money feels important. This method is good for variable costs. It is hard to use for online bills. You still need a bank account for rent. But for daily life, cash works well. It teaches you discipline. You learn to live within limits. Try it if you spend too much on cards.",
+      "zh": "介绍现金信封法，通过物理限制控制消费。",
+      "points": [
+        "prefer cash: 更喜欢现金",
+        "prevent overspending: 防止超支",
+        "live within limits: 在限度内生活"
+      ]
+    },
+    {
+      "title": "Common Budget Mistakes",
+      "level": "A2-B1",
+      "words": 122,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Many people fail at budgeting. They make common mistakes. One mistake is being too strict. If you plan zero fun, you will quit. You need some money for joy. Another mistake is forgetting irregular bills. Car repair or medical costs happen. You need an emergency fund. Do not forget small costs. Coffee and snacks add up. They become big numbers over time. Also, do not give up too soon. The first month is always hard. You will forget to write things down. Just start again the next day. Perfection is not the goal. Progress is the goal. Learn from your errors. Adjust your plan as needed.",
+      "zh": "列举预算中常见的错误，如计划过严或忽略小额支出。",
+      "points": [
+        "being too strict: 过于严格",
+        "add up: 累积",
+        "emergency fund: 应急基金"
+      ]
+    },
+    {
+      "title": "Setting Saving Goals",
+      "level": "A2-B1",
+      "words": 115,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Why do you save money? You need a clear goal. Maybe you want a new laptop. Maybe you want a vacation. Write down the cost. Then divide it by months. This tells you how much to save. A specific goal gives motivation. Saving for nothing is boring. Put the goal picture on your wall. Look at it every day. This reminds you why you wait. Short-term goals are easier. Long-term goals need patience. Start with a small target. Reach it and celebrate. Then set a bigger one. This builds confidence. Money is a tool for dreams. Use it to build your future life.",
+      "zh": "强调设定具体储蓄目标的重要性及分解方法。",
+      "points": [
+        "clear goal: 清晰的目标",
+        "divide by: 除以",
+        "builds confidence: 建立信心"
+      ]
+    },
+    {
+      "title": "Monthly Review Habit",
+      "level": "A2-B1",
+      "words": 120,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Budgeting is not a one-time task. You must review every month. Sit down with your records. Compare plan and reality. Did you spend too much on food? Did you save enough? Ask yourself these questions. Find the reasons for changes. Maybe prices went up. Maybe you had a special party. Adjust next month's plan. If you saved extra, reward yourself. If you lost money, cut costs. This meeting is with yourself. Treat it seriously. Keep the records for years. You can see your progress. History teaches you lessons. You will become smarter with money. Consistency is the secret power.",
+      "zh": "建议养成每月复盘的习惯，对比计划与实际支出。",
+      "points": [
+        "one-time task: 一次性任务",
+        "compare plan and reality: 对比计划与现实",
+        "consistency: 一致性"
+      ]
+    },
+    {
+      "title": "Dealing with Debt",
+      "level": "B1",
+      "words": 128,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Debt can be a big problem. Credit cards charge high interest. If you only pay the minimum, debt grows. You need a plan to pay off. List all your debts. Start with the smallest one. Pay it off first. This gives you a quick win. Then move to the next one. This is called the snowball method. Stop using credit cards for now. Use cash or debit cards. Call the bank if you have trouble. They might lower the interest rate. Do not hide from the problem. Face it and solve it. Being debt-free feels amazing. You own your money again. Work hard to reach this state.",
+      "zh": "讨论如何处理债务，介绍雪球法还债策略。",
+      "points": [
+        "charge interest: 收取利息",
+        "pay off: 还清",
+        "debt-free: 无债一身轻"
+      ]
+    },
+    {
+      "title": "Future Financial Security",
+      "level": "B1",
+      "words": 125,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Budgeting is about today and tomorrow. You want a secure future. Invest some money if you can. Learn about stocks or funds. Do not put all money in one place. Diversify your investments. But first, master your budget. You cannot invest if you have no savings. Build a strong foundation. Education is also an investment. Learn new skills to earn more. Your income is your biggest asset. Protect your health too. Medical bills can destroy plans. Insurance is necessary. Think long term. Ten years from now, you will be older. Prepare for that person today. Smart choices bring peace of mind.",
+      "zh": "展望长期财务安全，提及投资与自我提升的重要性。",
+      "points": [
+        "secure future: 安全的未来",
+        "diversify: 多样化",
+        "asset: 资产"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "budget",
+      "pos": "n.",
+      "meaning_en": "a plan for how much money you have and how to spend it",
+      "meaning_zh": "预算",
+      "example": "I need to make a budget for next month.",
+      "source": "Why You Need a Budget"
+    },
+    {
+      "word": "income",
+      "pos": "n.",
+      "meaning_en": "money that you get from work or investments",
+      "meaning_zh": "收入",
+      "example": "Your income should be higher than expenses.",
+      "source": "Income vs Expenses"
+    },
+    {
+      "word": "expense",
+      "pos": "n.",
+      "meaning_en": "the cost of something; money spent",
+      "meaning_zh": "支出",
+      "example": "List all your expenses like food and rent.",
+      "source": "Income vs Expenses"
+    },
+    {
+      "word": "save",
+      "pos": "v.",
+      "meaning_en": "to keep money for future use",
+      "meaning_zh": "储蓄",
+      "example": "With a budget, you can save for a house.",
+      "source": "Why You Need a Budget"
+    },
+    {
+      "word": "spend",
+      "pos": "v.",
+      "meaning_en": "to give money to buy something",
+      "meaning_zh": "花费",
+      "example": "Many people spend too much on small things.",
+      "source": "Why You Need a Budget"
+    },
+    {
+      "word": "plan",
+      "pos": "n.",
+      "meaning_en": "a detailed proposal for doing something",
+      "meaning_zh": "计划",
+      "example": "They do not plan for the future.",
+      "source": "Why You Need a Budget"
+    },
+    {
+      "word": "bill",
+      "pos": "n.",
+      "meaning_en": "a statement of money owed for goods or services",
+      "meaning_zh": "账单",
+      "example": "It reduces stress about bills.",
+      "source": "Why You Need a Budget"
+    },
+    {
+      "word": "rent",
+      "pos": "n.",
+      "meaning_en": "payment made for the use of property",
+      "meaning_zh": "租金",
+      "example": "Then list your expenses like food and rent.",
+      "source": "Why You Need a Budget"
+    },
+    {
+      "word": "habit",
+      "pos": "n.",
+      "meaning_en": "a regular tendency or practice",
+      "meaning_zh": "习惯",
+      "example": "This habit changes your life.",
+      "source": "Why You Need a Budget"
+    },
+    {
+      "word": "control",
+      "pos": "n.",
+      "meaning_en": "the power to influence or direct people's behavior",
+      "meaning_zh": "控制",
+      "example": "You will feel more control.",
+      "source": "Why You Need a Budget"
+    },
+    {
+      "word": "track",
+      "pos": "v.",
+      "meaning_en": "to follow the course or trail of something",
+      "meaning_zh": "追踪/记录",
+      "example": "Technology makes tracking easier.",
+      "source": "Using Budget Apps"
+    },
+    {
+      "word": "app",
+      "pos": "n.",
+      "meaning_en": "a software application",
+      "meaning_zh": "应用程序",
+      "example": "There are many budget apps on your phone.",
+      "source": "Using Budget Apps"
+    },
+    {
+      "word": "rule",
+      "pos": "n.",
+      "meaning_en": "a prescribed guide for conduct or action",
+      "meaning_zh": "规则",
+      "example": "There is a popular rule for budgeting.",
+      "source": "The 50 30 20 Rule"
+    },
+    {
+      "word": "percent",
+      "pos": "n.",
+      "meaning_en": "a rate or proportion per hundred",
+      "meaning_zh": "百分比",
+      "example": "Fifty percent of your income is for needs.",
+      "source": "The 50 30 20 Rule"
+    },
+    {
+      "word": "need",
+      "pos": "n.",
+      "meaning_en": "a thing that is necessary",
+      "meaning_zh": "必需品",
+      "example": "Needs are things like rent and food.",
+      "source": "The 50 30 20 Rule"
+    },
+    {
+      "word": "want",
+      "pos": "n.",
+      "meaning_en": "a desire to possess or do something",
+      "meaning_zh": "想要的东西",
+      "example": "Thirty percent is for wants.",
+      "source": "The 50 30 20 Rule"
+    },
+    {
+      "word": "cash",
+      "pos": "n.",
+      "meaning_en": "money in coins or notes",
+      "meaning_zh": "现金",
+      "example": "Some people prefer cash.",
+      "source": "Cash Envelope System"
+    },
+    {
+      "word": "envelope",
+      "pos": "n.",
+      "meaning_en": "a flat paper container for a letter",
+      "meaning_zh": "信封",
+      "example": "They use the envelope system.",
+      "source": "Cash Envelope System"
+    },
+    {
+      "word": "system",
+      "pos": "n.",
+      "meaning_en": "a set of connected things forming a complex whole",
+      "meaning_zh": "系统/方法",
+      "example": "This method works for many people.",
+      "source": "The 50 30 20 Rule"
+    },
+    {
+      "word": "mistake",
+      "pos": "n.",
+      "meaning_en": "an action or judgment that is wrong",
+      "meaning_zh": "错误",
+      "example": "Many people fail at budgeting.",
+      "source": "Common Budget Mistakes"
+    },
+    {
+      "word": "avoid",
+      "pos": "v.",
+      "meaning_en": "keep away from or stop oneself from doing",
+      "meaning_zh": "避免",
+      "example": "This prevents overspending.",
+      "source": "Cash Envelope System"
+    },
+    {
+      "word": "goal",
+      "pos": "n.",
+      "meaning_en": "the object of a person's ambition or effort",
+      "meaning_zh": "目标",
+      "example": "You need a clear goal.",
+      "source": "Setting Saving Goals"
+    },
+    {
+      "word": "reach",
+      "pos": "v.",
+      "meaning_en": "succeed in achieving something",
+      "meaning_zh": "达到",
+      "example": "Reach it and celebrate.",
+      "source": "Setting Saving Goals"
+    },
+    {
+      "word": "review",
+      "pos": "v.",
+      "meaning_en": "assess or examine something formally",
+      "meaning_zh": "复盘/审查",
+      "example": "You must review every month.",
+      "source": "Monthly Review Habit"
+    },
+    {
+      "word": "monthly",
+      "pos": "adj.",
+      "meaning_en": "done or occurring once a month",
+      "meaning_zh": "每月的",
+      "example": "Adjust next month's plan.",
+      "source": "Monthly Review Habit"
+    },
+    {
+      "word": "debt",
+      "pos": "n.",
+      "meaning_en": "something owed; money borrowed",
+      "meaning_zh": "债务",
+      "example": "Debt can be a big problem.",
+      "source": "Dealing with Debt"
+    },
+    {
+      "word": "pay off",
+      "pos": "phr.",
+      "meaning_en": "pay the full amount of a debt",
+      "meaning_zh": "还清",
+      "example": "You need a plan to pay off.",
+      "source": "Dealing with Debt"
+    },
+    {
+      "word": "interest",
+      "pos": "n.",
+      "meaning_en": "money paid regularly at a particular rate",
+      "meaning_zh": "利息",
+      "example": "Credit cards charge high interest.",
+      "source": "Dealing with Debt"
+    },
+    {
+      "word": "future",
+      "pos": "n.",
+      "meaning_en": "the time or state that follows the present",
+      "meaning_zh": "未来",
+      "example": "They do not plan for the future.",
+      "source": "Why You Need a Budget"
+    },
+    {
+      "word": "secure",
+      "pos": "adj.",
+      "meaning_en": "fixed or fastened so as not to give way",
+      "meaning_zh": "安全的",
+      "example": "You want a secure future.",
+      "source": "Future Financial Security"
+    }
+  ],
+  "status": "ready",
+  "generatedBy": "claude",
+  "savedAt": "2026-09-30T11:39:01.454Z"
+}

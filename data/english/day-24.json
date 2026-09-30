@@ -1,0 +1,527 @@
+{
+  "day": 24,
+  "date": "2026-10-13",
+  "theme": "旅游 · 问路、交通与地图导航",
+  "domain": "旅游",
+  "level": "A2 → B1",
+  "goals": [
+    "掌握问路的核心句型与礼貌用语",
+    "熟悉公共交通词汇（地铁、公交、站点）",
+    "学会使用地图导航英文界面",
+    "能听懂简单的方向指示（左转、直行、对面）"
+  ],
+  "tasks": [
+    {
+      "text": "阅读 10 篇短文并标注生词",
+      "minutes": 25
+    },
+    {
+      "text": "观看 6 个视频并跟读模仿",
+      "minutes": 20
+    },
+    {
+      "text": "记忆 32 个核心词汇与例句",
+      "minutes": 10
+    },
+    {
+      "text": "复盘 mustLearn 与 expand 内容",
+      "minutes": 5
+    }
+  ],
+  "mustLearn": [
+    {
+      "title": "问路万能句型",
+      "type": "expression",
+      "content": "英文材料：Excuse me, could you tell me how to get to the nearest subway station?\n\n中文讲解：这是最标准、礼貌的问路方式。'Excuse me' 用于引起注意，'Could you tell me' 比 'Can you' 更委婉。\n\n要点解析：注意语调要上扬，表示疑问。如果对方不知道，可以说 'Thank you anyway' 表示感谢。"
+    },
+    {
+      "title": "方位介词用法",
+      "type": "grammar",
+      "content": "英文材料：The bank is across from the park. Turn left at the corner. Go straight for two blocks.\n\n中文讲解：'Across from' 表示在对面，'at the corner' 表示在拐角处，'for two blocks' 表示走过两个街区。\n\n要点解析：介词是导航的关键。记住 'on your left/right' 表示在你的左手/右手边。"
+    },
+    {
+      "title": "地图导航术语",
+      "type": "article",
+      "content": "英文材料：Search for your destination. Check the route. Avoid traffic. Estimated time of arrival is 10 minutes.\n\n中文讲解：'Destination' 是目的地，'Route' 是路线，'Avoid traffic' 是避开拥堵。\n\n要点解析：在 Google Maps 中，'ETA' 常指预计到达时间。熟悉这些词能让你更快看懂导航。"
+    },
+    {
+      "title": "购票与乘车",
+      "type": "expression",
+      "content": "英文材料：I would like a one-way ticket to the airport. Where do I validate this pass?\n\n中文讲解：'One-way ticket' 是单程票，'Validate' 是验票/打卡。\n\n要点解析：在欧洲坐火车或地铁，买票后往往需要打孔验票，否则会被罚款。"
+    }
+  ],
+  "expand": [
+    {
+      "title": "文化注释：小费习惯",
+      "type": "note",
+      "content": "在英美国家，乘坐出租车通常需要给司机 10%-15% 的小费。如果是网约车（Uber/Grab），APP 内可以直接选择小费比例。"
+    },
+    {
+      "title": "同义替换：怎么走",
+      "type": "note",
+      "content": "'How do I get to...?' 可以替换为 'What is the best way to...?' 或 'Could you direct me to...?'，避免重复使用同一句型。"
+    },
+    {
+      "title": "背景知识：街区概念",
+      "type": "note",
+      "content": "在北美，'Block' 是距离单位。'Two blocks' 大约指走过两条街的距离，约 200-300 米，比直接说米数更地道。"
+    },
+    {
+      "title": "安全提示",
+      "type": "note",
+      "content": "问路时尽量选择在商店门口或警察局附近。不要在偏僻角落独自查看手机地图，以免成为目标。"
+    },
+    {
+      "title": "进阶表达：迷路",
+      "type": "note",
+      "content": "除了 'I am lost'，可以说 'I seem to have taken a wrong turn'（我好像走错路了），听起来更自然且不那么焦虑。"
+    }
+  ],
+  "videos": [
+    {
+      "title": "How to Ask Directions in English",
+      "url": "https://www.youtube.com/results?search_query=how%20to%20ask%20directions%20in%20english%20travel",
+      "channel": "English Learning Hub",
+      "minutes": 8,
+      "desc": "学习标准的问路句型与听力理解。"
+    },
+    {
+      "title": "Using Google Maps for Travel",
+      "url": "https://www.youtube.com/results?search_query=using%20google%20maps%20tutorial%20for%20travelers",
+      "channel": "Tech Travel Tips",
+      "minutes": 10,
+      "desc": "手把手教你使用导航软件规划路线。"
+    },
+    {
+      "title": "New York Subway Guide",
+      "url": "https://www.youtube.com/results?search_query=new%20york%20subway%20guide%20for%20tourists",
+      "channel": "NYC Travel Vlog",
+      "minutes": 12,
+      "desc": "实地拍摄纽约地铁乘坐流程与购票。"
+    },
+    {
+      "title": "London Bus Travel English",
+      "url": "https://www.youtube.com/results?search_query=london%20bus%20travel%20english%20conversation",
+      "channel": "UK Life Daily",
+      "minutes": 7,
+      "desc": "了解英国公交车系统与常用对话。"
+    },
+    {
+      "title": "Travel English Conversation",
+      "url": "https://www.youtube.com/@EnglishWithLucy",
+      "channel": "English With Lucy",
+      "minutes": 15,
+      "desc": "综合旅游场景对话练习，含机场与酒店。"
+    },
+    {
+      "title": "Taxi vs Ride Share Abroad",
+      "url": "https://www.youtube.com/results?search_query=taxi%20vs%20uber%20travel%20tips%20english",
+      "channel": "Smart Traveler",
+      "minutes": 9,
+      "desc": "对比出租车与网约车的优缺点及英文表达。"
+    }
+  ],
+  "articles": [
+    {
+      "title": "Getting Lost is Part of Travel",
+      "level": "A2-B1",
+      "words": 115,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Traveling to a new city is very exciting. Sometimes, you might lose your way. Do not worry too much. Getting lost helps you see new things. You might find a small coffee shop or a beautiful park near you. People in the city are usually friendly. They want to help tourists. Just smile and ask for directions politely. Use your phone map too. It is a good adventure to walk around. Remember, the goal is to enjoy the trip, not just arrive quickly. Being lost is okay sometimes. It makes your story interesting later. Keep calm and find a safe place.",
+      "zh": "旅行中迷路也是体验的一部分，保持冷静并享受探索的过程。",
+      "points": [
+        "lose your way: 迷路",
+        "politely: 礼貌地，副词修饰动词",
+        "adventure: 冒险，此处指有趣的经历"
+      ]
+    },
+    {
+      "title": "How to Ask for Help Politely",
+      "level": "A2-B1",
+      "words": 120,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "When you need help, start with 'Excuse me'. This shows respect. Then say, 'Could you tell me...' or 'Can you help me...'. Using 'Could' is softer than 'Can'. Look at the person when you speak. Smile a little. It makes people feel good. If they do not know the answer, say 'Thank you anyway'. Do not get angry. They are trying to help. You can ask another person. Many tourists make this mistake. They forget to say thank you. Politeness opens many doors in foreign countries. It is key to good communication.",
+      "zh": "礼貌是问路成功的关键，使用委婉语气并注意肢体语言。",
+      "points": [
+        "Excuse me: 打扰一下，引起注意",
+        "Could vs Can: Could 更委婉礼貌",
+        "Thank you anyway: 即使没帮助也要致谢"
+      ]
+    },
+    {
+      "title": "Understanding Bus Stops",
+      "level": "A2-B1",
+      "words": 110,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Bus stops are everywhere in cities. Look for a sign with a bus picture. The sign shows the bus number and direction. Check the schedule. Some buses come every ten minutes. Others come once an hour. Wait on the sidewalk. Do not stand on the road. When the bus comes, raise your hand. The driver needs to see you. Pay the fare when you get on. You can use cash or a card. Keep your ticket. Sometimes inspectors check it. Know your stop name. Listen to the announcement. Get off when you hear your stop.",
+      "zh": "识别公交站牌信息，掌握候车与上车付费流程。",
+      "points": [
+        "schedule: 时刻表",
+        "fare: 车费",
+        "raise your hand: 招手示意停车"
+      ]
+    },
+    {
+      "title": "Subway Maps Explained",
+      "level": "A2-B1",
+      "words": 125,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Subway maps look complicated, but they are simple. Each line has a color or name. Find your current station. Find your destination station. Count the stops between them. Check if you need to transfer. A transfer means changing trains. Follow the signs in the station. They say 'Exit' or 'Transfer'. Stand on the right side on the escalator. Let people walk on the left. Do not eat on the train. It is against the rules. Keep your bag close. Watch out for pickpockets. The subway is fast and cheap. It is the best way to move in big cities.",
+      "zh": "解读地铁线路图，理解换乘规则与乘车礼仪。",
+      "points": [
+        "transfer: 换乘",
+        "escalator: 自动扶梯",
+        "pickpockets: 扒手，注意财物安全"
+      ]
+    },
+    {
+      "title": "Google Maps Tips",
+      "level": "A2-B1",
+      "words": 130,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Google Maps is a powerful tool for travelers. Type your destination in the search bar. Choose 'Directions'. You can select walking, driving, or transit. Transit means public transport. Look at the estimated time. Traffic might change it. Blue line is the best route. Gray lines are other options. Download the map for offline use. This saves data and works without internet. Check the reviews of places. Stars show if it is good. Use the street view feature. See the place before you go. It helps you recognize the building. Technology makes travel easier and safer.",
+      "zh": "利用谷歌地图规划路线，善用离线地图与街景功能。",
+      "points": [
+        "transit: 公共交通",
+        "offline use: 离线使用",
+        "street view: 街景视图"
+      ]
+    },
+    {
+      "title": "Taxi vs Ride Share",
+      "level": "A2-B1",
+      "words": 118,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "You can take a taxi or use an app like Uber. Taxis are yellow or black usually. You hail them on the street. Ride share cars come to your location. The price is fixed on the app. Taxis use a meter. Sometimes taxis are more expensive. Ride share lets you pay by card easily. Tell the driver your name to find the car. Check the license plate number. Safety is important. Sit in the back seat. Wear your seatbelt. If you have big bags, tell them before. Some cars are small. Choose the right car size for your luggage.",
+      "zh": "对比传统出租车与网约车的利弊及安全注意事项。",
+      "points": [
+        "hail: 招手拦车",
+        "meter: 计价器",
+        "license plate: 车牌号"
+      ]
+    },
+    {
+      "title": "Left, Right, Straight Ahead",
+      "level": "A2-B1",
+      "words": 105,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Directions use simple words. 'Go straight' means walk forward. Do not turn. 'Turn left' means go to your left side. 'Turn right' means go to your right side. 'At the corner' means where the street ends. 'Across from' means on the other side of the street. 'Next to' means beside something. 'Between' means in the middle of two things. Listen carefully. If you do not understand, ask them to repeat. Say 'Sorry, can you say that again?'. Write it down if needed. Use your hands to show directions. Visual help is good. Practice these words at home.",
+      "zh": "掌握基础方位词与指令，听不懂时请求重复。",
+      "points": [
+        "straight: 直地，直行",
+        "corner: 拐角",
+        "repeat: 重复"
+      ]
+    },
+    {
+      "title": "Common Mistakes in Directions",
+      "level": "A2-B1",
+      "words": 122,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Tourists make many mistakes. They look at the phone while walking. This is dangerous. Cars might hit you. They ask too many people the same question. It wastes time. They do not check the map direction. North on the map might not be forward. Rotate the map to match the street. They forget the station name. Take a photo of the sign. They get on the wrong platform. Check the direction on the platform screen. 'Downtown' and 'Uptown' are different. Listen to the announcements. Avoid these errors. It saves time and keeps you safe.",
+      "zh": "避免游客常见错误，如走路看手机、混淆地图方向等。",
+      "points": [
+        "rotate: 旋转",
+        "platform: 站台",
+        "Downtown/Uptown: 市中心/上城区方向"
+      ]
+    },
+    {
+      "title": "Buying Tickets Online",
+      "level": "A2-B1",
+      "words": 115,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Many transport tickets are online now. You can buy them on a website or app. Save time at the station. Download the official app. Create an account. Add your credit card. Select your route and date. Pay securely. You get a QR code. Show this code at the gate. Scan it to enter. Do not lose your phone. If the battery dies, you cannot enter. Bring a power bank. Some tickets are e-tickets. Others need a physical card. Read the rules. Some tickets expire after one hour. Know the validity period. Online buying is convenient.",
+      "zh": "在线购票流程详解，注意二维码保存与电量管理。",
+      "points": [
+        "QR code: 二维码",
+        "scan: 扫描",
+        "expire: 过期"
+      ]
+    },
+    {
+      "title": "Summary of Travel Transport",
+      "level": "A2-B1",
+      "words": 128,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Today we learned about travel transport. We talked about buses, subways, and taxis. We learned how to ask for directions. Politeness is very important. Maps are your best friends. Use technology but stay aware. Keep your valuables safe. Know the local rules. Every city is different. In London, pay with a card on the bus. In Tokyo, buy a pass. In New York, watch out for gaps. Practice your English every day. Watch videos and read articles. Speak with locals. Travel is about learning. Enjoy the journey. You will become a confident traveler soon. Good luck with your trip.",
+      "zh": "总结今日交通与问路要点，鼓励实践与自信表达。",
+      "points": [
+        "valuables: 贵重物品",
+        "aware: 警惕的，意识到的",
+        "confident: 自信的"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "travel",
+      "pos": "v.",
+      "meaning_en": "to go to another place",
+      "meaning_zh": "旅行",
+      "example": "I love to travel to new cities.",
+      "source": "Getting Lost is Part of Travel"
+    },
+    {
+      "word": "city",
+      "pos": "n.",
+      "meaning_en": "a large town",
+      "meaning_zh": "城市",
+      "example": "This city is very big.",
+      "source": "Getting Lost is Part of Travel"
+    },
+    {
+      "word": "lose",
+      "pos": "v.",
+      "meaning_en": "to not know where you are",
+      "meaning_zh": "迷路，丢失",
+      "example": "Do not worry if you lose your way.",
+      "source": "Getting Lost is Part of Travel"
+    },
+    {
+      "word": "way",
+      "pos": "n.",
+      "meaning_en": "the path or route",
+      "meaning_zh": "路，方向",
+      "example": "Can you show me the way?",
+      "source": "Getting Lost is Part of Travel"
+    },
+    {
+      "word": "directions",
+      "pos": "n.",
+      "meaning_en": "information on how to get somewhere",
+      "meaning_zh": "方向，指引",
+      "example": "Ask for directions politely.",
+      "source": "How to Ask for Help Politely"
+    },
+    {
+      "word": "politely",
+      "pos": "adv.",
+      "meaning_en": "in a nice and respectful way",
+      "meaning_zh": "礼貌地",
+      "example": "He spoke to the officer politely.",
+      "source": "How to Ask for Help Politely"
+    },
+    {
+      "word": "help",
+      "pos": "v.",
+      "meaning_en": "to make it easier for someone",
+      "meaning_zh": "帮助",
+      "example": "They want to help tourists.",
+      "source": "How to Ask for Help Politely"
+    },
+    {
+      "word": "stranger",
+      "pos": "n.",
+      "meaning_en": "a person you do not know",
+      "meaning_zh": "陌生人",
+      "example": "Do not talk to strangers in dark places.",
+      "source": "How to Ask for Help Politely"
+    },
+    {
+      "word": "bus",
+      "pos": "n.",
+      "meaning_en": "a large vehicle for passengers",
+      "meaning_zh": "公共汽车",
+      "example": "The bus comes every ten minutes.",
+      "source": "Understanding Bus Stops"
+    },
+    {
+      "word": "stop",
+      "pos": "n.",
+      "meaning_en": "a place where the bus waits",
+      "meaning_zh": "站点",
+      "example": "Wait on the sidewalk at the bus stop.",
+      "source": "Understanding Bus Stops"
+    },
+    {
+      "word": "schedule",
+      "pos": "n.",
+      "meaning_en": "a plan of times for events",
+      "meaning_zh": "时刻表",
+      "example": "Check the schedule before you wait.",
+      "source": "Understanding Bus Stops"
+    },
+    {
+      "word": "wait",
+      "pos": "v.",
+      "meaning_en": "to stay until something happens",
+      "meaning_zh": "等待",
+      "example": "Wait on the sidewalk safely.",
+      "source": "Understanding Bus Stops"
+    },
+    {
+      "word": "subway",
+      "pos": "n.",
+      "meaning_en": "an underground train system",
+      "meaning_zh": "地铁",
+      "example": "The subway is fast and cheap.",
+      "source": "Subway Maps Explained"
+    },
+    {
+      "word": "map",
+      "pos": "n.",
+      "meaning_en": "a drawing of an area",
+      "meaning_zh": "地图",
+      "example": "Subway maps look complicated.",
+      "source": "Subway Maps Explained"
+    },
+    {
+      "word": "line",
+      "pos": "n.",
+      "meaning_en": "a route for trains",
+      "meaning_zh": "线路",
+      "example": "Each line has a color.",
+      "source": "Subway Maps Explained"
+    },
+    {
+      "word": "transfer",
+      "pos": "v.",
+      "meaning_en": "to change from one vehicle to another",
+      "meaning_zh": "换乘",
+      "example": "Check if you need to transfer.",
+      "source": "Subway Maps Explained"
+    },
+    {
+      "word": "Google Maps",
+      "pos": "n.",
+      "meaning_en": "a digital map service",
+      "meaning_zh": "谷歌地图",
+      "example": "Google Maps is a powerful tool.",
+      "source": "Google Maps Tips"
+    },
+    {
+      "word": "location",
+      "pos": "n.",
+      "meaning_en": "a particular place",
+      "meaning_zh": "位置",
+      "example": "Ride share cars come to your location.",
+      "source": "Google Maps Tips"
+    },
+    {
+      "word": "route",
+      "pos": "n.",
+      "meaning_en": "a way to get somewhere",
+      "meaning_zh": "路线",
+      "example": "Blue line is the best route.",
+      "source": "Google Maps Tips"
+    },
+    {
+      "word": "traffic",
+      "pos": "n.",
+      "meaning_en": "vehicles moving on roads",
+      "meaning_zh": "交通拥堵",
+      "example": "Traffic might change the time.",
+      "source": "Google Maps Tips"
+    },
+    {
+      "word": "taxi",
+      "pos": "n.",
+      "meaning_en": "a car you pay to ride in",
+      "meaning_zh": "出租车",
+      "example": "You can take a taxi or use an app.",
+      "source": "Taxi vs Ride Share"
+    },
+    {
+      "word": "ride",
+      "pos": "n.",
+      "meaning_en": "a journey in a vehicle",
+      "meaning_zh": "乘车",
+      "example": "The price is fixed on the app ride.",
+      "source": "Taxi vs Ride Share"
+    },
+    {
+      "word": "cost",
+      "pos": "n.",
+      "meaning_en": "the price to pay",
+      "meaning_zh": "费用",
+      "example": "Sometimes taxis are more expensive cost.",
+      "source": "Taxi vs Ride Share"
+    },
+    {
+      "word": "drive",
+      "pos": "v.",
+      "meaning_en": "to operate a vehicle",
+      "meaning_zh": "驾驶",
+      "example": "You can select walking or driving.",
+      "source": "Taxi vs Ride Share"
+    },
+    {
+      "word": "left",
+      "pos": "adj.",
+      "meaning_en": "the side towards the west",
+      "meaning_zh": "左边的",
+      "example": "Turn left means go to your left side.",
+      "source": "Left, Right, Straight Ahead"
+    },
+    {
+      "word": "right",
+      "pos": "adj.",
+      "meaning_en": "the side towards the east",
+      "meaning_zh": "右边的",
+      "example": "Turn right means go to your right side.",
+      "source": "Left, Right, Straight Ahead"
+    },
+    {
+      "word": "straight",
+      "pos": "adv.",
+      "meaning_en": "in a direct line",
+      "meaning_zh": "直地",
+      "example": "Go straight means walk forward.",
+      "source": "Left, Right, Straight Ahead"
+    },
+    {
+      "word": "corner",
+      "pos": "n.",
+      "meaning_en": "the place where two streets meet",
+      "meaning_zh": "拐角",
+      "example": "At the corner means where the street ends.",
+      "source": "Left, Right, Straight Ahead"
+    },
+    {
+      "word": "mistake",
+      "pos": "n.",
+      "meaning_en": "something done wrongly",
+      "meaning_zh": "错误",
+      "example": "Tourists make many mistakes.",
+      "source": "Common Mistakes in Directions"
+    },
+    {
+      "word": "understand",
+      "pos": "v.",
+      "meaning_en": "to know the meaning",
+      "meaning_zh": "理解",
+      "example": "If you do not understand, ask them.",
+      "source": "Common Mistakes in Directions"
+    },
+    {
+      "word": "ticket",
+      "pos": "n.",
+      "meaning_en": "a paper for entry or travel",
+      "meaning_zh": "票",
+      "example": "Many transport tickets are online now.",
+      "source": "Buying Tickets Online"
+    },
+    {
+      "word": "online",
+      "pos": "adv.",
+      "meaning_en": "connected to the internet",
+      "meaning_zh": "在线",
+      "example": "You can buy them on a website online.",
+      "source": "Buying Tickets Online"
+    }
+  ],
+  "status": "ready",
+  "generatedBy": "claude",
+  "savedAt": "2026-09-29T17:52:16.473Z"
+}

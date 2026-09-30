@@ -1,0 +1,154 @@
+{
+  "conversations": [
+    {
+      "id": "95d6e1b8-1836-4e63-90e9-01fe616a4a9b",
+      "title": "你好",
+      "sessionId": "607c98d4-e0bc-403b-b5ab-b2a54d7589ad",
+      "createdAt": 1790772438436,
+      "updatedAt": 1790772448069,
+      "messages": [
+        {
+          "role": "user",
+          "content": "你好",
+          "ts": 1790772438580
+        },
+        {
+          "role": "assistant",
+          "content": "你好！很高兴见到你！我是Claude，一个帮助软件工程任务的交互式智能助手。\n\n有什么我可以帮助你的吗？比如编写代码、调试、重构、或者回答编程相关的问题？",
+          "ts": 1790772448069
+        }
+      ]
+    },
+    {
+      "id": "3c8c97f1-4c04-40bd-b813-5d453f8795f4",
+      "title": "新的对话",
+      "sessionId": null,
+      "createdAt": 1790768855978,
+      "updatedAt": 1790768855978,
+      "messages": []
+    },
+    {
+      "id": "f19b5fab-29e0-46be-aff6-12c5cabfc988",
+      "title": "你好",
+      "sessionId": "b207435f-6c7f-4334-84f6-def91bf1efb6",
+      "createdAt": 1790768242217,
+      "updatedAt": 1790768847291,
+      "messages": [
+        {
+          "role": "user",
+          "content": "你好",
+          "ts": 1790768246523
+        },
+        {
+          "role": "assistant",
+          "content": "你好！我是 Claude，很高兴为您提供帮助。我可以协助您进行软件工程任务，包括代码编写、调试、文件操作等。\n\n有什么我可以帮助您的吗？",
+          "ts": 1790768251230
+        },
+        {
+          "role": "user",
+          "content": "用中文回答：1+1=?",
+          "ts": 1790768840666
+        },
+        {
+          "role": "assistant",
+          "content": "1 + 1 = 2\n\n这是一个基本的数学运算结果。",
+          "ts": 1790768847291
+        }
+      ]
+    },
+    {
+      "id": "c8fdb547-053d-40f6-805a-4c97581e18aa",
+      "title": "你好",
+      "sessionId": "c4574b9a-e9cc-421a-9388-250ea8f9aee4",
+      "createdAt": 1790699971716,
+      "updatedAt": 1790768242247,
+      "messages": [
+        {
+          "role": "user",
+          "content": "你好",
+          "ts": 1790768235985
+        },
+        {
+          "role": "assistant",
+          "content": "你好！我是 Claude，很高兴为你提供帮助。我可以协助你进行软件",
+          "ts": 1790768242247
+        }
+      ]
+    },
+    {
+      "id": "e8e59c6f-1e40-4d62-8ee6-53a132a92de5",
+      "title": "只回复四个字：今天你好",
+      "sessionId": "0a3401ee-cd6d-45e1-8cf4-6c28d0e45b79",
+      "createdAt": 1790697957998,
+      "updatedAt": 1790699964604,
+      "messages": [
+        {
+          "role": "user",
+          "content": "只回复四个字：今天你好",
+          "ts": 1790697958156
+        },
+        {
+          "role": "assistant",
+          "content": "I'm sorry, but it seems there was no input provided. Could you please provide the text or instructions that you would like me to assist with?",
+          "ts": 1790697966571
+        },
+        {
+          "role": "user",
+          "content": "用中文回答：1+1=?",
+          "ts": 1790699956405
+        },
+        {
+          "role": "assistant",
+          "content": "1+1 等于 2。",
+          "ts": 1790699964604
+        }
+      ]
+    },
+    {
+      "id": "88ca4d2a-1b08-43be-a3a0-cf1c83f02900",
+      "title": "新的对话",
+      "sessionId": null,
+      "createdAt": 1790697872752,
+      "updatedAt": 1790697872752,
+      "messages": []
+    },
+    {
+      "id": "9dd442f8-3b38-496a-b42f-42a3f9efd342",
+      "title": "用一句话介绍你自己",
+      "sessionId": "9b557cc0-dd22-49e3-b8ec-bda3e35f25d6",
+      "createdAt": 1790697391243,
+      "updatedAt": 1790697872771,
+      "messages": [
+        {
+          "role": "user",
+          "content": "用一句话介绍你自己",
+          "ts": 1790697391306
+        },
+        {
+          "role": "assistant",
+          "content": "我是Claude Code，Anthropic开发的AI编程助手，专门帮助用户完成软件工程任务。",
+          "ts": 1790697402901
+        },
+        {
+          "role": "user",
+          "content": "用中文回答：1+1=?",
+          "ts": 1790697857426
+        }
+      ]
+    },
+    {
+      "id": "1ae385f9-bc3e-4946-af76-997525cb9ec9",
+      "title": "用一句话介绍你自己，并说一个中文双关语",
+      "sessionId": null,
+      "createdAt": 1790697148935,
+      "updatedAt": 1790697149124,
+      "messages": [
+        {
+          "role": "user",
+          "content": "用一句话介绍你自己，并说一个中文双关语",
+          "ts": 1790697149112
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "day": 12,
+  "date": "2026-10-01",
+  "theme": "财经 · 副业与被动收入",
+  "domain": "财经",
+  "level": "A2 → B1",
+  "goals": [
+    "理解被动收入与主动收入的基本区别",
+    "掌握 30 个核心财经与商业词汇",
+    "能够用英语简单描述副业计划"
+  ],
+  "tasks": [
+    {
+      "text": "阅读 10 篇短文并标注生词",
+      "minutes": 30
+    },
+    {
+      "text": "观看 2 个视频并跟读片段",
+      "minutes": 20
+    },
+    {
+      "text": "复习词汇并完成造句练习",
+      "minutes": 10
+    }
+  ],
+  "mustLearn": [
+    {
+      "title": "核心句型：Make Money",
+      "type": "expression",
+      "content": "English: You can make money by selling photos. Chinese: 你可以通过卖照片赚钱。Point: 'Make money' 是最通用的赚钱表达，by doing 表示方式。"
+    },
+    {
+      "title": "语法：一般现在时表事实",
+      "type": "grammar",
+      "content": "English: Passive income means you get paid while you sleep. Chinese: 被动收入意味着你睡觉时也能获得报酬。Point: 定义概念时常用一般现在时，注意第三人称单数。"
+    },
+    {
+      "title": "高频搭配：Invest in",
+      "type": "expression",
+      "content": "English: Many people want to invest in stocks. Chinese: 许多人想要投资股票。Point: Invest 后接 in 表示投资领域，不要直接用 invest stocks。"
+    }
+  ],
+  "expand": [
+    {
+      "title": "文化注释：谈论金钱",
+      "type": "note",
+      "content": "在西方文化中，直接问收入 (How much do you make?) 通常不礼貌，但讨论投资策略是常见的社交话题。"
+    },
+    {
+      "title": "同义替换：Earn vs Make",
+      "type": "note",
+      "content": "Earn 更正式，强调劳动所得；Make 更口语化。例如：earn a salary, make money。"
+    },
+    {
+      "title": "背景知识：复利效应",
+      "type": "note",
+      "content": "Compound Interest 是被动收入的核心概念，指利息产生利息，长期投资威力巨大。"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Passive Income Ideas for Beginners",
+      "url": "https://www.youtube.com/results?search_query=passive+income+ideas+for+beginners",
+      "channel": "Finance Explained",
+      "minutes": 10,
+      "desc": "介绍适合新手的 5 种被动收入方式。"
+    },
+    {
+      "title": "Side Hustles That Actually Work",
+      "url": "https://www.youtube.com/results?search_query=side+hustles+that+actually+work",
+      "channel": "Business Daily",
+      "minutes": 12,
+      "desc": "分析真实可行的副业案例。"
+    },
+    {
+      "title": "Investing 101 for Beginners",
+      "url": "https://www.youtube.com/results?search_query=investing+101+for+beginners",
+      "channel": "Money Smart",
+      "minutes": 8,
+      "desc": "零基础投资入门指南。"
+    },
+    {
+      "title": "How to Save Money Fast",
+      "url": "https://www.youtube.com/results?search_query=how+to+save+money+fast",
+      "channel": "Frugal Living",
+      "minutes": 7,
+      "desc": "快速存钱的实用技巧。"
+    },
+    {
+      "title": "Understanding Stocks and Shares",
+      "url": "https://www.youtube.com/results?search_query=understanding+stocks+and+shares",
+      "channel": "Market Watch",
+      "minutes": 15,
+      "desc": "股票与股份的基本概念解析。"
+    },
+    {
+      "title": "Online Business Models",
+      "url": "https://www.youtube.com/@OnlineBusinessHub",
+      "channel": "Online Business Hub",
+      "minutes": 10,
+      "desc": "频道精选：在线商业模式 overview。"
+    }
+  ],
+  "articles": [
+    {
+      "title": "What is Passive Income",
+      "level": "A2-B1",
+      "words": 115,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Many people want to make money while they sleep. This is called passive income. You do work once, but you get paid many times. For example, you write a book. People buy the book for years. You do not work again, but you get money. Another example is stocks. You buy a part of a company. The company makes profit. They give you some money every year. This is good for your future. But you need money to start. You cannot start with zero dollars. You need to save first. Then you can invest. It takes time to grow. Do not expect to be rich quickly. Be patient and learn more.",
+      "zh": "解释被动收入的概念，通过写书和股票举例说明。",
+      "points": [
+        "Passive income: 被动收入，指无需持续劳动即可获得的收入。",
+        "Get paid: 获得报酬，被动语态结构。",
+        "Invest: 投资，动词，后常接 in。"
+      ]
+    },
+    {
+      "title": "My Friend's Online Shop",
+      "level": "A2-B1",
+      "words": 120,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "My friend Tom has a small business. He sells pictures online. He takes photos on weekends. Then he puts them on a website. People download his photos for their projects. Tom gets money every month. He does not talk to customers. The website does the work. This is his side hustle. He still has a normal job during the day. But at night, he checks his bank account. He sees new money. He is happy. He wants to buy more cameras. He wants to take better photos. His income grows slowly. It is not huge, but it helps. He pays for his dinner with this money. It is a good start for him.",
+      "zh": "讲述朋友 Tom 通过在线卖照片获得副业收入的故事。",
+      "points": [
+        "Side hustle: 副业，兼职工作。",
+        "Download: 下载，数字产品交易常用词。",
+        "Bank account: 银行账户，收款必备。"
+      ]
+    },
+    {
+      "title": "Stocks for Beginners",
+      "level": "A2-B1",
+      "words": 125,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "What is a stock? A stock is a small piece of a company. When you buy a stock, you own a part. If the company does well, the stock price goes up. You can sell it for more money. This is how you make profit. Some companies also pay dividends. Dividends are like gifts for owners. You get cash just for holding the stock. But there is risk. The price can go down too. You might lose money. So do not put all your money in one stock. Buy many different stocks. This is safer. Learn before you buy. Read books or watch videos. Do not listen to strangers on the internet. Be careful with your cash.",
+      "zh": "介绍股票的基本概念、盈利方式及风险提示。",
+      "points": [
+        "Stock: 股票，公司股份。",
+        "Dividend: 股息，公司给股东的分红。",
+        "Risk: 风险，投资需考虑亏损可能。"
+      ]
+    },
+    {
+      "title": "Selling Photos Online",
+      "level": "A2-B1",
+      "words": 118,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Do you like taking pictures? You can sell them. There are many websites for this. You upload your best photos. You set a price. When someone buys, you get a message. The website takes a small fee. You keep the rest. You do not need to ship anything. It is all digital. This is great for beginners. You can do it from home. You need a good camera. But phone cameras are okay too. Light is important. Take photos in the day. Clear pictures sell better. People want images for ads. They want images for websites. Start with ten photos. See if people like them. Then take more. It takes time to build a collection.",
+      "zh": "具体说明如何在线出售照片作为副业。",
+      "points": [
+        "Upload: 上传，网络操作常用词。",
+        "Fee: 费用，平台收取的服务费。",
+        "Digital: 数字的，无需物流。"
+      ]
+    },
+    {
+      "title": "At the Bank",
+      "level": "A2-B1",
+      "words": 130,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Sarah goes to the bank. She wants to open an account. The banker asks her questions. Why do you need this account? Sarah says, I want to save money. The banker smiles. He shows her different plans. Some accounts give interest. Interest means free money from the bank. But the rate is low. Sarah asks about investing. The banker says, we have funds. Funds are groups of stocks. They are safer than one stock. Sarah listens carefully. She does not decide today. She wants to think. She takes a paper home. She reads the paper at night. She calls her friend. They talk about money. Tomorrow she will go back. She wants to start her plan.",
+      "zh": "通过 Sarah 去银行的对话场景，介绍账户与基金。",
+      "points": [
+        "Interest: 利息，银行给的回报。",
+        "Fund: 基金，一篮子股票组合。",
+        "Rate: 利率，百分比数值。"
+      ]
+    },
+    {
+      "title": "Key Money Words",
+      "level": "A2-B1",
+      "words": 110,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "To talk about finance, you need words. Here are some key words. Income is money you get. Expense is money you spend. Budget is your plan for money. Asset is something you own. It has value. Liability is money you owe. You must pay it back. Cash is physical money. Credit is borrowing power. You can buy now and pay later. But be careful. Debt is bad if it is too high. Wealth is having many assets. Poor means no money. Rich means much money. But true wealth is freedom. You do not need to work if you have wealth. Learn these words. Use them in sentences. They help you understand news.",
+      "zh": "总结财经领域的核心基础词汇及其定义。",
+      "points": [
+        "Asset: 资产，有价值的物品。",
+        "Liability: 负债，欠他人的钱。",
+        "Budget: 预算，收支计划。"
+      ]
+    },
+    {
+      "title": "US Money Culture",
+      "level": "A2-B1",
+      "words": 122,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "In the US, people talk about money differently. They do not ask salaries directly. It is private. But they talk about investments. They share stock tips. They talk about real estate. Houses are important there. Many people want to own homes. Credit scores are very important. A good score helps you buy a house. A bad score stops you. People check their scores often. They use credit cards carefully. They pay bills on time. Late payment is bad. It hurts your score. Americans like to start businesses. Many have side hustles. It is part of the culture. They value independence. They want to control their time. Money is a tool for freedom.",
+      "zh": "介绍美国文化中关于金钱、信用和房产的观念。",
+      "points": [
+        "Credit score: 信用评分，影响贷款能力。",
+        "Real estate: 房地产，房产投资。",
+        "Independence: 独立，财务自由的目标。"
+      ]
+    },
+    {
+      "title": "How to Ask About Money",
+      "level": "A2-B1",
+      "words": 125,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "You want to discuss finance with friends. How do you start? Do not ask, How much do you earn? It is rude. Instead, ask, Are you investing now? Or, What do you think about stocks? This is polite. You can share ideas. You can say, I want to save more. Do you have tips? People like to help. They share their experience. Maybe they lost money before. They tell you their mistakes. This is valuable learning. You can also join groups. Online groups talk about money. You read their posts. You learn new words. You see different views. But remember, do not follow blindly. Think for yourself. Your money is your responsibility.",
+      "zh": "指导如何礼貌地与他人讨论金钱话题。",
+      "points": [
+        "Rude: 粗鲁的，避免直接问收入。",
+        "Tips: 建议，小技巧。",
+        "Responsibility: 责任，对自己财务负责。"
+      ]
+    },
+    {
+      "title": "Common Mistakes",
+      "level": "A2-B1",
+      "words": 115,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Beginners make many mistakes. They want to get rich fast. They buy risky things. They lose all their money. Do not do this. Another mistake is spending too much. They buy new phones every year. They eat out every day. Small costs add up. At the end of the month, they have zero savings. They cannot invest. They stay poor. The third mistake is not learning. They trust strangers. They buy what others say. They do not read contracts. They sign papers blindly. Then they have problems. To avoid this, study first. Save money first. Start small. Make mistakes with small money. Not with all your life savings. Be smart and slow.",
+      "zh": "列举新手在理财中常见的错误及避免方法。",
+      "points": [
+        "Risky: 高风险的，可能导致亏损。",
+        "Add up: 累积，小钱变大钱。",
+        "Contracts: 合同，签署前需阅读。"
+      ]
+    },
+    {
+      "title": "Plan for Next Week",
+      "level": "A2-B1",
+      "words": 112,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Today we learned about passive income. What is your next step? Make a plan for next week. First, check your bank account. How much do you have? Second, list your expenses. Where does your money go? Third, find one idea. Maybe sell photos. Maybe buy stocks. Just one idea. Do not do everything. Fourth, set a goal. I want to save 100 dollars. Or I want to learn one new word every day. Small goals are better. You can achieve them. Big goals are hard. You might give up. Write your plan on paper. Put it on your wall. Look at it every morning. Take action today. Not tomorrow. Today is the best day.",
+      "zh": "引导学习者制定下周的财务学习与行动计划。",
+      "points": [
+        "Expenses: 支出，花钱的项目。",
+        "Achieve: 实现，达成目标。",
+        "Action: 行动，执行计划。"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "income",
+      "pos": "n.",
+      "meaning_en": "money received regularly",
+      "meaning_zh": "收入",
+      "example": "Passive income helps you sleep well.",
+      "source": "What is Passive Income"
+    },
+    {
+      "word": "passive",
+      "pos": "adj.",
+      "meaning_en": "not active, receiving without doing",
+      "meaning_zh": "被动的",
+      "example": "He wants a passive way to earn.",
+      "source": "What is Passive Income"
+    },
+    {
+      "word": "invest",
+      "pos": "v.",
+      "meaning_en": "put money into to make profit",
+      "meaning_zh": "投资",
+      "example": "You need to invest wisely.",
+      "source": "What is Passive Income"
+    },
+    {
+      "word": "stock",
+      "pos": "n.",
+      "meaning_en": "share of a company",
+      "meaning_zh": "股票",
+      "example": "The stock price went up.",
+      "source": "Stocks for Beginners"
+    },
+    {
+      "word": "profit",
+      "pos": "n.",
+      "meaning_en": "money gained from business",
+      "meaning_zh": "利润",
+      "example": "They made a big profit.",
+      "source": "Stocks for Beginners"
+    },
+    {
+      "word": "save",
+      "pos": "v.",
+      "meaning_en": "keep money for future",
+      "meaning_zh": "储蓄",
+      "example": "You need to save first.",
+      "source": "What is Passive Income"
+    },
+    {
+      "word": "business",
+      "pos": "n.",
+      "meaning_en": "work done to make money",
+      "meaning_zh": "生意，商业",
+      "example": "My friend has a small business.",
+      "source": "My Friend's Online Shop"
+    },
+    {
+      "word": "sell",
+      "pos": "v.",
+      "meaning_en": "give something for money",
+      "meaning_zh": "出售",
+      "example": "He sells pictures online.",
+      "source": "My Friend's Online Shop"
+    },
+    {
+      "word": "website",
+      "pos": "n.",
+      "meaning_en": "place on the internet",
+      "meaning_zh": "网站",
+      "example": "Put them on a website.",
+      "source": "My Friend's Online Shop"
+    },
+    {
+      "word": "download",
+      "pos": "v.",
+      "meaning_en": "copy data from internet",
+      "meaning_zh": "下载",
+      "example": "People download his photos.",
+      "source": "My Friend's Online Shop"
+    },
+    {
+      "word": "account",
+      "pos": "n.",
+      "meaning_en": "record of money at bank",
+      "meaning_zh": "账户",
+      "example": "He checks his bank account.",
+      "source": "My Friend's Online Shop"
+    },
+    {
+      "word": "dividend",
+      "pos": "n.",
+      "meaning_en": "payment to shareholders",
+      "meaning_zh": "股息",
+      "example": "Some companies pay dividends.",
+      "source": "Stocks for Beginners"
+    },
+    {
+      "word": "risk",
+      "pos": "n.",
+      "meaning_en": "possibility of loss",
+      "meaning_zh": "风险",
+      "example": "But there is risk.",
+      "source": "Stocks for Beginners"
+    },
+    {
+      "word": "upload",
+      "pos": "v.",
+      "meaning_en": "send data to internet",
+      "meaning_zh": "上传",
+      "example": "You upload your best photos.",
+      "source": "Selling Photos Online"
+    },
+    {
+      "word": "fee",
+      "pos": "n.",
+      "meaning_en": "payment for service",
+      "meaning_zh": "费用",
+      "example": "The website takes a small fee.",
+      "source": "Selling Photos Online"
+    },
+    {
+      "word": "digital",
+      "pos": "adj.",
+      "meaning_en": "using computers or internet",
+      "meaning_zh": "数字的",
+      "example": "It is all digital.",
+      "source": "Selling Photos Online"
+    },
+    {
+      "word": "interest",
+      "pos": "n.",
+      "meaning_en": "money paid for borrowing",
+      "meaning_zh": "利息",
+      "example": "Some accounts give interest.",
+      "source": "At the Bank"
+    },
+    {
+      "word": "fund",
+      "pos": "n.",
+      "meaning_en": "money saved for purpose",
+      "meaning_zh": "基金",
+      "example": "We have funds.",
+      "source": "At the Bank"
+    },
+    {
+      "word": "rate",
+      "pos": "n.",
+      "meaning_en": "percentage level",
+      "meaning_zh": "利率，比率",
+      "example": "But the rate is low.",
+      "source": "At the Bank"
+    },
+    {
+      "word": "expense",
+      "pos": "n.",
+      "meaning_en": "cost of something",
+      "meaning_zh": "支出",
+      "example": "List your expenses.",
+      "source": "Plan for Next Week"
+    },
+    {
+      "word": "budget",
+      "pos": "n.",
+      "meaning_en": "plan for spending",
+      "meaning_zh": "预算",
+      "example": "Budget is your plan for money.",
+      "source": "Key Money Words"
+    },
+    {
+      "word": "asset",
+      "pos": "n.",
+      "meaning_en": "valuable thing owned",
+      "meaning_zh": "资产",
+      "example": "Asset is something you own.",
+      "source": "Key Money Words"
+    },
+    {
+      "word": "cash",
+      "pos": "n.",
+      "meaning_en": "physical money",
+      "meaning_zh": "现金",
+      "example": "You get cash just for holding.",
+      "source": "Stocks for Beginners"
+    },
+    {
+      "word": "credit",
+      "pos": "n.",
+      "meaning_en": "ability to borrow money",
+      "meaning_zh": "信用",
+      "example": "Credit is borrowing power.",
+      "source": "Key Money Words"
+    },
+    {
+      "word": "wealth",
+      "pos": "n.",
+      "meaning_en": "having much money",
+      "meaning_zh": "财富",
+      "example": "True wealth is freedom.",
+      "source": "Key Money Words"
+    },
+    {
+      "word": "score",
+      "pos": "n.",
+      "meaning_en": "number showing quality",
+      "meaning_zh": "分数",
+      "example": "Credit scores are very important.",
+      "source": "US Money Culture"
+    },
+    {
+      "word": "rude",
+      "pos": "adj.",
+      "meaning_en": "not polite",
+      "meaning_zh": "粗鲁的",
+      "example": "It is rude.",
+      "source": "How to Ask About Money"
+    },
+    {
+      "word": "mistake",
+      "pos": "n.",
+      "meaning_en": "wrong action",
+      "meaning_zh": "错误",
+      "example": "Beginners make many mistakes.",
+      "source": "Common Mistakes"
+    },
+    {
+      "word": "goal",
+      "pos": "n.",
+      "meaning_en": "aim or result wanted",
+      "meaning_zh": "目标",
+      "example": "Set a goal.",
+      "source": "Plan for Next Week"
+    },
+    {
+      "word": "action",
+      "pos": "n.",
+      "meaning_en": "doing something",
+      "meaning_zh": "行动",
+      "example": "Take action today.",
+      "source": "Plan for Next Week"
+    }
+  ],
+  "status": "ready",
+  "generatedBy": "claude",
+  "savedAt": "2026-09-29T17:20:51.854Z"
+}

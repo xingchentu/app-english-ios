@@ -1,0 +1,535 @@
+{
+  "day": 27,
+  "date": "2026-10-16",
+  "theme": "财经 · 加密货币与风险管理",
+  "domain": "财经",
+  "level": "A2 → B1",
+  "goals": [
+    "理解加密货币的基本概念和运作原理",
+    "学习加密货币投资的风险管理策略",
+    "掌握加密货币相关的核心词汇和表达",
+    "能够进行简单的加密货币投资讨论"
+  ],
+  "tasks": [
+    {
+      "text": "观看 3 个加密货币入门视频（15分钟）",
+      "minutes": 15
+    },
+    {
+      "text": "精读 2 篇加密货币基础文章（10分钟）",
+      "minutes": 10
+    },
+    {
+      "text": "学习风险管理词汇和表达（10分钟）",
+      "minutes": 10
+    },
+    {
+      "text": "完成 3 篇进阶阅读文章（10分钟）",
+      "minutes": 10
+    },
+    {
+      "text": "观看 3 个风险管理视频（10分钟）",
+      "minutes": 10
+    },
+    {
+      "text": "复习必学内容和拓展知识（5分钟）",
+      "minutes": 5
+    }
+  ],
+  "mustLearn": [
+    {
+      "title": "加密货币基本概念",
+      "type": "article",
+      "content": "Cryptocurrency is digital money that uses cryptography for security. Unlike traditional money issued by governments, cryptocurrencies operate on decentralized networks called blockchains. This means no single person or organization controls them. Bitcoin, created in 2009, was the first cryptocurrency. Today there are thousands of different cryptocurrencies, each with its own unique features and purposes."
+    },
+    {
+      "title": "风险管理核心表达",
+      "type": "expression",
+      "content": "When investing in cryptocurrency, you should always: 1) Diversify your portfolio - don't put all your money in one asset; 2) Only invest what you can afford to lose; 3) Do your own research before investing; 4) Set stop-loss orders to limit potential losses; 5) Keep emotions in check - don't panic sell during market drops."
+    },
+    {
+      "title": "投资决策对话",
+      "type": "dialogue",
+      "content": "A: Should I invest all my savings in Bitcoin? B: Absolutely not! You should only invest money you're willing to lose. The crypto market is very volatile. A: What's a safe amount to invest? B: Many experts suggest investing no more than 5-10% of your total portfolio in high-risk assets like cryptocurrency."
+    }
+  ],
+  "expand": [
+    {
+      "title": "区块链技术原理",
+      "type": "background",
+      "content": "Blockchain is a distributed ledger technology that records transactions across multiple computers. Each 'block' contains a batch of transactions, and these blocks are linked together in a 'chain' using cryptographic hashes. This makes the data secure and nearly impossible to alter. The decentralization aspect means no single entity controls the entire network, making it resistant to censorship and fraud."
+    },
+    {
+      "title": "市场波动性表达",
+      "type": "synonyms",
+      "content": "Instead of just saying 'the market is volatile', you can use: 1) The market is experiencing significant fluctuations; 2) Prices are swinging wildly; 3) We're seeing high market turbulence; 4) The market is quite unpredictable right now."
+    },
+    {
+      "title": "投资组合策略",
+      "type": "advanced",
+      "content": "A balanced crypto portfolio might include: 60% Bitcoin (as the stable foundation), 20% Ethereum (for smart contracts), 10% established altcoins like Cardano or Solana, and 10% experimental tokens. This approach balances stability with growth potential while managing risk through diversification."
+    },
+    {
+      "title": "税务注意事项",
+      "type": "culture",
+      "content": "In most countries, cryptocurrency transactions are taxable. You need to report capital gains when you sell crypto for profit. Some countries treat crypto as property, others as currency. Keep detailed records of all transactions, including dates, amounts, and purchase prices. Consider consulting a tax professional who understands cryptocurrency regulations in your jurisdiction."
+    }
+  ],
+  "videos": [
+    {
+      "title": "What is Cryptocurrency in 5 Minutes",
+      "url": "https://www.youtube.com/results?search_query=what+is+cryptocurrency+explained+simply",
+      "channel": "Khan Academy",
+      "minutes": 5,
+      "desc": "简单解释加密货币的基本概念和工作原理"
+    },
+    {
+      "title": "Bitcoin Explained",
+      "url": "https://www.youtube.com/results?search_query=bitcoin+explained+for+beginners",
+      "channel": "CNBC",
+      "minutes": 8,
+      "desc": "详细介绍比特币的历史、特点和价值"
+    },
+    {
+      "title": "Cryptocurrency Risk Management",
+      "url": "https://www.youtube.com/results?search_query=crypto+risk+management+tips",
+      "channel": "Investopedia",
+      "minutes": 10,
+      "desc": "讲解加密货币投资的风险管理策略"
+    },
+    {
+      "title": "How to Build a Crypto Portfolio",
+      "url": "https://www.youtube.com/results?search_query=how+to+build+a+cryptocurrency+portfolio",
+      "channel": "Andrei Jikh",
+      "minutes": 12,
+      "desc": "指导如何构建多元化的加密货币投资组合"
+    },
+    {
+      "title": "Crypto Market Volatility",
+      "url": "https://www.youtube.com/results?search_query=cryptocurrency+market+volatility+explained",
+      "channel": "The Crypto Dog",
+      "minutes": 7,
+      "desc": "解释加密货币市场波动的原因和应对方法"
+    },
+    {
+      "title": "Crypto Security Tips",
+      "url": "https://www.youtube.com/results?search_query=cryptocurrency+security+best+practices",
+      "channel": "Ledger",
+      "minutes": 9,
+      "desc": "介绍加密货币安全存储和交易的最佳实践"
+    }
+  ],
+  "articles": [
+    {
+      "title": "What is Cryptocurrency?",
+      "level": "A2-B1",
+      "words": 55,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Cryptocurrency is digital money that uses cryptography for security. Unlike regular money, it exists only online. The first cryptocurrency, Bitcoin, was created in 2009. Today there are thousands of different cryptocurrencies. Each one works on a technology called blockchain, which is like a digital ledger that records all transactions. This makes cryptocurrencies secure and transparent.",
+      "zh": "加密货币是使用密码学保障安全的数字货币。它只存在于网络上，不同于传统货币。首个加密货币比特币于2009年创建。如今有数千种不同的加密货币，每种都基于区块链技术工作，区块链就像记录所有交易的数字账本。",
+      "points": [
+        "cryptocurrency - 加密货币，使用密码学保护的数字货币",
+        "cryptography - 密码学，保护信息安全的技术",
+        "blockchain - 区块链，记录交易的分布式账本技术",
+        "transparent - 透明的，公开可见的"
+      ]
+    },
+    {
+      "title": "How Bitcoin Works",
+      "level": "A2-B1",
+      "words": 59,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Bitcoin is the most famous cryptocurrency. It works without a bank or government controlling it. When you send Bitcoin, the transaction is recorded on the blockchain. Miners use powerful computers to verify these transactions. They get new Bitcoin as a reward. The total supply of Bitcoin is limited to 21 million coins. This scarcity makes Bitcoin valuable, like gold.",
+      "zh": "比特币是最著名的加密货币。它运作时不依赖银行或政府控制。发送比特币时，交易会被记录在区块链上。矿工使用强大的计算机验证这些交易并获得新比特币作为奖励。比特币总量限制在2100万枚，这种稀缺性使其像黄金一样有价值。",
+      "points": [
+        "miner - 矿工，验证区块链交易并获得奖励的人",
+        "verify - 验证，确认交易的有效性",
+        "scarcity - 稀缺性，有限的供应量",
+        "limited - 有限的，有数量限制的"
+      ]
+    },
+    {
+      "title": "Investing in Crypto",
+      "level": "A2-B1",
+      "words": 63,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Many people invest in cryptocurrency hoping to make money. The prices can go up or down quickly. This is called volatility. Before investing, you should research different cryptocurrencies. Look at their technology, team, and real-world use. Never invest more money than you can afford to lose. It's important to have a strategy and stick to it. Don't let emotions drive your investment decisions.",
+      "zh": "许多人投资加密货币希望赚钱。价格可能快速上涨或下跌，这称为波动性。投资前应研究不同的加密货币，了解其技术、团队和实际应用。永远不要投资超过你能承受损失的资金。制定策略并坚持很重要，不要让情绪影响投资决策。",
+      "points": [
+        "volatility - 波动性，价格快速变化",
+        "research - 研究，深入调查",
+        "strategy - 策略，计划和方法",
+        "afford - 承担得起，有经济能力"
+      ]
+    },
+    {
+      "title": "Crypto Risks",
+      "level": "A2-B1",
+      "words": 61,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Investing in cryptocurrency has many risks. Prices can drop suddenly, causing big losses. There are also security risks - hackers might steal your crypto if you're not careful. Some cryptocurrencies may turn out to be scams. Regulations are still unclear in many countries. You could lose all your money if a crypto company goes bankrupt. Always understand these risks before investing.",
+      "zh": "投资加密货币有许多风险。价格可能突然下跌，造成巨大损失。还有安全风险 - 如果不小心，黑客可能窃取你的加密货币。一些加密货币可能是骗局。许多国家的监管仍不明确。如果加密货币公司破产，你可能损失所有资金。投资前务必了解这些风险。",
+      "points": [
+        "scam - 骗局，欺诈行为",
+        "regulation - 监管，政府规则",
+        "bankrupt - 破产，无法偿还债务",
+        "security - 安全，保护免受威胁"
+      ]
+    },
+    {
+      "title": "Diversification Strategy",
+      "level": "A2-B1",
+      "words": 63,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Diversification means spreading your investments across different assets. In crypto, this means not putting all your money in one coin. You could invest in Bitcoin, Ethereum, and other altcoins. You might also invest in different sectors like DeFi or NFTs. Diversification reduces risk because if one asset performs poorly, others might do well. It's like not putting all your eggs in one basket.",
+      "zh": "多元化意味着将投资分散到不同的资产上。在加密货币中，这意味着不要把所有资金投入一种币。你可以投资比特币、以太坊和其他替代币。也可以投资不同的领域，如DeFi或NFT。多元化降低风险，因为如果一个资产表现不佳，其他资产可能表现良好。这就像不要把所有鸡蛋放在一个篮子里。",
+      "points": [
+        "diversification - 多元化，分散投资",
+        "altcoin - 替代币，除比特币外的加密货币",
+        "sector - 领域，行业分类",
+        "perform - 表现，执行结果"
+      ]
+    },
+    {
+      "title": "Crypto Security Tips",
+      "level": "A2-B1",
+      "words": 64,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Keeping your crypto safe is very important. Use a hardware wallet, which stores your coins offline. Enable two-factor authentication on all accounts. Use strong, unique passwords for different platforms. Be careful of phishing scams that try to steal your information. Regularly update your software to fix security holes. Never share your private keys with anyone. These steps help protect your digital assets from theft.",
+      "zh": "保持加密货币安全非常重要。使用硬件钱包离线存储你的币。在所有账户上启用双因素认证。为不同平台使用强且独特的密码。小心试图窃取你信息的钓鱼诈骗。定期更新软件以修复安全漏洞。永远不要与他人分享你的私钥。这些步骤有助于保护你的数字资产免受盗窃。",
+      "points": [
+        "hardware wallet - 硬件钱包，物理设备存储加密货币",
+        "two-factor authentication - 双因素认证，双重安全验证",
+        "phishing - 钓鱼，网络诈骗手段",
+        "private key - 私钥，访问加密货币的密码"
+      ]
+    },
+    {
+      "title": "Market Analysis",
+      "level": "A2-B1",
+      "words": 68,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Analyzing the crypto market helps make better investment decisions. Look at price charts to see trends. Check trading volume to understand market activity. Follow news about regulations and technology developments. Monitor social media sentiment - what are people saying about different coins? Technical analysis uses charts and indicators to predict price movements. Fundamental analysis looks at a coin's technology and real-world use. Both approaches can be useful together.",
+      "zh": "分析加密货币市场有助于做出更好的投资决策。查看价格图表观察趋势。检查交易量了解市场活动。关注监管和技术发展的新闻。监控社交媒体情绪 - 人们对不同币种有什么看法？技术分析使用图表和指标预测价格走势。基本面分析关注币种的技术和实际应用。两种方法结合使用可能更有用。",
+      "points": [
+        "trend - 趋势，发展方向",
+        "volume - 交易量，买卖数量",
+        "sentiment - 情绪，市场态度",
+        "indicator - 指标，衡量标准"
+      ]
+    },
+    {
+      "title": "Crypto Taxes",
+      "level": "A2-B1",
+      "words": 67,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "In most countries, crypto investments are taxable. You pay taxes on profits when you sell crypto. Keep records of all transactions - dates, amounts, and prices. Different countries have different tax rules. Some tax crypto like property, others like currency. You might need to pay capital gains tax or income tax. Some countries offer tax benefits for long-term holdings. Always consult a tax professional who understands cryptocurrency.",
+      "zh": "在大多数国家，加密货币投资需要缴税。卖出加密货币获利时需要缴税。保留所有交易的记录 - 日期、金额和价格。不同国家有不同的税收规则。一些国家对加密货币像对财产征税，另一些像对货币征税。你可能需要缴纳资本利得税或所得税。一些国家对长期持有提供税收优惠。务必咨询了解加密货币的税务专业人士。",
+      "points": [
+        "taxable - 应纳税的，需要缴税的",
+        "capital gains - 资本利得，资产增值收益",
+        "long-term - 长期的，持有一段时间的",
+        "professional - 专业人士，有专业资质的人"
+      ]
+    },
+    {
+      "title": "Future of Crypto",
+      "level": "A2-B1",
+      "words": 74,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "The future of cryptocurrency is still uncertain. Some experts believe it will become mainstream money. Others think it might remain a niche investment. New technologies like DeFi and NFTs are expanding crypto uses. Central bank digital currencies are being developed by governments. Regulations will likely become clearer in coming years. Whether crypto replaces traditional money or complements it remains to be seen. The technology behind crypto - blockchain - has many other potential uses.",
+      "zh": "加密货币的未来仍不确定。一些专家认为它会成为主流货币，另一些人认为它可能仍是小众投资。DeFi和NFT等新技术正在扩展加密货币的用途。各国政府正在开发央行数字货币。未来几年监管可能会更清晰。加密货币是否会取代传统货币或与其互补仍有待观察。加密货币背后的技术 - 区块链 - 还有许多其他潜在用途。",
+      "points": [
+        "mainstream - 主流的，被广泛接受的",
+        "niche - 小众的，特定领域的",
+        "complement - 互补，相互补充",
+        "potential - 潜在的，可能的"
+      ]
+    },
+    {
+      "title": "Crypto Investment Plan",
+      "level": "A2-B1",
+      "words": 83,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "A good crypto investment plan includes several steps. First, educate yourself about different cryptocurrencies. Set a budget you can afford to lose. Decide your investment goals - are you looking for quick profits or long-term growth? Choose which coins to invest in based on research. Set up secure storage for your crypto. Decide when to buy and sell - have entry and exit points. Regularly review and adjust your portfolio. Remember that crypto should only be a small part of your overall investments.",
+      "zh": "一个好的加密货币投资计划包括几个步骤。首先，教育自己了解不同的加密货币。设定你能承受损失的资金预算。确定投资目标 - 你是寻找快速利润还是长期增长？基于研究选择投资哪些币。为你的加密货币设置安全存储。决定何时买卖 - 设定入场和出场点。定期审查和调整你的投资组合。记住加密货币只应是你整体投资的一小部分。",
+      "points": [
+        "budget - 预算，财务计划",
+        "goals - 目标，想要达到的结果",
+        "portfolio - 投资组合，多种资产的集合",
+        "adjust - 调整，改变以适应新情况"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "cryptocurrency",
+      "pos": "noun",
+      "meaning_en": "digital money using cryptography for security",
+      "meaning_zh": "加密货币",
+      "example": "Many people are investing in cryptocurrency as a new asset class.",
+      "source": "What is Cryptocurrency?"
+    },
+    {
+      "word": "blockchain",
+      "pos": "noun",
+      "meaning_en": "digital ledger that records transactions securely",
+      "meaning_zh": "区块链",
+      "example": "Blockchain technology ensures that crypto transactions are transparent and secure.",
+      "source": "What is Cryptocurrency?"
+    },
+    {
+      "word": "volatility",
+      "pos": "noun",
+      "meaning_en": "rapid and unpredictable price changes",
+      "meaning_zh": "波动性",
+      "example": "The high volatility of crypto markets makes them risky for new investors.",
+      "source": "Investing in Crypto"
+    },
+    {
+      "word": "diversification",
+      "pos": "noun",
+      "meaning_en": "spreading investments across different assets",
+      "meaning_zh": "多元化",
+      "example": "Diversification is key to reducing investment risk in crypto.",
+      "source": "Diversification Strategy"
+    },
+    {
+      "word": "miner",
+      "pos": "noun",
+      "meaning_en": "person who verifies crypto transactions and earns rewards",
+      "meaning_zh": "矿工",
+      "example": "Miners use powerful computers to solve complex mathematical problems.",
+      "source": "How Bitcoin Works"
+    },
+    {
+      "word": "scarcity",
+      "pos": "noun",
+      "meaning_en": "limited availability that increases value",
+      "meaning_zh": "稀缺性",
+      "example": "Bitcoin's scarcity comes from its limited supply of 21 million coins.",
+      "source": "How Bitcoin Works"
+    },
+    {
+      "word": "altcoin",
+      "pos": "noun",
+      "meaning_en": "alternative cryptocurrency to Bitcoin",
+      "meaning_zh": "替代币",
+      "example": "Ethereum is the most popular altcoin after Bitcoin.",
+      "source": "Diversification Strategy"
+    },
+    {
+      "word": "hardware wallet",
+      "pos": "noun",
+      "meaning_en": "physical device for storing crypto offline",
+      "meaning_zh": "硬件钱包",
+      "example": "Using a hardware wallet is more secure than keeping crypto on an exchange.",
+      "source": "Crypto Security Tips"
+    },
+    {
+      "word": "phishing",
+      "pos": "noun",
+      "meaning_en": "scam to steal personal information online",
+      "meaning_zh": "钓鱼诈骗",
+      "example": "Always be careful of phishing attempts that ask for your crypto private keys.",
+      "source": "Crypto Security Tips"
+    },
+    {
+      "word": "trend",
+      "pos": "noun",
+      "meaning_en": "general direction in which something is developing",
+      "meaning_zh": "趋势",
+      "example": "Following market trends can help inform your crypto investment decisions.",
+      "source": "Market Analysis"
+    },
+    {
+      "word": "sentiment",
+      "pos": "noun",
+      "meaning_en": "general attitude or feeling about something",
+      "meaning_zh": "情绪，态度",
+      "example": "Market sentiment often influences crypto prices in the short term.",
+      "source": "Market Analysis"
+    },
+    {
+      "word": "taxable",
+      "pos": "adjective",
+      "meaning_en": "subject to payment of taxes",
+      "meaning_zh": "应纳税的",
+      "example": "In most countries, crypto profits are considered taxable income.",
+      "source": "Crypto Taxes"
+    },
+    {
+      "word": "portfolio",
+      "pos": "noun",
+      "meaning_en": "collection of investments held by a person",
+      "meaning_zh": "投资组合",
+      "example": "A balanced crypto portfolio includes both Bitcoin and other altcoins.",
+      "source": "Crypto Investment Plan"
+    },
+    {
+      "word": "scam",
+      "pos": "noun",
+      "meaning_en": "dishonest plan to trick people out of money",
+      "meaning_zh": "骗局",
+      "example": "Many fake crypto projects are designed to scam investors.",
+      "source": "Crypto Risks"
+    },
+    {
+      "word": "regulation",
+      "pos": "noun",
+      "meaning_en": "official rules controlling an activity",
+      "meaning_zh": "监管，法规",
+      "example": "Clear crypto regulations are needed to protect investors.",
+      "source": "Crypto Risks"
+    },
+    {
+      "word": "verify",
+      "pos": "verb",
+      "meaning_en": "check that something is true or correct",
+      "meaning_zh": "验证，核实",
+      "example": "Miners verify crypto transactions before adding them to the blockchain.",
+      "source": "How Bitcoin Works"
+    },
+    {
+      "word": "perform",
+      "pos": "verb",
+      "meaning_en": "function or achieve expected results",
+      "meaning_zh": "表现，执行",
+      "example": "Not all cryptocurrencies perform well over time.",
+      "source": "Diversification Strategy"
+    },
+    {
+      "word": "sector",
+      "pos": "noun",
+      "meaning_en": "part of the economy with similar activities",
+      "meaning_zh": "领域，行业",
+      "example": "DeFi is an important sector in the crypto industry.",
+      "source": "Diversification Strategy"
+    },
+    {
+      "word": "private key",
+      "pos": "noun",
+      "meaning_en": "secret code that gives access to crypto funds",
+      "meaning_zh": "私钥",
+      "example": "Never share your private key with anyone, or they can steal your crypto.",
+      "source": "Crypto Security Tips"
+    },
+    {
+      "word": "indicator",
+      "pos": "noun",
+      "meaning_en": "something that shows a condition or trend",
+      "meaning_zh": "指标，标志",
+      "example": "Trading volume is an important indicator of market strength.",
+      "source": "Market Analysis"
+    },
+    {
+      "word": "capital gains",
+      "pos": "noun",
+      "meaning_en": "profit from selling an asset",
+      "meaning_zh": "资本利得",
+      "example": "You may need to pay taxes on crypto capital gains.",
+      "source": "Crypto Taxes"
+    },
+    {
+      "word": "mainstream",
+      "pos": "adjective",
+      "meaning_en": "accepted or used by most people",
+      "meaning_zh": "主流的",
+      "example": "Some experts believe crypto will become mainstream money.",
+      "source": "Future of Crypto"
+    },
+    {
+      "word": "niche",
+      "pos": "noun",
+      "meaning_en": "specialized market or small group",
+      "meaning_zh": "小众市场",
+      "example": "Crypto might remain a niche investment for some time.",
+      "source": "Future of Crypto"
+    },
+    {
+      "word": "complement",
+      "pos": "verb",
+      "meaning_en": "add to or complete something",
+      "meaning_zh": "补充，互补",
+      "example": "Crypto might complement rather than replace traditional money.",
+      "source": "Future of Crypto"
+    },
+    {
+      "word": "potential",
+      "pos": "noun",
+      "meaning_en": "possibility of future development or success",
+      "meaning_zh": "潜力，可能性",
+      "example": "Blockchain technology has many potential uses beyond cryptocurrency.",
+      "source": "Future of Crypto"
+    },
+    {
+      "word": "budget",
+      "pos": "noun",
+      "meaning_en": "plan for managing money over time",
+      "meaning_zh": "预算",
+      "example": "Set a crypto investment budget you can afford to lose.",
+      "source": "Crypto Investment Plan"
+    },
+    {
+      "word": "adjust",
+      "pos": "verb",
+      "meaning_en": "change slightly to improve or adapt",
+      "meaning_zh": "调整，适应",
+      "example": "You should regularly adjust your crypto portfolio based on market conditions.",
+      "source": "Crypto Investment Plan"
+    },
+    {
+      "word": "secure",
+      "pos": "adjective",
+      "meaning_en": "protected from danger or loss",
+      "meaning_zh": "安全的",
+      "example": "Keeping your crypto secure is very important in the digital world.",
+      "source": "Crypto Security Tips"
+    },
+    {
+      "word": "strategy",
+      "pos": "noun",
+      "meaning_en": "plan of action designed to achieve a goal",
+      "meaning_zh": "策略",
+      "example": "Having a clear strategy helps when investing in volatile markets.",
+      "source": "Investing in Crypto"
+    },
+    {
+      "word": "research",
+      "pos": "noun",
+      "meaning_en": "detailed study to discover facts",
+      "meaning_zh": "研究",
+      "example": "Do thorough research before investing in any cryptocurrency.",
+      "source": "Investing in Crypto"
+    },
+    {
+      "word": "afford",
+      "pos": "verb",
+      "meaning_en": "have enough money to buy or do something",
+      "meaning_zh": "负担得起",
+      "example": "Only invest in crypto what you can afford to lose.",
+      "source": "Investing in Crypto"
+    },
+    {
+      "word": "professional",
+      "pos": "noun",
+      "meaning_en": "person with special training or skill",
+      "meaning_zh": "专业人士",
+      "example": "Consult a tax professional who understands cryptocurrency.",
+      "source": "Crypto Taxes"
+    }
+  ],
+  "status": "ready",
+  "generatedBy": "claude",
+  "savedAt": "2026-09-29T18:13:19.356Z"
+}

@@ -1,0 +1,18 @@
+# 依赖
+node_modules/
+
+# 构建产物
+dist/
+android/
+ios/App/build/
+ios/App/Pods/
+ios/App/DerivedData/
+ios/App/App/public/        # 由 `cap sync ios` 从 public/ 重新生成
+
+# 日志
+*.log
+server.log
+server-output.log
+
+# 系统
+.DS_Store

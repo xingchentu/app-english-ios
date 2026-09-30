@@ -1,0 +1,555 @@
+{
+  "day": 28,
+  "date": "2026-10-17",
+  "theme": "电影 · 导演风格与镜头语言",
+  "domain": "电影",
+  "level": "A2 → B1",
+  "goals": [
+    "掌握 30 个电影制作核心词汇（如镜头、灯光、剪辑）",
+    "能够用英文简单描述导演的视觉风格",
+    "理解基本镜头语言对情绪的影响",
+    "完成 60 分钟可理解性输入学习"
+  ],
+  "tasks": [
+    {
+      "text": "阅读 10 篇分级短文，标注生词",
+      "minutes": 30
+    },
+    {
+      "text": "观看 6 个视频片段，关注镜头术语",
+      "minutes": 20
+    },
+    {
+      "text": "复习词汇表并完成例句模仿",
+      "minutes": 10
+    }
+  ],
+  "mustLearn": [
+    {
+      "title": "高频表达：Visual Style",
+      "type": "expression",
+      "content": "英文：Every director has a unique visual style. 中文：每位导演都有独特的视觉风格。要点：Visual style 指画面呈现的整体感觉，包括颜色、构图和灯光。"
+    },
+    {
+      "title": "语法点：Passive Voice in Film",
+      "type": "grammar",
+      "content": "英文：The scene was filmed in black and white. 中文：这场戏是用黑白拍摄的。要点：电影描述常用被动语态，强调作品而非创作者。"
+    },
+    {
+      "title": "精读片段：Camera Angles",
+      "type": "article",
+      "content": "英文：A low angle makes the character look powerful. A high angle makes them look weak. 中文：低角度让角色看起来强大，高角度让角色看起来弱小。要点：角度直接传递权力关系。"
+    },
+    {
+      "title": "地道搭配：Set the Mood",
+      "type": "expression",
+      "content": "英文：Lighting helps to set the mood of the scene. 中文：灯光有助于设定场景的氛围。要点：Set the mood 是固定搭配，意为营造气氛。"
+    }
+  ],
+  "expand": [
+    {
+      "title": "文化注释：Auteur Theory",
+      "type": "note",
+      "content": "导演中心论认为导演是电影的主要创作者，就像作家是书的作者一样。这在法国新浪潮运动中非常流行。"
+    },
+    {
+      "title": "同义替换：Scene vs Shot",
+      "type": "note",
+      "content": "Scene 是场景（一个完整的情节单元），Shot 是镜头（摄像机一次连续拍摄的画面）。一个 Scene 由多个 Shots 组成。"
+    },
+    {
+      "title": "进阶例句：Color Grading",
+      "type": "note",
+      "content": "Modern films use color grading to change the emotion. For example, blue means sadness, and orange means warmth."
+    },
+    {
+      "title": "背景知识：IMAX Format",
+      "type": "note",
+      "content": "IMAX 是一种特殊的电影格式，屏幕更大，画质更清晰。诺兰导演非常喜欢使用 IMAX 摄像机拍摄。"
+    },
+    {
+      "title": "实用技巧：Reading Credits",
+      "type": "note",
+      "content": "看电影片尾字幕（Credits）可以了解谁负责摄影、剪辑和音乐，这是学习电影制作的好方法。"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Camera Angles Explained",
+      "url": "https://www.youtube.com/results?search_query=camera+angles+explained+for+beginners",
+      "channel": "Film Theory Basics",
+      "minutes": 8,
+      "desc": "基础镜头角度教学，包含高低视角示例"
+    },
+    {
+      "title": "Understanding Lighting",
+      "url": "https://www.youtube.com/results?search_query=film+lighting+basics+mood",
+      "channel": "StudioBinder",
+      "minutes": 10,
+      "desc": "灯光如何影响电影情绪的详细解析"
+    },
+    {
+      "title": "Color Theory in Movies",
+      "url": "https://www.youtube.com/results?search_query=color+theory+in+filmmaking",
+      "channel": "Lessons from the Screenplay",
+      "minutes": 12,
+      "desc": "颜色在叙事中的作用与案例分析"
+    },
+    {
+      "title": "What Makes a Director",
+      "url": "https://www.youtube.com/results?search_query=what+does+a+film+director+do",
+      "channel": "Indie Film Hustle",
+      "minutes": 9,
+      "desc": "导演的工作职责与创作流程介绍"
+    },
+    {
+      "title": "Editing Basics",
+      "url": "https://www.youtube.com/results?search_query=film+editing+basics+cuts+transitions",
+      "channel": "This Guy Edits",
+      "minutes": 7,
+      "desc": "剪辑基础：切镜头与转场技巧"
+    },
+    {
+      "title": "Nolan vs Tarantino",
+      "url": "https://www.youtube.com/results?search_query=Christopher+Nolan+vs+Quentin+Tarantino+style",
+      "channel": "Screen Rant",
+      "minutes": 11,
+      "desc": "两位著名导演风格的对比分析"
+    }
+  ],
+  "articles": [
+    {
+      "title": "What Does a Director Do",
+      "level": "A2-B1",
+      "words": 120,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "A director is the leader of a movie team. They decide how the story looks and feels on screen. They work closely with actors to get good performances. They also talk to the camera crew about shots and angles. A good director has a clear vision for the film. They solve problems every day during production. Without a director, the film has no unique style. The director chooses the music and the colors too. They control the pace of the story carefully. It is a hard job but very creative. Many directors start with small videos first. Then they make big Hollywood films later. You can see their name in the credits.",
+      "zh": "介绍导演的核心职责，包括指导演员、掌控视觉风格及协调团队。",
+      "points": [
+        "Vision: 愿景/构思，指导演对电影的整体设想",
+        "Credits: 字幕/演职员表，电影片尾显示工作人员名单",
+        "Production: 制作阶段，指拍摄期间的过程"
+      ]
+    },
+    {
+      "title": "Camera Angles Basics",
+      "level": "A2-B1",
+      "words": 115,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Camera angles change how we see characters. A low angle looks up at the person. This makes them look powerful or scary. A high angle looks down at the person. This makes them look weak or small. An eye-level angle is normal and neutral. It feels like a real conversation. Directors choose angles to show power relations. For example, a hero might stand above a villain. Sometimes the camera moves during the shot. This adds energy to the scene. Learning angles helps you understand movies better. You can notice them in your favorite films. Try to watch without sound sometimes. Focus only on the camera position.",
+      "zh": "讲解高低视角及平视镜头对角色形象塑造的影响。",
+      "points": [
+        "Low angle: 低角度拍摄，常用于表现强大",
+        "Power relations: 权力关系，角色之间的地位差异",
+        "Neutral: 中立的，不带感情色彩的"
+      ]
+    },
+    {
+      "title": "Lighting and Mood",
+      "level": "A2-B1",
+      "words": 125,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Lighting helps to set the mood of the scene. Bright light usually means happiness or safety. Dark shadows create fear or mystery. Horror movies use very low key lighting. Comedy movies use high key lighting instead. The direction of light matters too. Side light shows texture on the face. Back light makes a silhouette effect. Directors work with cinematographers on this. They plan every light before filming. Color temperature is also important. Warm light feels cozy and homey. Cool light feels cold or clinical. Changing the light changes the emotion. Audiences feel this without thinking. It is a secret language of film.",
+      "zh": "阐述灯光亮度、方向及色温如何营造场景氛围。",
+      "points": [
+        "Set the mood: 营造氛围，固定搭配",
+        "Silhouette: 剪影，背光产生的轮廓效果",
+        "Cinematographers: 摄影指导，负责画面光影的专业人员"
+      ]
+    },
+    {
+      "title": "Color in Movies",
+      "level": "A2-B1",
+      "words": 130,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Color tells a story without words. Red often means love or danger. Blue often means sadness or calm. Green can mean nature or sickness. Directors choose a color palette for each film. Some movies are very colorful and bright. Others are grey and desaturated. Color grading happens after filming. Editors change the colors on computers. This makes the movie look consistent. Warm colors like orange feel inviting. Cool colors like blue feel distant. Think about The Matrix. It uses green for the digital world. Think about Mad Max. It uses orange for the desert. Colors guide your emotions silently. Notice the colors next time you watch.",
+      "zh": "分析颜色象征意义及后期调色对电影风格的影响。",
+      "points": [
+        "Color palette: 调色板/色彩方案，电影整体色调设计",
+        "Desaturated: 低饱和度的，颜色暗淡",
+        "Consistent: 一致的，保持风格统一"
+      ]
+    },
+    {
+      "title": "Sound and Music",
+      "level": "A2-B1",
+      "words": 118,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Sound is half of the movie experience. Dialogue tells us what characters say. Sound effects make the world feel real. Footsteps, doors, and cars need sound. Music guides the audience emotions strongly. A sad song makes you cry easily. Fast music makes you feel excited. Silence is also a powerful tool. Sometimes no sound is better than noise. Directors decide when to use music. The soundtrack is sold separately sometimes. Good sound design is invisible usually. You do not notice it until it is bad. Modern films use surround sound systems. This puts you inside the action. Never ignore the audio track.",
+      "zh": "说明对白、音效及音乐在电影体验中的重要性。",
+      "points": [
+        "Soundtrack: 原声带，电影配乐合集",
+        "Sound design: 音效设计，创造环境声音的过程",
+        "Surround sound: 环绕声，多声道音频系统"
+      ]
+    },
+    {
+      "title": "Editing Techniques",
+      "level": "A2-B1",
+      "words": 122,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Editing puts all the shots together. It controls the pace of the film. Fast cuts create tension and action. Slow cuts allow time to think. Transitions connect different scenes smoothly. A fade out means the end of a part. A cut is the most common change. Editors remove bad takes from the footage. They choose the best performance always. Continuity is very important in editing. Clothes and positions must match between shots. If not, the audience gets confused. Digital editing makes this work easier. But the skill is still artistic. A good editor saves a bad shot. They shape the final story structure.",
+      "zh": "介绍剪辑如何控制节奏、转场及保证连续性。",
+      "points": [
+        "Fast cuts: 快切，快速切换镜头以增加紧张感",
+        "Continuity: 连续性，确保前后画面逻辑一致",
+        "Takes: 拍摄次数/镜头条数，指同一场景的多次拍摄"
+      ]
+    },
+    {
+      "title": "Christopher Nolan Style",
+      "level": "A2-B1",
+      "words": 128,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Christopher Nolan is famous for complex stories. He loves playing with time in films. Inception shows dreams within dreams. Tenet moves time backwards and forwards. He prefers practical effects over CGI. He blows up real buildings sometimes. He uses IMAX cameras for big scenes. The picture is very clear and large. His movies often have serious tones. Heroes carry heavy burdens alone. Music is loud and powerful in his work. Hans Zimmer often writes his scores. Nolan writes his own scripts usually. He keeps full control of his projects. Fans wait years for his new movies. He is a modern master of cinema.",
+      "zh": "分析诺兰导演的时间叙事、实拍偏好及 IMAX 运用。",
+      "points": [
+        "Practical effects: 实拍特效，非电脑生成的真实效果",
+        "CGI: 电脑生成图像，数字特效技术",
+        "Scores: 配乐，指电影原创音乐作品"
+      ]
+    },
+    {
+      "title": "Quentin Tarantino Style",
+      "level": "A2-B1",
+      "words": 126,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Quentin Tarantino has a very unique voice. His movies have long dialogues first. Characters talk about small things deeply. Then sudden violence happens quickly. He divides films into chapters like books. He uses old songs from the seventies. The music matches the style perfectly. He loves close-ups on faces and feet. His colors are bright and bold always. Violence is stylized not realistic usually. He writes all his own scripts too. Actors love working with him greatly. He references many other old movies. It is a love letter to cinema. You know it is his film instantly. No one else copies this style well.",
+      "zh": "探讨塔伦蒂诺的对白风格、章节结构及暴力美学。",
+      "points": [
+        "Stylized: 风格化的，经过艺术处理而非写实",
+        "References: 致敬/引用，指借鉴其他作品元素",
+        "Instantly: 立即地，马上能识别出来"
+      ]
+    },
+    {
+      "title": "How to Critique a Film",
+      "level": "A2-B1",
+      "words": 124,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Watching movies actively is a skill. Do not just watch for fun only. Think about the story structure clearly. Was the plot logical and interesting? Did the actors believe their roles? Look at the camera work closely. Were the angles meaningful and good? Did the lighting match the mood? Listen to the sound design carefully. Was the music too loud sometimes? Write down your thoughts after watching. Share opinions with friends online. Reading reviews helps you learn more. You can find new words this way. Critiquing makes you a smarter viewer. You appreciate the art form deeply. Start with simple questions today.",
+      "zh": "指导如何主动观影并从剧情、表演、技术层面进行评价。",
+      "points": [
+        "Critique: 评论/评价，指专业的分析而非简单好坏",
+        "Plot: 情节，故事的发展脉络",
+        "Appreciate: 欣赏/领会，理解艺术价值"
+      ]
+    },
+    {
+      "title": "Summary of Visual Language",
+      "level": "A2-B1",
+      "words": 121,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Film is a visual language mostly. It speaks to our eyes directly. Directors use tools to tell stories. Cameras, lights, and colors are words. Editing is the grammar of film. Sound supports the visual message. When all parts work together well. The movie becomes magic for us. You do not need film school strictly. You can learn by watching carefully. Pause the movie to study shots. Ask why the director chose this. Every choice has a reason behind. Understanding this changes your viewing. You see the effort and art. Movies are more than entertainment now. They are complex cultural products. Enjoy learning this new language.",
+      "zh": "总结电影作为视觉语言的构成要素及学习方法。",
+      "points": [
+        "Visual language: 视觉语言，通过画面传达信息的方式",
+        "Grammar: 语法，此处比喻剪辑逻辑",
+        "Complex: 复杂的，多层次的"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "director",
+      "pos": "n.",
+      "meaning_en": "the person who controls how a film is made",
+      "meaning_zh": "导演",
+      "example": "The director asked the actors to try again.",
+      "source": "What Does a Director Do"
+    },
+    {
+      "word": "vision",
+      "pos": "n.",
+      "meaning_en": "a clear idea of what something should be like",
+      "meaning_zh": "愿景/构思",
+      "example": "She has a clear vision for the project.",
+      "source": "What Does a Director Do"
+    },
+    {
+      "word": "credits",
+      "pos": "n.",
+      "meaning_en": "the list of names at the end of a film",
+      "meaning_zh": "演职员表",
+      "example": "Stay until the credits finish.",
+      "source": "What Does a Director Do"
+    },
+    {
+      "word": "angle",
+      "pos": "n.",
+      "meaning_en": "the position from which a camera shoots",
+      "meaning_zh": "角度",
+      "example": "Try a different camera angle.",
+      "source": "Camera Angles Basics"
+    },
+    {
+      "word": "powerful",
+      "pos": "adj.",
+      "meaning_en": "having great strength or influence",
+      "meaning_zh": "强大的",
+      "example": "The low angle makes him look powerful.",
+      "source": "Camera Angles Basics"
+    },
+    {
+      "word": "neutral",
+      "pos": "adj.",
+      "meaning_en": "not supporting either side",
+      "meaning_zh": "中立的",
+      "example": "Keep your opinion neutral.",
+      "source": "Camera Angles Basics"
+    },
+    {
+      "word": "lighting",
+      "pos": "n.",
+      "meaning_en": "the way light is used in a place",
+      "meaning_zh": "灯光/照明",
+      "example": "The lighting in this room is too dark.",
+      "source": "Lighting and Mood"
+    },
+    {
+      "word": "mood",
+      "pos": "n.",
+      "meaning_en": "the feeling or atmosphere of a place",
+      "meaning_zh": "氛围/情绪",
+      "example": "The music changed the mood completely.",
+      "source": "Lighting and Mood"
+    },
+    {
+      "word": "shadow",
+      "pos": "n.",
+      "meaning_en": "a dark area made by an object blocking light",
+      "meaning_zh": "阴影",
+      "example": "He hid in the shadow.",
+      "source": "Lighting and Mood"
+    },
+    {
+      "word": "silhouette",
+      "pos": "n.",
+      "meaning_en": "a dark shape seen against a light background",
+      "meaning_zh": "剪影",
+      "example": "The tree made a black silhouette.",
+      "source": "Lighting and Mood"
+    },
+    {
+      "word": "color",
+      "pos": "n.",
+      "meaning_en": "the property of objects seen by light",
+      "meaning_zh": "颜色",
+      "example": "Red is my favorite color.",
+      "source": "Color in Movies"
+    },
+    {
+      "word": "palette",
+      "pos": "n.",
+      "meaning_en": "a range of colors used in a project",
+      "meaning_zh": "调色板/色彩方案",
+      "example": "The artist chose a warm palette.",
+      "source": "Color in Movies"
+    },
+    {
+      "word": "grade",
+      "pos": "v.",
+      "meaning_en": "to change the color quality of video",
+      "meaning_zh": "调色",
+      "example": "They will grade the footage tomorrow.",
+      "source": "Color in Movies"
+    },
+    {
+      "word": "sound",
+      "pos": "n.",
+      "meaning_en": "vibrations that can be heard",
+      "meaning_zh": "声音",
+      "example": "Turn up the sound please.",
+      "source": "Sound and Music"
+    },
+    {
+      "word": "dialogue",
+      "pos": "n.",
+      "meaning_en": "conversation between characters",
+      "meaning_zh": "对白",
+      "example": "The dialogue was very funny.",
+      "source": "Sound and Music"
+    },
+    {
+      "word": "soundtrack",
+      "pos": "n.",
+      "meaning_en": "the music recorded for a film",
+      "meaning_zh": "原声带",
+      "example": "I bought the movie soundtrack.",
+      "source": "Sound and Music"
+    },
+    {
+      "word": "edit",
+      "pos": "v.",
+      "meaning_en": "to prepare video by cutting and joining",
+      "meaning_zh": "剪辑",
+      "example": "It takes hours to edit a video.",
+      "source": "Editing Techniques"
+    },
+    {
+      "word": "pace",
+      "pos": "n.",
+      "meaning_en": "the speed at which something happens",
+      "meaning_zh": "节奏",
+      "example": "The pace of the movie was slow.",
+      "source": "Editing Techniques"
+    },
+    {
+      "word": "continuity",
+      "pos": "n.",
+      "meaning_en": "consistency in details across scenes",
+      "meaning_zh": "连续性",
+      "example": "There was a continuity error in the film.",
+      "source": "Editing Techniques"
+    },
+    {
+      "word": "complex",
+      "pos": "adj.",
+      "meaning_en": "consisting of many connected parts",
+      "meaning_zh": "复杂的",
+      "example": "The plot is too complex for kids.",
+      "source": "Christopher Nolan Style"
+    },
+    {
+      "word": "effect",
+      "pos": "n.",
+      "meaning_en": "a change produced by an action",
+      "meaning_zh": "效果",
+      "example": "The special effects were amazing.",
+      "source": "Christopher Nolan Style"
+    },
+    {
+      "word": "unique",
+      "pos": "adj.",
+      "meaning_en": "being the only one of its kind",
+      "meaning_zh": "独特的",
+      "example": "His style is very unique.",
+      "source": "Quentin Tarantino Style"
+    },
+    {
+      "word": "violence",
+      "pos": "n.",
+      "meaning_en": "behavior involving physical force",
+      "meaning_zh": "暴力",
+      "example": "The movie has too much violence.",
+      "source": "Quentin Tarantino Style"
+    },
+    {
+      "word": "critique",
+      "pos": "v.",
+      "meaning_en": "to evaluate something in detail",
+      "meaning_zh": "评价/评论",
+      "example": "Students learn to critique art.",
+      "source": "How to Critique a Film"
+    },
+    {
+      "word": "plot",
+      "pos": "n.",
+      "meaning_en": "the main story of a book or film",
+      "meaning_zh": "情节",
+      "example": "The plot had a big surprise.",
+      "source": "How to Critique a Film"
+    },
+    {
+      "word": "visual",
+      "pos": "adj.",
+      "meaning_en": "related to seeing or sight",
+      "meaning_zh": "视觉的",
+      "example": "The visual quality is high.",
+      "source": "Summary of Visual Language"
+    },
+    {
+      "word": "grammar",
+      "pos": "n.",
+      "meaning_en": "the rules of a language system",
+      "meaning_zh": "语法",
+      "example": "Editing is the grammar of film.",
+      "source": "Summary of Visual Language"
+    },
+    {
+      "word": "crew",
+      "pos": "n.",
+      "meaning_en": "a group of people working together",
+      "meaning_zh": "团队/工作人员",
+      "example": "The film crew arrived early.",
+      "source": "What Does a Director Do"
+    },
+    {
+      "word": "performance",
+      "pos": "n.",
+      "meaning_en": "the act of playing a role",
+      "meaning_zh": "表演",
+      "example": "Her performance won an award.",
+      "source": "What Does a Director Do"
+    },
+    {
+      "word": "scene",
+      "pos": "n.",
+      "meaning_en": "a part of a film in one place",
+      "meaning_zh": "场景",
+      "example": "This scene is very emotional.",
+      "source": "Lighting and Mood"
+    },
+    {
+      "word": "shot",
+      "pos": "n.",
+      "meaning_en": "a continuous piece of filming",
+      "meaning_zh": "镜头",
+      "example": "That was a difficult shot to take.",
+      "source": "Editing Techniques"
+    },
+    {
+      "word": "transition",
+      "pos": "n.",
+      "meaning_en": "a change from one state to another",
+      "meaning_zh": "转场/过渡",
+      "example": "The transition was very smooth.",
+      "source": "Editing Techniques"
+    },
+    {
+      "word": "audience",
+      "pos": "n.",
+      "meaning_en": "the group of people watching",
+      "meaning_zh": "观众",
+      "example": "The audience laughed loudly.",
+      "source": "Sound and Music"
+    },
+    {
+      "word": "emotion",
+      "pos": "n.",
+      "meaning_en": "a strong feeling like love or fear",
+      "meaning_zh": "情绪/情感",
+      "example": "The music showed deep emotion.",
+      "source": "Color in Movies"
+    },
+    {
+      "word": "style",
+      "pos": "n.",
+      "meaning_en": "a particular way of doing something",
+      "meaning_zh": "风格",
+      "example": "I like your writing style.",
+      "source": "Quentin Tarantino Style"
+    },
+    {
+      "word": "art",
+      "pos": "n.",
+      "meaning_en": "creative work like painting or film",
+      "meaning_zh": "艺术",
+      "example": "Film is a modern art form.",
+      "source": "Summary of Visual Language"
+    }
+  ],
+  "status": "ready",
+  "generatedBy": "claude",
+  "savedAt": "2026-09-30T11:44:42.710Z"
+}

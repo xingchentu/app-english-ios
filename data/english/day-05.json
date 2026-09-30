@@ -1,0 +1,496 @@
+{
+  "day": 5,
+  "date": "2026-09-24",
+  "theme": "电视剧 · Friends 咖啡馆日常对话",
+  "domain": "电视剧",
+  "level": "A2 → B1",
+  "goals": [
+    "掌握咖啡馆场景下的点餐与闲聊常用表达",
+    "理解 Friends 剧中高频口语短语的实际用法",
+    "通过情境记忆 30 个核心词汇并能造句",
+    "提升无字幕观看短片时的听力捕捉能力"
+  ],
+  "tasks": [
+    {
+      "text": "观看 3 个视频片段，注意人物点餐用语",
+      "minutes": 15
+    },
+    {
+      "text": "精读前 5 篇短文，划出不懂的动词",
+      "minutes": 20
+    },
+    {
+      "text": "学习 30 个核心词汇，尝试口头造句",
+      "minutes": 15
+    },
+    {
+      "text": "阅读后 5 篇短文并观看剩余 3 个视频",
+      "minutes": 10
+    }
+  ],
+  "mustLearn": [
+    {
+      "title": "点餐句型结构",
+      "type": "expression",
+      "content": "English: 'I'll have a coffee.' / 'Can I get a latte?' \nChinese: 这是最地道的点餐方式，不用 'I want'。\nPoints: 'I'll have' 表示决定，'Can I get' 表示请求，比 'I want' 更礼貌自然。"
+    },
+    {
+      "title": "问候与回应",
+      "type": "expression",
+      "content": "English: 'How's it going?' / 'Same old, same old.' \nChinese: 熟人之间的非正式问候，不需要详细回答。\nPoints: 'Same old' 表示生活没什么变化，是美剧高频口语。"
+    },
+    {
+      "title": "一般现在时态",
+      "type": "grammar",
+      "content": "English: 'He works here.' / 'She drinks tea.' \nChinese: 描述习惯或事实时使用动词原形或第三人称单数。\nPoints: 注意第三人称单数动词加 's'，如 works, drinks, likes。"
+    },
+    {
+      "title": "情感表达短语",
+      "type": "expression",
+      "content": "English: 'I'm so tired.' / 'That sounds great.' \nChinese: 直接表达感受或对建议的反馈。\nPoints: 'Sounds great' 用于赞同，'I'm tired' 用于陈述状态，简单实用。"
+    }
+  ],
+  "expand": [
+    {
+      "title": "文化注释：小费文化",
+      "type": "note",
+      "content": "在美国咖啡馆，结账时通常会给 15%-20% 的小费 (tip)。剧中 Gunther 是服务员，顾客离开前会留钱在桌上。"
+    },
+    {
+      "title": "同义替换：好的",
+      "type": "note",
+      "content": "除了 'Good'，还可以说 'Great', 'Awesome', 'Perfect'。在咖啡馆场景，'Perfect' 常用来形容咖啡口味。"
+    },
+    {
+      "title": "进阶例句：复杂点餐",
+      "type": "note",
+      "content": "'Can I get a large latte with oat milk and extra sugar?' (我可以要大杯燕麦奶拿铁，多加糖吗？) 尝试添加细节。"
+    },
+    {
+      "title": "背景知识：Central Perk",
+      "type": "note",
+      "content": "剧中咖啡馆名为 Central Perk，是六人行固定的聚会地点。现实中纽约有开设同名主题咖啡馆。"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Friends Central Perk Best Scenes",
+      "url": "https://www.youtube.com/results?search_query=Friends+Central+Perk+best+scenes",
+      "channel": "Friends TV Show",
+      "minutes": 10,
+      "desc": "精选咖啡馆经典片段，适合观察互动"
+    },
+    {
+      "title": "Learn English with Friends Coffee",
+      "url": "https://www.youtube.com/results?search_query=Learn+English+with+Friends+coffee+shop",
+      "channel": "English with Lucy",
+      "minutes": 8,
+      "desc": "老师讲解剧中点餐词汇用法"
+    },
+    {
+      "title": "Friends Ordering Food Dialogue",
+      "url": "https://www.youtube.com/results?search_query=Friends+ordering+food+dialogue",
+      "channel": "Learn English With TV Series",
+      "minutes": 6,
+      "desc": "专注分析点餐对话细节"
+    },
+    {
+      "title": "Gunther Waiter Moments",
+      "url": "https://www.youtube.com/results?search_query=Friends+Gunther+waiter+moments",
+      "channel": "Friends Clips",
+      "minutes": 7,
+      "desc": "服务员 Gunther 的经典镜头合集"
+    },
+    {
+      "title": "Friends Café Vocabulary Lesson",
+      "url": "https://www.youtube.com/results?search_query=Friends+cafe+vocabulary+lesson",
+      "channel": "BBC Learning English",
+      "minutes": 5,
+      "desc": "系统学习咖啡馆相关词汇"
+    },
+    {
+      "title": "Friends Cast Interview About Café",
+      "url": "https://www.youtube.com/results?search_query=Friends+cast+interview+about+cafe",
+      "channel": "Entertainment Tonight",
+      "minutes": 9,
+      "desc": "演员访谈提及咖啡馆场景幕后"
+    }
+  ],
+  "articles": [
+    {
+      "title": "Welcome to Central Perk",
+      "level": "A2-B1",
+      "words": 120,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Welcome to Central Perk. It is a famous coffee shop in New York City. Six friends meet here every day. They sit on the big orange sofa. They drink hot coffee and eat cake. The shop is always busy. People talk about their lives. The waiter is named Gunther. He likes Rachel very much. The lights are warm and soft. Music plays in the background. It feels like home. Friends laugh and cry together. This place is special for them. It is the heart of the show. Everyone wants to visit this shop. It represents friendship and love. You can learn many words here. The dialogues are simple and clear. Listen to how they order food. Watch how they greet each other. It is good for English learning.",
+      "zh": "介绍 Central Perk 咖啡馆的基本环境与氛围。",
+      "points": [
+        "meet here: 在这里见面，地点副词 here 放在动词后",
+        "named Gunther: 名叫 Gunther，过去分词作后置定语"
+      ]
+    },
+    {
+      "title": "Ordering Coffee",
+      "level": "A2-B1",
+      "words": 115,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Joey walks to the counter. He looks at the menu board. There are many choices. He wants a large coffee. He also wants some cookies. Gunther stands behind the counter. He wears a white shirt. Joey says, I will have a coffee. Gunther asks, Do you want milk? Joey says, Yes, please. He pays with cash. The coffee is hot. He blows on the cup. It smells very good. His friends wait at the table. They talk about movies. Joey brings the drinks back. Everyone says thank you. This is a normal morning. They do this many times. Ordering is easy here. You just say what you want. Be polite to the waiter. Smile when you speak.",
+      "zh": "描述 Joey 点餐的具体流程与对话。",
+      "points": [
+        "walks to: 走向，动词加 s 表示第三人称单数",
+        "pays with cash: 用现金支付，介词 with 表示方式"
+      ]
+    },
+    {
+      "title": "The Orange Sofa",
+      "level": "A2-B1",
+      "words": 110,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "The orange sofa is famous. It is in the center of the room. Only the six friends sit there. Other people sit on chairs. The sofa is very comfortable. It is old but soft. Sometimes they fight for seats. Who sits in the middle? Who sits on the end? They joke about this. The color is bright. It matches the walls. People take photos with it. It is a symbol of the show. If you visit New York, look for it. Many fans love this sofa. It represents their bond. They share secrets there. They eat breakfast there. It is their safe place. No one else can sit there. It is a funny rule. But everyone knows it. The sofa is iconic.",
+      "zh": "讲述标志性的橙色沙发及其象征意义。",
+      "points": [
+        "in the center: 在中心，固定搭配",
+        "fight for: 争夺，介词 for 表示目的"
+      ]
+    },
+    {
+      "title": "Gunther the Waiter",
+      "level": "A2-B1",
+      "words": 125,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Gunther works at the café. He is the manager and waiter. He has blonde hair. He always wears an apron. He cleans the tables. He makes coffee every day. He loves Rachel Green. But he never tells her. He watches her from afar. He is sometimes jealous. He does not like Ross. But he serves them well. He is a good worker. He knows their orders. He prepares the cups. He smiles at customers. His job is important. Without him, no coffee. He keeps the shop clean. He handles the money. He is part of the group. Even though he is staff. People remember his face. He is very quiet. But his eyes say much. He is a key character.",
+      "zh": "介绍服务员 Gunther 的角色与工作状态。",
+      "points": [
+        "wears an apron: 穿着围裙，wear 表示穿着状态",
+        "from afar: 从远处，固定短语"
+      ]
+    },
+    {
+      "title": "Joey Loves Food",
+      "level": "A2-B1",
+      "words": 130,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Joey loves to eat. He orders many things. He likes sandwiches and pizza. He also likes coffee. He never shares his food. He says, Joey does not share food. His friends laugh at him. He eats very fast. He is always hungry. He works as an actor. But he loves food more. He tries new dishes. He asks for extra cheese. He drinks water too. He sits at the table. He talks with his mouth full. It is not polite. But he is funny. His friends accept him. They buy him cake. They know he is hungry. Food makes him happy. It is his passion. He talks about recipes. He knows many restaurants. He is a foodie.",
+      "zh": "描述 Joey 对食物的热爱与饮食习惯。",
+      "points": [
+        "shares his food: 分享他的食物，share 及物动词",
+        "with his mouth full: 嘴里满是食物，with 复合结构"
+      ]
+    },
+    {
+      "title": "Rachel Starts Work",
+      "level": "A2-B1",
+      "words": 120,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Rachel gets a job here. She is a waitress. She wears a uniform. It is black and white. She carries a tray. She serves coffee to people. She learns the menu. She makes mistakes at first. She drops a cup. She forgets orders. But she tries hard. Gunther helps her. He teaches her rules. She meets many customers. Some are nice. Some are rude. She earns money now. She is independent. She feels proud. Her friends support her. They come to drink. They tip her well. It is her first step. She leaves her dad. She stands on her own. Work is difficult. But she succeeds. She grows up here.",
+      "zh": "讲述 Rachel 在咖啡馆开始工作的经历。",
+      "points": [
+        "gets a job: 得到一份工作，get 表示获得",
+        "stands on her own: 独立自主，固定表达"
+      ]
+    },
+    {
+      "title": "Phoebe Sings",
+      "level": "A2-B1",
+      "words": 115,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Phoebe plays the guitar. She sits on a stool. She sings songs for friends. Her voice is unique. Some people love it. Some cover their ears. She writes her own lyrics. She sings about cats. She sings about life. The café allows her. It is part of the show. She plays every week. She earns some tips. People listen quietly. Or they talk loudly. She does not mind. She loves music. It is her dream. She carries her guitar. It is always with her. She sings in the corner. The lights shine on her. She feels happy there. Music brings joy. Her friends clap hands. They are her fans. She is an artist.",
+      "zh": "描述 Phoebe 在咖啡馆弹唱的场景。",
+      "points": [
+        "plays the guitar: 弹吉他，乐器前加 the",
+        "does not mind: 不介意，mind 动词"
+      ]
+    },
+    {
+      "title": "Daily Gossip",
+      "level": "A2-B1",
+      "words": 125,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Friends talk about gossip. They sit in a circle. They share news today. Who dated whom? Who lost a job? They laugh at stories. They give advice too. Monica cleans everything. Chandler makes jokes. Ross talks about dinosaurs. They are very different. But they listen well. They care about each other. The café is quiet enough. They can hear clearly. No one interrupts them. They stay for hours. They drink many cups. The bill gets high. They split the cost. Everyone pays a share. It is fair and easy. Gossip builds connection. It keeps them close. They know all secrets. This is friendship.",
+      "zh": "描述朋友们在咖啡馆闲聊八卦的日常。",
+      "points": [
+        "talk about: 谈论，固定短语",
+        "split the cost: 分摊费用，常用表达"
+      ]
+    },
+    {
+      "title": "Closing Time",
+      "level": "A2-B1",
+      "words": 110,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "The sun goes down. The café closes soon. Gunther turns off lights. He locks the door. Friends say goodbye. They put on coats. They walk to the street. The night is cool. They promise to return. Tomorrow they will come. They love this place. It is their routine. Life goes on outside. But here time stops. They feel safe inside. The chairs are upside down. The tables are wiped clean. Another day ends well. They wave to Gunther. He waves back slowly. He waits for Rachel. But she leaves early. He sighs alone. The shop is dark now. Until tomorrow morning. The cycle continues.",
+      "zh": "描述咖啡馆打烊时的情景与告别。",
+      "points": [
+        "turns off: 关闭，动词短语",
+        "puts on: 穿上，动词短语"
+      ]
+    },
+    {
+      "title": "Why We Love It",
+      "level": "A2-B1",
+      "words": 135,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Why do we love this show? Because it feels real. The café is familiar. We all have such places. We meet friends there. We drink coffee too. The English is useful. You can use it now. Go to a shop today. Order like Joey. Sit like Rachel. Talk like Chandler. It helps your speaking. It builds confidence. You do not need grammar. You need communication. The scenes are short. You can watch again. Repeat the lines. Mimic the voices. Your accent will improve. Your vocabulary will grow. Learning is fun this way. Do not be afraid. Just start talking. Friends are waiting. The coffee is ready.",
+      "zh": "总结为何通过该剧学习咖啡馆英语有效。",
+      "points": [
+        "feels real: 感觉真实，系动词 feel 加形容词",
+        "be afraid: 害怕，be 动词加形容词"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "coffee",
+      "pos": "n.",
+      "meaning_en": "a hot dark drink made from beans",
+      "meaning_zh": "咖啡",
+      "example": "I drink a cup of coffee every morning.",
+      "source": "Welcome to Central Perk"
+    },
+    {
+      "word": "shop",
+      "pos": "n.",
+      "meaning_en": "a place where things are sold",
+      "meaning_zh": "商店",
+      "example": "This coffee shop is very popular.",
+      "source": "Welcome to Central Perk"
+    },
+    {
+      "word": "meet",
+      "pos": "v.",
+      "meaning_en": "to come together with someone",
+      "meaning_zh": "见面",
+      "example": "We meet here at 5 PM.",
+      "source": "Welcome to Central Perk"
+    },
+    {
+      "word": "sofa",
+      "pos": "n.",
+      "meaning_en": "a long seat for two or more people",
+      "meaning_zh": "沙发",
+      "example": "They sit on the orange sofa.",
+      "source": "The Orange Sofa"
+    },
+    {
+      "word": "waiter",
+      "pos": "n.",
+      "meaning_en": "a person who serves food in a restaurant",
+      "meaning_zh": "服务员",
+      "example": "The waiter brings the menu.",
+      "source": "Gunther the Waiter"
+    },
+    {
+      "word": "menu",
+      "pos": "n.",
+      "meaning_en": "a list of food and drinks",
+      "meaning_zh": "菜单",
+      "example": "He looks at the menu board.",
+      "source": "Ordering Coffee"
+    },
+    {
+      "word": "order",
+      "pos": "v.",
+      "meaning_en": "to ask for food or drink",
+      "meaning_zh": "点餐",
+      "example": "I want to order a latte.",
+      "source": "Ordering Coffee"
+    },
+    {
+      "word": "cash",
+      "pos": "n.",
+      "meaning_en": "money in coins or notes",
+      "meaning_zh": "现金",
+      "example": "He pays with cash.",
+      "source": "Ordering Coffee"
+    },
+    {
+      "word": "counter",
+      "pos": "n.",
+      "meaning_en": "a long flat surface in a shop",
+      "meaning_zh": "柜台",
+      "example": "She stands behind the counter.",
+      "source": "Ordering Coffee"
+    },
+    {
+      "word": "uniform",
+      "pos": "n.",
+      "meaning_en": "special clothes for work",
+      "meaning_zh": "制服",
+      "example": "She wears a black and white uniform.",
+      "source": "Rachel Starts Work"
+    },
+    {
+      "word": "tray",
+      "pos": "n.",
+      "meaning_en": "a flat plate for carrying things",
+      "meaning_zh": "托盘",
+      "example": "She carries a tray with cups.",
+      "source": "Rachel Starts Work"
+    },
+    {
+      "word": "tips",
+      "pos": "n.",
+      "meaning_en": "extra money for good service",
+      "meaning_zh": "小费",
+      "example": "She earns some tips from customers.",
+      "source": "Phoebe Sings"
+    },
+    {
+      "word": "guitar",
+      "pos": "n.",
+      "meaning_en": "a musical instrument with strings",
+      "meaning_zh": "吉他",
+      "example": "Phoebe plays the guitar.",
+      "source": "Phoebe Sings"
+    },
+    {
+      "word": "sing",
+      "pos": "v.",
+      "meaning_en": "to make music with voice",
+      "meaning_zh": "唱歌",
+      "example": "She sings songs for friends.",
+      "source": "Phoebe Sings"
+    },
+    {
+      "word": "gossip",
+      "pos": "n.",
+      "meaning_en": "talk about other people's lives",
+      "meaning_zh": "八卦",
+      "example": "Friends talk about gossip.",
+      "source": "Daily Gossip"
+    },
+    {
+      "word": "advice",
+      "pos": "n.",
+      "meaning_en": "suggestions about what to do",
+      "meaning_zh": "建议",
+      "example": "They give advice to each other.",
+      "source": "Daily Gossip"
+    },
+    {
+      "word": "bill",
+      "pos": "n.",
+      "meaning_en": "a paper showing how much to pay",
+      "meaning_zh": "账单",
+      "example": "The bill gets high.",
+      "source": "Daily Gossip"
+    },
+    {
+      "word": "split",
+      "pos": "v.",
+      "meaning_en": "to divide into parts",
+      "meaning_zh": "分摊",
+      "example": "They split the cost.",
+      "source": "Daily Gossip"
+    },
+    {
+      "word": "close",
+      "pos": "v.",
+      "meaning_en": "to shut a business",
+      "meaning_zh": "打烊",
+      "example": "The café closes soon.",
+      "source": "Closing Time"
+    },
+    {
+      "word": "lock",
+      "pos": "v.",
+      "meaning_en": "to secure a door",
+      "meaning_zh": "锁上",
+      "example": "He locks the door.",
+      "source": "Closing Time"
+    },
+    {
+      "word": "routine",
+      "pos": "n.",
+      "meaning_en": "a regular way of doing things",
+      "meaning_zh": "常规",
+      "example": "It is their routine.",
+      "source": "Closing Time"
+    },
+    {
+      "word": "real",
+      "pos": "adj.",
+      "meaning_en": "actually existing",
+      "meaning_zh": "真实的",
+      "example": "Because it feels real.",
+      "source": "Why We Love It"
+    },
+    {
+      "word": "useful",
+      "pos": "adj.",
+      "meaning_en": "helpful for a purpose",
+      "meaning_zh": "有用的",
+      "example": "The English is useful.",
+      "source": "Why We Love It"
+    },
+    {
+      "word": "confidence",
+      "pos": "n.",
+      "meaning_en": "belief in your own ability",
+      "meaning_zh": "自信",
+      "example": "It builds confidence.",
+      "source": "Why We Love It"
+    },
+    {
+      "word": "mimic",
+      "pos": "v.",
+      "meaning_en": "to copy someone's voice",
+      "meaning_zh": "模仿",
+      "example": "Mimic the voices.",
+      "source": "Why We Love It"
+    },
+    {
+      "word": "accent",
+      "pos": "n.",
+      "meaning_en": "way of pronouncing words",
+      "meaning_zh": "口音",
+      "example": "Your accent will improve.",
+      "source": "Why We Love It"
+    },
+    {
+      "word": "comfortable",
+      "pos": "adj.",
+      "meaning_en": "giving physical ease",
+      "meaning_zh": "舒适的",
+      "example": "The sofa is very comfortable.",
+      "source": "The Orange Sofa"
+    },
+    {
+      "word": "famous",
+      "pos": "adj.",
+      "meaning_en": "known by many people",
+      "meaning_zh": "著名的",
+      "example": "The orange sofa is famous.",
+      "source": "The Orange Sofa"
+    },
+    {
+      "word": "manager",
+      "pos": "n.",
+      "meaning_en": "person in charge of a business",
+      "meaning_zh": "经理",
+      "example": "He is the manager and waiter.",
+      "source": "Gunther the Waiter"
+    },
+    {
+      "word": "apron",
+      "pos": "n.",
+      "meaning_en": "clothing to protect clothes while working",
+      "meaning_zh": "围裙",
+      "example": "He always wears an apron.",
+      "source": "Gunther the Waiter"
+    }
+  ],
+  "status": "ready",
+  "generatedBy": "claude",
+  "savedAt": "2026-09-30T11:52:17.989Z"
+}

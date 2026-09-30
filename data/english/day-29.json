@@ -1,0 +1,506 @@
+{
+  "day": 29,
+  "date": "2026-10-18",
+  "theme": "旅游 · 旅行中的突发状况处理",
+  "domain": "旅游",
+  "level": "A2 → B1",
+  "goals": [
+    "掌握处理护照丢失、航班延误等突发状况的核心词汇",
+    "能够用英语向酒店或航空公司描述问题并提出诉求",
+    "理解旅行保险的基本条款与理赔流程",
+    "提升在压力情境下的听力理解与口语反应能力"
+  ],
+  "tasks": [
+    {
+      "text": "精读 5 篇核心文章（丢失护照、医疗 emergency、保险等），标注生词",
+      "minutes": 25
+    },
+    {
+      "text": "观看 3 个视频（机场沟通、安全 tips），跟读关键句型",
+      "minutes": 15
+    },
+    {
+      "text": "记忆 30 个核心词汇，造句练习",
+      "minutes": 10
+    },
+    {
+      "text": "模拟对话：假设行李丢失，编写并朗读索赔对话",
+      "minutes": 10
+    }
+  ],
+  "mustLearn": [
+    {
+      "title": "关键表达：报告丢失",
+      "type": "expression",
+      "content": "English: 'I need to report a lost item.' / 'Has anyone turned in a...?' \nChinese: 我需要报告物品丢失。/ 有人上交过...吗？\nAnalysis: 'Report' 是正式场合常用词，比 'say' 更准确。'Turn in' 是短语动词，意为上交。"
+    },
+    {
+      "title": "语法点：情态动词表建议",
+      "type": "grammar",
+      "content": "English: 'You should contact the embassy.' / 'You had better keep a copy.' \nChinese: 你应该联系大使馆。/ 你最好保留一份复印件。\nAnalysis: 'Should' 表一般建议，'Had better' 语气更强，暗示不做会有后果。"
+    },
+    {
+      "title": "场景对话：酒店投诉",
+      "type": "article",
+      "content": "English: Guest: 'The air conditioning is not working.' Manager: 'We will send someone up.' \nChinese: 客人：空调坏了。经理：我们会派人上去。\nAnalysis: 直接陈述问题 'is not working' 比 'is broken' 更礼貌。'Send someone up' 是酒店常用语。"
+    },
+    {
+      "title": "词汇辨析：Claim vs Report",
+      "type": "expression",
+      "content": "English: 'File a claim' (insurance) vs 'Report to police' (crime/loss). \nChinese: 提出索赔（保险）vs 向警方报案（犯罪/丢失）。\nAnalysis: 'Claim' 侧重于要求赔偿权利，'Report' 侧重于告知事实记录在案。"
+    }
+  ],
+  "expand": [
+    {
+      "title": "文化注释：小费与投诉",
+      "type": "note",
+      "content": "在欧美酒店，遇到问题先礼貌沟通，解决后可适当给小费表示感谢。直接愤怒争吵通常不利于解决问题。"
+    },
+    {
+      "title": "同义替换：Problem",
+      "type": "note",
+      "content": "Issue, Situation, Matter, Trouble. 在正式场合用 'Issue' 比 'Problem' 听起来更中性、专业。"
+    },
+    {
+      "title": "背景知识： embassy 流程",
+      "type": "note",
+      "content": "护照丢失后，第一步是当地警察局报案，第二步才是去中国大使馆申请旅行证，顺序不可颠倒。"
+    },
+    {
+      "title": "进阶例句：保险理赔",
+      "type": "note",
+      "content": "'Please provide all original receipts for reimbursement.' (请提供所有原始收据以便报销。) 注意 'original' 的重要性。"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Lost Passport What To Do",
+      "url": "https://www.youtube.com/results?search_query=lost+passport+what+to+do+english",
+      "channel": "Travel Safe",
+      "minutes": 8,
+      "desc": "讲解护照丢失后的紧急处理步骤和英文表达。"
+    },
+    {
+      "title": "Airport Delay Announcements",
+      "url": "https://www.youtube.com/results?search_query=airport+flight+delay+announcement+english",
+      "channel": "English for Travel",
+      "minutes": 6,
+      "desc": "模拟机场航班延误广播，训练听力捕捉关键信息。"
+    },
+    {
+      "title": "Travel Insurance Explained",
+      "url": "https://www.youtube.com/results?search_query=travel+insurance+explained+simple+english",
+      "channel": "Finance Simple",
+      "minutes": 10,
+      "desc": "用简单英语解释旅行保险覆盖范围和理赔流程。"
+    },
+    {
+      "title": "Hotel Complaint Dialogue",
+      "url": "https://www.youtube.com/results?search_query=hotel+complaint+dialogue+english+learning",
+      "channel": "Speak English Pro",
+      "minutes": 7,
+      "desc": "展示如何在酒店前台礼貌地投诉房间设施问题。"
+    },
+    {
+      "title": "Medical Emergency Abroad",
+      "url": "https://www.youtube.com/results?search_query=medical+emergency+phrases+for+travelers",
+      "channel": "Health Travel",
+      "minutes": 9,
+      "desc": "学习在国外生病或受伤时如何描述症状和求助。"
+    },
+    {
+      "title": "Lost Luggage Claim Process",
+      "url": "https://www.youtube.com/results?search_query=lost+luggage+claim+process+airport",
+      "channel": "Airport Guide",
+      "minutes": 8,
+      "desc": "演示在机场行李转盘处发现行李丢失后的申报流程。"
+    }
+  ],
+  "articles": [
+    {
+      "title": "The Lost Passport Scenario",
+      "level": "A2-B1",
+      "words": 120,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Imagine you are in Paris. You reach for your wallet, but your passport is gone. Panic starts, but stay calm. First, check your hotel room and bags again. If it is truly lost, go to the nearest police station. You need a police report. This paper is very important. Next, contact your country's embassy. They can issue a temporary travel document. Do not leave the city without this document. Keep a digital copy of your passport on your phone. It helps speed up the process. Always keep your passport in a safe place, not in your back pocket.",
+      "zh": "描述在巴黎丢失护照后的冷静处理步骤，包括报警和联系大使馆。",
+      "points": [
+        "Panic starts: 恐慌开始，常用搭配 keep calm 对抗 panic。",
+        "Issue a document: 签发文件，issue 是正式用语。",
+        "Digital copy: 电子复印件，旅行必备安全措施。"
+      ]
+    },
+    {
+      "title": "Missing the Flight",
+      "level": "A2-B1",
+      "words": 115,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "You arrive at the gate, but the door is closed. You missed your flight. This is stressful. Go to the airline counter immediately. Do not argue with the staff. Ask politely if there is another flight today. Sometimes, they can put you on a standby list. If you have travel insurance, check if it covers missed flights. Weather or traffic might be valid reasons for compensation. However, if you woke up late, you must pay for the new ticket. Learn from this mistake. Next time, arrive at the airport three hours early for international trips. Planning prevents problems.",
+      "zh": "讲述错过航班后的应对措施，区分可赔偿与需自费的情况。",
+      "points": [
+        "Standby list: 候补名单，指等待有空位时登机。",
+        "Compensation: 赔偿金，通常指因航空公司原因导致的延误。",
+        "Planning prevents problems: 计划能防止问题，实用谚语。"
+      ]
+    },
+    {
+      "title": "Hotel Booking Error",
+      "level": "A2-B1",
+      "words": 130,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "You arrive at the hotel, but they have no record of your booking. You show them the email confirmation on your phone. The manager looks confused. He says the system is down. You need a room now. Ask for a room in a nearby partner hotel. The current hotel should pay for the first night. This is standard practice. Keep all receipts. Do not accept a room that is much worse than what you booked. If the price is higher, ask the hotel to cover the difference. Write down the manager's name. Follow up with an email later to ensure you get a refund.",
+      "zh": "处理酒店订单丢失的突发状况，强调保留证据和争取权益。",
+      "points": [
+        "Record of your booking: 预订记录，record 此处作名词。",
+        "Cover the difference: 补足差价，常用商务表达。",
+        "Follow up: 跟进，指事后确认处理结果。"
+      ]
+    },
+    {
+      "title": "Medical Emergency Abroad",
+      "level": "A2-B1",
+      "words": 125,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "You feel sick during your trip. You have a high fever and a headache. You cannot speak the local language well. Go to a large hospital, not a small clinic. Show your insurance card to the receptionist. Say 'I need a doctor who speaks English.' If you have pain, point to the area on your body. Use a translation app if necessary. Keep all medical reports and receipts. You will need them for insurance claims later. Do not buy medicine from street vendors. Only use prescribed medicine from licensed pharmacies. Your health is more important than saving money.",
+      "zh": "指导在国外生病时的就医流程，强调语言沟通和保留单据。",
+      "points": [
+        "Receptionist: 接待员，医院前台人员。",
+        "Prescribed medicine: 处方药，需医生开具。",
+        "Licensed pharmacies: 持牌药店，确保药品安全。"
+      ]
+    },
+    {
+      "title": "Lost Luggage Claim",
+      "level": "A2-B1",
+      "words": 118,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "You wait at the baggage carousel, but your bag does not appear. Wait until the belt stops. Then go to the baggage service office. Fill out a Property Irregularity Report (PIR). Give them a description of your bag. Color, brand, and size matter. Take a photo of the report. Ask when they will deliver the bag to your hotel. If your bag is lost forever, you can claim compensation. Keep tags from your checked bags. They have the tracking number. It takes time, so be patient. Most airlines find the bags within two days.",
+      "zh": "描述行李丢失后的申报流程，包括填写报告和追踪标签。",
+      "points": [
+        "Baggage carousel: 行李传送带，机场专用词汇。",
+        "Property Irregularity Report: 行李事故报告，正式术语 PIR。",
+        "Tracking number: 追踪号码，用于查询行李位置。"
+      ]
+    },
+    {
+      "title": "Travel Insurance Basics",
+      "level": "A2-B1",
+      "words": 135,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Travel insurance is not just for sickness. It covers trip cancellation, lost bags, and delays. Read the policy carefully before you buy. Some policies do not cover extreme sports. If you plan to ski or dive, check the terms. When you make a claim, you need proof. For delay, keep your boarding pass. For theft, you need a police report. Call the insurance company as soon as possible. They have a 24-hour hotline. Do not wait until you return home. Knowing your coverage gives you peace of mind. It is a small cost for big safety.",
+      "zh": "介绍旅行保险的覆盖范围，强调阅读条款和及时报案。",
+      "points": [
+        "Policy: 保单，指保险合同文件。",
+        "Extreme sports: 极限运动，通常需额外保险。",
+        "Peace of mind: 安心，常用习语。"
+      ]
+    },
+    {
+      "title": "Money Card Blocked",
+      "level": "A2-B1",
+      "words": 122,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "You try to pay for dinner, but your card is declined. This is embarrassing. Call your bank immediately. They might think it is fraud because you are in a different country. Tell them you are traveling. They can unlock your card. Always bring a backup card. Keep some cash in a separate place. Do not keep all money in one wallet. Use ATMs inside banks, not on the street. It is safer. Inform your bank before you leave home. This prevents the block from happening. Digital wallets like Apple Pay are also good alternatives.",
+      "zh": "解决银行卡被冻结的尴尬情况，提供预防和使用备选方案。",
+      "points": [
+        "Declined: 被拒付，卡片交易失败的常用语。",
+        "Fraud: 欺诈，银行风控常见原因。",
+        "Backup card: 备用卡，旅行重要准备。"
+      ]
+    },
+    {
+      "title": "Asking for Help",
+      "level": "A2-B1",
+      "words": 110,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "You are lost in a new city. You need directions. Approach a police officer or a shop owner. Start with 'Excuse me.' Smile and be polite. Say 'I am looking for the train station.' Show them a map on your phone. If you do not understand, say 'Could you speak slower?' Most people want to help. Learn basic phrases in the local language. 'Hello', 'Thank you', and 'Help' are essential. Body language also works. Pointing is universal. Stay in crowded areas. Avoid dark alleys. Safety is the first priority when asking strangers for help.",
+      "zh": "指导在陌生城市如何礼貌问路及注意安全事项。",
+      "points": [
+        "Approach: 接近，指主动走向某人。",
+        "Essential: 必不可少的，形容基础词汇。",
+        "Universal: 通用的，指肢体语言跨越文化。"
+      ]
+    },
+    {
+      "title": "Natural Safety Tips",
+      "level": "A2-B1",
+      "words": 128,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Some places have natural disasters like earthquakes or typhoons. Check the weather forecast before you go. Download emergency apps on your phone. Know the emergency number. It is not always 911. In Europe, it is 112. Stay away from windows during a storm. If there is an earthquake, drop, cover, and hold on. Follow local instructions. Do not run blindly. Keep your passport and money in a waterproof bag. Register with your embassy if you stay long. They can contact you if there is a crisis. Being prepared saves lives.",
+      "zh": "提供应对自然灾害的安全建议，包括紧急号码和防护措施。",
+      "points": [
+        "Forecast: 预报，常指天气预测。",
+        "Drop, cover, and hold on: 地震避险三步骤口诀。",
+        "Waterproof bag: 防水袋，保护重要文件。"
+      ]
+    },
+    {
+      "title": "Post-Trip Review",
+      "level": "A2-B1",
+      "words": 115,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Your trip is over. You are home safe. Now, review what happened. Did you face any emergencies? How did you solve them? Write down the lessons. Maybe you need better insurance next time. Maybe you need to pack differently. Submit any insurance claims now. Do not wait. Contact the airline if your luggage was damaged. Leave reviews for hotels and services. This helps other travelers. Save all documents for tax purposes if it was a business trip. Reflection makes you a smarter traveler. Next journey will be smoother.",
+      "zh": "旅行结束后的复盘工作，包括索赔、反馈和经验总结。",
+      "points": [
+        "Review: 复盘/回顾，指事后总结。",
+        "Submit claims: 提交索赔，保险流程最后一步。",
+        "Smoother: 更顺利，比较级用法。"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "Passport",
+      "pos": "n.",
+      "meaning_en": "An official document that allows you to travel to other countries",
+      "meaning_zh": "护照",
+      "example": "Keep your passport in a safe place.",
+      "source": "The Lost Passport Scenario"
+    },
+    {
+      "word": "Embassy",
+      "pos": "n.",
+      "meaning_en": "The official building where diplomats work in a foreign country",
+      "meaning_zh": "大使馆",
+      "example": "Contact your country's embassy for help.",
+      "source": "The Lost Passport Scenario"
+    },
+    {
+      "word": "Temporary",
+      "pos": "adj.",
+      "meaning_en": "Lasting for only a limited period of time",
+      "meaning_zh": "临时的",
+      "example": "They issued a temporary travel document.",
+      "source": "The Lost Passport Scenario"
+    },
+    {
+      "word": "Gate",
+      "pos": "n.",
+      "meaning_en": "The place where you wait to get on a plane",
+      "meaning_zh": "登机口",
+      "example": "You arrived at the gate too late.",
+      "source": "Missing the Flight"
+    },
+    {
+      "word": "Standby",
+      "pos": "n.",
+      "meaning_en": "A list of people waiting for an available seat",
+      "meaning_zh": "候补",
+      "example": "They put you on a standby list.",
+      "source": "Missing the Flight"
+    },
+    {
+      "word": "Compensation",
+      "pos": "n.",
+      "meaning_en": "Money given to someone for loss or injury",
+      "meaning_zh": "赔偿",
+      "example": "Weather might be a valid reason for compensation.",
+      "source": "Missing the Flight"
+    },
+    {
+      "word": "Confirmation",
+      "pos": "n.",
+      "meaning_en": "A document or message that proves something is arranged",
+      "meaning_zh": "确认函",
+      "example": "Show them the email confirmation.",
+      "source": "Hotel Booking Error"
+    },
+    {
+      "word": "Receipt",
+      "pos": "n.",
+      "meaning_en": "A piece of paper that proves you paid for something",
+      "meaning_zh": "收据",
+      "example": "Keep all receipts for reimbursement.",
+      "source": "Hotel Booking Error"
+    },
+    {
+      "word": "Refund",
+      "pos": "n.",
+      "meaning_en": "Money returned to you after you paid",
+      "meaning_zh": "退款",
+      "example": "Ensure you get a refund later.",
+      "source": "Hotel Booking Error"
+    },
+    {
+      "word": "Clinic",
+      "pos": "n.",
+      "meaning_en": "A place for medical treatment, smaller than a hospital",
+      "meaning_zh": "诊所",
+      "example": "Go to a large hospital, not a small clinic.",
+      "source": "Medical Emergency Abroad"
+    },
+    {
+      "word": "Receptionist",
+      "pos": "n.",
+      "meaning_en": "A person who receives visitors or answers phones",
+      "meaning_zh": "接待员",
+      "example": "Show your insurance card to the receptionist.",
+      "source": "Medical Emergency Abroad"
+    },
+    {
+      "word": "Prescribed",
+      "pos": "adj.",
+      "meaning_en": "Authorized by a doctor to be used as medicine",
+      "meaning_zh": "处方的",
+      "example": "Only use prescribed medicine.",
+      "source": "Medical Emergency Abroad"
+    },
+    {
+      "word": "Carousel",
+      "pos": "n.",
+      "meaning_en": "A moving belt that delivers baggage at an airport",
+      "meaning_zh": "行李传送带",
+      "example": "Wait at the baggage carousel.",
+      "source": "Lost Luggage Claim"
+    },
+    {
+      "word": "Irregularity",
+      "pos": "n.",
+      "meaning_en": "Something that is not normal or correct",
+      "meaning_zh": "异常",
+      "example": "Fill out a Property Irregularity Report.",
+      "source": "Lost Luggage Claim"
+    },
+    {
+      "word": "Tracking",
+      "pos": "n.",
+      "meaning_en": "The act of following the progress of something",
+      "meaning_zh": "追踪",
+      "example": "They have the tracking number.",
+      "source": "Lost Luggage Claim"
+    },
+    {
+      "word": "Policy",
+      "pos": "n.",
+      "meaning_en": "A written contract of insurance",
+      "meaning_zh": "保单",
+      "example": "Read the policy carefully.",
+      "source": "Travel Insurance Basics"
+    },
+    {
+      "word": "Coverage",
+      "pos": "n.",
+      "meaning_en": "The protection provided by an insurance plan",
+      "meaning_zh": "保险范围",
+      "example": "Knowing your coverage gives peace of mind.",
+      "source": "Travel Insurance Basics"
+    },
+    {
+      "word": "Hotline",
+      "pos": "n.",
+      "meaning_en": "A direct telephone line for immediate help",
+      "meaning_zh": "热线",
+      "example": "They have a 24-hour hotline.",
+      "source": "Travel Insurance Basics"
+    },
+    {
+      "word": "Declined",
+      "pos": "adj.",
+      "meaning_en": "Refused or rejected",
+      "meaning_zh": "被拒付的",
+      "example": "Your card is declined.",
+      "source": "Money Card Blocked"
+    },
+    {
+      "word": "Fraud",
+      "pos": "n.",
+      "meaning_en": "Wrongful deception intended for financial gain",
+      "meaning_zh": "欺诈",
+      "example": "They might think it is fraud.",
+      "source": "Money Card Blocked"
+    },
+    {
+      "word": "Backup",
+      "pos": "n.",
+      "meaning_en": "Something kept in reserve for support",
+      "meaning_zh": "备用",
+      "example": "Always bring a backup card.",
+      "source": "Money Card Blocked"
+    },
+    {
+      "word": "Approach",
+      "pos": "v.",
+      "meaning_en": "To come near to someone",
+      "meaning_zh": "接近",
+      "example": "Approach a police officer.",
+      "source": "Asking for Help"
+    },
+    {
+      "word": "Essential",
+      "pos": "adj.",
+      "meaning_en": "Absolutely necessary",
+      "meaning_zh": "必不可少的",
+      "example": "Basic phrases are essential.",
+      "source": "Asking for Help"
+    },
+    {
+      "word": "Forecast",
+      "pos": "n.",
+      "meaning_en": "A prediction of future weather",
+      "meaning_zh": "预报",
+      "example": "Check the weather forecast.",
+      "source": "Natural Safety Tips"
+    },
+    {
+      "word": "Waterproof",
+      "pos": "adj.",
+      "meaning_en": "Impervious to water",
+      "meaning_zh": "防水的",
+      "example": "Keep money in a waterproof bag.",
+      "source": "Natural Safety Tips"
+    },
+    {
+      "word": "Crisis",
+      "pos": "n.",
+      "meaning_en": "A time of intense difficulty or danger",
+      "meaning_zh": "危机",
+      "example": "Contact you if there is a crisis.",
+      "source": "Natural Safety Tips"
+    },
+    {
+      "word": "Submit",
+      "pos": "v.",
+      "meaning_en": "To present for consideration",
+      "meaning_zh": "提交",
+      "example": "Submit any insurance claims now.",
+      "source": "Post-Trip Review"
+    },
+    {
+      "word": "Reflection",
+      "pos": "n.",
+      "meaning_en": "Serious thought about something",
+      "meaning_zh": "反思",
+      "example": "Reflection makes you a smarter traveler.",
+      "source": "Post-Trip Review"
+    },
+    {
+      "word": "Smooth",
+      "pos": "adj.",
+      "meaning_en": "Without problems or difficulties",
+      "meaning_zh": "顺利的",
+      "example": "Next journey will be smoother.",
+      "source": "Post-Trip Review"
+    },
+    {
+      "word": "Vendor",
+      "pos": "n.",
+      "meaning_en": "A person or company selling something",
+      "meaning_zh": "小贩",
+      "example": "Do not buy medicine from street vendors.",
+      "source": "Medical Emergency Abroad"
+    }
+  ],
+  "status": "ready",
+  "generatedBy": "claude",
+  "savedAt": "2026-09-30T11:39:13.341Z"
+}

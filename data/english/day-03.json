@@ -1,0 +1,527 @@
+{
+  "day": 3,
+  "date": "2026-09-22",
+  "theme": "电影 · 奥斯卡获奖影片与幕后故事",
+  "domain": "电影",
+  "level": "A2 → B1",
+  "goals": [
+    "了解奥斯卡颁奖礼的基本流程与核心术语",
+    "掌握描述电影幕后制作的常用动词与形容词",
+    "能听懂简单的获奖感言片段并提取关键信息",
+    "积累 32 个与电影行业相关的核心高频词汇"
+  ],
+  "tasks": [
+    {
+      "text": "阅读文章 1-5 篇，完成生词标记与中文概要理解",
+      "minutes": 15
+    },
+    {
+      "text": "阅读文章 6-10 篇，重点关注幕后制作相关表达",
+      "minutes": 15
+    },
+    {
+      "text": "观看视频 1-3，练习听力并模仿发音",
+      "minutes": 15
+    },
+    {
+      "text": "观看视频 4-6 并复习全部 vocabulary 列表",
+      "minutes": 15
+    }
+  ],
+  "mustLearn": [
+    {
+      "title": "高频表达：Win an Award",
+      "type": "expression",
+      "content": "English: She worked hard to win an award. / He won the best actor prize.\\n中文讲解：'Win' 是赢得，'Award' 是奖项。在电影语境中，常用 'win an Oscar' 或 'receive a nomination'（获得提名）。\\n要点解析：注意动词搭配，win 后面直接加奖品或比赛，receive 后面加提名或荣誉。"
+    },
+    {
+      "title": "语法点：一般过去时描述往事",
+      "type": "grammar",
+      "content": "English: The movie won eleven awards in 1998. / The director made a great film.\\n中文讲解：描述已经发生的获奖事件或制作过程，必须使用一般过去时（动词加 ed 或不规则变化）。\\n要点解析：Win 的过去式是 Won，Make 的过去式是 Made。时间状语如 'last year', 'in 1998' 是信号词。"
+    },
+    {
+      "title": "精读片段：获奖感言结构",
+      "type": "article",
+      "content": "English: 'Thank you to the Academy. I love my family. This is for everyone.'\\n中文讲解：典型的感言三步走：感谢主办方 (Academy) + 感谢亲友 (Family) + 升华主题 (Everyone)。\\n要点解析：学习简单有力的短句表达情感，避免复杂从句，真诚最重要。"
+    },
+    {
+      "title": "词汇辨析：Film vs Movie",
+      "type": "note",
+      "content": "English: People say 'movie' in daily life. People say 'film' in serious talks.\\n中文讲解：两者都指电影。Movie 更口语化，Film 更正式或指艺术电影。\\n要点解析：在奥斯卡语境中，'Best Picture' 有时也被称为 'Best Film'，两者可互换，但 Film 听起来更专业。"
+    }
+  ],
+  "expand": [
+    {
+      "title": "文化注释：The Academy",
+      "type": "note",
+      "content": "奥斯卡主办方全称是 'Academy of Motion Picture Arts and Sciences'。在感言中常简称为 'The Academy'。这是电影行业的最高权威机构。"
+    },
+    {
+      "title": "同义替换：Great 的升级",
+      "type": "note",
+      "content": "尝试用 'Amazing', 'Fantastic', 'Excellent' 替换简单的 'Great' 或 'Good' 来形容电影。例如：'The special effects were amazing.'"
+    },
+    {
+      "title": "背景知识：最佳影片",
+      "type": "note",
+      "content": "奥斯卡最重要的奖项是 'Best Picture'（最佳影片），而不是最佳演员。它代表整部电影的最高成就，通常由制片人上台领奖。"
+    },
+    {
+      "title": "实用表达：Box Office",
+      "type": "note",
+      "content": "'Box Office' 指票房。'Hit the box office' 意味着电影上映。'Box office success' 指票房大卖，是商业电影成功的关键指标。"
+    },
+    {
+      "title": "进阶例句：被动语态",
+      "type": "note",
+      "content": "电影制作常用被动语态。例如：'The movie was filmed in Paris.'（电影在巴黎拍摄）。强调地点而非拍摄者。"
+    }
+  ],
+  "videos": [
+    {
+      "title": "Oscar Ceremony Highlights",
+      "url": "https://www.youtube.com/results?search_query=Oscar+ceremony+highlights+english+subtitles",
+      "channel": "The Academy",
+      "minutes": 10,
+      "desc": "观看奥斯卡颁奖礼精彩片段，熟悉现场氛围与主持人用语。"
+    },
+    {
+      "title": "Behind the Scenes Movie Making",
+      "url": "https://www.youtube.com/results?search_query=behind+the+scenes+movie+making+process",
+      "channel": "Film School Online",
+      "minutes": 8,
+      "desc": "了解电影从剧本到拍摄的基本幕后流程。"
+    },
+    {
+      "title": "Best Actor Acceptance Speeches",
+      "url": "https://www.youtube.com/results?search_query=best+actor+acceptance+speech+oscar",
+      "channel": "Oscar Channel",
+      "minutes": 12,
+      "desc": "聆听最佳演员获奖感言，学习感谢与表达情感的句式。"
+    },
+    {
+      "title": "How Special Effects Work",
+      "url": "https://www.youtube.com/results?search_query=how+special+effects+work+movies",
+      "channel": "Vox",
+      "minutes": 9,
+      "desc": "解释电影特效如何制作，涉及灯光与声音技术。"
+    },
+    {
+      "title": "History of Titanic Movie",
+      "url": "https://www.youtube.com/results?search_query=titanic+movie+history+oscar+wins",
+      "channel": "Movie History",
+      "minutes": 11,
+      "desc": "回顾经典影片《泰坦尼克号》的获奖历史与幕后故事。"
+    },
+    {
+      "title": "Red Carpet Fashion Review",
+      "url": "https://www.youtube.com/@VanityFair",
+      "channel": "Vanity Fair",
+      "minutes": 7,
+      "desc": "观看红毯环节，学习描述服装与外观的形容词。"
+    }
+  ],
+  "articles": [
+    {
+      "title": "What Is the Oscars",
+      "level": "A2-B1",
+      "words": 120,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "The Oscars is a famous award ceremony for movies. It happens every year in Los Angeles. Many actors and directors come to this big party. They wear beautiful clothes and walk on the red carpet. The Academy gives prizes to the best films. People watch the show on TV all over the world. It is a very important night for the film industry. Everyone wants to win a golden statue. The ceremony is long but very exciting. Fans love to see their favorite stars.",
+      "zh": "介绍奥斯卡颁奖礼的基本信息，包括时间、地点与重要性。",
+      "points": [
+        "Ceremony: 典礼，指正式的庆祝活动。",
+        "Industry: 行业，此处指电影产业。",
+        "All over the world: 全世界，常用地点状语。"
+      ]
+    },
+    {
+      "title": "The Golden Statue",
+      "level": "A2-B1",
+      "words": 115,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "The Oscar prize is a golden statue. It is a man holding a sword. It looks heavy but it is not very big. Winners keep it at their home. It is a symbol of success. Many people want to touch it. Only the best movies get this award. The statue is very famous. Everyone knows what it means. It means you are the best in your job. Actors cry when they hold it. It is a dream for many artists.",
+      "zh": "描述奥斯卡奖杯的外观及其象征意义。",
+      "points": [
+        "Symbol: 象征，代表某种意义的事物。",
+        "Hold: 拿着，握住，此处指手持奖杯。",
+        "Dream: 梦想，指渴望实现的目标。"
+      ]
+    },
+    {
+      "title": "Walking on Red Carpet",
+      "level": "A2-B1",
+      "words": 125,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Before the show starts, stars walk on the red carpet. Reporters ask them questions. They ask about their clothes and their movies. Cameras take many photos. Fans stand behind the ropes. They want to see the actors close. The actors smile and wave. It is like a big fashion show. Everyone looks beautiful and rich. This part is also very famous. People talk about the dresses next day. It is fun for everyone.",
+      "zh": "讲述红毯环节的流程，包括记者采访与粉丝互动。",
+      "points": [
+        "Reporter: 记者，负责提问和报道新闻。",
+        "Wave: 挥手，表示打招呼的动作。",
+        "Close: 靠近，此处指近距离观看。"
+      ]
+    },
+    {
+      "title": "The Director's Job",
+      "level": "A2-B1",
+      "words": 130,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "The director is the boss of the movie. He tells the actors what to do. He reads the script every day. The script is the story of the film. He chooses the camera angles. He decides the light and sound. It is a hard job. He works many hours. If the movie is good, the director wins too. He stands on the stage. He thanks his team. Without him, there is no movie.",
+      "zh": "解释导演在电影制作中的核心职责与工作内容。",
+      "points": [
+        "Boss: 老板，此处指负责人。",
+        "Angle: 角度，指摄影机的拍摄视角。",
+        "Team: 团队，指一起工作的人群。"
+      ]
+    },
+    {
+      "title": "Actors Prepare Hard",
+      "level": "A2-B1",
+      "words": 118,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Actors do not just play. They work very hard. They learn their lines by heart. They practice every scene. Sometimes they change their body. They gain weight or lose weight. They want to look like the character. They compete with other actors. It is not easy to win. Many people try but only one wins. They feel nervous before the show. But they are happy to be there. Preparation is the key to success.",
+      "zh": "描述演员为角色所做的准备工作及竞争压力。",
+      "points": [
+        "Line: 台词，演员需要背诵的对话。",
+        "Character: 角色，演员在电影中扮演的人物。",
+        "Nervous: 紧张的，形容赛前心情。"
+      ]
+    },
+    {
+      "title": "The Winning Speech",
+      "level": "A2-B1",
+      "words": 122,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "When the name is called, the winner walks to the stage. They hold the statue high. They speak into the microphone. They say thank you to many people. They thank their family and friends. They thank the Academy. Sometimes they cry. Sometimes they make jokes. The speech is short. They have only one minute. They want to say everything. But time is limited. It is a special moment in their life.",
+      "zh": "描写获奖者上台发表感言的过程与内容。",
+      "points": [
+        "Microphone: 麦克风，用于放大声音的设备。",
+        "Limited: 有限的，指时间不多。",
+        "Moment: 时刻，指重要的瞬间。"
+      ]
+    },
+    {
+      "title": "Movie Budget and Cost",
+      "level": "A2-B1",
+      "words": 128,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Making a movie costs a lot of money. This is called the budget. Big movies have big budgets. They pay for actors and cameras. They pay for special effects. The money comes from studios. They want the movie to make money too. This is called box office. If the box office is high, they are happy. If it is low, they lose money. Money is very important for films. Without money, no one can make art.",
+      "zh": "解释电影预算、成本与票房之间的关系。",
+      "points": [
+        "Budget: 预算，指计划使用的资金。",
+        "Studio: 制片厂，制作电影的公司。",
+        "High/Low: 高/低，形容票房数值。"
+      ]
+    },
+    {
+      "title": "Special Effects Magic",
+      "level": "A2-B1",
+      "words": 124,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Modern movies use special effects. Computers make amazing images. Monsters and spaceships look real. Artists work on computers for months. They change the light and color. They add sound to the pictures. This makes the story exciting. Children love these effects. Old movies did not have this. Technology changes the film industry. It helps tell better stories. But the story is still the most important part.",
+      "zh": "介绍现代电影中特效技术的应用与重要性。",
+      "points": [
+        "Image: 图像，指屏幕上的画面。",
+        "Technology: 技术，指计算机与软件工具。",
+        "Exciting: 令人兴奋的，形容电影观感。"
+      ]
+    },
+    {
+      "title": "Titanic History Lesson",
+      "level": "A2-B1",
+      "words": 126,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "Titanic is a very famous movie. It won many Oscars in 1998. It won eleven awards. The story is about a ship. The ship hits ice and sinks. Many people die in the water. The movie is sad but beautiful. People watched it many times. It made a lot of money at the box office. The director James Cameron worked hard. He built a big ship for the film. It is a classic story today.",
+      "zh": "以《泰坦尼克号》为例，讲述经典获奖影片的历史。",
+      "points": [
+        "Sink: 下沉，指船沉入水中。",
+        "Classic: 经典的，指经久不衰的作品。",
+        "Build: 建造，指制作实物模型。"
+      ]
+    },
+    {
+      "title": "Future of Cinema",
+      "level": "A2-B1",
+      "words": 120,
+      "source": "L_Agent 原创",
+      "url": "",
+      "content": "People watch movies in different ways now. Some go to the cinema. Some watch at home on TV. Streaming is very popular. You can watch many films online. Tickets are expensive in cinemas. But the screen is big at cinemas. The sound is better there. The future will have both. Movies will not end. Stories are always needed. We will keep watching films forever. The magic of movies continues.",
+      "zh": "探讨电影观看方式的变迁与未来发展趋势。",
+      "points": [
+        "Stream: 流媒体，指在线播放视频。",
+        "Expensive: 昂贵的，形容价格高。",
+        "Continue: 继续，指持续进行。"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "award",
+      "pos": "n.",
+      "meaning_en": "A prize given for success",
+      "meaning_zh": "奖项，奖品",
+      "example": "She won an award for her movie.",
+      "source": "What Is the Oscars"
+    },
+    {
+      "word": "ceremony",
+      "pos": "n.",
+      "meaning_en": "A formal event to celebrate",
+      "meaning_zh": "典礼，仪式",
+      "example": "The award ceremony is on TV.",
+      "source": "What Is the Oscars"
+    },
+    {
+      "word": "statue",
+      "pos": "n.",
+      "meaning_en": "A model of a person made of stone or metal",
+      "meaning_zh": "雕像，奖杯",
+      "example": "He holds the golden statue.",
+      "source": "The Golden Statue"
+    },
+    {
+      "word": "golden",
+      "pos": "adj.",
+      "meaning_en": "Made of gold or yellow like gold",
+      "meaning_zh": "金色的",
+      "example": "The statue is golden and shiny.",
+      "source": "The Golden Statue"
+    },
+    {
+      "word": "actor",
+      "pos": "n.",
+      "meaning_en": "A person who acts in a movie",
+      "meaning_zh": "男演员",
+      "example": "The actor wears a suit.",
+      "source": "What Is the Oscars"
+    },
+    {
+      "word": "director",
+      "pos": "n.",
+      "meaning_en": "The person who tells actors what to do",
+      "meaning_zh": "导演",
+      "example": "The director wins a prize too.",
+      "source": "The Director's Job"
+    },
+    {
+      "word": "script",
+      "pos": "n.",
+      "meaning_en": "The written words of a movie",
+      "meaning_zh": "剧本",
+      "example": "He reads the script every day.",
+      "source": "The Director's Job"
+    },
+    {
+      "word": "scene",
+      "pos": "n.",
+      "meaning_en": "A part of a movie in one place",
+      "meaning_zh": "场景，镜头",
+      "example": "They practice every scene.",
+      "source": "Actors Prepare Hard"
+    },
+    {
+      "word": "camera",
+      "pos": "n.",
+      "meaning_en": "A machine to take photos or videos",
+      "meaning_zh": "摄像机",
+      "example": "Cameras take many photos.",
+      "source": "Walking on Red Carpet"
+    },
+    {
+      "word": "win",
+      "pos": "v.",
+      "meaning_en": "To be the best in a game or contest",
+      "meaning_zh": "赢得，获胜",
+      "example": "Everyone wants to win a statue.",
+      "source": "What Is the Oscars"
+    },
+    {
+      "word": "compete",
+      "pos": "v.",
+      "meaning_en": "To try to be better than others",
+      "meaning_zh": "竞争，比赛",
+      "example": "They compete with other actors.",
+      "source": "Actors Prepare Hard"
+    },
+    {
+      "word": "speech",
+      "pos": "n.",
+      "meaning_en": "Words spoken to an audience",
+      "meaning_zh": "演讲，感言",
+      "example": "The speech is short and sweet.",
+      "source": "The Winning Speech"
+    },
+    {
+      "word": "thank",
+      "pos": "v.",
+      "meaning_en": "To say you are grateful",
+      "meaning_zh": "感谢",
+      "example": "They say thank you to family.",
+      "source": "The Winning Speech"
+    },
+    {
+      "word": "family",
+      "pos": "n.",
+      "meaning_en": "Parents, children, and relatives",
+      "meaning_zh": "家庭，家人",
+      "example": "He loves his family very much.",
+      "source": "The Winning Speech"
+    },
+    {
+      "word": "fan",
+      "pos": "n.",
+      "meaning_en": "A person who likes someone very much",
+      "meaning_zh": "粉丝，迷",
+      "example": "Fans love to see stars.",
+      "source": "What Is the Oscars"
+    },
+    {
+      "word": "movie",
+      "pos": "n.",
+      "meaning_en": "A story shown on a screen",
+      "meaning_zh": "电影",
+      "example": "This movie is very famous.",
+      "source": "What Is the Oscars"
+    },
+    {
+      "word": "cinema",
+      "pos": "n.",
+      "meaning_en": "A place where people watch movies",
+      "meaning_zh": "电影院",
+      "example": "Some go to the cinema.",
+      "source": "Future of Cinema"
+    },
+    {
+      "word": "ticket",
+      "pos": "n.",
+      "meaning_en": "A paper to enter a place",
+      "meaning_zh": "票，入场券",
+      "example": "Tickets are expensive in cinemas.",
+      "source": "Future of Cinema"
+    },
+    {
+      "word": "budget",
+      "pos": "n.",
+      "meaning_en": "The amount of money available",
+      "meaning_zh": "预算",
+      "example": "Making a movie costs a lot of budget.",
+      "source": "Movie Budget and Cost"
+    },
+    {
+      "word": "cost",
+      "pos": "v.",
+      "meaning_en": "To need payment of money",
+      "meaning_zh": "花费，价值",
+      "example": "It costs a lot of money.",
+      "source": "Movie Budget and Cost"
+    },
+    {
+      "word": "effect",
+      "pos": "n.",
+      "meaning_en": "A change produced by an action",
+      "meaning_zh": "效果，特效",
+      "example": "Modern movies use special effects.",
+      "source": "Special Effects Magic"
+    },
+    {
+      "word": "special",
+      "pos": "adj.",
+      "meaning_en": "Different from what is usual",
+      "meaning_zh": "特别的，特殊的",
+      "example": "It is a special moment.",
+      "source": "The Winning Speech"
+    },
+    {
+      "word": "story",
+      "pos": "n.",
+      "meaning_en": "A description of events",
+      "meaning_zh": "故事",
+      "example": "The script is the story of the film.",
+      "source": "The Director's Job"
+    },
+    {
+      "word": "character",
+      "pos": "n.",
+      "meaning_en": "A person in a story or movie",
+      "meaning_zh": "角色",
+      "example": "They want to look like the character.",
+      "source": "Actors Prepare Hard"
+    },
+    {
+      "word": "stage",
+      "pos": "n.",
+      "meaning_en": "A raised floor for performances",
+      "meaning_zh": "舞台",
+      "example": "He stands on the stage.",
+      "source": "The Director's Job"
+    },
+    {
+      "word": "microphone",
+      "pos": "n.",
+      "meaning_en": "A device to record sound",
+      "meaning_zh": "麦克风",
+      "example": "They speak into the microphone.",
+      "source": "The Winning Speech"
+    },
+    {
+      "word": "box office",
+      "pos": "n.",
+      "meaning_en": "The place where tickets are sold or total sales",
+      "meaning_zh": "票房",
+      "example": "It made a lot of money at the box office.",
+      "source": "Titanic History Lesson"
+    },
+    {
+      "word": "technology",
+      "pos": "n.",
+      "meaning_en": "Using science to make things",
+      "meaning_zh": "技术，科技",
+      "example": "Technology changes the film industry.",
+      "source": "Special Effects Magic"
+    },
+    {
+      "word": "streaming",
+      "pos": "n.",
+      "meaning_en": "Watching video over the internet",
+      "meaning_zh": "流媒体播放",
+      "example": "Streaming is very popular now.",
+      "source": "Future of Cinema"
+    },
+    {
+      "word": "classic",
+      "pos": "adj.",
+      "meaning_en": "Judged over time to be of the highest quality",
+      "meaning_zh": "经典的",
+      "example": "It is a classic story today.",
+      "source": "Titanic History Lesson"
+    },
+    {
+      "word": "nervous",
+      "pos": "adj.",
+      "meaning_en": "Worried or afraid",
+      "meaning_zh": "紧张的",
+      "example": "They feel nervous before the show.",
+      "source": "Actors Prepare Hard"
+    },
+    {
+      "word": "prepare",
+      "pos": "v.",
+      "meaning_en": "To make ready for something",
+      "meaning_zh": "准备",
+      "example": "Actors prepare hard for roles.",
+      "source": "Actors Prepare Hard"
+    }
+  ],
+  "status": "ready",
+  "generatedBy": "claude",
+  "savedAt": "2026-09-30T11:49:02.114Z"
+}
